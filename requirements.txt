@@ -1,0 +1,3 @@
+biopython==1.83
+spacy==3.7.5
+example==0.1.0

@@ -1,0 +1,10 @@
+ngs
+pcr
+microarray
+Pharmacogenetics
+Pharmacogenomics
+Genomics
+Variants
+Biomarkers
+CYP450
+Sequencing
