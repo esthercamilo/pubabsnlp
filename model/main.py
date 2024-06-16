@@ -1,3 +1,28 @@
+"""
+Entities already available in en_ner_bionlp13cg_md:
+AMINO_ACID
+ANATOMICAL_SYSTEM
+CANCER
+CELL
+CELLULAR_COMPONENT
+DEVELOPING_ANATOMICAL_STRUCTURE
+GENE_OR_GENE_PRODUCT
+IMMATERIAL_ANATOMICAL_ENTITY
+MULTI_TISSUE_STRUCTURE
+ORGAN
+ORGANISM
+ORGANISM_SUBDIVISION
+ORGANISM_SUBSTANCE
+PATHOLOGICAL_FORMATION
+SIMPLE_CHEMICAL
+TISSUE
+
+New entities specific for pharmacogenetics
+
+
+
+"""
+
 import spacy
 import random
 from spacy.util import minibatch, compounding
