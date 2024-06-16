@@ -5,3 +5,302 @@
 {"text": "a sensitivity equivalent to that obtained by quantitative real-time reverse transcription PCR (qRT-PCR)", "entities":  [[90, 93, "TECHNIQUE"]]}
 {"text": "Next-generation sequencing (NGS) short reads cannot be unambiguously mapped by standard pipelines", "entities":  [[28, 31, "TECHNIQUE"]]}
 {"text": "pathogenic variants previously screened by long-range gDNA PCR amplification (LR-PCR)", "entities":  [[59, 62, "TECHNIQUE"]]}
+{"text": "In this study, we used a high-fat diet (HFD)-induced obese mouse model to investigate the mechanism underlying HFD-induced depression-like behaviors...", "entities": [[21, 66, "TECHNIQUE"]]}
+{"text": "We further conducted RNA sequencing analysis to clarify the potential underlying mechanism of the anti-depressive effect of 1-MT in HFD-induced depressive mice...", "entities": [[20, 42, "TECHNIQUE"]]}
+{"text": "The therapeutic application of CRISPR-Cas9 is limited due to its off-target activity...", "entities": [[27, 37, "TECHNIQUE"]]}
+{"text": "For further mechanistic validation, Molecular Dynamics simulations were performed, which revealed that certain mismatches showed elevated root mean square deviation (RMSD) values that can be attributed to conformational instability within the RNA-DNA duplex...", "entities": [[36, 54, "TECHNIQUE"]]}
+{"text": "In order to test the hypothesis, we have designed an array of mismatched target sites at the PAM distal end and performed in vitro and cell line-based experiments, which showed a strong correlation for Cas9 activity...", "entities": [[135, 165, "TECHNIQUE"]]}
+{"text": "In this paper, we establish a multi-stage fiber amplifier with pseudo-random binary sequence (PRBS) phase modulation...", "entities": [[38, 83, "TECHNIQUE"]]}
+{"text": "The stimulated Brillouin gain spectra of the main amplifier with both the unmodulated and pseudo-random binary sequence phase modulated configuration are measured (with corresponding output power)...", "entities": [[4, 40, "TECHNIQUE"], [77, 128, "TECHNIQUE"]]}
+{"text": "and the stimulated Brillouin scattering (SBS) threshold is investigated experimentally and theoretically...", "entities": [[8, 43, "TECHNIQUE"]]}
+{"text": "The pseudo-random binary sequence phase modulation parameters are optimized by theoretical simulation...", "entities": [[4, 45, "TECHNIQUE"]]}
+{"text": "The stimulated Brillouin scattering reflectivity is below 0.01% at 3.05 kW at 13.7 GHz, which indicates that stimulated Brillouin scattering can be suppressed efficiently at this power and linewidth level.", "entities": [[4, 40, "TECHNIQUE"]]}
+{"text": "First, mESCs were differentiated into epiblast stem cells (EpiSCs) to enhance the PP differentiation rate...", "entities": [[38, 57, "TECHNIQUE"], [59, 65, "TECHNIQUE"]]}
+{"text": "Single-cell RNA sequencing analysis revealed a larger endocrine population within the PP + MP aggregates, as compared to PPs alone or PPs in Matrigel aggregates...", "entities": [[0, 26, "TECHNIQUE"]]}
+{"text": "Since the days of Sanger sequencing, next-generation sequencing technologies have significantly evolved to provide increased data output, efficiencies, and applications...", "entities": [[21, 38, "TECHNIQUE"], [40, 71, "TECHNIQUE"]]}
+{"text": "This review provides an overview of these technologies as two paradigms: short-read, or “second-generation,” technologies, and long-read, or “third-generation,” technologies...", "entities": [[74, 84, "TECHNIQUE"], [128, 136, "TECHNIQUE"]]}
+{"text": "Here, we present the Personal Omics Interpreter (POI), a web-based application engineered to aggregate and interpret therapeutic options...", "entities": [[20, 47, "TECHNIQUE"]]}
+{"text": "We demonstrated that INTERSTELLAR successfully extracted information from a range of short- and long-read sequencing reads and translated those of single-cell (sc)RNA-seq, scATAC-seq, and spatial transcriptomics to be analyzed by different software tools that have been developed for conceptually the same types of experiments...", "entities": [[146, 171, "TECHNIQUE"], [172, 182, "TECHNIQUE"], [187, 210, "TECHNIQUE"]]}
+{"text": "The last decade has seen rapid progress in the use of genomic tests, including gene panels, whole-exome sequencing, and whole-genome sequencing, in research and clinical cancer care...", "entities": [[89, 108, "TECHNIQUE"]]}
+{"text": "Next-generation sequencing (NGS) is used increasingly in hereditary cancer patients' (HCP) management...", "entities": [[0, 26, "TECHNIQUE"]]}
+{"text": "Next-generation sequencing (NGS) is used increasingly in hereditary cancer patients' (HCP) management...", "entities": [[29, 32, "TECHNIQUE"]]}
+{"text": "Compared with current genomic testing strategies, largely focused on small number of genes tested individually or targeted panels, whole-genome and transcriptome sequencing (WGTS) provides novel opportunities to identify and report a potentially much larger number of actionable alterations with diagnostic, prognostic, and/or predictive impact", "entities": [[119, 158, "TECHNIQUE"]]}
+{"text": "Molecular profiling of tumor samples has acquired importance in cancer research, but currently also plays an important role in the clinical management of cancer patients. Rapid identification of genomic aberrations improves diagnosis, prognosis and effective therapy selection. This can be attributed mainly ...", "entities": [[184, 214, "TECHNIQUE"]]}
+{"text": "This can be attributed mainly to the development of next-generation sequencing (NGS) methods, especially targeted DNA panels.", "entities": [[52, 77, "TECHNIQUE"]]}
+{"text": "Next-generation sequencing (NGS) is progressively being used in clinical practice. However, several barriers preclude using this technology for precision oncology in most Latin American countries. To overcome some of these barriers, we have designed ...", "entities": [[0, 25, "TECHNIQUE"]]}
+{"text": "High-throughput molecular profiling of tumors is a fundamental aspect of precision oncology, enabling the identification of genomic alterations ...", "entities": [[0, 35, "TECHNIQUE"]]}
+{"text": "Exome sequencing outperforms pan-cancer targeted sequencing panels in terms of...", "entities": [[0, 15, "TECHNIQUE"]]}
+{"text": "commercially available targeted pan-cancer panels and the xGen Exome Research Panel v2 were investigated...", "entities": [[58, 86, "TECHNIQUE"]]}
+{"text": "bioinformatic frameworks for the preprocessing and analysis of DMET-SNPs data...", "entities": [[66, 75, "TECHNIQUE"]]}
+{"text": "high-throughput tools are available for the genotyping of Single Nucleotide Polymorphisms (SNPs) known to be related to drugs and xenobiotics metabolism...", "entities": [[44, 95, "TECHNIQUE"]]}
+{"text": "Shallow whole genome sequencing (sWGS) was also used to explore somatic copy number alterations (SCNA) in ctDNA from in these patients...", "entities": [[0, 7, "TECHNIQUE"], [33, 37, "TECHNIQUE"]]}
+{"text": "results were compared with detection of SCNA by sWGS.", "entities": [[48, 52, "TECHNIQUE"]]}
+{"text": "patients with metastatic breast cancer (MBC) evaluated NGS analysis of specific mutations using the Oncomine breast cancer cfDNA assay...", "entities": [[55, 58, "TECHNIQUE"]]}
+{"text": "validated using the WGS dataset of the Pharmacogenetics Reference Materials from the Centers for Disease Control and Prevention (CDC)...", "entities": [[19, 22, "TECHNIQUE"]]}
+{"text": "next-generation sequencing (NGS) technologies provides opportunities for large-scale Pharmacogenetic (PGx) studies...", "entities": [[0, 26, "TECHNIQUE"]]}
+{"text": "Fast co‑amplification at lower denaturation temperature (COLD)‑PCR was used to differentiate genetic variant non‑carriers from carriers...", "entities": [[0, 55, "TECHNIQUE"], [64, 67, "TECHNIQUE"]]}
+{"text": "evaluated via Sanger sequencing of 27 randomly collected samples...", "entities": [[14, 19, "TECHNIQUE"]]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
