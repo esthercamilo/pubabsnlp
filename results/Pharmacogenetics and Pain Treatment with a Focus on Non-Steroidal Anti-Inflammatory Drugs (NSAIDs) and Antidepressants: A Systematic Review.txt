@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun', 'Day': '01'}
+This systematic review summarizes the impact of pharmacogenetics on the effect and safety of non-steroidal anti-inflammatory drugs (NSAIDs) and antidepressants when used for pain treatment.

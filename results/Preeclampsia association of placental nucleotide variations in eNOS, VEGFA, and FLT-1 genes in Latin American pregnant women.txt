@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Apr'}
+Preeclampsia is a leading cause of maternal and fetal morbidity in low- and middle-income countries, including those in Latin America. Placental vascular alterations are crucial in the pathophysiology of preeclampsia and few studies have evaluated nucleotide variations on genes associated with vascular regulation in the human placenta. This study aimed to evaluate whether placental nucleotide variations on eNOS, VEGFA, and FLT-1 genes are more frequently associated with preeclampsia in the Latin American population.

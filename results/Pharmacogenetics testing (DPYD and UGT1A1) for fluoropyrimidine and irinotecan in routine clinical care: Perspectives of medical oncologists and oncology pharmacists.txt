@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jan'}
+Despite robust evidence and international guidelines, to support routine pharmacogenetic (PGx) testing, integration in practice has been limited. This study explored clinicians' views and experiences of pre-treatment DPYD and UGT1A1 gene testing and barriers to and enablers of routine clinical implementation.

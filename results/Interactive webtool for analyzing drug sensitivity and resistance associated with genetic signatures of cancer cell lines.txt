@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug'}
+A wide therapeutic repertoire has become available to oncologists including radio- and chemotherapy, small molecules and monoclonal antibodies. However, drug efficacy can be limited by genetic heterogeneity. Here, we designed a webtool that facilitates the data analysis of the in vitro drug sensitivity data on 265 approved compounds from the GDSC database in association with a plethora of genetic changes documented for 1001 cell lines in the CCLE data.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun'}
+Genetic factors have a role in response to a target medication (personalized medicine). This study aimed to review available evidence about the relationship between gene variants and therapeutic response to sulfonylureas in type 2 diabetes, systematically.

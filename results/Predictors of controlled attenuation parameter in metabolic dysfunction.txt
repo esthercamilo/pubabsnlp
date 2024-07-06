@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+Hepatic fat content can be non-invasively estimated by controlled attenuation parameter (CAP) during transient elastography. The aim of this study was to examine the determinants and predictors of CAP values in individuals with metabolic dysfunction.

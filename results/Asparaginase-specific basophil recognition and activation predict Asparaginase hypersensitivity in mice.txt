@@ -1,0 +1,2 @@
+{'Year': '2024'}
+Asparaginase (ASNase) is a crucial part of acute leukemia treatment, but immune responses to the agent can reduce its effectiveness and increase the risk of relapse. Currently, no reliable and validated biomarker predicts ASNase-induced hypersensitivity reactions during therapy. We aimed to identify predictive biomarkers and determine immune cells responsible for anaphylaxis using a murine model of ASNase hypersensitivity.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '13'}
+Excessive complement activation has been implicated in the pathogenesis of coronavirus disease 2019 (COVID-19), but the mechanisms leading to this response remain unclear.

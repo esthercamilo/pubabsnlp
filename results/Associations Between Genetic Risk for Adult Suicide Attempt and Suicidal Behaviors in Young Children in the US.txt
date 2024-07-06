@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct', 'Day': '01'}
+Suicide rates have been increasing among youth in the US. While the heritability of suicide risk is well established, there is limited understanding of how genetic risk is associated with suicidal thoughts and behaviors in young children.

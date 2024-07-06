@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug', 'Day': '01'}
+This study explores the potential of gene polymorphisms in the canonical and noncanonical NF-kB signaling pathway as a prediction biomarker of anti-tumor necrosis factor (TNF)α response in Crohn's patients.

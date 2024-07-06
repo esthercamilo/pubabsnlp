@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jul', 'Day': '24'}
+The objective of this study was to investigate the <i>DRD2</i> rs1800497, rs1799732, rs1801028, <i>DRD3</i> rs6280, and <i>HTR2A</i> rs6314, rs7997012, and rs6311 single-nucleotide polymorphism (SNP) correlations with resistance to second-generation antipsychotics (SGAs) in a real-world sample of patients with treatment-resistant mental disorders.

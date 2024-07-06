@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar', 'Day': '07'}
+Guidelines recommend the use of potent P2Y12 inhibitors over clopidogrel for the reduction of ischaemic events in patients with acute coronary syndrome (ACS). However, this comes at the expense of increased bleeding. A guided selection of P2Y12 inhibiting therapy has the potential to overcome this limitation. We aimed at evaluating the comparative safety and efficacy of guided vs. routine selection of potent P2Y12 inhibiting therapy in patients with ACS.

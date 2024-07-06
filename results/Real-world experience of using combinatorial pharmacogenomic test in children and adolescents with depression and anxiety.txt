@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+To evaluate the real-world impact of using a commercially available combinatorial pharmacogenomic (CPGx) test on medication management and clinical outcomes in children and adolescents treated at a tertiary care psychiatry practice.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb'}
+Breast cancer is one of the deadliest diseases affecting women in Bangladesh, and its prevalence is increasing year by year. Although several IL-6 single nucleotide polymorphisms have been implicated in BC susceptibility and prognosis in various studies, no research has been done to investigate the relationship between breast cancer and IL-6 in Bangladeshi women. This investigation aimed to explore the linkage between the rs1800797 variant of IL-6 and the susceptibility to breast carcinoma among women in Bangladesh.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb', 'Day': '21'}
+While chronological age is one of the most influential determinants of poststroke outcomes, little is known of the impact of neuroimaging-derived biological "brain age." We hypothesized that radiomics analyses of T2-FLAIR images texture would provide brain age estimates and that advanced brain age of patients with stroke will be associated with cardiovascular risk factors and worse functional outcomes.

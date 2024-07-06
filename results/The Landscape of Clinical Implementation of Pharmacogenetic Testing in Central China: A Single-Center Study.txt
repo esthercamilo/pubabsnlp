@@ -1,0 +1,2 @@
+{'Year': '2021'}
+Pharmacogenetic testing is recognized as the major method for the individualized pharmacotherapy in clinical pharmacy practice, but information about the clinical implementation of pharmacogenetic testing in China is limited. The present study aimed to determine the situation of clinical implementation for pharmacogenetic testing in central China.

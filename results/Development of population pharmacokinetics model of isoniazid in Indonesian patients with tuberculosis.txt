@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr'}
+No population pharmacokinetics (PK) model of isoniazid (INH) has been reported for the Indonesian population with tuberculosis (TB). Therefore, we aimed to develop a population PK model to optimize pharmacotherapy of INH on the basis of therapeutic drug monitoring (TDM) implementation in Indonesian patients with TB.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '09'}
+Despite monogenic and polygenic contributions to cardiovascular disease (CVD), genetic testing is not widely adopted, and current tests are limited by the breadth of surveyed conditions and interpretation burden.

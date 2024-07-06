@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb'}
+The xenobiotic nuclear receptors pregnane X receptor (PXR) and constitutive androstane receptor (CAR) were discovered or characterized in 1998. PXR and CAR have since been defined as master regulators of xenobiotic responses through their transcriptional regulation of drug-metabolizing enzymes and transporters. This article aims to provide an overview on the discovery of PXR and CAR as xenobiotic receptors.

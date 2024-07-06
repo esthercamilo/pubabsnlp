@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+This population pharmacokinetic-pharmacogenetic study aimed to investigate the optimal dose of RTV-boosted ATV (ATV/RTV) for Thai adult HIV-infected patients.

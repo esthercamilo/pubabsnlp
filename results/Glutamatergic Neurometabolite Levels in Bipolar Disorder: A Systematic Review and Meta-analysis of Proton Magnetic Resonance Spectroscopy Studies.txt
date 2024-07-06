@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb'}
+The glutamatergic system is thought to play an important role in the pathophysiology of bipolar disorder (BD). While there has been an increase in proton magnetic resonance spectroscopy studies examining this neurotransmission system, the results are inconsistent. Possible reasons for the inconsistency, including clinical features such as mood state and childhood versus adulthood age, were not addressed in previous meta-analyses.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan'}
+Accumulating studies have evaluated the association between MAP3K1 polymorphisms and cancer prognosis. However, the results of these studies are conflicting. Given the potential impact of MAP3K1 rs889312 SNP on the prognosis of various cancers, this meta-analysis was performed to obtain solid and credible evidence.

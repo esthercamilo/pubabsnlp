@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Dec'}
+Digoxin is used to control heart rate in patients with heart failure (HF) and atrial fibrillation (AF). However, its use is often limited in older patients, as they are prone to digoxin toxicity. This study aimed to determine the prevalence of digoxin use, investigate the factors associated with digoxin use, and explore the association between digoxin use and clinical outcomes in older Thai patients with HF and AF.

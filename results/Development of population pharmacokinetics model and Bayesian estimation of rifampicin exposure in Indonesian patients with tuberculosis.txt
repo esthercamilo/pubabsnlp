@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Mar'}
+Interindividual variability in the pharmacokinetics (PK) of anti-tuberculosis (TB) drugs is the leading cause of treatment failure. Herein, we evaluated the influence of demographic, clinical, and genetic factors that cause variability in RIF PK parameters in Indonesian TB patients.

@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct', 'Day': '01'}
+To mitigate the psychological burdens of COVID-19 for frontline clinicians (FCs), we adapted an existing evidence-based resiliency program, Stress Management and Resilience Training Relaxation Response Program (SMART-3RP), for FCs. This analysis explores moderators of stress coping to determine which subgroups of FCs benefited most from SMART-3RP.

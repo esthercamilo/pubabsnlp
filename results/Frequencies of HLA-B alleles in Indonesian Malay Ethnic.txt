@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '15'}
+The <i>HLA-B</i> alleles have been used as a marker to predict drug-induced adverse reactions and as a major contributor to hypersensitivity reactions. We examined the feasibility of <i>HLA-B</i> alleles as pharmacogenomic markers of drug-induced hypersensitivity in an Indonesian Malay Ethnic.

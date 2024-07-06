@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr'}
+Erenumab (ERE) is the first anticalcitonin gene-related peptide receptor monoclonal antibody approved for migraine prevention. A proportion of patients do not adequately respond to ERE.

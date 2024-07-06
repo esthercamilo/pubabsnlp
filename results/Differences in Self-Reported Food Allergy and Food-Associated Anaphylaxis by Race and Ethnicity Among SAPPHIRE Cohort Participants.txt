@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Apr'}
+Although food allergies are considered common, relatively little is known about disparities in food allergy by race in the United States.

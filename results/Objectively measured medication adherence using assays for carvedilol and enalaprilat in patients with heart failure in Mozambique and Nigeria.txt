@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+Poor medication adherence leads to poor health outcomes and increased healthcare costs among patients with heart failure (HF). This study aimed to objectively assess medication adherence by measuring carvedilol and enalaprilat plasma concentrations among patients with HF.

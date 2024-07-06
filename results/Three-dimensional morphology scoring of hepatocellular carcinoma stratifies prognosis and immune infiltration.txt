@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+The morphological attributes could serve as pivotal indicators precipitating early recurrence and dismal overall survival in hepatocellular carcinoma (HCC), and quantifying morphological features may better stratify the prognosis of HCC.

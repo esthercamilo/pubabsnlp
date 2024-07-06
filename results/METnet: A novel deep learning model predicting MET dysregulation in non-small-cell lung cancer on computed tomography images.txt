@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+Mesenchymal epithelial transformation (MET) is a key molecular target for diagnosis and treatment of non-small cell lung cancer (NSCLC). The corresponding molecularly targeted therapeutics have been approved by Food and Drug Administration (FDA), achieving promising results. However, current detection of MET dysregulation requires biopsy and gene sequencing, which is invasive, time-consuming and difficult to obtain tumor samples.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+To investigate the association between beta1-adrenergic receptor (<i>ADRB1</i>) polymorphisms and response to bisoprolol treatment in beta-blocker naive patients with acute coronary syndrome (ACS).

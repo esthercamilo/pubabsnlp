@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+This study aimed to explore the pharmacogenetic variability associated with the pharmacokinetics (PK) and pharmacodynamics (PD) of rivaroxaban in healthy Chinese subjects.

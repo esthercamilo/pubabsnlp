@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May', 'Day': '23'}
+Nuclear receptors (NRs) are a vital superfamily of transcription factors that play crucial roles in physiology and pharmacology [...].

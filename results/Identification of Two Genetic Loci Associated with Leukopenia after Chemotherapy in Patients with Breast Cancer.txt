@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug', 'Day': '02'}
+To identify molecular predictors of grade 3/4 neutropenic or leukopenic events (NLE) after chemotherapy using a genome-wide association study (GWAS).

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb', 'Day': '12'}
+This study investigates the influence of maternal stress during pregnancy on maternal insulin sensitivity and Interleukin-6 (IL-6) levels in pregnant women (N = 277) in dependence of pre-pregnancy Body-Mass-Index (BMI).

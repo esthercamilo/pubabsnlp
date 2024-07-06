@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '26'}
+To assess the perception of pharmacists and physicians towards pharmacogenetic testing.

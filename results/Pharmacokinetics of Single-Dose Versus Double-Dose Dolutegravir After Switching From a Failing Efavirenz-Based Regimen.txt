@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '01'}
+Dolutegravir exposure is reduced after switching from efavirenz, which could select for dolutegravir resistance if switching occurs during virologic failure.

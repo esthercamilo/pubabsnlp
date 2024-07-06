@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+Evidence regarding the influence of coffee on appetite and weight control is equivocal and the influence of covariates, such as genetic variation in caffeine metabolism, remains unknown. Herein, we addressed the novel hypothesis that genetic variation in CYP1A2, a gene responsible for more than 95% of caffeine metabolism, differentially impacts the association of coffee consumption with appetite and BMI among individuals with different genetic predispositions to obesity.

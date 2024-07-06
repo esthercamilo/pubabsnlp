@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '14'}
+Tibetan medicine Gaoyuan'an capsule (GYAC) is widely used to prevent pulmonary edema at high altitude, but the specific mechanism has not been explored. In this study, we analyzed the mechanism of GYAC in hypoxia tolerance, and provided a new idea for the prevention and treatment of altitude disease.

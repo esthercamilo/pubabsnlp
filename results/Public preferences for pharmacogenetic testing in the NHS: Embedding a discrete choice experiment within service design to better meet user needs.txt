@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '14'}
+Genetic testing can be used to improve the safety and effectiveness of commonly prescribed medicines-a concept known as pharmacogenetics. This study aimed to quantify members of the UK public's preferences for a pharmacogenetic service to be delivered in primary care in the National Health Service.

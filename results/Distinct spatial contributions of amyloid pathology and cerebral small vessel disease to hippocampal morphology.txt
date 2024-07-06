@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May'}
+Cerebral small vessel disease (SVD) and amyloid beta (Aβ) pathology frequently co-exist. The impact of concurrent pathology on the pattern of hippocampal atrophy, a key substrate of memory impacted early and extensively in dementia, remains poorly understood.

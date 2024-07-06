@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+Poor knowledge and confidence in pharmacogenomics are key barriers to implementation. Education of future health care professionals is required to enhance appropriate use of pharmacogenomics; however, the optimal education approach is unclear. This systematic scoping review evaluates pharmacogenomic educational interventions to improve knowledge and confidence.

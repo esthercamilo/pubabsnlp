@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar', 'Day': '01'}
+About 20% to 30% of people with schizophrenia have psychotic symptoms that do not respond adequately to first-line antipsychotic treatment. This clinical presentation, chronic and highly disabling, is known as treatment-resistant schizophrenia (TRS). The causes of treatment resistance and their relationships with causes underlying schizophrenia are largely unknown. Adequately powered genetic studies of TRS are scarce because of the difficulty in collecting data from well-characterized TRS cohorts.

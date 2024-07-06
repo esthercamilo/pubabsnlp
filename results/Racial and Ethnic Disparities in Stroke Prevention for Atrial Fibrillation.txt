@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Mar'}
+Racial and ethnic disparities in health care are well documented, although often underappreciated. In the setting of atrial fibrillation, stroke risk and severity may be higher in underrepresented ethnic populations. Additionally, the risk of bleeding is not uniform, and pharmacogenetics play an important role in anticoagulant therapy. In this narrative review, we discuss the complex issues surrounding stroke prevention in underrepresented ethnic groups with atrial fibrillation.

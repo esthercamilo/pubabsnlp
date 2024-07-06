@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+Tweetable abstract Present evidence supports the use of intensified pharmacologic monitoring of #imatinib including #TherapeuticDrugMonitoring and #PGx to improve outcomes in patients with GI stromal tumor. Future studies need to address emerging questions to facilitate implementation in clinics.

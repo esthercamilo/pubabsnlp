@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb', 'Day': '20'}
+Thiazide diuretics are the second most frequently prescribed class of antihypertensives, but up to 50% of patients with hypertension have minimal antihypertensive response to thiazides. We explored circulating microRNAs (miRNAs) in search of predictive biomarkers of thiazide response.

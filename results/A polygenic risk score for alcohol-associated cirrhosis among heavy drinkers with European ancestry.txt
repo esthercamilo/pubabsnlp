@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '01'}
+Polygenic Risk Scores (PRS) based on results from genome-wide association studies offer the prospect of risk stratification for many common and complex diseases. We developed a PRS for alcohol-associated cirrhosis by comparing single-nucleotide polymorphisms among patients with alcohol-associated cirrhosis (ALC) versus drinkers who did not have evidence of liver fibrosis/cirrhosis.

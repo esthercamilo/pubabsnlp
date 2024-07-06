@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '08'}
+Cyclin D1 (CCND1) plays a pivotal role in cancer susceptibility and the platinum-based chemotherapy response. This study aims to assess the relationship between a common polymorphism (rs9344 G > A) in CCND1 gene with cancer susceptibility, platinum-based chemotherapy response, toxicities and prognosis of patients with lung cancer.

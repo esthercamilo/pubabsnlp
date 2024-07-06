@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '17'}
+The mechanism of action for most cancer drugs is not clear. Large-scale pharmacogenomic cancer cell line datasets offer a rich resource to obtain this knowledge. Here, we present an analysis strategy for revealing biological pathways that contribute to drug response using publicly available pharmacogenomic cancer cell line datasets.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Mar', 'Day': '09'}
+Despite being a very common type of genetic variation, the distribution of copy-number variations (CNVs) in the population is still poorly understood. The knowledge of the genetic variability, especially at the level of the local population, is a critical factor for distinguishing pathogenic from non-pathogenic variation in the discovery of new disease variants.

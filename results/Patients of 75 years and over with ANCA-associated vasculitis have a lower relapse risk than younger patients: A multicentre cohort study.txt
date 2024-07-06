@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar'}
+Little is known about antineutrophil cytoplasmic antibodies (ANCA)-associated vasculitis (AAV) in older patients. We aim to study relapse risk of granulomatosis with polyangiitis (GPA) or microscopic polyangiitis (MPA) in patients diagnosed after 75 years and compare it with those of patients aged 65-75 years.

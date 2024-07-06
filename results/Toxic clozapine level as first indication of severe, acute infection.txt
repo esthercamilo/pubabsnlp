@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+Clozapine levels can be influenced by many factors, including pharmacogenomic variability, pharmacokinetic drug interactions, and infection/inflammation. The concentration-to-dose ratio (C/D), a measure of a medication's rate of metabolism and clearance, may increase during an acute infection due to decreased medication metabolism and clearance.

@@ -1,0 +1,2 @@
+{'Year': '2022'}
+The combination of lenvatinib plus pembrolizumab demonstrated a relevant clinical benefit in patients with endometrial carcinoma. The safety profile was consistent with the established profiles of each drug in monotherapy, with the most frequent adverse events being hypertension, an on-target effect, hypothyroidism, diarrhea, nausea, vomiting, loss of appetite, fatigue, and weight loss.

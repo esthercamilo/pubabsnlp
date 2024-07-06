@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Recent evidence support that androgens play an important role in the etiology of endometrial cancer (EC). Adrenal-derived 11-oxygenated androgens are highly potent agonists of the androgen receptor (AR), comparable to testosterone (T) and dihydrotestosterone (DHT) that have not been studied in the context of EC.

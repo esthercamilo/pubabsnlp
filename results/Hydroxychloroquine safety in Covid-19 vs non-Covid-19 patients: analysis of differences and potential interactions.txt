@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan'}
+The use of hydroxychloroquine (HCQ) in the first COVID-19 epidemic wave raised safety concerns.

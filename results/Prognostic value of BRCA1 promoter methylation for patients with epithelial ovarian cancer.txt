@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '08'}
+BRCA1 promoter methylation (BRCA1pm) is suspected to alter prognosis of patients with epithelial ovarian cancer (EOC). We aimed to evaluate the prognostic impact of this epigenetic modification.

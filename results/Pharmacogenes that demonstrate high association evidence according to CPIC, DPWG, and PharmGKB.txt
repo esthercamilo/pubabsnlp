@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Different levels of evidence related to the variable responses of individuals to drug treatment have been reported in various pharmacogenomic (PGx) databases. Identification of gene-drug pairs with strong association evidence can be helpful in prioritizing the implementation of PGx guidelines and focusing on a gene panel. This study aimed to determine the pharmacogenes with the highest evidence-based association and to indicate their involvement in drug-gene interactions.

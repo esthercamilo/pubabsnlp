@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '13'}
+The global epidemiological data on congenital hearing loss in children is sparse. We aimed to analyse the trends in the burden of complete hearing loss caused by congenital birth defects in children younger than five years from 1990 to 2030.

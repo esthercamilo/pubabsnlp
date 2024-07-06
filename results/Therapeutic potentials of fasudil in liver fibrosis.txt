@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Dec', 'Day': '07'}
+Fasudil has the potential to prevent liver fibrosis by activating natural killer cells and inhibiting the proliferation of hepatic stellate cells. Fasudil may be a promising clinical therapeutic drug for the prevention and treatment of liver fibrosis.

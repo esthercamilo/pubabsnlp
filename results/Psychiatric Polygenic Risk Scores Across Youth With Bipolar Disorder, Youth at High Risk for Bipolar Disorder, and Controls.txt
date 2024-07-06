@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb', 'Day': '08'}
+There is a pronounced gap in knowledge regarding polygenic underpinnings of youth bipolar disorder (BD). This study aimed to compare polygenic risk scores (PRSs) in youth with BD, youth at high clinical and/or familial risk for BD (HR), and controls.

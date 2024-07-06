@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+Driving under the influence of drugs (DUID) is a risk factor for traffic accidents. The testing of oral fluid by roadside immunochromatography and laboratory-confirmed chromatography coupled to mass spectrometry (LC-MS/MS) analysis to detect drug abuse has increased in France. The aim of this study was to describe the trends observed in drivers testing positive for illicit drugs in oral fluid and to investigate the concordance between the two analytical methods used.

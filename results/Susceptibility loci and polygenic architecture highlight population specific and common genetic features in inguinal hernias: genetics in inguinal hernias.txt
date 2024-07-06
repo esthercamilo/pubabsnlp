@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Aug'}
+The underlying pathology of inguinal hernia is still not fully known; thus, further investigations of genetic backgrounds is needed. Here, we aimed to identify genetic factors attributing to inguinal hernias and explore the polygenic architecture of which some components are population-specific, while others are more common among populations.

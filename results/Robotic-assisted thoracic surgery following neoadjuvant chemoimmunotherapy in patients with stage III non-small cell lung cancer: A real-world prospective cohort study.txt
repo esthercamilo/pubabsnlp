@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Stage III non-small cell lung cancer (NSCLC) is a heterogeneous group of diseases. For this subset of patients, clinical management is still under debate and prognosis remains poor so far. In the present study, we aimed to evaluate the feasibility and safety of robotic-assisted thoracic surgery after neoadjuvant chemoimmunotherapy in stage III NSCLC.

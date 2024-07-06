@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+Serious and potentially life-threatening toxicities can occur following 5-fluorouracil/capecitabine exposure. Patients carrying Dihydropyrimidine Dehydrogenase (DPYD) variant alleles associated with decreased enzymatic function are at a greater risk of early/severe 5-fluorouracil/capecitabine toxicity. The objective of this systematic review/meta-analysis was to evaluate treatment outcomes between Pharmacogenetics Guided Dosing (PGD) versus non-PGD and within PGD (DPYD variant allele carriers versus wild type).

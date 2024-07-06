@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan'}
+This study investigated whether there are pharmacogenomic markers predictive of chemotherapy induced peripheral neuropathy (CIPN) as a result of taxane-based chemotherapy.

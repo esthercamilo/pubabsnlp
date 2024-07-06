@@ -1,0 +1,2 @@
+{'Year': '2022'}
+A substantial number of patients with acute ischemic stroke (AIS) experience multiple acute lesions (MAL). We here aimed to scrutinize MAL in a large radiologically deep-phenotyped cohort.

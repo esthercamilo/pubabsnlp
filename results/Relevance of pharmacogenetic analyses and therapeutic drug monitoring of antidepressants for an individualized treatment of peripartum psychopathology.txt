@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '01'}
+Psychiatric disorders burden the peripartum period, often requiring psychopharmacological treatment, including antidepressants. Efficacy and tolerability of antidepressants are influenced by the physiological changes of the peripartum and individual metabolic profiles, which in turn can be modified by pregnancy. The objective of this study is to assess the relationship between antidepressants' pharmacokinetic profiles during pregnancy and individual metabolic profiles, along with the efficacy of the treatment.

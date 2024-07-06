@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug'}
+We examined quantitative (in terms of mtDNA/nuclear DNA) and structural (in terms of common deletions in the MT-ND4 gene region) characteristics of mitochondrial DNA (mtDNA) in varicose veins (VVs) and venous wall layers by comparing mitochondrial genome parameters, as well as mitochondrial function (in terms of mitochondrial membrane potential (MtMP)), in varicose vein (VV) vs. non-varicose vein (NV) tissue samples.

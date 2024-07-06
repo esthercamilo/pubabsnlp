@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Bisoprolol is a widely used beta-blocker in patients with cardiovascular diseases. As with other beta-blockers, there is variability in response to bisoprolol, but the underlying reasons for this have not been clearly elucidated. Our aim was to investigate genetic factors that affect bisoprolol pharmacokinetics (PK) and pharmacodynamics (PD), and potentially the clinical outcomes.

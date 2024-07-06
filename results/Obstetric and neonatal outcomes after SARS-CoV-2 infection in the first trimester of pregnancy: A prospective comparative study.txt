@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+This prospective observational cohort study aimed to evaluate whether women with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection during the first trimester of pregnancy are at higher risk of adverse obstetric and neonatal outcomes compared to negative patients.

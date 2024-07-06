@@ -1,0 +1,2 @@
+{'Year': '2023'}
+As genome sequencing becomes cheaper and more accurate, it is becoming increasingly viable to merge this data with electronic health information to inform clinical decisions.

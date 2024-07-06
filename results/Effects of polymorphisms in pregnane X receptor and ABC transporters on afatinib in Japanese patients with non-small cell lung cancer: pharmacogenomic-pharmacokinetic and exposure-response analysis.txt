@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct'}
+Because of the large interindividual variability of afatinib pharmacokinetics and adverse events, we evaluated the effects of polymorphisms in pregnane X receptor (NR1I2) and ABC transporters (ABCB1, ABCG2, and ABCC2) on the pharmacokinetics of afatinib.

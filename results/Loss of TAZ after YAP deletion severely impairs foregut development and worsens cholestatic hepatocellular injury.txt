@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '01'}
+We previously showed that loss of yes-associated protein 1 (YAP) in early liver development (YAPKO) leads to an Alagille syndrome-like phenotype, with failure of intrahepatic bile duct development, severe cholestasis, and chronic hepatocyte adaptations to reduce liver injury. TAZ, a paralog of YAP, was significantly upregulated in YAPKO hepatocytes and interacted with TEA domain family member (TEAD) transcription factors, suggesting possible compensatory activity.

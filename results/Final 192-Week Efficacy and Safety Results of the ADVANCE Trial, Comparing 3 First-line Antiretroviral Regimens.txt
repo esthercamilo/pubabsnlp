@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+ADVANCE compared 3 World Health Organization-recommended first-line regimens in participants with HIV who were antiretroviral naive.

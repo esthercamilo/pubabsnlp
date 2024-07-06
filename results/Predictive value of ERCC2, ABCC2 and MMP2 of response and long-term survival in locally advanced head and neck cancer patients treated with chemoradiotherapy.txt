@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov'}
+Genetic variants in genes involved in the distribution, metabolism, accumulation or repair of lesions are likely to influence the response of drugs used in the treatment of Head and Neck Cancer (HNC). We examine the effect of 36 SNPs on clinical outcomes in patients with locally advanced HNC who were receiving platinum-based chemoradiotherapy (CRT).

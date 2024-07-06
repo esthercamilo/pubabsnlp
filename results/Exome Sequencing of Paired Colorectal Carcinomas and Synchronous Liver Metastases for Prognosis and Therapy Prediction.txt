@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May'}
+Analysis of somatic variant profiles in retrospectively collected pairs of primary tumors and synchronous liver metastases from surgically treated patients with colorectal carcinomas. Mutational profiles were compared between groups of patients stratified by response to chemotherapy and survival.

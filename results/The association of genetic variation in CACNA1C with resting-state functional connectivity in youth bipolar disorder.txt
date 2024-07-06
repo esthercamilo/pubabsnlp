@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '13'}
+CACNA1C rs1006737 A allele, identified as a genetic risk variant for bipolar disorder (BD), is associated with anomalous functional connectivity in adults with and without BD. Studies have yet to investigate the association of CACNA1C rs1006737 with resting-state functional connectivity (rsFC) in youth BD.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep'}
+Alcohol consumption can increase circulating levels of fibroblast growth factor 21 (FGF21). The effects of FGF21 in the central nervous system are associated with the regulation of catecholamines, neurotransmitters that play a crucial role in reward pathways. This study aims to identify genetic variants associated with FGF21 levels and evaluate their functional role in alcohol use disorder (AUD).

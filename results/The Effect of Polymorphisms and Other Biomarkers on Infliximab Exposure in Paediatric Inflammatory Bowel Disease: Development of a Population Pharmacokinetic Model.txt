@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May'}
+Therapeutic drug monitoring (TDM) of infliximab has been shown to be a effective strategy for inflammatory bowel disease (IBD). Population pharmacokinetic (PopPK) modeling can predict trough concentrations for individualized dosing.

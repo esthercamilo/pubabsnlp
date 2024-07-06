@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Pharmacogenomics (PGx) is a promising tool to realise tailored drug therapy for depression.

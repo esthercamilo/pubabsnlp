@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb', 'Day': '12'}
+The disruption of the NKG2D-MICA axis can induce an enhanced immune response and promote autoimmune processes during axial spondyloarthritis (axSpA) pathogenesis. We aimed to investigate potential relationships between selected single nucleotide polymorphisms within the MICA and NKG2D genes and disease susceptibility and clinical parameters in axSpA patients treated with TNF inhibitors.

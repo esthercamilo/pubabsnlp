@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov', 'Day': '19'}
+Attention-deficit hyperactivity disorder (ADHD) is the most common childhood-onset neurodevelopmental disorder, and methylphenidate (MPH) is considered one of the first-line medicine for ADHD. Unfortunately, this medication is only effective for some children with ADHD. This meta-analysis was conducted to evaluate whether noradrenergic gene polymorphisms impact the efficacy of MPH in children with ADHD.

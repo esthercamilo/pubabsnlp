@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb', 'Day': '01'}
+CYP2C19 is a key factor influencing escitalopram (SCIT) exposure. However, different studies reported various results. This study aims to develop a population pharmacokinetic (popPK) model characterizes the disposition of SCIT in the Chinese population. Based on the popPK model, the study simulates non-adherence scenarios and proposes remedial strategies to facilitate SCIT personalized therapy.

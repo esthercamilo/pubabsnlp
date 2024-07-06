@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '01'}
+The prevalence of NAFLD is rapidly increasing. NAFLD can progress to NASH, fibrosis, cirrhosis, and HCC, which will soon become the main causes of liver transplantation. To date, no effective drug for NASH has been approved by the Food and Drug Administration. This is partly due to the lack of reliable human in vitro models. Here, we present a novel human liver spheroid model that can be used to study the mechanisms underlying liver fibrosis formation and degradation.

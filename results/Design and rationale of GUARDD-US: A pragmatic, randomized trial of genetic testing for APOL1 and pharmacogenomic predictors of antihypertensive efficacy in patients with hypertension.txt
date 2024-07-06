@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug'}
+APOL1 risk alleles are associated with increased cardiovascular and chronic kidney disease (CKD) risk. It is unknown whether knowledge of APOL1 risk status motivates patients and providers to attain recommended blood pressure (BP) targets to reduce cardiovascular disease.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb', 'Day': '03'}
+While an association between gut microbiota composition and thyroid cancer (TC) has been observed, the directionality and causality of this relationship remain unclear.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep'}
+Reported association between statin use and cataract risk is controversial. The SLCO1B1 gene encodes a transport protein responsible for statin clearance. The aim of this study was to investigate a possible association between the SLCO1B1*5 reduced function variant and cataract risk in statin users of South Asian ethnicity.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+A retrospective analysis was conducted of a data set collected in an outpatient behavioral health clinic to assess medication metabolism and methylenetetrahydrofolate reductase (MTHFR) and to see if there was a correlation with certain diagnoses and/or gender.

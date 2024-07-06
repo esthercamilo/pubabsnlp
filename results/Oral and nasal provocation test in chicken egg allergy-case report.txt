@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '14'}
+Allergy to chicken egg protein is a common form of food allergy. The most common clinical presentation includes gastrointestinal, skin, and respiratory symptoms. Differential diagnosis, including provocative tests, is critical in diagnosis.

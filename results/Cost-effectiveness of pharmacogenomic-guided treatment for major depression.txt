@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov', 'Day': '14'}
+Pharmacogenomic testing to identify variations in genes that influence metabolism of antidepressant medications can enhance efficacy and reduce adverse effects of pharmacotherapy for major depressive disorder. We sought to establish the cost-effectiveness of implementing pharmacogenomic testing to guide prescription of antidepressants.

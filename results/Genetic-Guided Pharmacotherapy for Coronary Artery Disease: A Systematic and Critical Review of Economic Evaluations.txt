@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '05'}
+Genetic-guided pharmacotherapy (PGx) is not recommended in clinical guidelines for coronary artery disease (CAD). We aimed to examine the extent and quality of evidence from economic evaluations of PGx in CAD and to identify variables influential in changing conclusions on cost-effectiveness.

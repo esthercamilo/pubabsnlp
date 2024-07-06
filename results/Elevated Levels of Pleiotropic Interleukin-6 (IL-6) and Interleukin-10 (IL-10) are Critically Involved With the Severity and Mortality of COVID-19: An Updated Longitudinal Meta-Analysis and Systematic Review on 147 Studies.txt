@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Disruption in the natural immune reaction due to SARS-CoV-2 infection can initiate a potent cytokine storm among COVID-19 patients. An elevated level of IL-6 and IL-10 during a hyperinflammatory state plays a vital role in increasing the risk of severity and mortality. In this study, we aimed to evaluate the potential of circulating IL-6 and IL-10 levels as biomarkers for detecting the severity and mortality of COVID-19.

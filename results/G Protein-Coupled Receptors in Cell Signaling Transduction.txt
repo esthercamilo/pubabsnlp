@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '25'}
+G protein-coupled receptors (GPCRs) and their downstream signaling pathways are critical targets for current pharmacotherapy [...].

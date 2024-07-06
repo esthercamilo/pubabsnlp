@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '02'}
+To demonstrate the value of hypoxia-inducible factor-1α (HIF-1α) in predicting response in patients with breast cancer receiving standard neoadjuvant chemotherapy (NAC).

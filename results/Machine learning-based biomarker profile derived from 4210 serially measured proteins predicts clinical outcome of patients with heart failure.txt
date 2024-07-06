@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+Risk assessment tools are needed for timely identification of patients with heart failure (HF) with reduced ejection fraction (HFrEF) who are at high risk of adverse events. In this study, we aim to derive a small set out of 4210 repeatedly measured proteins, which, along with clinical characteristics and established biomarkers, carry optimal prognostic capacity for adverse events, in patients with HFrEF.

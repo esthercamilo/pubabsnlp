@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '24'}
+Genetic testing may provide information for diagnostic, prognostic and pharmacogenetic purposes. The PREPARE study recently showed that the number of clinically relevant adverse drug reactions could be reduced via genotype-guided treatment. The aim of this work was to assess the relevance of genetic testing and its actual use in consecutive rheumatic outpatients.

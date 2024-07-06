@@ -35,7 +35,7 @@ def search_and_fetch(query, max_results=5):
 def run():
 
     # Create 'results' folder if not exists
-    os.makedirs('results', exist_ok=True)
+    os.makedirs('results_full', exist_ok=True)
 
     # Type the words in the file data/query_words.txt
     with open(os.path.join(root, 'data', 'query_words.txt'), 'r') as f:

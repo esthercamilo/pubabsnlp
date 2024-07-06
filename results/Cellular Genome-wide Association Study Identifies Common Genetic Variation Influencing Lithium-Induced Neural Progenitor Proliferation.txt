@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '01'}
+Bipolar disorder is a highly heritable neuropsychiatric condition affecting more than 1% of the human population. Lithium salts are commonly prescribed as a mood stabilizer for individuals with bipolar disorder. Lithium is clinically effective in approximately half of treated individuals, and their genetic backgrounds are known to influence treatment outcomes. While the mechanism of lithium's therapeutic action is unclear, it stimulates adult neural progenitor cell proliferation, similar to some antidepressant drugs.

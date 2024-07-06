@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '16'}
+Several studies have linked increased risk of osteosarcoma with tall stature, high birthweight, and early puberty, although evidence is inconsistent. We used genetic risk scores (GRS) based on established genetic loci for these traits and evaluated associations between genetically inferred birthweight, height, and puberty timing with osteosarcoma.

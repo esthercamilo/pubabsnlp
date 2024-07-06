@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '09'}
+Radiotherapy (RT) is the standard treatment for nasopharyngeal carcinoma (NPC). However, due to individual differences in radiosensitivity, biomarkers are needed to tailored radiotherapy to cancer patients. However, comprehensive genome-wide radiogenomic studies on them are still lacking. The aim of this study was to identify genetic variants associated with radiotherapy response in patients with NPC.

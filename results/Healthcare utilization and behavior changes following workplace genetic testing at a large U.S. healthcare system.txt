@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '07'}
+This study explored employee health behavior changes and healthcare utilization following workplace genetic testing (wGT). Wellness program-associated wGT seeks to improve employee health, but related health implications are unknown.

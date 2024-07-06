@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+Studies suggest a harmful pharmacogenomic interaction exists between short leukocyte telomere length (LTL) and immunosuppressants in idiopathic pulmonary fibrosis (IPF). It remains unknown if a similar interaction exists in non-IPF interstitial lung disease (ILD).

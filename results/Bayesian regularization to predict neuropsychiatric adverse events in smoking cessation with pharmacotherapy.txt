@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Apr', 'Day': '29'}
+Research on risk factors for neuropsychiatric adverse events (NAEs) in smoking cessation with pharmacotherapy is scarce. We aimed to identify predictors and develop a prediction model for risk of NAEs in smoking cessation with medications using Bayesian regularization.

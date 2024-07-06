@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep'}
+Small cell lung cancer (SCLC) is an aggressive tumor, and despite its sensitivity to chemotherapy and radiotherapy, patients usually have a short survival. There are no clinically relevant predictive factors of responses to therapies, and therapeutic options are still limited.

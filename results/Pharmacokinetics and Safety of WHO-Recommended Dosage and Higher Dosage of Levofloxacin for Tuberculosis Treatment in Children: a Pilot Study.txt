@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep'}
+To evaluate the pharmacokinetic parameters of the 2020 World Health Organization (WHO)-recommended pediatric dosage of levofloxacin and the higher-than-WHO dosage.

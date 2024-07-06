@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May', 'Day': '18'}
+Tacrolimus is the backbone drug in kidney transplantation. Single nucleotide polymorphism of Multidrug resistant 1 gene can affect tacrolimus metabolism consequently it can affect tacrolimus trough level and incidence of acute rejection. The aim of this study is to investigate the impact of Multidrug resistant 1 gene, C3435T and G2677T Single nucleotide polymorphisms on tacrolimus pharmacokinetics and on the risk of acute rejection in pediatric kidney transplant recipients.

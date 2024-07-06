@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+Nearly 10% of patients with adult diffuse glioma develop clinically significant myelotoxicity while on temozolomide (TMZ) leading to treatment interruptions. This study aimed to assess single nucleotide polymorphisms (SNPs) in the O<sup>6</sup>-methylguanine-DNA methyltransferase (MGMT) gene in adults with biopsy-proven diffuse glioma who develop TMZ-induced myelotoxicity and correlate their presence with severity and duration of such toxicity.

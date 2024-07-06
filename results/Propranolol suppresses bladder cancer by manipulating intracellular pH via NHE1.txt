@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug'}
+In recent years, a large number of clinical and epidemiological studies have revealed the anti-cancer activity of propranolol in solid tumors, though the underline mechanism is yet to be clarified.

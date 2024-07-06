@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar'}
+Human cytochrome P450 (<i>CYP</i>s) genes are essential in metabolising drugs. Due to their high polymorphism, population-specific studies are of great interest.

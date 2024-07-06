@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Glioblastoma is characterized by rich vasculature and abnormal vascular structure and function. Currently, there is no standard treatment for recurrent glioblastoma (rGBM). Bevacizumab (BEV) has established role of inhibiting neovascularization, alleviating hypoxia in the tumor area and activating the immune microenvironment. BEV may exert synergistic effects with re-irradiation (re-RT) to improve the tumor microenvironment for rGBM.

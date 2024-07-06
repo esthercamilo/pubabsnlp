@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb', 'Day': '15'}
+Highly sensitive technologies are available for the molecular characterization of solid tumors, including digital PCR (dPCR). Liquid biopsy, based on the analysis of cell-free DNA (cfDNA), is often used to assess EGFR or RAS alterations in lung and colorectal cancers. Our study aimed to compare the results of two different dPCR platforms for the detection of mutations in cfDNA.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun'}
+Direct-acting oral anticoagulants are first-line agents for prevention of stroke in patients with nonvalvular atrial fibrillation (NVAF), but data are limited for the oldest patients, and with reduced dosing.

@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct'}
+We evaluated the arginine-depleting enzyme pegargiminase (ADI-PEG20; ADI) with pemetrexed (Pem) and cisplatin (Cis) (ADIPemCis) in ASS1-deficient non-squamous non-small cell lung cancer (NSCLC) via a phase 1 dose-expansion trial with exploratory biomarker analysis.

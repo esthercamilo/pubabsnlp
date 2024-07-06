@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep'}
+Vitamin C has been predicted to be effective as an antioxidant in treating various ailments, including viral infections such as pervasive coronavirus disease (COVID-19). With this meta-analysis, we looked to ascertain the relationship between high-dose vitamin C administration and mortality, severity, and length of hospitalization of COVID-19 patients.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr'}
+According to pivotal clinical trials, cure rates for sofosbuvir-based antiviral therapy exceed 96%. Treatment failure is usually assumed to be because of virological resistance-associated substitutions or clinical risk factors, yet the role of patient-specific genetic factors has not been well explored. We determined if patient-specific genetic factors help predict patients likely to fail sofosbuvir treatment in real-world treatment situations.

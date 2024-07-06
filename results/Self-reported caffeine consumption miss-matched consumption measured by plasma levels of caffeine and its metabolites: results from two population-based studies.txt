@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '04'}
+Self-reported caffeine consumption has been widely used in research while it may be subject to bias. We sought to investigate the associations between self-reported caffeine consumption and plasma levels of caffeine and its two main metabolites (paraxanthine and theophylline) in the community.

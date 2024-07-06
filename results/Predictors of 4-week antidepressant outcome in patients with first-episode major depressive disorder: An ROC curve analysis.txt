@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '01'}
+Pretreatment characteristics of patients, symptom and function could be associated with antidepressant treatment outcome, but its predictive ability is not adequate. Our study aimed to identify predictors of acute antidepressant efficacy in patients with first-episode Major Depressive Disorder (MDD).

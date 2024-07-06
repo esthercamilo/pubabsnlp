@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+The objective of this study is to evaluate the association between genetic polymorphisms and the concentration to dose ratio of topiramate in children with epilepsy.

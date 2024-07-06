@@ -1,0 +1,2 @@
+{'Year': '2022'}
+It has been suggested that the pharmacogenomic response to antipsychotics in schizophrenia patients partially contributed by drug metabolism enzyme polymorphism, including P450 2D6 (CYP2D6). However, CYP2D6 gene polymorphism across populations is largely unknown.

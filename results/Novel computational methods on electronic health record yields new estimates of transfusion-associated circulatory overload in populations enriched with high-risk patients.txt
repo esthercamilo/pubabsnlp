@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jul'}
+Transfusion-associated circulatory overload (TACO) is a severe adverse reaction (AR) contributing to the leading cause of mortality associated with transfusions. As strategies to mitigate TACO have been increasingly adopted, an update of prevalence rates and risk factors associated with TACO using the growing sources of electronic health record (EHR) data can help understand transfusion safety.

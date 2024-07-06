@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '01'}
+Atabecestat, a potent brain penetrable BACE1 inhibitor that reduces CSF amyloid beta (Aβ), was developed as an oral treatment for Alzheimer's disease (AD). Elevated liver enzyme adverse events were reported in three studies although only one case met Hy's law criteria to predict serious hepatotoxicity.

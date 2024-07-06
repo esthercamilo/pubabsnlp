@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '01'}
+Concentrations of tenofovir diphosphate (TFV-DP) and lamivudine triphosphate (3TC-TP) in cells are correlates of medication adherence and antiviral activity. However, studies have yet to characterize the simultaneous relationship between TFV-DP and 3TC-TP concentrations with HIV and hepatitis B virus (HBV) suppression.

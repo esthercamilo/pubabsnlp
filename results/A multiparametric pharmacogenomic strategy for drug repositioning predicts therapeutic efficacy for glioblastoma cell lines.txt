@@ -1,0 +1,2 @@
+{'Year': '2022', 'Season': 'Jan-Dec'}
+Poor prognosis of glioblastoma patients and the extensive heterogeneity of glioblastoma at both the molecular and cellular level necessitates developing novel individualized treatment modalities via genomics-driven approaches.

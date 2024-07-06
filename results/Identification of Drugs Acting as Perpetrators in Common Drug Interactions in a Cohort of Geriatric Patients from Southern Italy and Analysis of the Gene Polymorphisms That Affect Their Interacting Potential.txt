@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '24'}
+Pharmacogenomic factors affect the susceptibility to drug-drug interactions (DDI). We identified drug interaction perpetrators among the drugs prescribed to a cohort of 290 older adults and analysed the prevalence of gene polymorphisms that can increase their interacting potential. We also pinpointed clinical decision support systems (CDSSs) that incorporate pharmacogenomic factors in DDI risk evaluation.

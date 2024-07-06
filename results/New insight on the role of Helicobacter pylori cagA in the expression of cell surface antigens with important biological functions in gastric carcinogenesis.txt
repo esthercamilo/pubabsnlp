@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct'}
+Expression of cluster of differentiation (CD) antigens changes according to disease status and inflammation. Profiles of CD antigens expression in gastric cancer patients are different based on the status of H. pylori infection.

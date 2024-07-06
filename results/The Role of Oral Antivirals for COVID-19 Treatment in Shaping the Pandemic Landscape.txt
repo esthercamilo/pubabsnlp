@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar', 'Day': '11'}
+Several vaccines against coronavirus disease 2019 (COVID-19) were developed and made available in a record time, just over a year after the outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) [...].

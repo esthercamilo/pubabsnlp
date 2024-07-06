@@ -1,0 +1,2 @@
+{'Year': '2021'}
+Dysregulated apoptosis is a hallmark of cancer development and progression. TRAIL and its receptors (R1 and R2) are key players in the extrinsic apoptotic pathway. Genetic alteration or blockade of TRAIL-R1 may alter its apoptotic function, and subsequently provide growth advantage to neoplastic cells.

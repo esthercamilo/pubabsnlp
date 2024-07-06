@@ -1,0 +1,2 @@
+{'Year': '2022'}
+A growing number of healthcare providers make complex treatment decisions guided by electronic health record (EHR) software interfaces. Many interfaces integrate multiple sources of data (e.g., labs, pharmacy, diagnoses) successfully, though relatively few have incorporated genetic data.

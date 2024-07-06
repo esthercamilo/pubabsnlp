@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '01'}
+Several studies have shown an association between 5-fluorouracil toxicity and variations in the dihydropyrimidine dehydrogenase (DPYD) gene.

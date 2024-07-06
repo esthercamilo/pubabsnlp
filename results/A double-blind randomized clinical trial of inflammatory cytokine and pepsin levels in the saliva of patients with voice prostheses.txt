@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '12'}
+Tracheoesophageal speech is one of the most effective method used for voice rehabilitation after laryngectomy. The main limitation is the need for periodic voice prothesis (VP) replacements. The process of developing VP usage complications is still unexplored. The aim of this study was to assess the level of cytokines (IL-1β, IL-6, IL-8, IL-10, TNFα) and pepsin in saliva as potential factors reducing VP longevity.

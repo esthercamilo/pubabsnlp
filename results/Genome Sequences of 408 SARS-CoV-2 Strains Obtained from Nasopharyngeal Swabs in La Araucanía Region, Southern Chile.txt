@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr', 'Day': '21'}
+Here, we announce the genome sequences of 408 strains of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) obtained from nasopharyngeal swabs in the Araucanía Region, Southern Chile. The genomes obtained are valuable to expand the availability of useful genomic data for future epidemiological studies of SARS-CoV-2 in Chile and worldwide.

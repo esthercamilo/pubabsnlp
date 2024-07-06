@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan'}
+Pharmacogenetics promises better control of diseases such as cardiovascular disease (CVD). Acetylsalicylic acid, aspirin, prevents the formation of an activating agent of platelet aggregation and vasoconstriction, and it is used to prevent CVD. Nevertheless, patients may have treatment failure due to genetic variants that modify the metabolism of the drug causing aspirin resistance (AR).

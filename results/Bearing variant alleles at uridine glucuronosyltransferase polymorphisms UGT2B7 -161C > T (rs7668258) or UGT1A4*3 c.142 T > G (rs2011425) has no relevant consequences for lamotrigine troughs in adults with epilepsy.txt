@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug'}
+To estimate whether epilepsy patients with variant UGT2B7 -161C > T (rs7668258) or UGT1A4*3 c.142 T > G (rs2011425) alleles differ from their wild-type (wt) peers in exposure to lamotrigine.

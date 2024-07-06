@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '09'}
+Guided by Clinical Pharmacogenomic Implementation Consortium (CPIC) guidelines for >140 medications, pharmacogenomic tests inform medication selection and dosing to optimize efficacy while minimizing toxicities.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov'}
+Mannose-binding lectin (MBL) is an important component of the innate immune system. Polymorphisms in the MBL2 gene and promoter region are directly associated with MBL-deficiency. We sought to determine the association between MBL genotype on the frequency of common childhood respiratory infections, respiratory symptoms, and atopic outcomes in early childhood.

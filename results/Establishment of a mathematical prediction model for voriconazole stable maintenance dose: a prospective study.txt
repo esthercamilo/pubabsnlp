@@ -1,0 +1,2 @@
+{'Year': '2023'}
+In patients with invasive fungal infection (IFI), the steady-state serum trough concentration (<i>C</i> <sub>min</sub>) of voriconazole (VCZ) is highly variable and can lead to treatment failure (<i>C</i> <sub>min</sub> < 0.5 mg/L) and toxicity (<i>C</i> <sub>min</sub> ≥ 5.0 mg/L). However, It remains challenging to determine the ideal maintenance dose to achieve the desired <i>C</i> <sub>min</sub> level quickly.

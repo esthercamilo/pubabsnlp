@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '01'}
+The identification of new biomarkers predictive of response to antitumor necrosis factor alpha (anti-TNF-α) monoclonal antibodies remains an unmet medical need in Crohn's disease (CD) because a high percentage of patients show no clinical improvement after treatment or can lose response over time. MicroRNAs (miRNAs) can regulate inflammatory and immunological responses and were found to play a role in CD.

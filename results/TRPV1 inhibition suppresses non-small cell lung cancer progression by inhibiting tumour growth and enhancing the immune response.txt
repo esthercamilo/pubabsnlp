@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '30'}
+TRPV1 is a nonselective Ca<sup>2+</sup> channel protein that is widely expressed and plays an important role during the occurrence and development of many cancers. Activation of TRPV1 channels can affect tumour progression by regulating proliferation, apoptosis and migration. Some studies have also shown that activating TRPV1 can affect tumour progression by modulating tumour immunity. However, the effects of TRPV1 on the development of non-small cell lung cancer (NSCLC) have not been explored clearly.

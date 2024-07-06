@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Mar'}
+Occurrence of hand-foot syndrome (HFS) during capecitabine treatment often results in treatment interruptions (26 %) or treatment discontinuation (17 %), and can severely decrease quality of life. In this study, we investigated whether single nucleotide polymorphisms (SNPs) in genes involved in capecitabine metabolism - other than DPYD - are associated with an increased risk for capecitabine-induced HFS.

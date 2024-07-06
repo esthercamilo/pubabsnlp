@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '26'}
+Acute myeloid leukemia (AML) and chronic myeloid leukemia (CML) represent a group of hematological malignancies characterized by the pathogenic clonal expansion of leukemic myeloid cells. The diagnosis and clinical outcome of AML and CML are complicated by genetic heterogeneity of disease; therefore, the identification of novel molecular biomarkers and pharmacological targets is of paramount importance.

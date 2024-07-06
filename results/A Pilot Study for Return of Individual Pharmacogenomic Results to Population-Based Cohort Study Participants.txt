@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr', 'Day': '15'}
+Pharmacogenomic (PGx) testing results provide valuable information on drug selection and appropriate dosing, maximization of efficacy, and minimization of adverse effects. Although the number of large-scale, next-generation-sequencing-based PGx studies has recently increased, little is known about the risks and benefits of returning PGx results to ostensibly healthy individuals in research settings.

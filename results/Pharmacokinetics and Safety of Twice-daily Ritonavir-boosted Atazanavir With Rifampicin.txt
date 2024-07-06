@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '15'}
+Critical drug-drug interactions (DDI) and hepatotoxicity complicate concurrent use of rifampicin and protease inhibitors. We investigated whether dose escalation of atazanavir/ritonavir could safely overcome the DDI with rifampicin.

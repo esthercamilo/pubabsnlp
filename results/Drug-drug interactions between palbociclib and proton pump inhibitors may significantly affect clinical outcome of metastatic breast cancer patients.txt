@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct'}
+Proton-pump-inhibitors (PPIs) are frequently prescribed for the management of anticancer drug-related gastrointestinal symptoms. Palbociclib is a weak base with pH-dependent solubility and potential drug-drug interaction at the absorption level may affect clinical pharmacokinetics. The current study was aimed at investigating the effect of co-administration of PPIs and palbociclib on progression-free survival (PFS) in metastatic breast cancer (mBC) patients.

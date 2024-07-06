@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '21'}
+Variants in <i>IFIH1</i>, a gene coding the cytoplasmatic RNA sensor MDA5, regulate the response to viral infections. We hypothesized that <i>IFIH1</i> rs199076 variants would modulate host response and outcome after severe COVID-19.

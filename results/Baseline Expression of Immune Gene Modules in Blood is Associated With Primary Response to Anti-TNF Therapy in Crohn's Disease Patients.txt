@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '01'}
+Anti-tumour necrosis factor [anti-TNF] therapy is widely used for the treatment of inflammatory bowel disease, yet many patients are primary non-responders, failing to respond to induction therapy. We aimed to identify blood gene expression differences between primary responders and primary non-responders to anti-TNF monoclonal antibodies [infliximab and adalimumab], and to predict response status from blood gene expression and clinical data.

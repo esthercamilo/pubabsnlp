@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May', 'Day': '16'}
+COVID-19 is characterized by an uncontrolled inflammatory response with high pro-inflammatory cytokine production through the activation of intracellular pathways, such as mitogen-activated protein kinase (MAPK). Viruses are able to exploit the MAPK pathway to their advantage; this pathway relevance to severe COVID-19 is poorly described. The aim of this study was to quantify biomarkers involved in the MAPK pathway and to clarify its possible role in affecting some COVID-19-related clinical features.

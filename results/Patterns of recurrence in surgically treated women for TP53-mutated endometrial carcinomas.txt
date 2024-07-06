@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep'}
+To describe the patterns of recurrence and the prognosis of patients with a recurrent TP53 mutated endometrial carcinoma treated initially by surgery.

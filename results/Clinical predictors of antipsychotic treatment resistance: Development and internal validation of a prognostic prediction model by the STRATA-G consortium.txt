@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec'}
+Our aim was to, firstly, identify characteristics at first-episode of psychosis that are associated with later antipsychotic treatment resistance (TR) and, secondly, to develop a parsimonious prediction model for TR.

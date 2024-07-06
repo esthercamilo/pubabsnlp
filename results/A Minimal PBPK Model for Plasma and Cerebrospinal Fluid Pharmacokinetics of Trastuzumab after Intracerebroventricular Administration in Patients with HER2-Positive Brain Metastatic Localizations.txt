@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+Dosing regimens of trastuzumab administered by intracerebroventricular (icv) route to patients with HER2-positive brain localizations remain empirical. The objectives of this study were to describe pharmacokinetics (PK) of trastuzumab in human plasma and cerebrospinal fluid (CSF) after simultaneous icv and intravenous (iv) administration using a minimal physiologically-based pharmacokinetic model (mPBPK) and to perform simulations of alternative dosing regimens to achieve therapeutic concentrations in CSF.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar'}
+Whether low-density lipoprotein (LDL) receptor (LDLR) residual activity influences the LDL-lowering effect of statins in heterozygous familial hypercholesterolemia (HeFH) remains unclear. The objective of this study was to investigate the relationship between the LDLR genotype and statin-induced LDL cholesterol (LDL-C) reductions in HeFH.

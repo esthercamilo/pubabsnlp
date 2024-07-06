@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '27'}
+To examine whether high white matter hyperintensity (WMH) burden is associated with greater stroke severity and worse functional outcomes in lesion pattern-specific ways.

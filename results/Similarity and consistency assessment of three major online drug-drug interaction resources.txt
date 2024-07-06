@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep'}
+The aim of this study was to explore the level of agreement on drug-drug interaction (DDI) information listed in three major online drug information resources (DIRs) in terms of: (1) interacting drug pairs; (2) severity rating; (3) evidence rating; and (4) clinical management recommendations.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+Although there are studies assessing reasons for antidepressant discontinuation, little is known about the impact of sex differences or cytochrome P450 phenotypes. Our objective is to assess discontinuation rates between males and females and whether CYP450 phenotype influences discontinuation.

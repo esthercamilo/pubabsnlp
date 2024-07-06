@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar', 'Day': '17'}
+Studies show inconsistent results regarding the impact of CYP2C19 genotype on the pharmacodynamics (PD) and clinical outcomes of ticagrelor. With the implementation of genotype-guided individualized antiplatelet therapy, the association between CYP2C19 polymorphism and the efficacy and safety of ticagrelor for patients is still worthy of exploring and studying.

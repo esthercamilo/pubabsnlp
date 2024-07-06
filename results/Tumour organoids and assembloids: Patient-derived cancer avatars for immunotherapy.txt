@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+Organoid technology is an emerging and rapidly growing field that shows promise in studying organ development and screening therapeutic regimens. Although organoids have been proposed for a decade, concerns exist, including batch-to-batch variations, lack of the native microenvironment and clinical applicability.

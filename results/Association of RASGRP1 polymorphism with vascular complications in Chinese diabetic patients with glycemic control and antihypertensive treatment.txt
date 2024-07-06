@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '10'}
+Studies have shown that RASGRP1 was potently associated with the onset of type 2 diabetes mellitus (T2DM), and RASGRP1 rs7403531 was significantly correlated with islet function in T2DM patients. However, the effect of RASGRP1 polymorphism on blood glucose and blood pressure in T2DM patients after continuous treatment has yet to be fully elucidated.

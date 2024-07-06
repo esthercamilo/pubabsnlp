@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb', 'Day': '01'}
+Genetically predicted IL-6 levels are associated with risk of ESKD. Therapeutic modulation of IL-6 could potentially reduce the risk of ESKD.

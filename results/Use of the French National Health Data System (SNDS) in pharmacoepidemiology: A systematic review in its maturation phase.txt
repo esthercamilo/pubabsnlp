@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '21'}
+The French National Health Data System (SNDS) comprises healthcare data that cover 99% of the population (over 67 million individuals) in France. The aim of this study was to present an overview of published pharmacoepidemiological studies using the SNDS in its maturation phase.

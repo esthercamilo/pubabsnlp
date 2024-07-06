@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Dec'}
+To investigate the relations between caffeine-derived metabolites (methylxanthines) and plasma lipids by use of population-based data from 2 European countries.

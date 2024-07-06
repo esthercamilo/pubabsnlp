@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+Malignant tumours of the lacrimal apparatus are rare and frequently show a poor prognosis, with no clear therapeutic standards. Characterisation of the genetic landscape of these rare tumours is sparse, and therefore therapeutics generally follow those of their common salivary gland counterparts. To further clarify the pathophysiology and discover potential therapeutic targets, we investigated the genetic landscape of eight tumours of the lacrimal apparatus.

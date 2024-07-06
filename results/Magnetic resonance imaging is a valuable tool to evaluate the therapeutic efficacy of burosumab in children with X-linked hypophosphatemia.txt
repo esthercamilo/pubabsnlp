@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Aug', 'Day': '27'}
+To examine the MRI diagnostic performance in the assessment of therapeutic response to burosumab in children with X-linked hypophosphatemia (XLH).

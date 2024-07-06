@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan'}
+Bulevirtide is a first-in-class peptidic entry inhibitor for hepatitis B virus (HBV) and hepatitis D virus infection. In July, 2020, bulevirtide 2 mg received conditional marketing authorisation by the European Medical Agency for treatment of chronic hepatitis D virus infection. We investigated the antiviral activity of bulevirtide in patients chronically infected with HBV and hepatitis D virus.

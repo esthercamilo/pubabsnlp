@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '01'}
+The aims of the study are to assess adoption of a pharmacogenomic-enriched comprehensive medication management program in a self-insured employer setting and to better understand medication risks that affect employees.

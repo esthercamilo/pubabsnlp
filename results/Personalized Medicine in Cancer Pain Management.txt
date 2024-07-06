@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jul', 'Day': '28'}
+Previous studies have documented pain as an important concern for quality of life (QoL) and one of the most challenging manifestations for cancer patients. Thus, cancer pain management (CPM) plays a key role in treating pain related to cancer. The aim of this systematic review was to investigate CPM, with an emphasis on personalized medicine, and introduce new pharmacogenomics-based procedures for detecting and treating cancer pain patients.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug'}
+This study aimed to determine the effects of a long-acting glucagon-like peptide-1 (GLP-1) receptor agonist, liraglutide, and placebo subcutaneously over 16 weeks on weight and gastric functions and to evaluate associations of single-nucleotide polymorphisms in GLP1R (rs6923761) and TCF7L2 (rs7903146) with effects of liraglutide.

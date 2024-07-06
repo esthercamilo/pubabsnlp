@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Apr', 'Day': '03'}
+A platelet ADP P2Y12 receptor (P2Y12) inhibitor plus aspirin is standard therapy for patients undergoing percutaneous coronary intervention (PCI) for acute coronary syndrome (ACS). Compared with clopidogrel, prasugrel and ticagrelor are associated with superior antiatherothrombotic effects but increased bleeding risk; with recent guideline updates, it is important to describe current treatment patterns and the role of bleeding risk in treatment choice.

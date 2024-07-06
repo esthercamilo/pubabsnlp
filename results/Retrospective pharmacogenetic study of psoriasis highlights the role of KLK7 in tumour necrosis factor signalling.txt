@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '20'}
+Multiple treatment options are available for the management of psoriasis, but clinical response varies among individual patients and no biomarkers are available to facilitate treatment selection for improved patient outcomes.

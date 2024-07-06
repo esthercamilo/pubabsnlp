@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov', 'Day': '01'}
+Low-dose methotrexate is used to treat rheumatoid arthritis and psoriasis. Due to its kidney elimination, better evidence is needed to inform its safety in adults with chronic kidney disease (CKD).

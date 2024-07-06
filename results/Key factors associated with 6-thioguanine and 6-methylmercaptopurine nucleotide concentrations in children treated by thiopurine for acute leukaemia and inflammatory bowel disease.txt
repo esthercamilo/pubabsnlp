@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jan'}
+Azathioprine (AZA) and 6-mercaptopurine are prescribed in acute lymphoblastic leukaemia (ALL) and inflammatory bowel diseases (IBD). Metabolism to active 6-thioguanine (6TGN) and 6-methylmercaptopurine nucleotides (6MMPN) is variable but therapeutic drug monitoring (TDM) remains debatable. This study reports on factors impacting on red blood cell (RBC) metabolites concentrations in children to facilitate TDM interpretation.

@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Dec', 'Day': '07'}
+Colorectal cancer (CRC) is one of the common gastrointestinal malignancies, tumor heterogeneity is the main cause of refractory CRC. Syndrome differentiation is the premise of individualized treatment of traditional Chinese medicine (TCM), but TCM syndrome lacks objective identification in CRC. This study is to investigate the correlation and significance of tumor heterogeneity and TCM syndromes classification in CRC.

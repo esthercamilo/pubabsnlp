@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Lipedema is a poorly known condition. Diagnosis is based almost exclusively on clinical criteria, which may be subjective and not always reliable. This study aimed to investigate regional body composition (BC) by dual-energy X-ray absorptiometry (DXA) in patients with lipedema and healthy controls and to determine cut-off values of fat mass (FM) indices to provide an additional tool for the diagnosis and staging of this condition.

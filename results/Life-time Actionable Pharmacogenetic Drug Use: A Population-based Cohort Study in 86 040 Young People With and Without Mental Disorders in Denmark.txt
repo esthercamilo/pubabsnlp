@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar'}
+To describe life-time use of current actionable pharmacogenetic (PGx) somatic and psychotropic drugs according to international PGx consortia in people with and without hospital-diagnosed mental disorders in the Danish population.

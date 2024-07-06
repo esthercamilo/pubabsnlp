@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '26'}
+Although a cure is the main goal of a treatment, serious adverse reactions associated with these treatments are a major problem in clinical practice and cost a lot of money for health systems [...].

@@ -1,0 +1,2 @@
+{'Year': '2024'}
+The purpose of this study is to identify the relationship between coenzyme Q 10 (CoQ10)-related gene polymorphisms and statin-related myotoxicity (SRM).

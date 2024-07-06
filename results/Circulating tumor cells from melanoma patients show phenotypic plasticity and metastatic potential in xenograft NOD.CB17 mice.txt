@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul', 'Day': '11'}
+Innovative therapies have improved the overall survival in melanoma, although a high number of patients still experience disease progression or recurrence. Ex-vivo culture of circulating tumour cells (CTCs) represents a valuable laboratory resource for in-depth characterization of rare cell populations responsible for disease progression.

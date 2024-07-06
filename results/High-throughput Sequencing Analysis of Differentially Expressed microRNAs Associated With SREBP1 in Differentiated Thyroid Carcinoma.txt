@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct'}
+MicroRNAs (miRNAs) interact with mRNAs and play important roles in progression and prognosis in multiple cancers. Sterol regulatory element-binding protein 1 (SREBP1) is an important lipid metabolism regulatory gene. The aim of the present study was to analyze the profiles of miRNAs that are associated with SREBP1 expression in differentiated thyroid carcinoma (DTC).

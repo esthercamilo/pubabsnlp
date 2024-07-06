@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Jul'}
+A plethora of studies have attempted to identify genetic determinants of disease susceptibility and treatment response of patients with cluster headache (CH), but results are often conflicting, and no comprehensive overview with a quantitative summary of the evidence in this field is available.

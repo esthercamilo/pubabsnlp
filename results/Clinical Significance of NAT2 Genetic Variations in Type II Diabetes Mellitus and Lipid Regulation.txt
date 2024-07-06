@@ -1,0 +1,2 @@
+{'Year': '2023'}
+N-acetyltransferase 2 (NAT2) enzyme is a Phase II drug-metabolizing enzyme that metabolizes different compounds. Genetic variations in <i>NAT2</i> can influence the enzyme's activity and potentially lead to the development of certain diseases.

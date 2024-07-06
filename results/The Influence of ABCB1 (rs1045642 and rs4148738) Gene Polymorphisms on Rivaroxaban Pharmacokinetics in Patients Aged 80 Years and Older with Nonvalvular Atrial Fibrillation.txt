@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep'}
+ABCB1 gene polymorphisms are associated with rivaroxaban distribution changes and adverse reactions but the data are controversial.

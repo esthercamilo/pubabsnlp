@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct'}
+Nontyphoidal Salmonella (NTS) is a major foodborne pathogen causing from acute gastroenteritis to bacteraemia, particularly in paediatric and elderly patients. Antimicrobial resistance of NTS, especially resistance to extended-spectrum cephalosporins, has emerged over the past decades.

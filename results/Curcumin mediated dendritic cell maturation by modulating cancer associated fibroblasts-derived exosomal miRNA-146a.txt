@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '01'}
+Though cancer associated fibroblasts (CAFs), being a main component of tumor microenvironment (TME), are known to modulate immune response through secretion of various growth hormones, exosomes carrying miRNAs and cytokines; their effect on dendritic cells (DCs) are yet to be elucidated. Thus, aim of this study was to assess the effect of miRNAs and cytokines released by lung-CAFs and to evaluate immunomodulatory potential of curcumin on DC maturation through modulating their TME.

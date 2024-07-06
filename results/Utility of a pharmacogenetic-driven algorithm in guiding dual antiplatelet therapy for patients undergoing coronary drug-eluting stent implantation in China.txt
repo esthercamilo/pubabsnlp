@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+The POPular Risk Score (PRiS), a pharmacogenetic-driven algorithm consisting of CYP2C19 genotype, platelet reactivity, and clinical risk factors, is developed to evaluate ischemic risk and guide dual antiplatelet therapy (DAPT). This study aimed to evaluate the efficacy and safety of DAPT in accordance with the PRiS in patients undergoing drug-eluting stent (DES) implantation.

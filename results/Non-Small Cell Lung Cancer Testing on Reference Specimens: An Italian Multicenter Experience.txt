@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+Biomarker testing is mandatory for the clinical management of patients with advanced non-small cell lung cancer (NSCLC). Myriads of technical platforms are now available for biomarker analysis with differences in terms of multiplexing capability, analytical sensitivity, and turnaround time (TAT). We evaluated the technical performance of the diagnostic workflows of 24 representative Italian institutions performing molecular tests on a series of artificial reference specimens built to mimic routine diagnostic samples.

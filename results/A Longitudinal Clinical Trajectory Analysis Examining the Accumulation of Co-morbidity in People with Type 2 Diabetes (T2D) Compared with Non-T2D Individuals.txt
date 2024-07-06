@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+Type 2 diabetes mellitus (T2D) is commonly associated with an increasing complexity of multimorbidity. While some progress has been made in identifying genetic and non-genetic risk factors for T2D, understanding the longitudinal clinical history of individuals before/after T2D diagnosis may provide additional insights.

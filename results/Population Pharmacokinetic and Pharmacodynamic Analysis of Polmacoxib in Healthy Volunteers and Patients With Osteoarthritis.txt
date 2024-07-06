@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+Polmacoxib, a new coxib dually inhibiting cyclooxygenase-2 and carbonic anhydrase I/II, was recently approved for osteoarthritis treatment in South Korea. This study explored the population pharmacokinetic and pharmacodynamic characteristics of polmacoxib.

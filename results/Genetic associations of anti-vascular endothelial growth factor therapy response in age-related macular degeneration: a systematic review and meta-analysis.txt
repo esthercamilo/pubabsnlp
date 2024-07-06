@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May'}
+To investigate the association of all reported common polymorphisms in anti-vascular endothelial growth factor (VEGF) therapy response and to identify potential clinically useful biomarkers for anti-VEGF therapy response in patients with age-related macular degeneration (AMD).

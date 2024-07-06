@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jun'}
+Thymoquinone (TQ) is one of the bioactive compounds in Nigella sativa (NS). Also known as black seeds/cumin, it has been postulated to possess anti-atherogenic properties. However, research on the effects of NS oil (NSO) and TQ on atherogenesis remain scarce. The aim of this study is to determine gene and protein expression of Intercellular Adhesion Molecule-1 (ICAM-1), Vascular Cell Adhesion Molecule-1 (VCAM-1), and Endothelial-eukocyte adhesion molecule (E-selectin) in Human Coronary Artery Endothelial Cells (HCAECs).

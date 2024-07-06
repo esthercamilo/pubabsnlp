@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '03'}
+Few studies have annotated the whole mitochondrial DNA (mtDNA) genome associated with drug responses in Asian populations. This study aimed to characterize mtDNA genetic profiles, especially the distribution and frequency of well-known genetic biomarkers associated with diseases and drug-induced toxicity in a Korean population.

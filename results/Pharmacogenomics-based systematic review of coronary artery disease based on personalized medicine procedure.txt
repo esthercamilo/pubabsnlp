@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '15'}
+Coronary artery disease (CAD) is the most common reason for mortality and disability-adjusted life years (DALYs) lost globally. This study aimed to suggest a new gene list for the treatment of CAD by a systematic review of bioinformatics analyses of pharmacogenomics impacts of potential genes and variants.

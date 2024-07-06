@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '15'}
+Both age and CYP2C19 genotypes affect voriconazole plasma concentration; the interaction of age and CYP2C19 genotypes on voriconazole plasma concentration remains unknown. This study aims to investigate the combined effects of age and CYP2C19 genotypes on voriconazole plasma concentration in Chinese patients.

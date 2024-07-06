@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov', 'Day': '01'}
+Trastuzumab deruxtecan (T-DXd) is reshaping the therapeutic landscape of HER2-positive tumors. A recent article reports on the preclinical activity of the combination of T-DXd plus adavosertib, WEE1 kinase inhibitor, which promises to expand the use of this antibody-drug conjugate in HER2-positive tumors with CCNE1 coamplification. See related article by DiPeri et al., p. 4385.

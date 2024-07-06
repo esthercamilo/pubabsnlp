@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb'}
+Although migraine prevalence decreases with aging, some older patients still suffer from chronic migraine (CM). This study aimed to investigate the outcome of OnabotulinumtoxinA (OBT-A) as preventative therapy in elderly CM patients.

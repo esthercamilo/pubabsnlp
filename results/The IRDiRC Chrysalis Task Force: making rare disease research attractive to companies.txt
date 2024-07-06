@@ -1,0 +1,2 @@
+{'Year': '2023', 'Season': 'Jan-Dec'}
+The International Rare Diseases Research Consortium (IRDiRC) is an international initiative that aims to use research to facilitate rapid diagnosis and treatment of rare diseases.

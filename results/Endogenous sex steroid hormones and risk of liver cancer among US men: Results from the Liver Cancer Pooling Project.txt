@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jul'}
+Incidence rates of liver cancer in most populations are two to three times higher among men than women. The higher rates among men have led to the suggestion that androgens are related to increased risk whereas oestrogens are related to decreased risk. This hypothesis was investigated in the present study via a nested case-control analysis of pre-diagnostic sex steroid hormone levels among men in five US cohorts.

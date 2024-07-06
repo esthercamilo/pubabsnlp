@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+Real-world studies on fremanezumab, an anti-calcitonin gene-related peptide monoclonal antibody for migraine prevention, are few and with limited follow-up.

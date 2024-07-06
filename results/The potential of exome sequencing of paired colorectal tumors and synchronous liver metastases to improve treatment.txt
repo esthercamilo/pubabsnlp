@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug'}
+Tweetable abstract Sequencing exomes of synchronous and metachronous liver metastases of colorectal cancer has potential to enhance treatment, since they can have molecular profiles distinct from primary tumors.

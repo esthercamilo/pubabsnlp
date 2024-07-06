@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Glioblastoma multiforme (GBM), the most prevalent and aggressive of primary malignant central nervous system tumors (grade IV), has a poor clinical prognosis. This study aimed to assess and predict the survival of GBM patients by establishing an m6A-related lncRNA signaling model and to validate its validity, accuracy and applicability.

@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Statins are increasingly widely used in the primary and secondary prevention of cardiovascular disease. However, there is an inter-individual variation in statin response among patients. The study aims to determine the association between genetic variations in drug-metabolizing enzyme and transporter (DMET) genes and lipid-lowering response to a statin in Thai patients with hyperlipidemia.

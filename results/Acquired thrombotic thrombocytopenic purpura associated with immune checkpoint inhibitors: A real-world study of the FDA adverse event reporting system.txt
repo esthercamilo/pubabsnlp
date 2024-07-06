@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep'}
+Immune checkpoint inhibitors (ICIs) are used for a variety of cancers and are associated with a risk of developing immune-related adverse events, most commonly colitis, dermatitis, hepatitis, and thyroiditis. Rare autoimmune hematologic toxicities have been reported but are less well-described in the literature. Acquired thrombotic thrombocytopenic purpura (TTP) is a life-threatening autoimmune condition that has been reported with ICIs but has been limited to case reports.

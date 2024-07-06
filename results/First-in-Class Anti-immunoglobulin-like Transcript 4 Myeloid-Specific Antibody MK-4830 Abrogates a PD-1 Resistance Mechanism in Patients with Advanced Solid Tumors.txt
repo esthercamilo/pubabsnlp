@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '01'}
+In this first-in-human study (NCT03564691) in advanced solid tumors, we investigated a novel first-in-class human IgG4 monoclonal antibody targeting the immunoglobulin-like transcript 4 (ILT4) receptor, MK-4830, as monotherapy and in combination with pembrolizumab.

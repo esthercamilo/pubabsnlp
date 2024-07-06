@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct', 'Day': '28'}
+Advances in next-generation sequencing technologies are changing the ways cancer diagnosis and treatment, which leads to a new branch of precision medicine: "Precision Oncology". This study aims to deliver a structured overview to carry out a bibliometric analysis of precision oncology research over the past 10 years retrospectively.

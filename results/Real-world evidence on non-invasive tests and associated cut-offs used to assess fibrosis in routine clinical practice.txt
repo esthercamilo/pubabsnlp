@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan'}
+Non-invasive tests (NITs) offer a practical solution for advanced fibrosis identification in non-alcoholic fatty liver disease (NAFLD). Despite increasing implementation, their use is not standardised, which can lead to inconsistent interpretation and risk stratification. We aimed to assess the types of NITs and the corresponding cut-offs used in a range of healthcare settings.

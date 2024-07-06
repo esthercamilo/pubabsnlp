@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug', 'Day': '24'}
+Recent studies identified correlations between splicing factors (SFs) and tumor progression and therapy. However, the potential roles of SFs in immune regulation and the tumor microenvironment (TME) remain unknown.

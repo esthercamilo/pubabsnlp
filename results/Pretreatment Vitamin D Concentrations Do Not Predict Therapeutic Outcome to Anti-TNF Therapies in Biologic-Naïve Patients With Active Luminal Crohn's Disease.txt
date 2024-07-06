@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jul'}
+Vitamin D has a regulatory role in innate and adaptive immune processes. Previous studies have reported that low pretreatment vitamin D concentrations are associated with primary non-response (PNR) and non-remission to anti-TNF therapy. This study aimed to assess whether pretreatment 25-hydroxyvitamin D concentrations predicted PNR and non-remission to infliximab and adalimumab in patients with active luminal Crohn's disease.

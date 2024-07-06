@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+The aim of this prospective study was to compare perioperative opioid use in women by status of CYP2D6, a highly polymorphic pharmacogene relevant to opioid metabolism.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '01'}
+Gut dysbiosis contributes to multiple autoimmune diseases, including ankylosing spondylitis, which is commonly treated with tumor necrosis factor (TNF)-α inhibitors (TNFis). Because host TNF-α levels are considered to interact with gut microbiota, we aimed to systematically investigate the microbiota profile of ankylosing spondylitis patients with anti-TNF-α-based treatment and identify potential key bacteria.

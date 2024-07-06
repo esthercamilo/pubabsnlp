@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Aug', 'Day': '19'}
+Dystonia is a known neurological complication of certain medications; however, the mechanism behind such effects is often undetermined. Similarly, the clinical pharmacogenomic effects associated with various alleles of the cytochrome P450 family of proteins, and their role in acute dystonic reactions, are also presently unknown.

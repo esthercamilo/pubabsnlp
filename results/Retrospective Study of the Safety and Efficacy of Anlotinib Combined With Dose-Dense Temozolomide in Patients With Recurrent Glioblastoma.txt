@@ -1,0 +1,2 @@
+{'Year': '2021'}
+The purpose of this study was to retrospectively analyze the safety and clinical efficacy of anlotinib combined with dose-dense temozolomide (TMZ) as the first-line therapy in the treatment of recurrent glioblastoma (rGBM).

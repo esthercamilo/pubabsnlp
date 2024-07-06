@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb'}
+Pharmacogenetics studies suggest that genetic variants have a possible influence on the inter-individual differences in therapeutic response to glucagon-like peptide 1 receptor agonists (GLP-1 RAs). We aimed to examine the potential role of genetic variability of glucagon-like peptide 1 receptor (GLP-1R) on glycemic response to GLP-1 RAs in a population of Iranian people with type 2 diabetes mellitus (T2DM).

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun', 'Day': '08'}
+Seizures are a common symptom in glioma patients, and they can cause brain dysfunction. However, the mechanism by which glioma-related epilepsy (GRE) causes alterations in brain networks remains elusive.

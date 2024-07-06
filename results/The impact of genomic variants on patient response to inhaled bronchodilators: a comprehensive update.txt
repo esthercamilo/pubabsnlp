@@ -1,0 +1,2 @@
+{'Year': '2023', 'Season': 'Jan-Jun'}
+The bronchodilator response (BDR) depends on many factors, including genetic ones. Numerous single nucleotide polymorphisms (SNPs) influencing BDR have been identified. However, despite several studies in this field, genetic variations are not currently being utilized to support the use of bronchodilators.

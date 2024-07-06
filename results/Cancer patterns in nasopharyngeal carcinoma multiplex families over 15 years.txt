@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov', 'Day': '15'}
+Genetic and environmental factors are important determinants of nasopharyngeal carcinoma (NPC). NPC is associated with Epstein-Barr virus (EBV) infection. Studies have reported familial aggregation of NPC, but evidence has been mixed for elevated rates of cancers other than NPC.

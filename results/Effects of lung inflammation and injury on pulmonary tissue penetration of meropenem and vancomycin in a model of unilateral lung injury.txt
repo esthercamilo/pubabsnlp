@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jul'}
+The timing and dosing of antimicrobial therapy are key in the treatment of pneumonia in critically ill patients. It is uncertain whether the presence of lung inflammation and injury affects tissue penetration of intravenously administered antimicrobial drugs. The effects of lung inflammation and injury on tissue penetration of two antimicrobial drugs commonly used for pneumonia were determined in an established model of unilateral lung injury.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Season': 'Jan-Dec'}
+Cannabidiol (CBD) is a widely utilized nonpsychoactive cannabinoid available as a prescriptive drug treatment and over-the-counter supplement. In humans, CBD is metabolized and forms the major active metabolite 7-hydroxy-cannabidiol (7-OH-CBD), which is further metabolized to 7-carboxy-cannabidiol (7-COOH-CBD). In the current study, plasma concentrations of CBD, 7-OH-CBD, and 7-COOH-CBD were measured, and the potential influences of sex, race, and body mass index (BMI) on the pharmacokinetic variability were assessed.

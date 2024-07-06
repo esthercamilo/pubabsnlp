@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '27'}
+Besides good glycemic control, also control of lipid levels can effectively prevent or delay late type 2 diabetes (T2D) complications. As apolipoprotein E (APOE) and paraoxonase 1 (PON1) were shown to suppress atherosclerosis, we investigated the associations of common functional PON1 and APOE polymorphisms with plasma lipid levels and the risk for late complications in T2D patients.

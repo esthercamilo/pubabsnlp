@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+Side effects of irinotecan treatment can be dose limiting and may impair quality of life. In this study, we investigated the correlation between single nucleotide polymorphisms (SNPs) in genes encoding enzymes involved in the irinotecan metabolism and transport, outside UGT1A1, and irinotecan-related toxicity. We focused on carboxylesterases, which are involved in formation of the active metabolite SN-38 and on drug transporters.

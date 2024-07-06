@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug'}
+Pharmacogenetic testing enhances patient safety by improving medical treatment and reducing side effects. It has shown potential in both primary and secondary care. However, implementation in healthcare, particularly in primary care, is slow.

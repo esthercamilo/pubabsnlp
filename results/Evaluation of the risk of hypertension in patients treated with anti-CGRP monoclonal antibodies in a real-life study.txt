@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+To explore the rate of hypertension incoming in patients treated with monoclonal antibodies against the calcitonin gene-related peptide.

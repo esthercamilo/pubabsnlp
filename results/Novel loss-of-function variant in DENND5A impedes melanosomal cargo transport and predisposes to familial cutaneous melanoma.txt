@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+More than half of the familial cutaneous melanomas have unknown genetic predisposition. This study aims at characterizing a novel melanoma susceptibility gene.

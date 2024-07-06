@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb'}
+We aimed to assess the combined role of vitamin D and albumin serum levels as predictors of COVID-19 disease progression.

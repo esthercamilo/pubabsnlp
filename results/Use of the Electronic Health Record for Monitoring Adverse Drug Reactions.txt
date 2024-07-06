@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jul'}
+Adverse drug reactions (ADRs) are a significant cause of morbidity and mortality. The electronic health record (EHR) provides an opportunity to monitor ADRs, mainly through the utilization of drug allergy data and pharmacogenomics. This review article explores the current use of the EHR for ADR monitoring and highlights areas that require improvement.

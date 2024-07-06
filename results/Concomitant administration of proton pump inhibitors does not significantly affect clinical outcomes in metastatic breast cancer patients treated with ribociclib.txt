@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec'}
+Gastric pH changes by proton-pump-inhibitors (PPIs) were found to affect progression-free survival (PFS) in metastatic breast cancer (mBC) patients treated with palbociclib. The current study was aimed at investigating whether the same effect could occur in patients treated with ribociclib.

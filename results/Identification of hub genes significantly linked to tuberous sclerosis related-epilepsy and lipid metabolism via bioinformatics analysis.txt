@@ -1,0 +1,2 @@
+{'Year': '2024'}
+Tuberous sclerosis complex (TSC) is one of the most common genetic causes of epilepsy. Identifying differentially expressed lipid metabolism related genes (DELMRGs) is crucial for guiding treatment decisions.

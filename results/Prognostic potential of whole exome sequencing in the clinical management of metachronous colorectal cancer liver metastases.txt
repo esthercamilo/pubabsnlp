@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov', 'Day': '26'}
+Colorectal cancer is a highly prevalent and deadly. The most common metastatic site is the liver. We performed a whole exome sequencing analysis of a series of metachronous colorectal cancer liver metastases (mCLM) and matched non-malignant liver tissues to investigate the genomic profile of mCLM and explore associations with the patients' prognosis and therapeutic modalities.

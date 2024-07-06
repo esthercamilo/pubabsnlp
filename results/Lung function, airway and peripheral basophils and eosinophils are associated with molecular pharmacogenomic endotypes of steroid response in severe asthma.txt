@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May'}
+Asthma is a complex disease with heterogeneous expression/severity. There is growing interest in defining asthma endotypes consistently associated with different responses to therapy, focusing on type 2 inflammation (Th2) as a key pathological mechanism. Current asthma endotypes are defined primarily by clinical/laboratory criteria. Each endotype is likely characterised by distinct molecular mechanisms that identify optimal therapies.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec'}
+As pharmacogenomic services begin to emerge in primary care, the insight of the public is crucial for its integration into clinical practice.

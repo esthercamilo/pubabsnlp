@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '06'}
+Methylenetetrahydrofolate reductase (MTHFR) is an enzyme responsible for producing an active form of folate. The <i>MTHFR</i> T677T genotype may have adverse health effects associated with weight gain and a reduction in folate availability.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep'}
+Cancer care-related greenhouse gas (GHG) emissions harm human health. Many cancer drugs are administered at greater-than-necessary doses, frequencies, and durations. Alternative dosing strategies may enable reductions in cancer care GHG emissions without compromising patient outcomes.

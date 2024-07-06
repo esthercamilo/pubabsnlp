@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jun'}
+Serum microRNA-122 (miR-122) is a novel biomarker for drug-induced liver injury, with good sensitivity in the early diagnosis of paracetamol-induced liver injury. We describe miR-122 concentrations in participants with antituberculosis drug-induced liver injury (AT-DILI). We explored the relationship between miR-122 and alanine aminotransferase (ALT) concentrations and the effect of N-acetylcysteine (NAC) on miR-122 concentrations.

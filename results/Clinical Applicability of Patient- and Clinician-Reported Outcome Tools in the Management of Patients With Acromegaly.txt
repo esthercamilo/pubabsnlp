@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+We aimed to assess treatment outcomes and disease control status in patients with acromegaly using patient- and clinician-reported outcome tools and to analyze correlations among different components of both tools.

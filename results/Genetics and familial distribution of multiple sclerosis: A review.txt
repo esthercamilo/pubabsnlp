@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun'}
+This article reviews the genetics of multiple sclerosis (MS), as well as intra-familial concordance and clinical correlations between different members of a family. Indeed, significant findings have been made on these topics in recent years.

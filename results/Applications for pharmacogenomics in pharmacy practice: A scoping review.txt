@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+Pharmacogenomics (PGx) can provide valuable pharmacokinetic and pharmacodynamic information for the pharmacist's assessment of drug therapy, especially within medication therapy management (MTM) services. However, no review has comprehensively mapped the pharmacists' use of PGx in practice-based research. Doing so would allow future researchers, practitioners, and policy-makers to identify the ideal populations and settings for PGx implementation within the pharmacy.

@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov'}
+Sorafenib,an orally bioavailable, multitarget tyrosine kinase inhibitor, and irinotecan, a topoisomerase I inhibitor, have demonstrated activity in pediatric and adult malignancies. We evaluated the toxicity, pharmacokinetic (PK), and pharmacogenomic (PGX) profile of sorafenib with irinotecan in children with relapsed or refractory solid tumors and assessed the feasibility of incorporating patient-reported outcome (PRO) measures as an adjunct to traditional endpoints.

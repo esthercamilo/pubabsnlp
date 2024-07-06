@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '23'}
+Elevated lipoprotein(a) (Lp[a]) concentrations are associated with increased cardiovascular event risk even in the presence of well-controlled low-density lipoprotein cholesterol levels, but few treatments are documented to reduce this residual risk.

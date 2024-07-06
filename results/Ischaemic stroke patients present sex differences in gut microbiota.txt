@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+Gut microbiota plays a role in the pathophysiology of ischaemic stroke (IS) through the bidirectional gut-brain axis. Nevertheless, little is known about sex-specific microbiota signatures in IS occurrence.

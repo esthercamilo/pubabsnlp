@@ -1,0 +1,2 @@
+{'Year': '2021'}
+Brain metastasis is extremely rare but predicts dismal prognosis in papillary thyroid cancer (PTC). Dynamic evaluation of stepwise metastatic lesions was barely conducted to identify the longitudinal genomic evolution of brain metastasis in PTC.

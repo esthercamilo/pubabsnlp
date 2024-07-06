@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '21'}
+Chemotherapy (CT) remains a backbone treatment of epithelial ovarian cancer (EOC) inducing persistent peripheral neuropathy (CIPN). Using a dedicated patient-reported outcome tool, this study investigated persistent CIPN and its pharmacogenetic predictors in a cohort of long-term EOC survivors.

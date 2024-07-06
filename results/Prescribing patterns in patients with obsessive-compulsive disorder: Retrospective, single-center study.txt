@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '11'}
+Obsessive-compulsive disorder (OCD) is marked by a high rate of treatment resistance. Patients are often left trialing medications within multiple drug classes with little response, causing heterogeneity to emerge in prescribing patterns. This analysis seeks to investigate the selection and dosing of the pharmacotherapy utilized, to portray an overview of prescribing trends in the United States.

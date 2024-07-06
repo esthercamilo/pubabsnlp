@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar'}
+Irinotecan (CPT-11) is an anticancer agent widely used to treat adult solid tumours. Large interindividual variability in the clearance of irinotecan and SN-38, its active and toxic metabolite, results in highly unpredictable toxicity.

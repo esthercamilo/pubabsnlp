@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb'}
+How variations predicted by pharmacogenomic testing to alter drug metabolism and therapeutic response affect outcomes for patients with disorders of gut- brain interaction is unclear.

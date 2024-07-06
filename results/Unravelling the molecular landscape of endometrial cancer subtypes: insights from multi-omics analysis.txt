@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '22'}
+Endometrial cancer (EC) as one of the most common gynecologic malignancies is increasing in incidence during the past 10 years. Genome-Wide Association Studies (GWAS) extended to metabolic and protein phenotypes inspired us to employ multi-omics methods to analyze the causal relationships of plasma metabolites and proteins with EC to advance our understanding of EC biology and pave the way for more targeted approaches to its diagnosis and treatment by comparing the molecular profiles of different EC subtypes.

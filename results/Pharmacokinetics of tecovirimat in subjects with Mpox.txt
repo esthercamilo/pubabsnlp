@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb'}
+To investigate the pharmacokinetics (PK) of tecovirimat in subjects with Mpox.

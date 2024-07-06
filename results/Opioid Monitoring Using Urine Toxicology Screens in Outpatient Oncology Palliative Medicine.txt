@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+There is a paucity of real-world data on opioid screening and urine toxicology testing in outpatient oncology palliative medicine.

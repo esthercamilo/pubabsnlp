@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+Negative symptoms of schizophrenia are associated with adverse clinical outcomes, but there are few effective treatments. We aimed to assess the effects of pimavanserin, a selective 5-HT<sub>2A</sub> inverse agonist and antagonist, on negative symptoms of schizophrenia.

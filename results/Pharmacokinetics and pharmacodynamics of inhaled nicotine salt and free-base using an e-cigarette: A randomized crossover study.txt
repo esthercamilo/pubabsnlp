@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '10'}
+Popular "pod-style" e-cigarettes commonly use nicotine salt-based e-liquids that cause less irritation when inhaled and can deliver higher nicotine concentrations than free-base nicotine. We aimed to investigate the pharmacokinetic and pharmacodynamic effects of different nicotine formulations (salt vs. free-base) and concentrations that might influence systemic nicotine absorption and appeal of e-cigarettes.

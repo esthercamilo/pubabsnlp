@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '01'}
+Alagille syndrome (ALGS) is characterized by chronic cholestasis with associated pruritus and extrahepatic anomalies. Maralixibat, an ileal bile acid transporter inhibitor, is an approved pharmacologic therapy for cholestatic pruritus in ALGS. Since long-term placebo-controlled studies are not feasible or ethical in children with rare diseases, a novel approach was taken comparing 6-year outcomes from maralixibat trials with an aligned and harmonized natural history cohort from the G lobal AL agille A lliance (GALA) study.

@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov'}
+Helicobacter pylori infects approximately 50% of individuals worldwide. Successful H pylori eradication is associated with reduced risk of gastric cancer and peptic ulcer disease, among other conditions. We hypothesized that host genetic determinants, especially those affecting gastric pH, might contribute to eradication therapy failure, particularly when treatment adherence and antibiotic susceptibility are confirmed. We aimed to conduct a meta-analysis of host genetic variants associated with H pylori eradication failure.

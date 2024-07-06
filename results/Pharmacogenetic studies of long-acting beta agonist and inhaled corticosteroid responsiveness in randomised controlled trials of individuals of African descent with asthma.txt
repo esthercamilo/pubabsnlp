@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Dec'}
+Pharmacogenetic studies in asthma cohorts, primarily made up of White people of European descent, have identified loci associated with response to inhaled beta agonists and corticosteroids (ICSs). Differences exist in how individuals from different ancestral backgrounds respond to long-acting beta agonist (LABA) and ICSs. Therefore, we sought to understand the pharmacogenetic mechanisms regulating therapeutic responsiveness in individuals of African descent.

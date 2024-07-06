@@ -1,0 +1,2 @@
+{'Year': '2023'}
+The optimal diagnosis and treatment of tuberculosis (TB) are challenging due to underdiagnosis and inadequate treatment monitoring. Lipid-related genes are crucial components of the host immune response in TB. However, their dynamic expression and potential usefulness for monitoring response to anti-TB treatment are unclear.

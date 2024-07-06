@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov'}
+COVID-19 vaccine-induced antibody responses are reduced in patients with inflammatory bowel disease (IBD) taking anti-TNF or tofacitinib after two vaccine doses. We sought to assess whether immunosuppressive treatments were associated with reduced antibody and T-cell responses in patients with IBD after a third vaccine dose.

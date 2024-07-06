@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Apr', 'Day': '14'}
+The objectives of the study were: (1) to examine the overall distribution of baseline platelet serotonin (5-hydroxytryptamine, 5-HT) values in patients seeking treatment for depression and to define subgroups based on the apparent presence or absence of drug exposure; (2) to assess the bioeffect of 5-HT reuptake inhibitors (SRIs) at the platelet 5-HT transporter; and (3) to examine the relationships of demographic variables including population (ancestry), sex, age, and season of sampling to platelet 5-HT concentration.

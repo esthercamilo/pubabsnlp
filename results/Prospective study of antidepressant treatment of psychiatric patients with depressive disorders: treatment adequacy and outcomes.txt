@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov', 'Day': '28'}
+Despite numerous national depression care guidelines (DCGs), suboptimal antidepressant treatment may occur. We examined DCG concordance and depression treatment outcomes in psychiatric settings.

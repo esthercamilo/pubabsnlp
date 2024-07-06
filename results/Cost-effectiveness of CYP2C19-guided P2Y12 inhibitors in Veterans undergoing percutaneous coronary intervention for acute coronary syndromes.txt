@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Apr', 'Day': '26'}
+CYP2C19-guided P2Y12 inhibitor selection can reduce cardiovascular (CV) events and bleeding in patients with acute coronary syndromes (ACSs) post-percutaneous coronary intervention (PCI). The 12-month cost-effectiveness of CYP2C19-guided P2Y12 inhibitor selection for Veterans post-ACS/PCI was evaluated from the Veterans Health Administration's (VHA) perspective.

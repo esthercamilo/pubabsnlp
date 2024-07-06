@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jun'}
+Progress in breast cancer (BC) research relies on the availability of suitable cell lines that can be implanted in immunocompetent laboratory mice. The best studied mouse strain, C57BL/6, is also the only one for which multiple genetic variants are available to facilitate the exploration of the cancer-immunity dialog. Driven by the fact that no hormone receptor-positive (HR<sup>+</sup>) C57BL/6-derived mammary carcinoma cell lines are available, we decided to establish such cell lines.

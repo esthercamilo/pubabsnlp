@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Micro-heart muscle arrays enable medium-throughput experiments to model the cardiac response to a variety of environmental and pharmaceutical effects. Here, we describe stem cell culture maintenance, methods for successful cardiac differentiation, and formation of micro-heart muscle arrays for electrophysiology and molecular biology assays.

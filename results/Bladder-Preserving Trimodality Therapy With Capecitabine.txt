@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+Many patients with muscle-invasive bladder cancer are poor candidates for radical cystectomy or trimodality therapy with maximal transurethral resection of bladder tumor (TURBT) and chemoradiotherapy with cisplatin or mitomycin C. Given the benefit of chemotherapy in bladder-preserving therapy, less-intense concurrent chemotherapy regimens are needed. This study reports on efficacy and toxicity for patients treated with trimodality therapy using single-agent concurrent capecitabine.

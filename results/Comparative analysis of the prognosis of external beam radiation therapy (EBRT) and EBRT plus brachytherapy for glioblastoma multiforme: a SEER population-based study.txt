@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct', 'Day': '28'}
+Radiotherapy is one of the effective ways to treat glioblastoma multiforme (GBM). We aimed to explore the prognostic difference between external beam radiotherapy (EBRT) and EBRT combined with brachytherapy (EBRT + BT).

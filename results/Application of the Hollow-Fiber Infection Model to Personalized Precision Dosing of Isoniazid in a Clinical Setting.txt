@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '08'}
+The hollow-fiber infection model (HFIM) is a valuable tool for evaluating pharmacokinetics/pharmacodynamics relationships and determining the optimal antibiotic dose in monotherapy or combination therapy, but the application for personalized precision medicine in tuberculosis treatment remains limited. This study aimed to evaluate the efficacy of adjusted antibiotic doses for a tuberculosis patient using HFIM.

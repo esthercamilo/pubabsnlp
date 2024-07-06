@@ -1,0 +1,2 @@
+{'Year': '2023', 'Season': 'Jul-Dec'}
+Although significant development has been made in high-throughput screening of oral drug absorption and oral bioavailability, <i>in silico</i> prediction continues to play an important role in prediction of oral bioavailability and assisting in the proper selection of potential drug candidates.

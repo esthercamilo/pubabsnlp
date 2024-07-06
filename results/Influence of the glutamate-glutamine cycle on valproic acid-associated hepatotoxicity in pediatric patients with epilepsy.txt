@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '24'}
+Although valproic acid is generally well tolerated, hepatotoxicity is a common side effect in patients receiving long-term treatment. However, the mechanisms underlying valproic acid-associated hepatotoxicity remain elusive.

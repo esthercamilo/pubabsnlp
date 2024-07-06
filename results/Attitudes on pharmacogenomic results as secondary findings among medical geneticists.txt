@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct', 'Day': '01'}
+As evidence mounts supporting the utility of pharmacogenomic-guided medication management, incorporating pharmacogenomic genes into secondary finding results from sequencing panels is increasingly under consideration. We studied medical geneticists' attitudes on receiving pharmacogenomic results as secondary finding.

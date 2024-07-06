@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jan'}
+Diagnosing drug-induced allergy, especially nonimmediate phenotypes, is challenging. Incorrect classifications have unwanted consequences.

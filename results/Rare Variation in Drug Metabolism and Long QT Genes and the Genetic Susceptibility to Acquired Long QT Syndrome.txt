@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+Acquired long QT syndrome (aLQTS) is a serious unpredictable adverse drug reaction. Pharmacogenomic markers may predict risk.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '01'}
+Although impaired insulin signaling at a post-receptor level was a well-established key driver of insulin resistance, the role of surface abnormal insulin receptor (INSR) location in insulin resistance pathogenesis tended to be ignored and its molecular mechanisms remained obscure. Herein, this study aimed to investigate hepatic apolipoprotein E (APOE) impaired cellular insulin action via reducing cell surface INSR, especially in caveolae.

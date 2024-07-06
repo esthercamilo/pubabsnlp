@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Dec'}
+The HERMES (HEart failure Molecular Epidemiology for Therapeutic targetS) consortium aims to identify the genomic and molecular basis of heart failure.

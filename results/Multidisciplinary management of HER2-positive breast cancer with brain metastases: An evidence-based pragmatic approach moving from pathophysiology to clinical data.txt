@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+About 30-50 % of stage IV HER2+ breast cancers (BC) will present brain metastases (BMs). Their management is based on both local treatment and systemic therapy. Despite therapeutic advances, BMs still impact on survival and quality of life and the development of more effective systemic therapies represents an unmet clinical need.

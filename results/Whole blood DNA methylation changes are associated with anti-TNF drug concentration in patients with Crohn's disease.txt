@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '08'}
+Anti-TNF treatment failure in patients with inflammatory bowel disease (IBD) is common and frequently related to low drug concentrations. In order to identify patients who may benefit from dose optimisation at the outset of anti-TNF therapy, we sought to define epigenetic biomarkers in whole blood at baseline associated with anti-TNF drug concentrations at week 14.

@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Dec'}
+Pathogenic variants of the DPYD gene are strongly associated with grade ≥3 toxicity during fluoropyrimidine chemotherapy. We conducted a systematic review and meta-analysis to estimate the risk of treatment-related death associated with DPYD gene variants.

@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Rifamycins are a novel class of antibiotics clinically approved for tuberculosis chemotherapy. They are characterized by high inter-individual variation in pharmacokinetics. This systematic review aims to present the contribution of genetic variations in drug-metabolizing enzymes and transporter proteins to the inter-individual variation of rifamycin pharmacokinetics.

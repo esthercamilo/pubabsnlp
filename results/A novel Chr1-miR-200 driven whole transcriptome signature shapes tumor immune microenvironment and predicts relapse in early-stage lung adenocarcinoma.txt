@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May', 'Day': '15'}
+In Lung adenocarcinoma (LUAD), targeted therapies and immunotherapies have moved from metastatic to early stage and stratification of the relapse risk becomes mandatory. Here we identified a miR-200 based RNA signature that delineates Epithelial-to-mesenchymal transition (EMT) heterogeneity and predicts survival beyond current classification systems.

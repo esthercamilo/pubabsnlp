@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov'}
+Cardiometabolic dysfunction is common in young people with psychosis. Recently, the Psychosis Metabolic Risk Calculator (PsyMetRiC) was developed and externally validated in the UK, predicting up-to six-year risk of metabolic syndrome (MetS) from routinely collected data. The full-model includes age, sex, ethnicity, body-mass index, smoking status, prescription of metabolically-active antipsychotic medication, high-density lipoprotein, and triglyceride concentrations; the partial-model excludes biochemical predictors.

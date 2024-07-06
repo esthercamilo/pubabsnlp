@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jun'}
+Genetic variants may affect drug efficacy on postoperative nausea and vomiting (PONV). The understanding of these mechanisms will help to identify the surgical patients who might benefit from specific prophylactic and therapeutic antiemetic treatment. The aim of the present review was to investigate gene polymorphisms that influence 5-hydroxytryptamine (serotonin) type 3 receptor antagonists (5HT3RA) efficacy in PONV.

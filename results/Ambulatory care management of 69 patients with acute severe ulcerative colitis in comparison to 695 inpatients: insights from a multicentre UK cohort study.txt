@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+Acute severe ulcerative colitis (ASUC) traditionally requires inpatient hospital management for intravenous therapies and/or colectomy. Ambulatory ASUC care has not yet been evaluated in large cohorts.

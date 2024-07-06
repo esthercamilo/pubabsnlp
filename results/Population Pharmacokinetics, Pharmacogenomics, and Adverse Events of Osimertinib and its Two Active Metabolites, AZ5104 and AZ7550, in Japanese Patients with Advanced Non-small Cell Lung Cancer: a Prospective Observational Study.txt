@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb'}
+Potential novel strategies for adverse event (AE) management of osimertinib therapy, including therapeutic drug monitoring and the use of biomarkers, have not yet been fully investigated. This study aimed to evaluate (1) the relationship between exposure to osimertinib, especially its active metabolites (AZ5104 and AZ7550), and AEs, and (2) the relationship between germline polymorphisms and AEs.

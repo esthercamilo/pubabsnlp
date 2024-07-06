@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct', 'Day': '01'}
+Juvenile amyotrophic lateral sclerosis (ALS) is a rare form of ALS characterized by age of symptom onset less than 25 years and a variable presentation.

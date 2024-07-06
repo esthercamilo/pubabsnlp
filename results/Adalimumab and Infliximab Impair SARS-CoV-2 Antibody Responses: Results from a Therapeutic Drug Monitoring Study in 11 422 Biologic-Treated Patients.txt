@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar', 'Day': '14'}
+Infliximab attenuates serological responses to SARS-CoV-2 infection. Whether this is a class effect, or if anti-tumour necrosis factor [anti-TNF] level influences serological responses, remains unknown.

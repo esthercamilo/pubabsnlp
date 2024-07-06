@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun'}
+Empirical use of pharmacogenetic test(PGT) is advocated for many drugs, and resource-rich setting hospitals are using the same commonly. The clinical translation of pharmacogenetic tests in terms of cost and clinical utility is yet to be examined in hospitals of low middle income countries (LMICs).

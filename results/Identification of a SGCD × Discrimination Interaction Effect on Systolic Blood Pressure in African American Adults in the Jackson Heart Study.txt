@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '02'}
+In the United States, hypertension disproportionately afflicts over half of African American adults, many of whom also experience racial discrimination. Understanding gene × discrimination effects may help explain racial disparities in hypertension.

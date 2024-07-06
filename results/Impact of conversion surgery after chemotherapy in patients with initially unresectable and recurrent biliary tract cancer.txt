@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+Gemcitabine, cisplatin, and S-1 chemotherapy was superior to gemcitabine and cisplatin chemotherapy for progression-free survival and overall survival for unresectable and recurrent biliary tract cancer in a randomized phase III trial (KHBO1401). This study aimed to evaluate the outcome of conversion surgery after chemotherapy in biliary tract cancer patients (ancillary study, KHBO1401-3C).

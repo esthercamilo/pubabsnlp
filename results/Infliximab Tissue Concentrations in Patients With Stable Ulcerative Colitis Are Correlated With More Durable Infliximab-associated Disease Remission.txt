@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '08'}
+We aimed to determine the correlation between tissue and plasma infliximab concentrations in an outpatient ulcerative colitis (UC) cohort based on histologic disease activity in addition to their relationship with long-term clinical outcomes. We assessed intraparticipant variability in infliximab concentrations between adjacent intestinal samples and the correlation between disease activity and tumor necrosis factor-α (TNF-α).

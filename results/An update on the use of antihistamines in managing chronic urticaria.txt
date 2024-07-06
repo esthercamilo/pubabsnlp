@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+Urticaria, a mast cell-mediated skin disease, manifests as acute or chronic, with the latter divided into spontaneous and inducible types and requires individualized management, including identifying triggers and comorbidities. Antihistamines, particularly the second generation group, form the mainstay of primary treatment plans consisting of dosage adjustments and/or in combination with other treatment modalities depending on underlying disease control.

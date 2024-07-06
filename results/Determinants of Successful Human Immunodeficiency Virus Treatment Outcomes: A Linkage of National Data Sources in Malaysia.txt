@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb'}
+Concerted efforts have been undertaken to reduce the human immunodeficiency virus (HIV) infection by the year 2030 in Malaysia. A situational analysis of the performance of successful HIV treatment and its determinants is vital; however, this information remains scarce. This study aimed to identify the determinants of undetectable viral load among people living with HIV (PLHIV).

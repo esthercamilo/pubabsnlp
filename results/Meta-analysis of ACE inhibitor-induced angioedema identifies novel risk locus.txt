@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+Angioedema is a rare but potentially life-threatening adverse drug reaction in patients receiving angiotensin-converting enzyme inhibitors (ACEis). Research suggests that susceptibility to ACEi-induced angioedema (ACEi-AE) involves both genetic and nongenetic risk factors. Genome- and exome-wide studies of ACEi-AE have identified the first genetic risk loci. However, understanding of the underlying pathophysiology remains limited.

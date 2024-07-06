@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct', 'Day': '17'}
+Current genome-wide association studies of ischemic stroke have focused primarily on late-onset disease. As a complement to these studies, we sought to identify the contribution of common genetic variants to risk of early-onset ischemic stroke.

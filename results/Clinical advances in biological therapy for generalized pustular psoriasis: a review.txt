@@ -1,0 +1,2 @@
+{'Year': '2024', 'Season': 'Jan-Feb'}
+In 2022, U.S. Food and Drug Administration (FDA) approved the first biologics, intravenous spesolimab, for acute flare of generalized pustular psoriasis (GPP). The drug works by blocking IL-36 signaling, the key pathway of GPP. Among the known mutations causing GPP, <i>IL36RN</i> mutations are most common, and the presence of <i>IL36RN</i> mutations had been found to affect the clinical manifestations and treatment response of GPP.

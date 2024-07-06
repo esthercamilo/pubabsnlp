@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '19'}
+The risk of bone fracture is high in patients with chronic kidney disease (CKD), and aggressive treatment to reduce fragility fracture risk is the major strategy. However, the outcomes of osteoporosis medications in patients with CKD remain unclear.

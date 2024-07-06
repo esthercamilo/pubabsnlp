@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug'}
+Using TrkA or TrkB receptor gene knockout HT-22 cells, the selectivity of the interaction of the low-molecular-weight dipeptide BDNF mimetic GSB-106 (hexamethylenediamide bis(N-monosuccinyl-L-seryl-L-lysine)) with TrkB receptors was shown.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+Ethnic diversity in cancer research is crucial as race/ethnicity influences cancer incidence, survival, drug response, molecular pathways, and epigenetic phenomena. In 2018, we began a project to examine racial/ethnic diversity in cancer research, with a commitment to review these disparities every 4 years. This report is our second assessment, detailing the present state of racial/ethnic diversity in cancer genomics and clinical trials.

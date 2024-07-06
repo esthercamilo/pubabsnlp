@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+To examine the predictive factors associated with the progression of different prediabetic status to diabetes.

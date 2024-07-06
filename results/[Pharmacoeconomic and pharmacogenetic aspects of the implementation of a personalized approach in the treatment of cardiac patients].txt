@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Aug'}
+To investigate the possibilities of pharmacoeconomic and pharmacogenetic factors monitoring to assess the effectiveness of treatment of a cardiological profile patients as a part of the implementation of a personalized approach.

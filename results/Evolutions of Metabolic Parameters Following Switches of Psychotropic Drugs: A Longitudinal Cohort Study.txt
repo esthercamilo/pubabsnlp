@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '03'}
+Several psychotropic drugs can induce weight gain and metabolic alterations. The authors compared metabolic evolutions of patients switching versus continuing psychotropic treatments with different risk profiles.

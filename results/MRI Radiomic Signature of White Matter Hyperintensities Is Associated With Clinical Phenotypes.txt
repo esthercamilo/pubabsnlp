@@ -1,0 +1,2 @@
+{'Year': '2021'}
+Neuroimaging measurements of brain structural integrity are thought to be surrogates for brain health, but precise assessments require dedicated advanced image acquisitions. By means of quantitatively describing conventional images, radiomic analyses hold potential for evaluating brain health. We sought to: (1) evaluate radiomics to assess brain structural integrity by predicting white matter hyperintensities burdens (WMH) and (2) uncover associations between predictive radiomic features and clinical phenotypes.

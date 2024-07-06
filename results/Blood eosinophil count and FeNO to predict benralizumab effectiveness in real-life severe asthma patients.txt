@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep'}
+Benralizumab is a promising drug for severe uncontrolled asthma. This study aimed to clarify the effectiveness of benralizumab in a real-life setting.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '28'}
+Ginsenoside compound K (GC-K) potentially alleviates ulcerative colitis involved in gut microbiota, which is significantly associated with the occurrence and development of colitis. However, the effect and mechanism of GC-K on anti-colitis in relation to gut microbiota are not clear. This study focused on the prevention and mechanism of GC-K on Dextran sulfate sodium (DSS)-induced colitis of mice pertinent to gut microbiota.

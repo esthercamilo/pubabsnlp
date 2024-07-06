@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '12'}
+To date, nearly 300 genetic markers were linked to endurance and power/strength traits. The current study aimed to compare genotype distributions and allele frequencies of the common polymorphisms: <i>MCT1</i> rs1049434, <i>NRF2</i> rs12594956, <i>MYBPC3</i> rs1052373 and <i>HFE</i> rs1799945 in Polish elite athletes versus nonathletes.

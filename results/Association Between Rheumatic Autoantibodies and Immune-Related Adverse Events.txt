@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May', 'Day': '08'}
+Side effects of immune checkpoint inhibitors (ICIs), called immune-related adverse events (irAEs), closely resemble primary autoimmune or rheumatic diseases. We aimed to understand the clinical utility of rheumatic autoantibodies (rhAbs) for diagnosing irAEs.

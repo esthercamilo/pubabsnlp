@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '03'}
+Therapeutic drug monitoring (TDM) is strongly recommended for olanzapine due to its high pharmacokinetic variability. This study aimed to investigate the impact of various clinical factors on olanzapine plasma concentrations in patients with psychiatric disorders.

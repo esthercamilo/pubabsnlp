@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov'}
+Determine the pharmacokinetics (PK) and exposure-response of hydroxychloroquine (HCQ) and desethylhydroxychloroquine (DHCQ) in paediatric SLE (pSLE).

@@ -1,0 +1,2 @@
+{'Year': '2022'}
+EVA1B, a protein coding gene, is a critical paralog of EVA1A gene. Herein, our study was conducted to investigate the role of EVA1B in colorectal cancer (CRC) progression and prognosis.

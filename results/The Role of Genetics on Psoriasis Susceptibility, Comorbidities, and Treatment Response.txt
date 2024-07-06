@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jul'}
+This review highlights advances made in psoriasis genetics, including findings from genome-wide association studies, exome-sequencing studies, and copy number variant studies. The impact of genetic variants on various comorbidities and therapeutic responses is discussed.

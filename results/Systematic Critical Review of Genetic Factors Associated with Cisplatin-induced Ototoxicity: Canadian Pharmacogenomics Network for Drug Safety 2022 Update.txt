@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '01'}
+Cisplatin is commonly used to treat solid tumors; however, its use can be complicated by drug-induced hearing loss (ie, ototoxicity). The presence of certain genetic variants has been associated with the development/occurrence of cisplatin-induced ototoxicity, suggesting that genetic factors may be able to predict patients who are more likely to develop ototoxicity. The authors aimed to review genetic associations with cisplatin-induced ototoxicity and discuss their clinical relevance.

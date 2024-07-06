@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec'}
+To determine the number of training days lost due to COVID-19 and vaccination against COVID-19 in elite athletes.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Season': 'Nov-Dec'}
+Delirium is a complex and heterogeneous condition that significantly affects patient outcome. This study aimed to conduct a systematic review and meta-analysis to investigate the effects of melatonin and melatonin receptor agonists (MRAs) on delirium prevention and treatment.

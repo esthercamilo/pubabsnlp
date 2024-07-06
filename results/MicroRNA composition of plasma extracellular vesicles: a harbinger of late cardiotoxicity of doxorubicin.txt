@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '14'}
+The use of doxorubicin is associated with an increased risk of acute and long-term cardiomyopathy. Despite the constantly growing number of cancer survivors, little is known about the transcriptional mechanisms which progress in the time leading to a severe cardiac outcome. It is also unclear whether long-term transcriptomic alterations related to doxorubicin use are similar to transcriptomic patterns present in patients suffering from other cardiomyopathies.

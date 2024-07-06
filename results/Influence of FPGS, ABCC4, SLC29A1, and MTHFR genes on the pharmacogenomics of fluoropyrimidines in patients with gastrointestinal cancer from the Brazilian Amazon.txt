@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov'}
+Fluoropyrimidines are one of the most used drug class to treat cancer patients, although they show high levels of associated toxicity. This study analyzed 33 polymorphisms in 17 pharmacogenes involved with the pharmacogenomics of fluoropyrimidines, in gastrointestinal cancer patients undergoing fluoropyrimidine-based treatment in the Brazilian Amazon.

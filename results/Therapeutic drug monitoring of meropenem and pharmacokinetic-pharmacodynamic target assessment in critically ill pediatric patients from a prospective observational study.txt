@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+To compare the unbound plasma meropenem concentrations at mid-dosing intervals (C<sub>mid</sub>, 50%fT), end-dosing intervals (C<sub>trough</sub>, 100%fT), and proportions of patients achieving 50%fT and 100%fT above minimum inhibitory concentration (MIC) (50%fT<sub>>MIC</sub> and 100%fT<sub>>MIC</sub>) between extended infusion (EI) and intermittent bolus (IB) administration in a therapeutic drug monitoring (TDM) program in children.

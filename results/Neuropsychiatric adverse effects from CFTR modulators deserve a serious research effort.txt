@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov', 'Day': '01'}
+This review highlights the problem of neuropsychiatric adverse effects (AEs) associated with elexacaftor/tezacaftor/ivacaftor (ETI), current suboptimal mitigation approaches, a novel testable mechanistic hypothesis, and potential solutions requiring further research.

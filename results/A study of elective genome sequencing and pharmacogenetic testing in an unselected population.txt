@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Sep'}
+Genome sequencing (GS) of individuals without a medical indication, known as elective GS, is now available at a number of centers around the United States. Here we report the results of elective GS and pharmacogenetic panel testing in 52 individuals at a private genomics clinic in Alabama.

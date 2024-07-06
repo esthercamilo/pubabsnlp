@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '01'}
+The single-nucleotide polymorphism CYP3A5 rs776746 is related to a reduction in the metabolizing activity of the CYP3A5 enzyme. People carrying at least one copy of the wild-type allele, defined as CYP3A5 expressers, exhibit higher clearance and lower trough concentrations of tacrolimus than homozygous nonexpressers, and this difference may affect alloimmunization and allograft function.

@@ -1,0 +1,2 @@
+{'Year': '2024'}
+Adrenocortical carcinoma (ACC) is an aggressive endocrine malignancy with limited therapeutic options. Treating advanced ACC with mitotane, the cornerstone therapy, remains challenging, thus underscoring the significance to predict mitotane response prior to treatment and seek other effective therapeutic strategies.

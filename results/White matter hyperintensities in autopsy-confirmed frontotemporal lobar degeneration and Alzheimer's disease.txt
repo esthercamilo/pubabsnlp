@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Jul', 'Day': '13'}
+We aimed to systematically describe the burden and distribution of white matter hyperintensities (WMH) and investigate correlations with neuropsychiatric symptoms in pathologically proven Alzheimer's disease (AD) and frontotemporal lobar degeneration (FTLD).

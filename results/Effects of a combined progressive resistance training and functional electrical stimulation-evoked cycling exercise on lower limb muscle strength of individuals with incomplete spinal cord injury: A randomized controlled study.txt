@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Mar'}
+This study was conducted to investigate the effects of combined progressive resistance training (PRT) and functional electrical stimulation-evoked leg cycling exercise (FES-LCE) on isometric peak torque and muscle volume in individuals with incomplete spinal cord injury.

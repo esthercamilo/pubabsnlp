@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May'}
+Management strategies and clinical outcomes vary substantially in patients newly diagnosed with Crohn's disease. We evaluated the use of a putative prognostic biomarker to guide therapy by assessing outcomes in patients randomised to either top-down (ie, early combined immunosuppression with infliximab and immunomodulator) or accelerated step-up (conventional) treatment strategies.

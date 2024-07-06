@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan'}
+Glucagon-like peptide-1 receptor agonists (GLP-1RA) and bariatric surgery have proven to be effective treatments for obesity and cardiometabolic conditions. We aimed to explore the early metabolomic changes in response to GLP-1RA (liraglutide) therapy vs. placebo and in comparison to bariatric surgery.

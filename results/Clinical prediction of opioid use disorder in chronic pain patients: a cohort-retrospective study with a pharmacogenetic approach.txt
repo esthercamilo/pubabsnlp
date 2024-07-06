@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May'}
+Opioids are widely used in chronic non-cancer pain (CNCP) management. However, they remain controversial due to serious risk of causing opioid use disorder (OUD). Our main aim was to develop a predictive model for future clinical translation that include pharmacogenetic markers.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr'}
+Antidepressants are a first-line treatment for depression. However, only a third of individuals experience remission after the first treatment. Common genetic variation, in part, likely regulates antidepressant response, yet the success of previous genome-wide association studies has been limited by sample size. This study performs the largest genetic analysis of prospectively assessed antidepressant response in major depressive disorder to gain insight into the underlying biology and enable out-of-sample prediction.

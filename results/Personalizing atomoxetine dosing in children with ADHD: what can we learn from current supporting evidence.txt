@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Mar'}
+There is marked heterogeneity in treatment response of atomoxetine in patients with attention deficit/hyperactivity disorder (ADHD), especially for the pediatric population. This review aims to evaluate current evidence to characterize the dose-exposure relationship, establish clinically relevant metrics for systemic exposure to atomoxetine, define a therapeutic exposure range, and to provide a dose-adaptation strategy before implementing personalized dosing for atomoxetine in children with ADHD.

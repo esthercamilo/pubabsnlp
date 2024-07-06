@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '14'}
+The application of personalized medicine (PM) is rapidly evolving [...].

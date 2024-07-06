@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '01'}
+The aim of the study was to evaluate the ability of a combinatorial pharmacogenomic test to predict medication blood levels and relative clinical improvements in a selected pediatric population.

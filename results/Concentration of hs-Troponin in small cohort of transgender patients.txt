@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '15'}
+Sex-differences in high sensitivity troponin (hs-Tn) concentrations are well established. There is, however, limited data to guide interpretation of hs-Tn in transgender patients, particularly those receiving gender-affirming hormone therapy. Our purpose was to evaluate troponin testing in transgender patients.

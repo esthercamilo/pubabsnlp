@@ -1,0 +1,2 @@
+{'Year': '2022', 'Season': 'May-Jun'}
+Colorectal cancer is a common cancer worldwide, with 5-10% of cases being hereditary. Familial adenomatous polyposis syndrome (FAP) is caused by germline mutations in the APC gene or rarely in the MUTYH gene.

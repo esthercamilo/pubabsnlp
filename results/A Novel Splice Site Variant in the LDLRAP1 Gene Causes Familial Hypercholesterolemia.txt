@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Sep', 'Day': '01'}
+familial hypercholesterolemia (FH), a hereditary disorder, is caused by pathogenic variants in the LDLR, APOB, and PCSK9 genes. This study has assessed genetic variants in a family, clinically diagnosed with FH.

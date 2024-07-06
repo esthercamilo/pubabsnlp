@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '25'}
+While monoclonal antibodies (mAbs) targeting the CGRP pathway have revolutionized migraine management due to their improved tolerance and adherence, concerns remain about their potential impact on blood pressure (BP), especially in older patients, due to CGRP-mediated vasodilation blockade. Given the growing use of these therapies in older populations, assessing their cardiovascular (CV) safety is of paramount importance.

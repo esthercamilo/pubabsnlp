@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '30'}
+8-iso-prostaglandin F2α is a biomarker of lipid peroxidation, and one of the most commonly used measures of oxidative stress. It is an established biomarker of lung cancer risk. It is commonly measured by enzyme-linked immunosorbent assay. Given its importance, we developed a stable isotope dilution UPLC-tandem mass spectrometric method for the rapid determination of 8-isoprostane in blood.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar', 'Day': '24'}
+The role of aberrant DNA methylation in allopurinol-induced severe cutaneous adverse reactions (SCARs) is incompletely understood. To fill the gap, we analyze the DNA methylation profiling in allopurinol-induced Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) patients and identify the DNA methylation signature for predisposing allopurinol hypersensitivity.

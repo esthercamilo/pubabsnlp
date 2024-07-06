@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep'}
+The SHANK3 gene encodes a master synaptic scaffolding protein at the excitatory synapse's postsynaptic density, which is predominantly responsible for constructing a synapse, maintaining synaptic structure, and functions. Recently, evidence from rare mutations and copy number variation provided an important clue about SHANK3 which acts as a strong candidate gene in the pathogenesis of Autism Spectrum Disorder (ASD).

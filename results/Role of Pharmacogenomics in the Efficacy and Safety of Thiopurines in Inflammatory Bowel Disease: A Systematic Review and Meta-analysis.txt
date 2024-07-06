@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '01'}
+Thiopurines' toxicity often leads to dose reduction or discontinuation. This systematic review aims to synthesize the evidence on the effect of genotype-based dosing of thiopurines on treatment efficacy and safety in inflammatory bowel disease (objective #1), and the association between genotype status and the efficacy and safety profile (objective #2).

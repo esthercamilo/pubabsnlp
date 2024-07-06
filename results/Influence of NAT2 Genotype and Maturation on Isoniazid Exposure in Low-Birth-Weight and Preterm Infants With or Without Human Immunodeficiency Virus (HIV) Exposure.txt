@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '29'}
+Isoniazid (INH) metabolism depends on the N-acetyl transferase 2 (NAT2) enzyme, whose maturation process remains unknown in low birth weight (LBW) and preterm infants. We aimed to assess INH exposure and safety in infants receiving oral tuberculosis prevention.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jul'}
+Several opioids have pharmacogenetic and drug-drug interactions which may compromise their analgesic effectiveness, but are not routinely implemented into supportive pain management. We hypothesized that CYP2D6 phenotypes and concomitant use of CYP2D6 substrates or inhibitors would correlate with opioid analgesic outcomes.

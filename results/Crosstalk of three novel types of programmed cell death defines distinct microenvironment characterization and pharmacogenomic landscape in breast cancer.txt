@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Prior studies have highlighted that novel programmed cell death (PCD) modalities, including ferroptosis, pyroptosis, and necroptosis, are correlated with tumor progression and antitumor immunity. Nonetheless, comprehensive analysis of tumor microenvironment (TME) profiles mediated by the crosstalk of distinct PCD forms has not been conducted in breast cancer (BC).

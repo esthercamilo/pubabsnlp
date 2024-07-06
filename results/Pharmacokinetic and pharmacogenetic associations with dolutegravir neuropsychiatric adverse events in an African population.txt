@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct', 'Day': '28'}
+Dolutegravir has been associated with neuropsychiatric adverse events (NPAEs), but relationships between dolutegravir concentrations and NPAEs are unclear.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+Typically, prognostic capability of gene expression profiling (GEP) is studied in the context of clinical trials, for which 50%-80% of patients are not eligible, possibly limiting the generalizability of findings to routine practice. Here, we evaluate GEP analysis outside clinical trials, aiming to improve clinical risk assessment of multiple myeloma (MM) patients.

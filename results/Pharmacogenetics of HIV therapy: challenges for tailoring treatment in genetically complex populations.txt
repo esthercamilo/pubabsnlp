@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+Tweetable abstract Pharmacogenetic tests are a promising strategy to improve safety and effectiveness of HIV therapy. However, implementation can be challenging in populations with complex genetic structure.

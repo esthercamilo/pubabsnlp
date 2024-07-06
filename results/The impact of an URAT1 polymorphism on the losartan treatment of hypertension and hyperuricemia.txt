@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct'}
+This study was designed to evaluate the impact of polymorphisms in the urate transporter 1 (URAT1) gene on the uricosuric action of losartan therapy in hypertensive patients suffering from hyperuricemia.

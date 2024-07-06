@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov', 'Day': '01'}
+Pharmacogenomics has the potential to improve patient outcomes through predicting drug response. We designed and evaluated the analytical performance of a custom OpenArray® pharmacogenomics panel targeting 478 single-nucleotide variants (SNVs).

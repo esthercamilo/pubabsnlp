@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '02'}
+The ubiquitin-proteasome system regulates protein degradation and the development of pulmonary arterial hypertension (PAH), but knowledge about the role of deubiquitinating enzymes in this process is limited. UCHL1 (ubiquitin carboxyl-terminal hydrolase 1), a deubiquitinase, has been shown to reduce AKT1 (AKT serine/threonine kinase 1) degradation, resulting in higher levels. Given that AKT1 is pathological in pulmonary hypertension, we hypothesized that UCHL1 deficiency attenuates PAH development by means of reductions in AKT1.

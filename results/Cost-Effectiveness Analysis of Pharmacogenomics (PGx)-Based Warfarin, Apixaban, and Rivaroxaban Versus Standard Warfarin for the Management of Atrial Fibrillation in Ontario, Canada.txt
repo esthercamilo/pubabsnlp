@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jan'}
+To assess the cost-effectiveness of pharmacogenomics (PGx)-based warfarin (i.e., warfarin dosing following genetic testing), apixaban, and rivaroxaban oral anticoagulation versus standard warfarin for the treatment of newly diagnosed patients with nonvalvular atrial fibrillation (AF) aged ≥ 65 years.

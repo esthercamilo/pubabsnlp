@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '09'}
+The increasing prevalence of metabolic and cardiovascular diseases poses a significant challenge to global healthcare systems. Regular physical activity (PA) is recognized for its positive impact on cardiovascular risk factors. This study aimed to investigate the relationship between moderate-to-vigorous physical activity (MVPA), sedentary behavior (SB), and abdominal aortic calcification (AAC) using data from the National Health and Nutrition Examination Survey (NHANES).

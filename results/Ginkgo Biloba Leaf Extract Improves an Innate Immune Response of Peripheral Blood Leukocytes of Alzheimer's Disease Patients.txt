@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '11'}
+One of the main features of Alzheimer's disease (AD) pathology is failure in innate immune response and chronic inflammation. Lack of effective AD treatment means that more attention is paid to alternative therapy and drugs of natural origin, such as extract of <i>Ginkgo biloba</i> (EGb). The purpose of this study was to investigate the effect of EGb on the mechanisms of innate immune response of peripheral blood leukocytes (PBLs) in AD patients.

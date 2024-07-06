@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+Metabolic syndrome (MetSyn) is associated with high risk of cardiovascular (CV) events, irrespective of statin therapy. In the overall REDUCE-IT study of statin-treated patients, icosapent ethyl (IPE) reduced the risk of the primary composite endpoint (CV death, non-fatal myocardial infarction, non-fatal stroke, coronary revascularization, or unstable angina requiring hospitalization) and the key secondary composite endpoint (CV death, non-fatal myocardial infarction, or non-fatal stroke).

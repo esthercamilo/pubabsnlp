@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun'}
+The FACT-PGx study was conducted to analyze barriers to implementation of pharmacogenetic testing in psychiatric hospitals in Germany and to propose solutions for its faster and easier implementation in all hospitals.

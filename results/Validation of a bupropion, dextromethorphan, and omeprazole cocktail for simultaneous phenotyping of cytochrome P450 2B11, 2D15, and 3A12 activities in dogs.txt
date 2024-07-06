@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '13'}
+Develop a cytochrome P450 (CYP) phenotyping cocktail for dogs using specific substrates for hepatic P450 enzymes CYP2B11, CYP2D15, and CYP3A12 and determine whether alternative sampling methods (saliva and urine) or single time point samples could be used instead of multiple blood sampling.

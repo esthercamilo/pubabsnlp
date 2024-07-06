@@ -1,0 +1,253 @@
+Allele-specific expression analysis was conducted to investigate the regulatory mechanisms underlying differential gene expression between alleles.||allele-specific expression analysis||TECHNIQUE
+Applying genome editing techniques like TALENs, we generated precise modifications in the model organism's genome.||genome editing techniques||TECHNIQUE
+Applying single-cell DNA sequencing, we uncovered genomic heterogeneity within tumor samples, offering insights into cancer evolution.||single-cell DNA sequencing||TECHNIQUE
+Applying synthetic lethality screens, we identified gene interactions that are critical for cancer cell viability, opening new avenues for targeted therapy.||synthetic lethality screens||TECHNIQUE
+ChIP-seq was utilized to identify the binding sites of transcription factors across the genome, revealing key regulatory elements involved in gene expression.||ChIP-seq||TECHNIQUE
+Chromosome conformation capture techniques, such as Hi-C, provided insights into the 3D organization of the genome.||chromosome conformation capture||TECHNIQUE
+Compared with current genomic testing strategies, largely focused on small number of genes tested individually or targeted panels, whole-genome and transcriptome sequencing (WGTS) provides novel opportunities to identify and report a potentially much larger number of actionable alterations with diagnostic, prognostic, and/or predictive impact.||transcriptome sequencing||TECHNIQUE
+Compared with current genomic testing strategies, largely focused on small number of genes tested individually or targeted panels, whole-genome and transcriptome sequencing (WGTS) provides novel opportunities to identify and report a potentially much larger number of actionable alterations with diagnostic, prognostic, and/or predictive impact.||WGTS||TECHNIQUE
+Copy number variation (CNV) analysis revealed genomic regions with altered copy numbers, which may contribute to the development of cancer.||copy number variation||TECHNIQUE
+DNA methylation profile and differential expression of circulating non-coding RNAs (miRNAs and lncRNAs) will be analyzed in FH patients and normolipidemic subjects (control group)||DNA methylation||TECHNIQUE
+Epigenome-wide association studies (EWAS) were performed to understand the role of epigenetic modifications in complex diseases.||epigenome-wide association studies||TECHNIQUE
+Exome capture methods were used to isolate and sequence the coding regions of the genome, aiding in the identification of disease-causing mutations.||exome capture methods||TECHNIQUE
+First, mESCs were differentiated into epiblast stem cells (EpiSCs) to enhance the PP differentiation rate||EpiSCs||TECHNIQUE
+Five pharmacogenetic tests are reviewed in detail: the Roche AmpliChip CYP450 Test, the Luminex Tag-It Mutation Detection Kit, the LGC clozapine response test, the PGxPredict: Clozapine test, and the Genomas PhyzioType system.||Genomas PhyzioType system||TECHNIQUE
+Five pharmacogenetic tests are reviewed in detail: the Roche AmpliChip CYP450 Test, the Luminex Tag-It Mutation Detection Kit, the LGC clozapine response test, the PGxPredict: Clozapine test, and the Genomas PhyzioType system.||LGC clozapine response test||TECHNIQUE
+Five pharmacogenetic tests are reviewed in detail: the Roche AmpliChip CYP450 Test, the Luminex Tag-It Mutation Detection Kit, the LGC clozapine response test, the PGxPredict: Clozapine test, and the Genomas PhyzioType system.||Luminex Tag-It Mutation Detection Kit||TECHNIQUE
+Five pharmacogenetic tests are reviewed in detail: the Roche AmpliChip CYP450 Test, the Luminex Tag-It Mutation Detection Kit, the LGC clozapine response test, the PGxPredict: Clozapine test, and the Genomas PhyzioType system.||PGxPredict: Clozapine test||TECHNIQUE
+Five pharmacogenetic tests are reviewed in detail: the Roche AmpliChip CYP450 Test, the Luminex Tag-It Mutation Detection Kit, the LGC clozapine response test, the PGxPredict: Clozapine test, and the Genomas PhyzioType system.||Roche AmpliChip||TECHNIQUE
+For further mechanistic validation, Molecular Dynamics simulations were performed, which revealed that certain mismatches showed elevated root mean square deviation (RMSD) values that can be attributed to conformational instability within the RNA-DNA duplex||Molecular Dynamics simulations||TECHNIQUE
+Genome annotation tools were used to identify functional elements in the newly sequenced genome.||genome annotation tools||TECHNIQUE
+Genome-wide association studies (GWAS) were conducted to identify genetic variants associated with complex traits, providing insights into the genetic basis of human diseases.||genome-wide association studies||TECHNIQUE
+High-density SNP arrays enabled the detection of genetic variation across populations, contributing to the study of population genetics.||high-density SNP arrays||TECHNIQUE
+High-throughput molecular profiling of tumors is a fundamental aspect of precision oncology, enabling the identification of genomic alterations||molecular profiling||TECHNIQUE
+High-throughput mutagenesis screens identified critical amino acid residues required for protein function.||high-throughput mutagenesis screens||TECHNIQUE
+High-throughput sequencing platforms have significantly reduced the cost and time required for large-scale genomic projects, making genome sequencing more accessible.||high-throughput sequencing||TECHNIQUE
+In the Neocent study, paired tumour whole exome sequence data was available before and after 21 weeks neoadjuvant therapy and bioinformatics approaches were used to compare exome profiles. Shallow whole genome sequencing (sWGS) was also used to explore somatic copy number alterations (SCNA) in ctDNA from in these patients. A related study in patients with metastatic breast cancer (MBC) evaluated NGS analysis of specific mutations using the Oncomine breast cancer cfDNA assay and results were compared with detection of SCNA by sWGS||sWGS||TECHNIQUE
+Shallow whole genome sequencing (sWGS) was also used to explore somatic copy number alterations (SCNA) in ctDNA from in these patients.||whole exome sequencing||TECHNIQUE
+In the Neocent study, paired tumour whole exome sequence data was available before and after 21 weeks neoadjuvant therapy and bioinformatics approaches were used to compare exome profiles. Shallow whole genome sequencing (sWGS) was also used to explore somatic copy number alterations (SCNA) in ctDNA from in these patients. A related study in patients with metastatic breast cancer (MBC) evaluated NGS analysis of specific mutations using the Oncomine breast cancer cfDNA assay and results were compared with detection of SCNA by sWGS||whole genome sequencing||TECHNIQUE
+In this paper, we establish a multi-stage fiber amplifier with pseudo-random binary sequence (PRBS) phase modulation||PRBS||TECHNIQUE
+In this paper, we establish a multi-stage fiber amplifier with pseudo-random binary sequence (PRBS) phase modulation||pseudo-random binary sequence||TECHNIQUE
+Isoform sequencing (Iso-seq) was employed to characterize the full-length transcript isoforms in the sample, providing a detailed view of transcript diversity.||isoform sequencing||TECHNIQUE
+Long non-coding RNA (lncRNA) sequencing revealed novel regulatory RNAs involved in gene expression control.||long non-coding RNA (lncRNA) sequencing||TECHNIQUE
+Long-read sequencing platforms, such as PacBio, facilitated the resolution of structural variants in the genome.||long-read sequencing||TECHNIQUE
+Metagenomic sequencing of environmental samples allowed us to characterize the microbial communities and their functional potential in diverse ecosystems.||metagenomic sequencing||TECHNIQUE
+Microarray analysis was performed to assess the gene expression changes in response to environmental stress, offering a high-throughput approach to study transcriptional regulation.||Microarray analysis||TECHNIQUE
+Microarray analysis was performed using plasma from six patients without anemia and six patients with anemia, and nine miRNAs were differentially expressed.||Microarray||TECHNIQUE
+miR-1273g-3p, miR-3613-5p and miR-455-3p, identified using microarray, were assessed using qPCR in 20 patients without anemia and 26 patients with anemia.||qPCR||TECHNIQUE
+Molecular profiling of tumor samples has acquired importance in cancer research, but currently also plays an important role in the clinical management of cancer patients. Rapid identification of genomic aberrations improves diagnosis, prognosis and effective therapy selection.||Molecular profiling||TECHNIQUE
+Nanopore sequencing technology was employed to generate long reads, which facilitated the assembly of complex genomic regions and the detection of structural variants.||nanopore sequencing||TECHNIQUE
+Next-generation sequencing (NGS) is progressively being used in clinical practice. However, several barriers preclude using this technology for precision oncology in most Latin American countries.||Next-generation sequencing||TECHNIQUE
+Next-generation sequencing (NGS) is progressively being used in clinical practice. However, several barriers preclude using this technology for precision oncology in most Latin American countries.||NGS||TECHNIQUE
+Next-generation sequencing (NGS) is used increasingly in hereditary cancer patients' (HCP) management||Next-generation sequencing||TECHNIQUE
+Next-generation sequencing (NGS) is used increasingly in hereditary cancer patients' (HCP) management||NGS||TECHNIQUE
+Next-generation sequencing (NGS) represents a rapid, relatively inexpensive, large-scale DNA sequencing technology with potential relevance as a comprehensive pharmacogenetic genotyping platform to identify genetic variation related to drug therapy.||Next-generation sequencing||TECHNIQUE
+Our research applied whole-genome sequencing to identify novel genetic variants linked to Alzheimer's disease, highlighting the potential of comprehensive genomic approaches.||whole-genome sequencing||TECHNIQUE
+Pharmacogenomic analysis revealed genetic variants that influence drug metabolism and response, facilitating personalized medicine approaches.||pharmacogenomic analysis||TECHNIQUE
+Sequencing of circulating tumor DNA (ctDNA) in blood samples provided a non-invasive method for monitoring cancer progression.||circulating tumor DNA||TECHNIQUE
+Shallow whole genome sequencing (sWGS) was also used to explore somatic copy number alterations (SCNA) in ctDNA from these patients.||sWGS||TECHNIQUE
+Shallow whole genome sequencing (sWGS) was also used to explore somatic copy number alterations (SCNA) in ctDNA from these patients.||whole genome sequencing||TECHNIQUE
+Shotgun sequencing provided a comprehensive view of the microbial diversity in soil samples, enabling the identification of novel microbial taxa.||shotgun sequencing||TECHNIQUE
+Since the days of Sanger sequencing, next-generation sequencing technologies have significantly evolved to provide increased data output, efficiencies, and applications||next-generation sequencing technologies||TECHNIQUE
+Since the days of Sanger sequencing, next-generation sequencing technologies have significantly evolved to provide increased data output, efficiencies, and applications||Sanger sequencing||TECHNIQUE
+Single-cell multi-omics approaches combined RNA sequencing and epigenetic profiling to provide a comprehensive view of cellular states.||Single-cell multi-omics||TECHNIQUE
+Single-cell RNA sequencing analysis revealed a larger endocrine population within the PP + MP aggregates, as compared to PPs alone or PPs in Matrigel aggregates||Single-cell RNA sequencing||TECHNIQUE
+Single-cell RNA sequencing enabled us to dissect the cellular heterogeneity within the tumor microenvironment, providing a detailed map of cell-type-specific expression patterns.||single-cell RNA sequencing||TECHNIQUE
+Single-molecule real-time (SMRT) sequencing technology provided long-read sequences, aiding in the assembly of complex genomic regions.||single-molecule real-time||TECHNIQUE
+Target enrichment strategies were employed to selectively sequence regions of interest, enhancing the detection of low-frequency variants.||target enrichment strategies||TECHNIQUE
+Targeted sequencing of candidate genes was performed to uncover genetic mutations that confer susceptibility to inherited diseases.||targeted sequencing||TECHNIQUE
+The application of single-cell ATAC-seq allowed for the profiling of chromatin accessibility at a single-cell level, providing insights into gene regulatory networks.||single-cell ATAC-seq||TECHNIQUE
+The development of next-generation-sequencing (NGS) techniques, commercially available since 2006, allowed for a cost- and time-effective sequencing of tumor DNA, leading to a "genomic era" of cancer research and treatment.||next-generation-sequencing||TECHNIQUE
+The last decade has seen rapid progress in the use of genomic tests, including gene panels, whole-exome sequencing , and whole-genome sequencing, in research and clinical cancer||whole-exome sequencing||TECHNIQUE
+The NeuroIDgenetix® test uses a genetic variant panel of ten genes, along with concomitant medications, to make medication management recommendations based on gene-drug and drug-drug interactions for over 40 medications used in the treatment of depression and anxiety||NeuroIDgenetix||TECHNIQUE
+The stimulated Brillouin gain spectra of the main amplifier with both the unmodulated and pseudo-random binary sequence phase modulated configuration are measured (with corresponding output power)||pseudo-random binary sequence||TECHNIQUE
+The stimulated Brillouin gain spectra of the main amplifier with both the unmodulated and pseudo-random binary sequence phase modulated configuration are measured (with corresponding output power)||stimulated Brillouin gain spectra||TECHNIQUE
+The stimulated Brillouin scattering reflectivity is below 0.01% at 3.05 kW at 13.7 GHz, which indicates that stimulated Brillouin scattering can be suppressed efficiently at this power and linewidth level||stimulated Brillouin scattering reflectivity||TECHNIQUE
+The study employed amplicon sequencing to analyze the diversity of microbial communities in environmental samples.||amplicon sequencing||TECHNIQUE
+The therapeutic application of CRISPR-Cas9 is limited due to its off-target activity||CRISPR-Cas9||TECHNIQUE
+The use of RNA interference (RNAi) screens allowed us to identify genes that modulate cellular responses to stress.||RNA interference (RNAi) screens||TECHNIQUE
+The utilization of CRISPR activation (CRISPRa) enabled the upregulation of target gene expression, facilitating functional genomic studies.||CRISPR||TECHNIQUE
+This can be attributed mainly to the development of next-generation sequencing (NGS) methods, especially targeted DNA panels.||next-generation sequencing||TECHNIQUE
+This can be attributed mainly to the development of next-generation sequencing (NGS) methods, especially targeted DNA panels.||NGS||TECHNIQUE
+This review provides an overview of these technologies as two paradigms: short-read, or “second-generation,” technologies, and long-read, or “third-generation,” technologies||short-read||TECHNIQUE
+This study employs CRISPR-Cas9 to investigate the functional roles of candidate genes in cancer cells, demonstrating the utility of gene editing technologies.||CRISPR||TECHNIQUE
+This study provides clinicians and researchers with an informed choice between current commercially available targeted sequencing panels and exome sequencing panels in the context of pan-cancer pharmacogenetics.||exome sequencing||TECHNIQUE
+Through exome sequencing, we focused on the protein-coding regions of the genome to identify deleterious mutations associated with rare genetic disorders.||exome sequencing||TECHNIQUE
+Using clustered regularly interspaced short palindromic repeats interference (CRISPRi), we achieved targeted gene repression in mammalian cells.||CRISPRi||TECHNIQUE
+Using high-throughput CRISPR screens, we identified essential genes for cancer cell survival, highlighting potential therapeutic targets.||CRISPR||TECHNIQUE
+Using methylation sequencing, we mapped the DNA methylation landscape in cancer tissues, uncovering epigenetic modifications linked to tumorigenesis.||methylation sequencing||TECHNIQUE
+Utilizing digital droplet PCR, we achieved highly sensitive quantification of rare genetic mutations in liquid biopsy samples.||digital droplet PCR||TECHNIQUE
+Utilizing RNA-seq, we quantified the differential gene expression profiles of treated versus untreated cells, providing insights into the molecular mechanisms of drug response.||RNA-seq||TECHNIQUE
+Utilizing whole-exome sequencing, we pinpointed mutations in the coding regions that are responsible for monogenic disorders, aiding in the diagnosis and treatment.||whole-exome sequencing||TECHNIQUE
+We demonstrated that INTERSTELLAR successfully extracted information from a range of short- and long-read sequencing reads and translated those of single-cell (sc)RNA-seq, scATAC-seq, and spatial transcriptomics to be analyzed by different software tools that have been developed for conceptually the same types of experiments||(sc)RNA-seq||TECHNIQUE
+We demonstrated that INTERSTELLAR successfully extracted information from a range of short- and long-read sequencing reads and translated those of single-cell (sc)RNA-seq, scATAC-seq, and spatial transcriptomics to be analyzed by different software tools that have been developed for conceptually the same types of experiments||scATAC-seq||TECHNIQUE
+We demonstrated that INTERSTELLAR successfully extracted information from a range of short- and long-read sequencing reads and translated those of single-cell (sc)RNA-seq, scATAC-seq, and spatial transcriptomics to be analyzed by different software tools that have been developed for conceptually the same types of experiments||transcriptomics||TECHNIQUE
+We employed polymerase chain reaction (PCR) to amplify specific DNA fragments, facilitating the detection of pathogen presence in clinical samples.||polymerase chain reaction||TECHNIQUE
+We further conducted RNA sequencing analysis to clarify the potential underlying mechanism of the anti-depressive effect of 1-MT in HFD-induced depressive mice||RNA sequencing analysis||TECHNIQUE
+We performed integrative genomic analysis combining whole-genome sequencing and transcriptomics to uncover regulatory mechanisms in disease.||integrative genomic analysis||TECHNIQUE
+We used single-cell ATAC-seq to profile chromatin accessibility in individual cells, shedding light on gene regulatory mechanisms.||single-cell ATAC-seq||TECHNIQUE
+We utilized bioinformatics tools to analyze the high-throughput sequencing data, providing insights into the genetic architecture of the population.||bioinformatics tools||TECHNIQUE
+Whole-genome bisulfite sequencing was utilized to profile DNA methylation patterns across the genome, providing insights into epigenetic regulation.||whole-genome bisulfite sequencing||TECHNIQUE
+Whole-genome optical mapping was used to detect large structural variations in the genome, offering a complementary approach to sequencing.||whole-genome optical mapping||TECHNIQUE
+With the availability of whole-genome single-nucleotide polymorphism (SNP) maps, it will soon be possible to create an SNP profile for patients who experience adverse events (AEs) or who respond clinically to the medicine (efficacy).||whole-genome||TECHNIQUE
+Recent advances in next-generation sequencing (NGS) have resulted in the identification of tens of thousands of rare pharmacogenetic variations with unknown functional effects.||NGS||TECHNIQUE
+Recent advances in next-generation sequencing (NGS) have resulted in the identification of tens of thousands of rare pharmacogenetic variations with unknown functional effects.||next-generation sequencing||TECHNIQUE
+Genome sequencing is enabling precision medicine—tailoring treatment to the unique constellation of variants in an individual’s genome.||Genome sequencing||TECHNIQUE
+St Catherine Specialty Hospital in Zagreb/Zabok, Croatia has implemented a personalized patient approach using the RightMed® Comprehensive PGx panel of 25 pharmacogenes plus Facor V Leiden, Factor II and MTHFR genes, which is interpreted by a special counseling team to offer the best quality of care.||PGx panel||TECHNIQUE
+This work advances the use of nanopore sequencing in clinical PGx settings.||nanopore sequencing||TECHNIQUE
+A Cox proportional hazards model was utilized to assess the impact of genetic markers on survival outcomes.||Cox proportional hazards model||ANALYTICAL_METHOD
+A generalized linear model (GLM) framework was employed to analyze the association between genetic variants and drug response.||generalized linear model||ANALYTICAL_METHOD
+A mixed-effects model was used to account for both fixed and random effects in the pharmacogenomic analysis.||mixed-effects model||ANALYTICAL_METHOD
+A support vector machine (SVM) was utilized to classify patients based on their pharmacogenomic data.||support vector machine||ANALYTICAL_METHOD
+Bayesian network modeling was employed to understand the probabilistic relationships between genetic variants and drug response.||Bayesian network modeling||ANALYTICAL_METHOD
+Canonical correlation analysis (CCA) was performed to explore the relationships between genetic and clinical variables.||Canonical correlation analysis||ANALYTICAL_METHOD
+Causal inference methods were used to distinguish direct effects of genetic variants on drug response from indirect effects.||Causal inference methods||ANALYTICAL_METHOD
+Conditional logistic regression was used to analyze matched case-control pharmacogenomic data.||logistic regression||ANALYTICAL_METHOD
+Functional studies in silico, such as molecular docking, molecular dynamics, and conformational analysis, will be used to explore the impact of novel variants on protein structure and function||conformational analysis||ANALYTICAL_METHOD
+Functional studies in silico, such as molecular docking, molecular dynamics, and conformational analysis, will be used to explore the impact of novel variants on protein structure and function||molecular docking||ANALYTICAL_METHOD
+Functional studies in silico, such as molecular docking, molecular dynamics, and conformational analysis, will be used to explore the impact of novel variants on protein structure and function||molecular dynamics||ANALYTICAL_METHOD
+Gene set enrichment analysis (GSEA) was conducted to identify gene sets significantly associated with drug response.||Gene set enrichment analysis||ANALYTICAL_METHOD
+Genome-wide association studies (GWAS) were performed using PLINK software to identify significant SNPs.||Genome-wide association studies||ANALYTICAL_METHOD
+Hidden Markov models (HMM) were used to detect regions of the genome associated with drug response.||Hidden Markov models||ANALYTICAL_METHOD
+Hierarchical clustering was used to group patients based on their pharmacogenomic profiles.||Hierarchical clustering||ANALYTICAL_METHOD
+Kaplan-Meier survival analysis was conducted to compare outcomes between different genotype groups.||Kaplan-Meier survival analysis||ANALYTICAL_METHOD
+Linear discriminant analysis (LDA) was employed to distinguish between responders and non-responders to treatment.||Linear discriminant analysis||ANALYTICAL_METHOD
+machine learning techniques to assess treatment prediction, prognosis prediction, diagnosis prediction, and the detection of potential biomarkers||machine learning techniques||ANALYTICAL_METHOD
+Mendelian randomization analysis was used to infer causal relationships between genetic variants and drug efficacy.||Mendelian randomization analysis||ANALYTICAL_METHOD
+Multivariable logistic regression models were fitted to assess the impact of multiple genetic and clinical factors.||Multivariable logistic regression models||ANALYTICAL_METHOD
+Multivariate adaptive regression splines (MARS) were used to model nonlinear relationships in pharmacogenomic data.||Multivariate adaptive regression splines||ANALYTICAL_METHOD
+Multivariate analysis of variance (MANOVA) was used to examine the interaction between multiple genetic factors and drug efficacy.||Multivariate analysis of variance||ANALYTICAL_METHOD
+Network-based approaches were used to construct and analyze gene-gene interaction networks in pharmacogenomics.||Network-based approaches||ANALYTICAL_METHOD
+Partial correlation analysis was performed to account for confounding variables in the genetic association study.||Partial correlation analysis||ANALYTICAL_METHOD
+Partial least squares (PLS) regression was employed to model the relationship between genetic markers and drug efficacy.||Partial least squares||ANALYTICAL_METHOD
+Pathway enrichment analysis was conducted using DAVID to identify biological pathways affected by genetic variants.||Pathway enrichment analysis||ANALYTICAL_METHOD
+Pathway-based analysis was conducted to integrate genetic data with known drug metabolism pathways.||Pathway-based analysis||ANALYTICAL_METHOD
+Permutation-based significance testing was used to validate the robustness of the pharmacogenomic findings.||Permutation-based significance testing||ANALYTICAL_METHOD
+Principal component analysis (PCA) was conducted to reduce the dimensionality of the pharmacogenomic data.||Principal component analysis||ANALYTICAL_METHOD
+Quantitative trait locus (QTL) mapping was conducted to identify loci associated with drug response traits.||Quantitative trait locus||ANALYTICAL_METHOD
+Receiver operating characteristic (ROC) curve analysis was performed to evaluate the predictive accuracy of pharmacogenomic models.||Receiver operating characteristic||ANALYTICAL_METHOD
+Survival analysis using the log-rank test was performed to compare time-to-event outcomes between genotypes.||Survival analysis||ANALYTICAL_METHOD
+The LASSO (least absolute shrinkage and selection operator) method was used to select relevant genetic predictors.||LASSO||ANALYTICAL_METHOD
+The Markov Chain Monte Carlo (MCMC) method was used for Bayesian inference in pharmacogenomic models.||The Markov Chain Monte Carlo||ANALYTICAL_METHOD
+The study applied Fisher's exact test to determine the association between genetic variants and adverse drug reactions.||Fisher's exact test||ANALYTICAL_METHOD
+The study applied hierarchical Bayesian models to estimate the effects of rare variants on drug response.||Bayesian network||ANALYTICAL_METHOD
+The study applied stepwise regression techniques to select the most predictive genetic variables.||stepwise regression techniques||ANALYTICAL_METHOD
+The study employed decision tree algorithms to develop clinical decision support tools based on pharmacogenomic data.||decision tree algorithms||ANALYTICAL_METHOD
+The study employed elastic net regression to integrate genetic and clinical data for predicting drug response.||elastic net regression||ANALYTICAL_METHOD
+The study employed machine learning algorithms, including random forests, to predict drug response based on genetic data.||machine learning algorithms||ANALYTICAL_METHOD
+The study employed structural equation modeling (SEM) to explore complex relationships between genetic and phenotypic variables.||structural equation modeling||ANALYTICAL_METHOD
+The study used a sliding window approach to perform regional association tests in the genome.||sliding window approach||ANALYTICAL_METHOD
+The study used k-means clustering to identify subgroups of patients with similar pharmacogenomic profiles.||k-means clustering||ANALYTICAL_METHOD
+The study used Monte Carlo simulations to assess the uncertainty in pharmacogenomic predictions.||Monte Carlo simulations||ANALYTICAL_METHOD
+The study used the Bonferroni correction method to adjust for multiple testing in GWAS.||Bonferroni correction method||ANALYTICAL_METHOD
+The study used the False Discovery Rate (FDR) approach to control for type I errors in multiple comparisons.||False Discovery Rate||ANALYTICAL_METHOD
+The study used the Wilcoxon rank-sum test to compare genetic variant frequencies between case and control groups.||Wilcoxon rank-sum test||ANALYTICAL_METHOD
+The study utilized permutation testing to assess the significance of the observed associations.||permutation testing||ANALYTICAL_METHOD
+This work proposes a machine learning approach to infer robust predictors of drug responses from patient genomic information||machine learning approach||ANALYTICAL_METHOD
+We applied logistic regression analysis to identify genetic variants associated with drug response.||logistic regression||ANALYTICAL_METHOD
+we have provided a brief overview of the possibilities of implementing CNNs as an effective tool for analyzing one-dimensional biological data||CNNs||ANALYTICAL_METHOD
+we introduce an elastic-net regression methodology to compare a drug-cell line pair against an alternative pair||elastic-net regression||ANALYTICAL_METHOD
+We propose to apply the principles artificial intelligence to develop a medication optimization platform to prevent, manage and treat different diseases||artificial intelligence||ANALYTICAL_METHOD
+Here we present a novel machine-learning method called REGENIE for fitting a whole-genome regression model for quantitative and binary phenotypes that is substantially faster than alternatives in multi-trait analyses while maintaining statistical efficiency||machine-learning||ANALYTICAL_METHOD
+Here we present a novel machine-learning method called REGENIE for fitting a whole-genome regression model for quantitative and binary phenotypes that is substantially faster than alternatives in multi-trait analyses while maintaining statistical efficiency||regression model||ANALYTICAL_METHOD
+We explore the role of the prior distribution in whole-genome regression models for dissecting complex traits in what is now a standard situation with genomic data||regression models||ANALYTICAL_METHOD
+We illustrate how massively parallel experimental assays, artificial intelligence (AI), and machine learning can synergize with population-scale biobank projects to facilitate the interpretation of NGS data to individualize clinical decision-making and personalized medicine.||artificial intelligence||ANALYTICAL_METHOD
+We illustrate how massively parallel experimental assays, artificial intelligence (AI), and machine learning can synergize with population-scale biobank projects to facilitate the interpretation of NGS data to individualize clinical decision-making and personalized medicine.||machine learning||ANALYTICAL_METHOD
+in silico and large-scale functional assessment of rare variant effects on protein function are at the forefront of pharmacogenetic research to facilitate their clinical integration.||in silico||ANALYTICAL_METHOD
+We propose to apply the principles artificial intelligence to develop a medication optimization platform to prevent, manage and treat different diseases.||artificial intelligence||ANALYTICAL_METHOD
+The field of pharmacogenomics, comprising pharmacokinetics (PK) and pharmacodynamics (PD), has been revolutionized by computer-aided drug design (CADD) and structure-based drug design (SBDD).||structure-based drug design||ANALYTICAL_METHOD
+These developments are paralleled by advances in machine learning, which have allowed us to parse the immense wealth of data and establish novel genetic markers and polygenic models for drug selection and dosing.||machine learning||ANALYTICAL_METHOD
+We then annotated variant call format (VCF) files using Golden Helix VarSeq 2.5.0 and employed Stargazer v2.0.2 for star allele analysis.||Golden Helix VarSeq||ANALYTICAL_METHOD
+The research relied on data from the 1000 Genomes Project to assess population-specific genetic variations.||1000 Genomes Project||DATABASE
+The Allele Frequency Aggregator (ALFA) database was utilized to explore allele frequencies of pharmacogenomic interest.||Allele Frequency Aggregator||DATABASE
+The study employed the Allele Frequency Net Database to assess population-level genetic variability in pharmacogenes.||Allele Frequency Net Database||DATABASE
+The BioVU DNA databank was instrumental in identifying pharmacogenomic predictors of adverse drug reactions.||BioVU DNA||DATABASE
+Pharmacogenomic data from the Cancer Genome Atlas (TCGA) were employed to study drug resistance mechanisms.||Cancer Genome Atlas||DATABASE
+Pharmacogenomic data were sourced from public databases such as ClinVar and PharmGKB.||ClinVar||DATABASE
+we provide a review of recent developments in computational pharmacogenomics with respect to CMap and LINCS and related applications.||CMap||DATABASE
+Using the CPIC database, we correlated genetic variants with clinical dosing guidelines.||CPIC||DATABASE
+Clinical trial data were extracted from the dbGaP database for pharmacogenomic analysis.||dbGaP||DATABASE
+We accessed data from the dbGAP to perform a pharmacogenomic study on drug response variability.||dbGAP||DATABASE
+Data from the dbGaP database were analyzed to uncover genetic factors influencing drug efficacy.||dbGaP||DATABASE
+The research utilized the dbSNP database to identify single nucleotide polymorphisms relevant to drug efficacy.||dbSNP||DATABASE
+The NCBI dbSNP database was used to catalog single nucleotide polymorphisms relevant to drug response.||dbSNP||DATABASE
+Data from the DME Pharmacogenomics Database were critical in analyzing drug-metabolizing enzyme variants.||DME Pharmacogenomics||DATABASE
+The use of electronic health records (EHR) databases enabled large-scale pharmacogenomic studies.||electronic health records||DATABASE
+Clinical pharmacogenomic data were retrieved from the Electronic Medical Records and Genomics (eMERGE) Network.||Electronic Medical Records and Genomics||DATABASE
+Using the eMERGE Network database, we linked electronic health record data with pharmacogenomic variants.||eMERGE||DATABASE
+We utilized the Ensembl database to annotate genetic variants involved in drug response.||Ensembl||DATABASE
+Genomic data from the ExAC database were utilized to investigate rare variants affecting drug metabolism.||ExAC||DATABASE
+Genomic variants were extracted from the ExAC database to assess their impact on drug metabolism pathways.||ExAC||DATABASE
+The study employed data from the FDA Adverse Event Reporting System (FAERS) database to link genetic factors with drug safety.||FDA Adverse Event Reporting System||DATABASE
+Pharmacogenomic data from the Gene Expression Omnibus (GEO) database were analyzed to identify expression patterns.||Gene Expression Omnibus||DATABASE
+Data mining techniques were applied to the GWAS Catalog database to identify pharmacogenomic associations.||GWAS Catalog||DATABASE
+The study's findings were validated using data from the HapMap database.||HapMap||DATABASE
+We leveraged data from the International HapMap Project to enhance pharmacogenomic analyses.||HapMap||DATABASE
+Data from the Human Genome Variation Database (HGVD) were integrated into our pharmacogenomic analysis.||HGVD||DATABASE
+The Human Cytochrome P450 Allele Nomenclature Database provided critical data for our analysis of metabolic enzymes.||Human Cytochrome P450 Allele Nomenclature||DATABASE
+Data from the Human Gene Mutation Database (HGMD) were used to investigate pharmacogenomic mutations.||Human Gene Mutation Database||DATABASE
+The International Warfarin Pharmacogenetics Consortium database provided data for our study on anticoagulant therapy.||International Warfarin Pharmacogenetics Consortium database||DATABASE
+Data from the iPGxDB database were pivotal in identifying population-specific pharmacogenomic markers.||iPGxDB||DATABASE
+Data from the International Serious Adverse Event Consortium (iSAEC) database were analyzed to investigate genetic predispositions.||iSAEC||DATABASE
+Data from the Japanese Pharmacogenomics Data Science Consortium database were used to explore ethnic differences in drug response.||Japanese Pharmacogenomics Data Science Consortium||DATABASE
+Large-scale perturbation databases, such as Connectivity Map (CMap) or Library of Integrated Network-based Cellular Signatures (LINCS)||Large-scale perturbation||DATABASE
+The study leveraged the Mayo Clinic RIGHT Protocol database for pharmacogenomic implementation research.||Mayo Clinic RIGHT Protocol ||DATABASE
+relevant treatments are being discovered in precision psychiatry research by employing neuroimaging and multi-omics||multi-omics||DATABASE
+Data from the NHGRI-EBI GWAS Catalog were integrated to identify pharmacogenomic associations with drug response.||NHGRI-EBI GWAS||DATABASE
+We extracted pharmacogenomic data from the NIGMS Pharmacogenetics Research Network database.||NIGMS Pharmacogenetics Research Network||DATABASE
+The study used the Population Architecture using Genomics and Epidemiology (PAGE) database to investigate diverse population groups.||PAGE||DATABASE
+The PGRNseq dataset provided essential pharmacogenomic variant information for our analysis.||PGRNseq||DATABASE
+Data from the Pharmacogenomics Research Network (PGRN) were essential for our study.||Pharmacogenomics Research Network||DATABASE
+Data were retrieved from the PharmGKB database to analyze genetic variants associated with drug metabolism.||PharmGKB||DATABASE
+The pharmacogenomic data were sourced from the PharmGKB database, focusing on gene-drug interaction profiles.||PharmGKB||DATABASE
+The study utilized the PharmGKB database to compile comprehensive drug-gene interaction data.||PharmGKB||DATABASE
+Data from the PharmacoGenomics Knowledge Base (PharmGKB) were used to annotate clinically relevant genetic variants.||PharmGKB||DATABASE
+Data from the PharmVar database were analyzed to study allelic variations in pharmacogenes.||PharmVar||DATABASE
+The Personalized Medicine Research Project (PMRP) database provided crucial data for our pharmacogenomic study.||PMRP||DATABASE
+We utilized the Stanford University Biobank to validate pharmacogenomic findings in a clinical cohort.||Stanford University Biobank||DATABASE
+We utilized the TCGA database to correlate genomic alterations with therapeutic outcomes.||TCGA||DATABASE
+We accessed the TCGA database to examine the association between somatic mutations and chemotherapy response.||TCGA||DATABASE
+The study integrated pharmacogenomic data from the UGT Alleles Nomenclature Database to investigate glucuronidation processes.||UGT Alleles Nomenclature Database||DATABASE
+Genetic data from the UK Biobank were analyzed to explore pharmacogenomic implications in a large cohort.||UK Biobank||DATABASE
+The Utah Population Database provided valuable pharmacogenomic data for our study on familial drug responses.||Utah Population Database||DATABASE
+Advances in sequencing technologies have facilitated the discovery of hundreds and thousands of human genetic variants, thus providing rich data resources to study the genetic complexity of pharmacogenes.||implicitly refers to the availability of sequencing data||DATABASE
+The current version also supports summary analysis on differentially expressed genes between the HapMap samples of European and African ancestry,||HapMap||DATABASE
+The objective of this study was to analyze the clinical and demographic information of the pan-Canadian active surveillance network, Canadian Pharmacogenomics Network for Drug Safety (CPNDS).||Canadian Pharmacogenomics Network for Drug Safety - CPNDS||DATABASE
+Information entered into the database by trained active surveillors between May 15, 2005 and May 9, 2017 was collected and analyzed.||CPNDS database||DATABASE
+The CPNDS database consisted of 93,974 reports of medication use, including 10,475 reports of ADRs, of which 72.6% occurred in pediatric patients (≤21 years old).||CPNDS database||DATABASE
+The CPNDS database is a valuable resource to identify clinical and genomic predictors of ADRs.||CPNDS database||DATABASE
+CellMinerCDB: NCATS comprises 183 cancer cell lines, with 72 unique to NCATS, including some from previously understudied tissues of origin.||CellMinerCDB||DATABASE
+Clear easy-to-follow instructions are given on how to use big data technologies and public health databases in day-to-day clinical practice.||public health databases||DATABASE
+This study analyzed 942 whole-genome sequences from the Electricity Generating Authority of Thailand (EGAT) cohort to establish a population-specific pharmacogenomic database (TPGxD-1) in the Thai population.||TPGxD-1||DATABASE
+However, although such pharmacogenetic variations have been estimated to account for a considerable amount of the heritable variability in drug response and toxicity, accurate interpretation at the level of the individual patient remains challenging||accurate interpretation||CHALLENGE
+While current guidelines concerning clinical implementation mostly act upon well-documented, common single nucleotide variants to guide dosing or drug selection,||clinical implementation||CHALLENGE
+challenges related to accurate variant interpretation and biomarker utilization will constitute the dominant barriers to clinical use of NGS in pharmacogenomics in the future.||clinical use of NGS||CHALLENGE
+Ethical concerns, including violation of confidentiality, stigmatization, and social pressure to accept pharmacogenomic testing, are among the many challenges that patients face in the adoption of pharmacogenomic testing||confidentiality||CHALLENGE
+Genotyping cost and frequency of risk alleles in the populations influence the cost-effectiveness outcome||cost||CHALLENGE
+Variants of uncertain significance (VUSs) in these genes are discovered at a rate that outpaces current ability to classify them with databases of previous cases, experimental evaluation, and computational predictors.||databases of previous cases||CHALLENGE
+there are many challenges that must be overcome to apply rapidly accumulating genomic information to understand variable drug responses, including defining candidate genes and pathways||defining candidate genes||CHALLENGE
+major challenges of implementation lie at the point of delivery into health-care systems||delivery||CHALLENGE
+economic challenges that face developers of and payers for personalized drugs and companion diagnostics||economic||CHALLENGE
+how can we harness the data to inform clinically actionable measures and how can we use it to develop better predictive risk models||harness the data to inform clinically actionable measures||CHALLENGE
+With the advent of significant technological advances comes another challenge: how can we harness the data to inform clinically actionable measures and how can we use it to develop better predictive risk models?||harnessing data for clinically actionable measures||CHALLENGE
+ethical considerations must inform the construction and deployment of all rare-variation triage strategies, particularly with respect to health disparities arising from unbalanced ancestry representation.||health disparities||CHALLENGE
+The genomic inter-individual heterogeneity remains a significant challenge for both clinical decision-making and the design of clinical trials||heterogeneity||CHALLENGE
+Despite demonstrating great value for the identification of single nucleotide variants (SNVs) and insertion/deletions (INDELs), these assays do not permit identification of large structural variants, nor do they allow unambiguous haplotype phasing for star-allele assignment.||identification of large structural variants||CHALLENGE
+the implementation of pharmacogenomics in routine clinical practice presents significant challenges||implementation||CHALLENGE
+However, the implementation of PGx studies during clinical development presents a number of challenges||implementation||CHALLENGE
+Remaining challenges and recent strategies for overcoming these challenges to implementation are discussed.||implementation challenges||CHALLENGE
+Implementing pharmacogenomics into clinical settings or within health care systems has proven beneficial in optimizing pharmacotherapeutic outcomes.||implementing pharmacogenomics||CHALLENGE
+Challenges to integrating genomics-based medicine into health care systems include tumor and biologic heterogeneity||integrating||CHALLENGE
+One of the major barriers to implementing clinical pharmacogenomics has been the efficient integration of rapid turnaround-time genetic testing into routine clinical practice||integration||CHALLENGE
+However, major challenges of implementation lie at the point of delivery into health-care systems, including the modification of current clinical pathways coupled with a massive knowledge gap in pharmacogenomics in the health-care workforce.||knowledge gap||CHALLENGE
+Lack of knowledge of genomics and pharmacogenomics among pharmacists was one of the most prominent findings||Lack of knowledge||CHALLENGE
+effective patient educational materials are limited||limited||CHALLENGE
+Nevertheless, PGx consultation prior to prescribing therapeutics is not yet mainstream.||PGx consultation prior to prescribing therapeutics is not yet mainstream||CHALLENGE
+The impact of recurrent pathogenic variants is often understood, however there is a long tail of rare genetic variants that are uncharacterized.||rare genetic variants||CHALLENGE
+The problem of uncharacterized rare variation is especially acute when it occurs in genes of known clinical importance with functionally consequential variants and associated mechanisms.||rare variation||CHALLENGE
+Challenges related to rare-variant pharmacogenomics||rare-variant||CHALLENGE
+Overcoming the gap between 'big data'-derived model predictions and real-world clinical outcomes arguably constitutes one of the greatest challenges of 21st century medical science||real-world||CHALLENGE
+translation of the obtained genomic information into actionable clinical advice lags behind||translation||CHALLENGE
+We discuss emerging strategies and concepts to close this translational gap.||translational gap||CHALLENGE
+Interindividual variability in drug efficacy and toxicity is a major challenge in clinical practice||variability||CHALLENGE
+A major methodological challenge in pharmacogenomics is ascertaining the causality of identified variants||variants||CHALLENGE

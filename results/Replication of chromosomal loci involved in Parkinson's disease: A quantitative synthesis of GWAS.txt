@@ -1,0 +1,2 @@
+{'Year': '2021'}
+Parkinson's disease is a neurodegenerative disorder with a complex etiology coming from interactions between genetic and environmental factors. Research on Parkinson's disease genetics has been an effortful struggle, while new technologies and novel study designs served as indispensable boosters. Until now, 90 loci and 20 disease-causing gene mutations have been identified. In this study we describe a novel non-parametric approach to GWAS meta-analysis and its application in PD genetics.

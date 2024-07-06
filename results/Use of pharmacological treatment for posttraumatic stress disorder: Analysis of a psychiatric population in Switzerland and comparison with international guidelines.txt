@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct'}
+Several international guidelines for the pharmacological treatment of posttraumatic stress disorder (PTSD) have been published. However, it is unclear whether clinicians use these procedures in their daily practice. We compared the psychopharmacological prescription patterns in a Swiss adult psychiatric center with international clinical guidelines at admission and discharge.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+Acamprosate is an anti-craving drug used for the pharmacotherapy of alcohol use disorder (AUD). However, only some patients achieve optimal therapeutic outcomes. This study was designed to explore differences in metabolomic profiles between patients who maintained sobriety and those who relapsed, to determine whether those differences provide insight into variation in acamprosate treatment response phenotypes.

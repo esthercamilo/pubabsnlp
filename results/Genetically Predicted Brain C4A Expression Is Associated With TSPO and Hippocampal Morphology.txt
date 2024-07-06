@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov', 'Day': '01'}
+Alterations in the immune system, particularly C4A, have been implicated in the pathophysiology of schizophrenia. C4A promotes synapse elimination by microglia in preclinical models; however, it is unknown whether this process is also present in living humans and how it affects brain morphology.

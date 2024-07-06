@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '02'}
+Since the beginning of pharmacology, several variations in responses to drugs have been recorded [...].

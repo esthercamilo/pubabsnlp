@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug', 'Day': '31'}
+BRCA1/2 are tumour-suppressor genes involved in DNA homologous recombination and ovarian cancer development.  The study evaluated the risk of tumor cancer in women presenting the BRCA mutations.

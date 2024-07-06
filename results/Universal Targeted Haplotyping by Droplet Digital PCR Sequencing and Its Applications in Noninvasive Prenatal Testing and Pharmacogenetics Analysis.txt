@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '14'}
+The analysis of haplotypes of variants is important for pharmacogenomics analysis and noninvasive prenatal testing for monogenic diseases. However, there is a lack of robust methods for targeted haplotyping.

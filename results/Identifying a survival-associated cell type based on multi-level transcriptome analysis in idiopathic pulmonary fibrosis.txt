@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '15'}
+Idiopathic pulmonary fibrosis (IPF) is a progressive disease with a five-year survival rate of less than 40%. There is significant variability in survival time among IPF patients, but the underlying mechanisms for this are not clear yet.

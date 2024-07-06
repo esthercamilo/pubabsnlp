@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+To investigate the association between the functional Fc gamma receptor 3 A (FCGR3A) V158F and FCGR2A R131H polymorphisms and rituximab therapy in patients with autoimmune diseases.

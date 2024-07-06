@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '02'}
+Large inter-individual variability in the pharmacokinetics of rilpivirine and cabotegravir has been reported in the first weeks after starting long-acting injectable (LAI) therapy. Here, we assessed the distribution of rilpivirine and cabotegravir trough concentrations in people with HIV (PWH) on long-term LAI treatment.

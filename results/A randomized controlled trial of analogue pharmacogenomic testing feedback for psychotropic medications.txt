@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+To examine the impact of various presentations of pharmacogenomic testing results using a published, color-coded decision support tool (DST) format as a standard stimulus to list possible medications.

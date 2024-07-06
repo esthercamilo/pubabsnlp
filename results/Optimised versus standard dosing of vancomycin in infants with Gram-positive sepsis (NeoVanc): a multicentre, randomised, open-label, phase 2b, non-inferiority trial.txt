@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+Vancomycin is the most widely used antibiotic for neonatal Gram-positive sepsis, but clinical outcome data of dosing strategies are scarce. The NeoVanc programme comprised extensive preclinical studies to inform a randomised controlled trial to assess optimised vancomycin dosing. We compared the efficacy of an optimised regimen to a standard regimen in infants with late onset sepsis that was known or suspected to be caused by Gram-positive microorganisms.

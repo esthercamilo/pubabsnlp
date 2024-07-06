@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '10'}
+The CYP2D6 enzyme is crucial for the metabolism and disposition of a variety of drugs. This study was conducted to examine the relationship between CYP2D6 gene polymorphisms and the response to angiotensin receptor blocker (ARB)-based treatment in patients of Chinese Bai ethnicity with hypertension.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+The lipid profile is consistently associated with coronary artery disease (CAD) and ischemic stroke (IS). However, the lipoprotein subfractions have not been deeply explored in stroke subtypes, especially in IS outcome.

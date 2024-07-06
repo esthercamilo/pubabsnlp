@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '30'}
+Identifying patients who can benefit from immune checkpoint inhibitors (ICIs) is a critical challenge in immunotherapy. This study aimed to investigate the association between fat mass and obesity-associated protein (FTO) polymorphisms and ICIs treatment outcomes.

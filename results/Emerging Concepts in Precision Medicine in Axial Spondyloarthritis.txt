@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct'}
+Axial spondyloarthritis (AxSpA) is among the rheumatology's most heritable complex diseases, yet precision medicine at clinics still needs to be explored. We reviewed the emerging concepts and recent developments in polygenic risk scores, Mendelian randomization, pharmacogenomics, single-cell sequencing, and spatial transcriptomics.

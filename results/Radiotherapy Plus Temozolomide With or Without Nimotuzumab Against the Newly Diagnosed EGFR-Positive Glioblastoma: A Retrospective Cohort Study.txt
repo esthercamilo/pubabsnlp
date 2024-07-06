@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '18'}
+Glioblastoma (GBM) has a poor prognosis, and patients with epidermal growth factor receptor (EGFR) amplification have an even worse prognosis. Nimotuzumab is an EGFR monoclonal antibody thought to play a significant role in the treatment of GBM. This paper presents a retrospective cohort study that evaluates the clinical efficacy and safety of nimotuzumab in GBM.

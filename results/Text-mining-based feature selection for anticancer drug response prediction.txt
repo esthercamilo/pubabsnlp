@@ -1,0 +1,2 @@
+{'Year': '2024'}
+Predicting anticancer treatment response from baseline genomic data is a critical obstacle in personalized medicine. Machine learning methods are commonly used for predicting drug response from gene expression data. In the process of constructing these machine learning models, one of the most significant challenges is identifying appropriate features among a massive number of genes.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+The rapid growth of biomedical data ecosystems has catalyzed research for oncology and precision medicine. We leverage federal cloud-based precision medicine databases and tools to better understand the current landscape of precision medicine and genomic testing for patients with cancer.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug', 'Day': '30'}
+The main goal of this work was to identify, describe, characterize, and classify the scientific evidence regarding the use of pharmacogenomic biomarkers in antidepressant treatment.

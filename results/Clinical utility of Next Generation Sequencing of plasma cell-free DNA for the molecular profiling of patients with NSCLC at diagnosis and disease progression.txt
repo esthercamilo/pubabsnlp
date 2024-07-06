@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+The present study evaluates the utility of NGS analysis of circulating free DNA (cfDNA), which incorporates small amounts of tumor DNA (ctDNA), at diagnosis or at disease progression (PD) in NSCLC patients.

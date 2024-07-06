@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Sep', 'Day': '23'}
+Emergency departments (ED) use many medications with a range of therapeutic efficacy and potential significant side effects, and many medications have dosage adjustment recommendations based on the patient's specific genotype. How frequently medications with such pharmaco-genetic recommendations are used in United States (US) EDs has not been studied.

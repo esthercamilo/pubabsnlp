@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Sep', 'Day': '20'}
+Oncolytic viruses (OVs) are considered a promising therapeutic alternative for cancer. However, OVs could activate the host innate immunity, then impair the viral propagation in tumor cells. In this study, we explored the effect of propranolol, a non-selective β-blocker, on the antitumor efficacy of T1012G virus in gastric cancer models.

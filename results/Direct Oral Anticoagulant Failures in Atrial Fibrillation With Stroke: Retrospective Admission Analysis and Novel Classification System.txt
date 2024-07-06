@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jul'}
+Breakthrough acute ischemic stroke (AIS) in patients with known, nonvalvular Atrial Fibrillation (AF), on Direct Oral Anticoagulants (DOAC), is an ongoing clinical conundrum. Switching anticoagulants was shown to be ineffective in preventing recurrent AIS. Systematic, patient-level chart review of so-called "DOAC failures" may offer insight into this phenomenon.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '01'}
+Asbestos exposure is associated with different asbestos-related diseases, including malignant mesothelioma (MM). MM diagnosis is confirmed with immunohistochemical analysis of several markers, including calretinin. Increased circulating calretinin was also observed in MM. The aim of the study was to determine if <i>CALB2</i> polymorphisms or polymorphisms in genes that can regulate calretinin expression are associated with serum calretinin levels or MM susceptibility.

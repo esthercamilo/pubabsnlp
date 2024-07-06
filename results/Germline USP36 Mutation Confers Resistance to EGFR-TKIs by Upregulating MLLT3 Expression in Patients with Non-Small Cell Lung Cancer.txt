@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '01'}
+Although somatic mutations were explored in depth, limited biomarkers were found to predict the resistance of EGFR tyrosine kinase inhibitors (EGFR-TKI). Previous studies reported N6-methyladenosine (m6A) levels regulated response of EGFR-TKIs; whether the germline variants located in m6A sites affected resistance of EGFR-TKIs is still unknown.

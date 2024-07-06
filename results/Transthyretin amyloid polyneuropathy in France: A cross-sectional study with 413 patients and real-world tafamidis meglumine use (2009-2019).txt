@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '19'}
+We aimed to describe characteristics of patients with ATTR variant polyneuropathy (ATTRv-PN) and ATTRv-mixed and assess the real-world use and safety profile of tafamidis meglumine 20mg.

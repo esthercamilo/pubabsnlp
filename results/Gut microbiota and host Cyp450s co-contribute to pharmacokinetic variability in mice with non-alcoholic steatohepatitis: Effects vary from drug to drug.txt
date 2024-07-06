@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+Pharmacokinetic variability in disease state is common in clinical practice, but its underlying mechanism remains unclear. Recently, gut microbiota has been considered to be pharmacokinetically equivalent to the host liver. Although some studies have explored the roles of gut microbiota and host Cyp450s in drug pharmacokinetics, few have explored their effects on pharmacokinetic variability, especially in disease states.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+COVID-19 disease may result in a severe multisystem inflammatory syndrome in children (MIS-C), which in turn may alter thyroid function (TF). We assessed TF in MIS-C, evaluating its impact on disease severity.

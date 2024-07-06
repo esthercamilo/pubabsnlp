@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr'}
+Gastric-type cervical adenocarcinoma (GCA) is a rare and aggressive type of endocervical adenocarcinoma (ECA) with distinct histopathologic features and unfavorable treatment outcomes, but no genomic prognostic factor has been revealed. We aimed to systematically investigate the somatic alterations of GCA at genome-wide level and evaluate their prognostic value.

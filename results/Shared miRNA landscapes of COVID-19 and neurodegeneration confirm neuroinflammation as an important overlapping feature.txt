@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Development and worsening of most common neurodegenerative diseases, such as Alzheimer's disease, Parkinson's disease, and multiple sclerosis, have been associated with COVID-19 However, the mechanisms associated with neurological symptoms in COVID-19 patients and neurodegenerative sequelae are not clear. The interplay between gene expression and metabolite production in CNS is driven by miRNAs. These small non-coding molecules are dysregulated in most common neurodegenerative diseases and COVID-19.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug', 'Day': '10'}
+Vitamin D deficiency has been associated with the severity of COVID-19. The role of vitamin D in pregnant women with COVID-19 has been poorly investigated to date. The aim of this study was to evaluate the influence of vitamin D in affecting some clinical features in pregnancy between SARS-CoV-2 positive and negative patients.

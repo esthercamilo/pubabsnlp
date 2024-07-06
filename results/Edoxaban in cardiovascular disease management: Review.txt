@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+In the past decade, direct oral anticoagulants (DOACs) have transformed the world of anti-thrombotic therapy. Edoxaban is the most recently approved DOAC. Though intended for use primarily in stroke prevention, it has found applications in various other conditions including thromboembolic and peripheral arterial disease. This review aims to provide a detailed outline of the growing indications, evidence for use in special populations, pharmacogenetics and side-effect profile of edoxaban.

@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Gut dysbiosis and gut microbiome-derived metabolites have been implicated in both disease onset and treatment response, but this has been rarely demonstrated in pemphigus vulgaris (PV). Here, we aim to systematically characterize the gut microbiome to assess the specific microbial species and metabolites associated with PV.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb'}
+The present study aimed at evaluating the potential contribution of Phosphatase and Tensin Homolog (PTEN) and its gene polymorphism (PTEN rs701848 T/C) in relation to Wingless/integrase-1 (Wnt) signaling in childhood epilepsy and the impact of antiepileptic medications on their serum levels.

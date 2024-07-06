@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar'}
+This study aimed to examine the extent and quality of evidence from economic evaluations (EEs) of genetic-guided pharmacotherapy (PGx) for atrial fibrillation (AF) and to identify variables influential in changing base-case conclusions.

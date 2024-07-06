@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug'}
+High variability in vancomycin exposure in neonates requires advanced individualized dosing regimens. Achieving steady-state trough concentration (C<sub>0</sub>) and steady-state area-under-curve (AUC<sub>0-24</sub>) targets is important to optimize treatment. The objective was to evaluate whether machine learning (ML) can be used to predict these treatment targets to calculate optimal individual dosing regimens under intermittent administration conditions.

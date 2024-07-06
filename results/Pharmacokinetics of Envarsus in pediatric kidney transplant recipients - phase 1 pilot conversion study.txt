@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+Tacrolimus is the standard immunosuppressant for pediatric kidney transplants and is routinely administered twice daily (BD-tac). Envarsus (LCP-tac), an extended-release formulation, is approved for adults but not for pediatric patients.

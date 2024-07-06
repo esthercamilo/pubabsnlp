@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '29'}
+The population of Taiwan has a long history of ethno-cultural evolution. The Taiwanese population was isolated from other large populations such as the European, Han Chinese, and Japanese population. The Taiwan Biobank (TWB) project has built a nationwide database, particularly for personal whole-genome sequence (WGS) to facilitate basic and clinical collaboration nationally and internationally, making it one of the most valuable public datasets of the East Asian population.

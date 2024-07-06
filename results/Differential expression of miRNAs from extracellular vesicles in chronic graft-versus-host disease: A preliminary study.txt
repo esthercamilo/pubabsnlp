@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May'}
+Chronic graft-versus-host disease (cGvHD) is a complex disorder that typically manifests after allogeneic hematopoietic stem cell transplantation (HSCT). It is a major cause of non-relapse mortality, which makes finding biomarkers associated with its occurrence a priority. Recent studies increasingly indicate that microRNAs (miRNAs, short regulatory RNA molecules) can be used as biomarkers of various disorders. They can circulate in patients' bodies encapsulated within extracellular vesicles (EVs).

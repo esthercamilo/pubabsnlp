@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec'}
+Pharmacogenomics is a novel arena of medicine that uses patients' Deoxyribonucleic Acid to support pharmacists and prescribers selecting the most appropriate medicine for patients.

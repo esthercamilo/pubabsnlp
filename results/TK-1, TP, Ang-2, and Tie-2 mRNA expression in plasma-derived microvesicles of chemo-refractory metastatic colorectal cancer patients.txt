@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct'}
+Trifluridine/tipiracil and regorafenib are indicated for metastatic colorectal cancer (mCRC) patients' refractory to standard chemotherapy. No prognostic or predictive biomarkers are available for these agents.

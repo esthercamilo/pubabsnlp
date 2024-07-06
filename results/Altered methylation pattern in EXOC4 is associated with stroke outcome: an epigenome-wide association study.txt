@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '30'}
+The neurological course after stroke is highly variable and is determined by demographic, clinical and genetic factors. However, other heritable factors such as epigenetic DNA methylation could play a role in neurological changes after stroke.

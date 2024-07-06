@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '26'}
+Neonatal hypertension is a rare but potentially serious condition that requires careful monitoring and treatment. Pharmacogenomics can help guide individualized drug therapy and improve outcomes.

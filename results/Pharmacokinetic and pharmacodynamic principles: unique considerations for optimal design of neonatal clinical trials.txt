@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Core clinical pharmacology principles must be considered when designing and executing neonatal clinical trials. In this review, the authors discuss important aspects of drug dose selection, pharmacokinetics, pharmacogenetics and pharmacodynamics that stakeholders may consider when undertaking a neonatal or infant clinical trial.

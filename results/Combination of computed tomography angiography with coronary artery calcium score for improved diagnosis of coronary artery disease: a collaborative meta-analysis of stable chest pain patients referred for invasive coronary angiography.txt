@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+Coronary computed tomography angiography (CCTA) has higher diagnostic accuracy than coronary artery calcium (CAC) score for detecting obstructive coronary artery disease (CAD) in patients with stable chest pain, while the added diagnostic value of combining CCTA with CAC is unknown. We investigated whether combining coronary CCTA with CAC score can improve the diagnosis of obstructive CAD compared with CCTA alone.

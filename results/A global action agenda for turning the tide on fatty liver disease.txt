@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb', 'Day': '01'}
+Fatty liver disease is a major public health threat due to its very high prevalence and related morbidity and mortality. Focused and dedicated interventions are urgently needed to target disease prevention, treatment, and care.

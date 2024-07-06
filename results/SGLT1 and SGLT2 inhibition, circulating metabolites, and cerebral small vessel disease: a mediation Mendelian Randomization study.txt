@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '07'}
+Sodium-glucose cotransporter 2 (SGLT2) and SGLT1 inhibitors may have additional beneficial metabolic effects on circulating metabolites beyond glucose regulation, which could contribute to a reduction in the burden of cerebral small vessel disease (CSVD). Accordingly, we used Mendelian Randomization (MR) to examine the role of circulating metabolites in mediating SGLT2 and SGLT1 inhibition in CSVD.

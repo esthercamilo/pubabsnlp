@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+The objective of this registry study is to assess the utilization of pharmacogenomic (PGx) drugs among patients with chronic kidney disease (CKD).

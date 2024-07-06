@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Apr'}
+Despite recent advances in cardiology, sudden cardiac death remains to be a significant challenge, and the precise cause for a large proportion of sudden cardiac arrests remains unclear.

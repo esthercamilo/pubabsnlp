@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb', 'Day': '01'}
+Excess adipose tissue increases other cardiovascular risk factors, which may be associated with vascular brain injury and cognitive impairment. However, the extent to which the amount and distribution of adipose tissue may be associated with lower cognitive scores, independent of its association with cardiovascular risk factors, is not well characterized.

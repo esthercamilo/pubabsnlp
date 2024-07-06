@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun'}
+Pharmacogenomics is the bioscience investigating how genes affect medication responses. Nurses are instrumental in medication safety. Pharmacogenomics is slowly being integrated into healthcare, and knowledge and understanding of it is now pertinent to nursing practice.

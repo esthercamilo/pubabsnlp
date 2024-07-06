@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Despite the high level of protection against severe COVID-19 provided by the currently available vaccines some breakthrough infections occur. Until now, there is no information whether a potential risk of a breakthrough infection can be inferred from the level of antibodies after booster vaccination.

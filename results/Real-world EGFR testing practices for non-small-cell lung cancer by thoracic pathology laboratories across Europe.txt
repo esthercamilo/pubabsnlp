@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct'}
+Testing for epidermal growth factor receptor (EGFR) mutations is an essential recommendation in guidelines for metastatic non-squamous non-small-cell lung cancer, and is considered mandatory in European countries. However, in practice, challenges are often faced when carrying out routine biomarker testing, including access to testing, inadequate tissue samples and long turnaround times (TATs).

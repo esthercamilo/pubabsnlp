@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '01'}
+Opioid dependence is currently one of the most serious problems affecting the social norms and public health system. Methadone maintenance therapy (MMT) is being widely used in treating heroin-dependent patients. The mechanism of methadone metabolism and disposition has been shown to involve cytochrome P450 (CYP450) and P-glycoprotein. The aim of this study was to explore the relationships among genetic polymorphisms, BMI and effective dose of methadone used in MMT within a northern Taiwan cohort.

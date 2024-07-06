@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov', 'Day': '15'}
+Swietenia macrophylla have been considered for the treatment of various diseases, including anticancer activity. This study aimed to investigate the anticancer activity of S. macrophylla leaves extract and its isolated compound towards human colorectal cancer cell line.

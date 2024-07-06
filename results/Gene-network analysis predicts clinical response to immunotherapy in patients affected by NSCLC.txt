@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep'}
+Predictive biomarkers of response to immune checkpoint inhibitors (ICIs) have been extensively studied in non-small cell lung cancer (NSCLC) with controversial results. Recently, gene-network analysis emerged as a new tool to address tumor biology and behavior, representing a potential tool to evaluate response to therapies.

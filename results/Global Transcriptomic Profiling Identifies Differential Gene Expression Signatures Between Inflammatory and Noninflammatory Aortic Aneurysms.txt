@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug'}
+To identify hallmark genes and biomolecular processes in aortitis using high-throughput gene expression profiling, and to provide a range of potentially new drug targets (genes) and therapeutics from a pharmacogenomic network analysis.

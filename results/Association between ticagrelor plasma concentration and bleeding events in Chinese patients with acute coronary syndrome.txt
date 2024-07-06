@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov'}
+The risk of ticagrelor-related bleeding events remains a major clinical concern, especially in East Asian populations. Previous studies have reported higher ticagrelor exposure in Asian patients than in Caucasians. This prompted us to investigate the correlation between ticagrelor concentrations and bleeding events.

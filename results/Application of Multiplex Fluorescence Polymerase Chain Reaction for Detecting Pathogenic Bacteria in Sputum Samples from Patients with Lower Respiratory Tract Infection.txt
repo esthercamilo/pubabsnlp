@@ -1,0 +1,2 @@
+{'Year': '2023'}
+In this study, we conducted a multi-center research on six common lower respiratory tract pathogens using novel multiplex fluorescence quantitative polymerase chain reaction (PCR), and investigated the additional diagnostic value of this method, to provide a molecular diagnostic basis for clinical practice.

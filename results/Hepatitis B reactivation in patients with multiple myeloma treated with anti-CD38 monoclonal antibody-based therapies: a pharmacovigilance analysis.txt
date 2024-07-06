@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+Daratumumab and isatuximab are anti-CD38 monoclonal antibodies indicated for the treatment of multiple myeloma. These agents can increase the risk of infectious complications, including viral infections. Cases of hepatitis B virus (HBV) reactivation have been reported in the literature in patients receiving anti-CD38 monoclonal antibody-based therapies.

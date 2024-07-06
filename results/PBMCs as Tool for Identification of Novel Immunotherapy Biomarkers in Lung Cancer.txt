@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '05'}
+Lung cancer (LC), including both non-small (NSCLC) and small (SCLC) subtypes, is currently treated with a combination of chemo- and immunotherapy. However, predictive biomarkers to identify high-risk patients are needed. Here, we explore the role of peripheral blood mononuclear cells (PBMCs) as a tool for novel biomarkers searching.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun'}
+Genetic alterations in many components of the homologous recombination, DNA damage response, and repair (HR-DDR) pathway are involved in the hereditary cancer syndromes, including familial pancreatic cancer. HR-DDR genes beyond <i>BRCA1</i>, <i>BRCA2</i>, <i>ATM</i>, and <i>PALB2</i> may also mutate and confer the HR-DDR deficiency in pancreatic ductal adenocarcinoma (PDAC).

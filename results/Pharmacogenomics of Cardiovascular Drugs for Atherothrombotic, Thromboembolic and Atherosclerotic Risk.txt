@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov', 'Day': '09'}
+Advances in pharmacogenomics have paved the way for personalized medicine. Cardiovascular diseases still represent the leading cause of mortality in the world. The aim of this review is to summarize the background, rationale, and evidence of pharmacogenomics in cardiovascular medicine, in particular, the use of antiplatelet drugs, anticoagulants, and drugs used for the treatment of dyslipidemia.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '27'}
+The current candidate gene association study aims to investigate tag SNPs from the TACR1 gene as pharmacogenetic predictors of response to the antiemetic guidelines-recommended, NK-1 receptor antagonist-based, triple antiemetic regimens.

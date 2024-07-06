@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '30'}
+Nudix hydrolase 15 [NUDT15] genetic variants confer an increased risk of thiopurine-induced leukopenia [TIL]; however, their global prevalence in inflammatory bowel disease [IBD] patients is unknown. We aimed to evaluate the global prevalence of NUDT15 variants in IBD patients and incidence of TIL in these patients.

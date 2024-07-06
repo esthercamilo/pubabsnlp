@@ -1,0 +1,2 @@
+{'Year': '2021'}
+Dual antiplatelet therapy (DAPT) is currently the standard treatment for the prevention of ischemic events after stent implantation. However, the optimal DAPT duration remains elusive for patients with chronic kidney disease (CKD). Therefore, we aimed to compare the effectiveness and safety between long-term and short-term DAPT after coronary stenting in patients with CKD.

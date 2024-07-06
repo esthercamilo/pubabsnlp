@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct'}
+Adequate opioid prescribing is critical for therapeutic success of pain management. Despite the widespread use of opioids, optimized opioid therapy remains unresolved with risk of accidental lethal overdosing. With the emergence of accumulating evidence linking genetic variation to opioid response, pharmacogenetic based treatment recommendations have been proposed.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun'}
+Substantial data support a heritable basis for supraventricular tachycardias, but the genetic determinants and molecular mechanisms of these arrhythmias are poorly understood. We sought to identify genetic loci associated with atrioventricular nodal reentrant tachycardia (AVNRT) and atrioventricular accessory pathways or atrioventricular reciprocating tachycardia (AVAPs/AVRT).

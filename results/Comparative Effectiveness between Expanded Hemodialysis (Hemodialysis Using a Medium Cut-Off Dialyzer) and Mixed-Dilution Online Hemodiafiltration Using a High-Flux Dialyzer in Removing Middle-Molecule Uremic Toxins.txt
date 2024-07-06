@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Expanded hemodialysis (HD using a medium cut-off dialyzer [HD + MCO]) provides comparable or better removal of various uremic toxins, particularly large middle-molecule uremic toxins, than post-dilution online hemodiafiltration (olHDF). Uremic toxin-removing effectiveness between HD + MCO and mixed-dilution olHDF, one of the currently most efficient olHDF modalities, has not been assessed.

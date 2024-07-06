@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '17'}
+Deciphering gene regulation is essential for understanding the underlying mechanisms of healthy and disease states. While the regulatory networks formed by transcription factors (TFs) and their target genes has been mostly studied with relation to cis effects such as in TF binding sites, we focused on trans effects of TFs on the expression of their transcribed genes and their potential mechanisms.

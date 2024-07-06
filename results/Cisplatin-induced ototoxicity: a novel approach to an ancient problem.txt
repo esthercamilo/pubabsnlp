@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jul', 'Day': '01'}
+With the scarcity of pharmacological otoprotective agents against cisplatin-induced ototoxicity (CIO), researchers find themselves compelled to look at and navigate all possible strategies to identify ways to prevent CIO. One of these promising strategies is pharmacogenomic implementation. This strategy aims for identifying and detecting high-risk genetic variants to tailor cisplatin therapy to reach the best survival outcomes with the least risk of ototoxicity.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb', 'Day': '22'}
+Acute agitation is common in patients with bipolar disorder and requires urgent management to relieve distress and to prevent escalation to aggressive behavior.

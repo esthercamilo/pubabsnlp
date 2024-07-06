@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov'}
+In advanced oestrogen receptor-positive, HER2-negative breast cancer, acquired resistance to aromatase inhibitors frequently stems from ESR1-mutated subclones, which might be sensitive to fulvestrant. The PADA-1 trial aimed to show the efficacy of an early change in therapy on the basis of a rising ESR1 mutation in blood (bESR1<sup>mut</sup>), while assessing the global safety of combination fulvestrant and palbociclib.

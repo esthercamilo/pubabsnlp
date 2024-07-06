@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+Despite healthcare professionals (HCP) endorsing the clinical utility of pharmacogenomics testing, use in clinical practice is limited.

@@ -1,0 +1,2 @@
+{'Year': '2024'}
+To determine the role of the IL8 rs4073 polymorphism in predicting the risk of central nervous system (CNS) toxicity in patients receiving standard pharmacological treatment for multidrug-resistant tuberculosis (MDR-TB).

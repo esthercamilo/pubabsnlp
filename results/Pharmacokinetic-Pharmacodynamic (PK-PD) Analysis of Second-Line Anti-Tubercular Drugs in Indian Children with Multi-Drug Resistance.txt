@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '28'}
+To conduct a thorough pharmacokinetic (PK) - pharmacodynamic (PD) analysis of second-line anti-tubercular therapy (ATT) in children diagnosed with multi-drug resistant tuberculosis (MDR-TB).

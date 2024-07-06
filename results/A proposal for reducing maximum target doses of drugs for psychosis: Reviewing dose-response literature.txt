@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+Presently, there is limited guidance on the maximal dosing of psychosis drugs that is based on effectiveness rather than safety or toxicity. Current maximum dosing recommendations may far exceed the necessary degree of dopamine D<sub>2</sub> receptor blockade required to treat psychosis. This may lead to excess harm through cognitive impairment and side effects.

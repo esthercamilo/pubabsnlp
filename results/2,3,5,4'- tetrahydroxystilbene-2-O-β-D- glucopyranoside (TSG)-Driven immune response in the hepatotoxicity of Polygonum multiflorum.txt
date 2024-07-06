@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '23'}
+2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucopyranoside (TSG) as the primary constituent of Polygonum multiflorum Thumb. (PM) possesses anti-oxidative, antihypercholesterolemic, anti-tumor and many more biological activities. The root of PM has been used as a tonic medicine for thousands of years. However, cases of PM-induced liver injury are occasionally reported, and considered to be related to the host immune status.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr'}
+In GI cancers, anaplastic lymphoma kinase (<i>ALK</i>) rearrangements are extremely less frequent than in non-small-cell lung cancer but may be important to offer personalized strategies of treatment in selected patients. Data about the activity and efficacy of ALK inhibitors (ALKi) in GI cancers are scarce.

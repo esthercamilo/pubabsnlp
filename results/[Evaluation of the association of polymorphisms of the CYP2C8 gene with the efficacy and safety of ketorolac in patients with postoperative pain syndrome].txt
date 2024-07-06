@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun', 'Day': '17'}
+To evaluate the possible association of CYP2C8 gene polymorphisms with the clinical efficacy and safety of ketorolac in relation to postoperative pain.

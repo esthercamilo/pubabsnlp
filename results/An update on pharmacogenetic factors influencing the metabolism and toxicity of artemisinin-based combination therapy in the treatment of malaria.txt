@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+Artemisinin-based combination therapies (ACTs) are recommended first-line antimalarials for uncomplicated <i>Plasmodium falciparum</i> malaria. Pharmacokinetic/pharmacodynamic variation associated with ACT drugs and their effect is documented. It is accepted to an extent that inter-individual variation is genetically driven, and should be explored for optimized antimalarial use.

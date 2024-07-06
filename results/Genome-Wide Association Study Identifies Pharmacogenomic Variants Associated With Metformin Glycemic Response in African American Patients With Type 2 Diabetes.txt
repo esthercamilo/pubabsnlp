@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb', 'Day': '01'}
+Metformin is the most common treatment for type 2 diabetes (T2D). However, there have been no pharmacogenomic studies for T2D in which a population of color was used in the discovery analysis. This study sought to identify genomic variants associated with metformin response in African American patients with diabetes.

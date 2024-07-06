@@ -1,0 +1,2 @@
+{'Year': '2022', 'Season': 'Mar-Apr'}
+Variability in individual drug response may delay time to relief of symptoms for various disease states. As pharmacogenomic (PGx) testing becomes more widespread, providers are tasked with determining when and in who PGx testing is most appropriate. The use of PGx testing in patients with depressive symptoms has shown some utility, but how this translates to a general population within a primary care setting has yet to be determined.

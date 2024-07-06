@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb'}
+Uncontrolled asthma can lead to severe exacerbations and reduced quality of life. Research has shown that the microbiome may be linked with asthma characteristics; however, its association with asthma control has not been explored. We aimed to investigate whether the gastrointestinal microbiome can be used to discriminate between uncontrolled and controlled asthma in children.

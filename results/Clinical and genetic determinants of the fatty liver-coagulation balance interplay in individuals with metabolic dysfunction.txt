@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec'}
+The aim of this study was to examine the determinants of the interplay between liver damage and the coagulation balance in individuals at risk of non-alcoholic fatty liver disease (NAFLD).

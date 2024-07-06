@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jan'}
+Studies have investigated the early use of liquid biopsy (LBx) during the diagnostic workup of patients presenting with clinical evidence of advanced lung cancer, but real-world adoption and impact has not been characterized. The aim of this study was to determine whether the use of LBx before diagnosis (Dx; LBx-Dx) enables timely comprehensive genomic profiling (CGP) and shortens time until treatment initiation for advanced non-small-cell lung cancer (aNSCLC).

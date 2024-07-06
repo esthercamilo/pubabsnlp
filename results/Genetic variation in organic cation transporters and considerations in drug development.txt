@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Mar'}
+Membrane transporters are now widely recognized for their role in the absorption, distribution, clearance, and elimination of drugs. The organic cation transporters (OCTs, SLC22A) are expressed in the intestine, liver, and kidneys and are of importance in determining systemic pharmacokinetics (PK) and tissue-specific exposure of drugs and metabolites.

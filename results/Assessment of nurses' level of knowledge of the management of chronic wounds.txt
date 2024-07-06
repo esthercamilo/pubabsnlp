@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+Chronic wounds are a challenge and a major cause of morbidity. A wound is considered chronic if healing does not occur within the expected time frame depending on the etiology and location of the wound.

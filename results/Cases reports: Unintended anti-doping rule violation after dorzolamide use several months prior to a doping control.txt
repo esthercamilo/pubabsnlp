@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct'}
+The use of specific medicine up to several months before a doping control is not be reported on the doping control form, while the drug could then still be detectable in urine in case of a very slow elimination. It may lead to a positive test result. For example, dorzolamide, a carbonic anhydrase inhibitor for topical ophthalmic application, has a very slow elimination rate via the renal route (half-life > 4 months). This substance can be a source of unintended anti-doping rule violations.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+The purpose of this paper is to study the correlation between demographic and clinical factors and warfarin dose of patients in Chinese Han population taking warfarin and study gene polymorphisms impact of related gene loci (CYP2C9*3, VKORC1-1639G > A) on warfarin doses, to establish a model to predict initial standard dose and maintenance dose based on CYP2C9*3, VKORC1-1639G > A genotype.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Season': 'Mar-Apr'}
+Pharmacogenetic (PGx) testing is an evidence-based approach to finding effective medication therapies. While community pharmacists are ideally situated to provide PGx testing, the extent of its implementation is limited within community pharmacies.

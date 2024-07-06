@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '25'}
+To evaluate knowledge, attitude and perception of community pharmacists towards pharmacogenomics services.

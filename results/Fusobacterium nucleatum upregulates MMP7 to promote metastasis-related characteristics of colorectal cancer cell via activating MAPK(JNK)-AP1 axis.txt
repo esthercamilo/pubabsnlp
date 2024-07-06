@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '09'}
+Colorectal cancer (CRC) is the third most common malignant tumor. Fusobacterium nucleatum (F. nucleatum) is overabundant in CRC and associated with metastasis, but the role of F. nucleatum in CRC cell migration and metastasis has not been fully elucidated.

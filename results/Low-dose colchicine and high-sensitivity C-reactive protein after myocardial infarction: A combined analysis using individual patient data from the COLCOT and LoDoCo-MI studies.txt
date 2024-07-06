@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '15'}
+Low-dose colchicine is effective in reducing the risks of recurrent cardiovascular events following an acute myocardial infarction (MI). However, the influence of colchicine on inflammation remains inconclusive. In the current study, we conducted a combined analysis using individual patient data from the COLCOT and LoDoCo-MI trials to assess the effect of low-dose colchicine on high-sensitivity C reactive protein (hs-CRP) in patients with acute MI.

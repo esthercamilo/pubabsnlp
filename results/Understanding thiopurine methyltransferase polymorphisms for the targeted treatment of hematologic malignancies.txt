@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct'}
+Thiopurine methyltransferase (TPMT) catalyzes the S-methylation of thiopurines (mercaptopurine (MP) and tioguanine (TG)), chemotherapeutic agents used in the treatment of acute lymphoblastic leukemia (ALL). Polymorphisms in <i>TPMT</i> gene encode diminished activity enzyme, enhancing accumulation of active metabolites, and partially explaining the inter-individual differences in patients' clinical response.

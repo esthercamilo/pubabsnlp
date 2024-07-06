@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '30'}
+Patient education is an integral component of diabetes mellitus care. The emergence of different methods and characteristics of patient education has led to varying outcomes of quality of life (QoL). Herein, we systematically searched for published studies reporting patient education and its methods and characteristics for improving the QoL of patients with type 2 diabetes mellitus (T2DM).

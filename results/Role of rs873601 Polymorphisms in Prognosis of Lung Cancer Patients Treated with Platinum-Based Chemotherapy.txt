@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov', 'Day': '24'}
+Lung cancer is still the most lethal malignancy in the world, according to the report of Cancer Statistics in 2021. Platinum-based chemotherapy combined with immunotherapy is the first-line treatment in lung cancer patients. However, the 5-year survival rate is always affected by the adverse reactions and drug resistance caused by platinum-based chemotherapy. DNA damage and repair system is one of the important mechanisms that can affect the response to chemotherapy and clinical outcomes in lung cancer patients.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May'}
+The lockdown periods imposed in 2020 by governments had deleterious consequences on population mental health. Several studies based on declarative data have suggested that the lockdown periods were associated with changes in psychoactive substance use but few relied on toxicological analyses.

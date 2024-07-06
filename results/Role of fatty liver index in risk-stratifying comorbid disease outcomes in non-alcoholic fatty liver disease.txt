@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+Population screening for non-alcoholic fatty liver disease (NAFLD) and associated comorbidities remains an unaddressed clinical need. We aimed to assess the utility of the fatty liver index (FLI) for risk stratification of NAFLD and related comorbidities using the UK Biobank.

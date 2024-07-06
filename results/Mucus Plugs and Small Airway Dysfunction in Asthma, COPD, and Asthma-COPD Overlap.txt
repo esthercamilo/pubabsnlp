@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar'}
+There are reports concerning mucus plugs detected on high-resolution computed tomography images and airflow obstruction in asthma and chronic obstructive pulmonary disease (COPD). However, little is known about the associations between mucus plugs and small airway dysfunction (SAD). We evaluated the relationship between mucus plugs and pulmonary function in patients with asthma, COPD, and asthma-COPD overlap (ACO), and investigated the relevance to SAD and type 2 inflammation in a retrospective study.

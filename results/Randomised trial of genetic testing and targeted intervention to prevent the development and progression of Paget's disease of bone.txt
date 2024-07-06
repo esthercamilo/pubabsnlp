@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '12'}
+Paget's disease of bone (PDB) frequently presents at an advanced stage with irreversible skeletal damage. Clinical outcomes might be improved by earlier diagnosis and prophylactic treatment.

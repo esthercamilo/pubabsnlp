@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '20'}
+Sleep bruxism (SB) is a widespread masticatory muscle activity during sleep and affects approximately 13.2% of the general population. Telomerase reverse transcriptase (TERT) plays a role in preventing the shortening of the telomere. This prospective, observational study aimed to investigate the relationship between single nucleotide polymorphism (SNP) of TERT and the severity of SB and to identify the independent risk factors for SB.

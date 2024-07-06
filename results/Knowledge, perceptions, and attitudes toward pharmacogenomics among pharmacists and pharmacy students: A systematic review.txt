@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jan'}
+Pharmacists have been recognized as one of the most qualified healthcare professionals in the clinical implementation of pharmacogenomics, yet its widespread implementation in clinical pharmacy practice has remained limited. The review aims to systematically investigate knowledge, perceptions, and attitudes toward pharmacogenomics among pharmacists and pharmacy students to inform the future delivery of pharmacogenomics education programs.

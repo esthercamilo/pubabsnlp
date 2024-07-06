@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun'}
+Platinum-induced nephrotoxicity is a severe and unexpected adverse drug reaction that could lead to treatment failure in non-small cell lung cancer patients. Better prediction and management of this nephrotoxicity can increase patient survival. Our study aimed to build up and compare the best machine learning models with clinical and genomic features to predict platinum-induced nephrotoxicity in non-small cell lung cancer patients.

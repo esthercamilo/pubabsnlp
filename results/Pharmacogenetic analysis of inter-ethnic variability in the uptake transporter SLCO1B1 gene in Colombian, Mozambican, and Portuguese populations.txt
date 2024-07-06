@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '01'}
+Statin-induced myopathy is reported to be associated with the solute carrier organic anion transporter family member 1B1 gene single nucleotide polymorphism, c.521 T > C. There is no epidemiologic data on this gene polymorphism in several countries. Therefore, this study aimed at assessing the genotype and allele frequencies of the gene variant in three countries.

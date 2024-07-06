@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct', 'Day': '29'}
+ADME genes are those involved in the absorption, distribution, metabolism, and excretion (ADME) of drugs. In the present study, a non-small-cell lung cancer (NSCLC) risk prediction model was established using prognosis-associated ADME genes, and the predictive performance of this model was evaluated and verified. In addition, multifaceted difference analysis was performed on groups with high and low risk scores.

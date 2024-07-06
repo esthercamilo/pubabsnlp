@@ -1,0 +1,2 @@
+{'Year': '2024'}
+Olaparib is an inhibitor of the human poly-(ADP-ribose)-polymerase enzymes (PARP1/2) needed to repair single-strand DNA breaks. It is used in breast, ovarian, prostate and pancreatic cancer.

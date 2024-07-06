@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jan'}
+Tweetable abstract Update on the genetic variants with the highest level of Pharmacogenomics Knowledge Base evidence for their association with toxicity and efficacy in response to the most commonly used disease-modifying antirheumatic drugs for the treatment of rheumatoid arthritis.

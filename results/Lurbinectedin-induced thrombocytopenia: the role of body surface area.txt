@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May'}
+Lurbinectedin is an alkylating agent approved for the second-line treatment of small cell lung cancer. Although initial studies showed no association between body surface area (BSA) and drug clearance, the recommended dose is 3.2 mg/m<sup>2</sup> every 3 weeks. This recommendation was based on an exposure-response study, which demonstrated that patients with lower BSA had a higher incidence of thrombocytopenia. Herein we present the factors associated with BSA and thrombopoiesis, which may have contributed to the observed relationship.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+Identifying patients at high risk of immunogenicity is important when selecting tumor necrosis factor (TNF)-α antagonists in patients with immune-mediated inflammatory diseases (IMIDs). We evaluated the association HLA-DQA1∗05 genotype and risk of immunogenicity with TNF-α antagonists.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '03'}
+The human leukocyte antigen (HLA) genes, exhibiting significant genetic diversity, are associated with susceptibility to various clinical diseases and diverse in drug responses. High costs of HLA sequencing and the population-specific architecture of this genetic region necessitate the establishment of a population-specific HLA imputation reference panel. Moreover, there is a lack of understanding about the genetic and phenotypic landscape of HLA variations within the Taiwanese population.

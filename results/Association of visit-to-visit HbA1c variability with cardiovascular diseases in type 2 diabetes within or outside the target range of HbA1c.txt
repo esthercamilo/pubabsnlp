@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Although a growing attention has been recently paid to the role of HbA1c variability in the risk of diabetic complications, the impact of HbA1c variability on cardiovascular diseases (CVD) in type 2 diabetes is still debated. The aim of the study is to investigate the association of HbA1c variability with CVD in individuals within or outside the target range of HbA1c.

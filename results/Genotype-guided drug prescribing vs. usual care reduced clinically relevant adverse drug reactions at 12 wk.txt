@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jun'}
+Swen JJ, van der Wouden CH, Manson LE, et al; Ubiquitous Pharmacogenetics Consortium. <b>A 12-gene pharmacogenetic panel to prevent adverse drug reactions: an open-label, multicentre, controlled, cluster-randomised crossover implementation study.</b> Lancet. 2023;401:347-356. 36739136.

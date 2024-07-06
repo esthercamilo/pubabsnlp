@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov'}
+The growing interest in the possibilities of modulating macrophages in inflammatory diseases with therapeutic purpose has prompted the development of new approaches for the treatment of periodontitis. This randomized add-on open preliminary clinical study evaluated the short-term effects of L-arginine or L-ornithine as an adjuvant to scaling and root planing (SRP) in patients with chronic periodontitis.

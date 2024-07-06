@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov'}
+Prognostic tools to estimate the risk of relapse for patients with liver-limited metastatic colorectal cancer (LL-mCRC) undergoing resection with curative intent are needed. Circulating tumor DNA (ctDNA) as a surrogate of postsurgical minimal residual disease is a promising marker in localized CRC. We explored the role of postoperative ctDNA as a marker of minimal residual disease in patients with radically resected LL-mCRC.

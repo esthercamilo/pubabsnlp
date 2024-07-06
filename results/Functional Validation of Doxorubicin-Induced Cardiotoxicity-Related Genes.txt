@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb'}
+Genome-wide association studies and candidate gene association studies have identified more than 180 genetic variants statistically associated with anthracycline-induced cardiotoxicity (AIC). However, the lack of functional validation has hindered the clinical translation of these findings.

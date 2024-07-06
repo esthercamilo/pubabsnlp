@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug', 'Day': '13'}
+Hepatocellular carcinoma (HCC) is a fatal disease characterized by early genetic alterations in telomerase reverse transcriptase promoter (TERTp) and β-catenin (CTNNB1) genes and immune cell activation in the tumor microenvironment. As a novel approach, we wanted to assess patient survival influenced by combined presence of mutations and densities of CD8+ cytotoxic T cells.

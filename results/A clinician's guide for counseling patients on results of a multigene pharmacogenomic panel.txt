@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '22'}
+This article explores approaches to pharmacogenomic counseling for patients who have undergone multigene panel testing by describing the collective experience of 5 institutions.

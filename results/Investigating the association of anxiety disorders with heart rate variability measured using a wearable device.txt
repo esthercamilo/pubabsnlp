@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '15'}
+Reduced vagally-mediated heart rate variability (HRV) has been associated with anxiety disorders (AD). The aim of this study was to use a wearable device and remote study design to re-evaluate the association of HRV with ADs, anxiety-related traits, and confounders.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun'}
+We sought to report the effectiveness of infliximab and adalimumab over the first 3 years of treatment and to define the factors that predict anti-TNF treatment failure and the strategies that prevent or mitigate loss of response.

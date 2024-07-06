@@ -1,0 +1,2 @@
+{'Year': '2024'}
+There is currently no widespread implementation of pharmacogenetic testing (PGx) methods in the practice of phthisiology service.

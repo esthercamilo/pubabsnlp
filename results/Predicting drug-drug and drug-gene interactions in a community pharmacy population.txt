@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov'}
+Drug-drug interactions (DDIs) are among the most common causes of adverse drug reactions and are further complicated by genetic variants of drug-metabolizing enzymes. The aim of this study is to quantify and describe potential DDIs, drug-gene interactions (DGIs), and drug-drug-gene interactions (DDGIs) in a community-based population.

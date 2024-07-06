@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '23'}
+We sought to determine whether six commonly used immunosuppressive regimens were associated with lower antibody responses after seasonal influenza vaccination in patients with inflammatory bowel disease [IBD].

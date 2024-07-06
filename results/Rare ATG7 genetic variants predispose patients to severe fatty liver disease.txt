@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep'}
+Non-alcoholic fatty liver disease (NAFLD) is the leading cause of liver disorders and has a strong heritable component. The aim of this study was to identify new loci that contribute to severe NAFLD by examining rare variants.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun'}
+Glioma is a malignant brain tumor originating from glial cells, and there still a challenge to accurately predict the prognosis. Programmed cell death (PCD) plays a key role in tumorigenesis and immune response. However, the crosstalk and potential role of various PCDs in prognosis and tumor microenvironment remains unknown. Therefore, we comprehensively discussed the relationship between different models of PCD and the prognosis of glioma and provided new ideas for the optimal targeted therapy of glioma.

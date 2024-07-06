@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct', 'Day': '02'}
+Genetic testing has potential roles in identifying whether an individual would have risk of adverse drug reactions (ADRs) from a particular medicine. Robust cost-effectiveness results on genetic testing would be useful for clinical practice and policy decision-making on allocating resources effectively. This study aimed to update a systematic review on economic evaluations of pharmacogenetic testing to prevent ADRs and critically appraise the quality of reporting and sources of evidence for model input parameters.

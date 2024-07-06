@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '18'}
+The immunotherapy with immune checkpoints inhibitors (ICI) has changed the life expectancy in metastatic melanoma (MM) patients. Nevertheless, several patients do not respond hence, the identification and validation of novel biomarkers of response to ICI is of crucial importance. Circulating extracellular vesicles (EVs) such as PD-L1<sup>+</sup> EV mediate resistance to anti-PD1, instead the role of PD1<sup>+</sup> EV is not fully understood.

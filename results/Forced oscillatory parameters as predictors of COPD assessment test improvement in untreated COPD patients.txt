@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+Few studies have examined whether baseline spirometry and the forced oscillation technique (FOT) would predict The COPD Assessment Test (CAT) score improvement after treatment of untreated COPD patients.

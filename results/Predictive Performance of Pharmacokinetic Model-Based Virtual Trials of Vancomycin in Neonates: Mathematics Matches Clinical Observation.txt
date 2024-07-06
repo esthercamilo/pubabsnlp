@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+Vancomycin is frequently used to treat Gram-positive bacterial infections in neonates. However, there is still no consensus on the optimal initial dosing regimen. This study aimed to assess the performance of pharmacokinetic model-based virtual trials to predict the dose-exposure relationship of vancomycin in neonates.

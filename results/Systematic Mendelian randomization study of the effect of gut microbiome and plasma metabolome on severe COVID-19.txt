@@ -1,0 +1,2 @@
+{'Year': '2023'}
+COVID-19 could develop severe respiratory symptoms in certain infected patients, especially in the patients with immune disorders. Gut microbiome and plasma metabolome act important immunological modulators in the human body and could contribute to the immune responses impacting the progression of COVID-19. However, the causal relationship between specific intestinal bacteria, metabolites and severe COVID-19 remains not clear.

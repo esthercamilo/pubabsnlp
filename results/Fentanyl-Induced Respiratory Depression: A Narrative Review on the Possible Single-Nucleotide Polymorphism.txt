@@ -1,0 +1,2 @@
+{'Year': '2021', 'Season': 'Jan-Mar'}
+Opioid-related respiratory depression is a serious clinical problem as it can cause multiple deaths and anoxic brain injury. Genetic variations influence the safety and clinical efficacy of fentanyl. Pharmacogenetic studies help in identifying single-nucleotide polymorphisms (SNPs) associated with fentanyl causing respiratory depression and aid clinician in personalized pain medicine. This narrative review gives an insight of the common SNPs associated with fentanyl.

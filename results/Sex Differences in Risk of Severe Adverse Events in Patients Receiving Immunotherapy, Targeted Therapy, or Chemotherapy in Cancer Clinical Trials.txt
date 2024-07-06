@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '01'}
+Women have more adverse events (AEs) from chemotherapy than men, but few studies have investigated sex differences in immune or targeted therapies. We examined AEs by sex across different treatment domains.

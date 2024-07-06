@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar'}
+Disease recurrence after surgery is a crucial predictor of poor prognosis in colorectal cancer, where disseminated disease at the time of intervention can also be observed in localized early-stage cases. We evaluated the ability to predict disease recurrence of miRNAs from two signatures that we have found linked to the presence of colorectal cancer (CL signature) or adenoma (HgA signature) in higher-risk subjects.

@@ -1,0 +1,2 @@
+{'Year': '2023'}
+To identify the key coding genes underlying the biomarkers and pathways associated with giant cell arteritis (GCA), we performed an <i>in situ</i> spatial profiling of molecules involved in the temporal arteries of GCA patients and controls. Furthermore, we performed pharmacogenomic network analysis to identify potential treatment targets.

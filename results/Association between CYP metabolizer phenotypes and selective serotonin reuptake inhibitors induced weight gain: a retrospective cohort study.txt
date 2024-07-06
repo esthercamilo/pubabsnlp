@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul', 'Day': '26'}
+Prescription medications such as selective serotonin reuptake inhibitors (SSRIs), commonly used to treat depression, are associated with weight gain. The role of pharmacogenomics in predicting SSRI-induced weight gain is unclear.

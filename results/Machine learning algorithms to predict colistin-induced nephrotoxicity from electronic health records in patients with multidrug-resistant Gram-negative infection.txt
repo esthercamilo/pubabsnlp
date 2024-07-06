@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jul'}
+Colistin-induced nephrotoxicity prolongs hospitalisation and increases mortality. The study aimed to construct machine learning models to predict colistin-induced nephrotoxicity in patients with multidrug-resistant Gram-negative infection.

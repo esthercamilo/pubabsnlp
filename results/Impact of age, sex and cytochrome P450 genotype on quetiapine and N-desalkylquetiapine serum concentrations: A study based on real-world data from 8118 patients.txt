@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+To investigate the effect of aging, sex and cytochrome P450 (CYP) genotypes on the exposure of quetiapine (QUE) and the pharmacologically active metabolite N-desalkylquetiapine (NDQ).

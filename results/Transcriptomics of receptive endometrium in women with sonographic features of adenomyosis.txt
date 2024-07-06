@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '03'}
+Women with uterine adenomyosis seeking assisted reproduction have been associated with compromised endometrial receptivity to embryo implantation. To understand the mechanisms involved in this process, we aimed to compare endometrial transcriptome profiles during the window of implantation (WOI) between women with and without adenomyosis.

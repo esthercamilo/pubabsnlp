@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jun'}
+This study aimed to assess the prescribing patterns of evidence-based pharmacotherapy and their association with clinical outcomes in patients with heart failure with reduced ejection fraction (HFrEF) in Thailand.

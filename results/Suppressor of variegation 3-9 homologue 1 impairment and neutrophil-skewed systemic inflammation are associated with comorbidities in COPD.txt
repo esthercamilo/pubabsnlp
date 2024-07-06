@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct', 'Day': '02'}
+Systemic manifestations and comorbidities are characteristics of chronic obstructive pulmonary disease (COPD) and are probably due to systemic inflammation. The histone methyltransferase SUV39H1 controls the Th1/Th2 balance. We previously reported that reduced SUV39H1 expression contributed to abnormal inflammation in COPD. Here, we aimed to determine whether impaired SUV39H1 expression in COPD patients associated with neutrophilic/eosinophilic inflammation responses and comorbidities.

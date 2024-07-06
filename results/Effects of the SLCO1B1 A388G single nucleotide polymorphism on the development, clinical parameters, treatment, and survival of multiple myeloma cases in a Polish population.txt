@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb'}
+Multiple myeloma is one of the most common hematological malignancies worldwide. Genetic alterations may lead to the progression from monoclonal gammopathy to multiple myeloma. Additionally, the genetic background of the disease might influence therapy outcomes, including survival time. SLCO1B1, belonging to the OATPs family, is a membrane protein that mediates the uptake of a wide range of endogenous and exogenous (including drugs) compounds.

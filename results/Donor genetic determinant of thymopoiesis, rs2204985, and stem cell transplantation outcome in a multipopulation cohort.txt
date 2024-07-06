@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May'}
+A genetic polymorphism, rs2204985, has been reported to be associated with the diversity of T-cell antigen receptor repertoire and TREC levels, reflecting the function of the thymus. As the thymus function can be assumed to be an important factor regulating the outcome of stem cell transplantation (SCT), it was of great interest that rs2204985 showed a genetic association to disease-free and overall survival in a German SCT donor cohort. Tools to predict the outcome of SCT more accurately would help in risk assessment and patient safety.

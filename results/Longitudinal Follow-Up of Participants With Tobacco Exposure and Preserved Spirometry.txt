@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '01'}
+People who smoked cigarettes may experience respiratory symptoms without spirometric airflow obstruction. These individuals are typically excluded from chronic obstructive pulmonary disease (COPD) trials and lack evidence-based therapies.

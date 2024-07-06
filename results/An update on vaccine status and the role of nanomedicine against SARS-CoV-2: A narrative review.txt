@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jul'}
+Coronavirus disease 2019 (COVID-19), caused by the SARS-CoV-2 novel coronavirus, is a highly communicable disease that gave rise to the ongoing pandemic. Despite prompt action across many laboratories in many countries, effective management of this disease is still out of reach. The focus of this review is to describe various vaccination approaches and nanomedicine-based delivery systems against COVID-19.

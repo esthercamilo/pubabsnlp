@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec'}
+This study reported SARS-CoV-2 whole genome sequencing results from June 2021 to January 2022 from seven genome sequencing centers in Malaysia as part of the national surveillance program.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep'}
+Pulmonary fibrosis is characterized by lung parenchymal destruction and can increase morbidity and mortality. Pulmonary fibrosis commonly occurs following hospitalization for SARS-CoV-2 infection. As there are medications that modify pulmonary fibrosis risk, we investigated whether distinct pharmacotherapies (amiodarone, cancer chemotherapy, corticosteroids, and rituximab) are associated with differences in post-COVID-19 pulmonary fibrosis incidence.

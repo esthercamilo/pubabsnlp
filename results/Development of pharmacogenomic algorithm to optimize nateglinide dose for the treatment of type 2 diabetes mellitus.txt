@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct'}
+Nateglinide is a meglitinide used for the treatment of type 2 diabetes mellitus. Individual studies demonstrated the association of CYP2C9, SLCO1B1, and MTNR1B variants with the safety and efficacy of nateglinide. The current study aimed to develop a pharmacogenomic algorithm to optimize nateglinide therapy.

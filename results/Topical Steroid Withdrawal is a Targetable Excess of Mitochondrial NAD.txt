@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '19'}
+Topical corticosteroids (TCS) are first-line therapies for numerous skin conditions. Topical Steroid Withdrawal (TSW) is a controversial diagnosis advocated by patients with prolonged TCS exposure who report severe systemic reactions upon treatment cessation. However, to date there have been no systematic clinical or mechanistic studies to distinguish TSW from other eczematous disorders.

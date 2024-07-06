@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+Colorectal cancer (CRC) is a common malignant tumor with a high global incidence, metastasis rate and low cure rate. Changes in lipid metabolism-related genes can affect the occurrence and development of CRC, and may be a potential therapeutic target for CRC. Therefore, starting from lipid metabolism-related genes to find natural medicines for tumor treatment may become a new direction in CRC research.

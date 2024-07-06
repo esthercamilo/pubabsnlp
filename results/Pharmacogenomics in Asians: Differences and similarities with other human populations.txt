@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan'}
+Various pharmacogenomic (PGx) variants differ widely in different ethnicities. and clinical outcomes associated with these variants may also be substantially varied. Literature was searched in different databases, i.e. PubMed, ScienceDirect, Web of Science, and PharmGKB, from inception to 30 June 2022 for this review.

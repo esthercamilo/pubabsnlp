@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jan', 'Day': '17'}
+Mycophenolic acid (MPA) is a primary immunosuppressive agent used in the treatment of lupus nephritis (LN). While therapeutic drug monitoring (TDM) of MPA is well established in organ transplantation, its role in LN treatment remains uncertain. Our objective was to review and summarise current knowledge on TDM of MPA in the LN treatment.

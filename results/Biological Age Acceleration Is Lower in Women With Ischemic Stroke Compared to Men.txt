@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+Stroke onset in women occurs later in life compared with men. The underlying mechanisms of these differences have not been established. Epigenetic clocks, based on DNA methylation (DNAm) profiles, are the most accurate biological age estimate. Epigenetic age acceleration (EAA) measures indicate whether an individual is biologically younger or older than expected. Our aim was to analyze whether sexual dichotomy at age of stroke onset is conditioned by EAA.

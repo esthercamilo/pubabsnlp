@@ -1,0 +1,2 @@
+{'MedlineDate': '2023 Oct-Nov 01'}
+This study investigated outcomes of pharmacogenetic testing of youth with autism spectrum disorder (ASD) referred to a precision medicine clinic and explored associations between patient characteristics and pharmacogenomic testing results.

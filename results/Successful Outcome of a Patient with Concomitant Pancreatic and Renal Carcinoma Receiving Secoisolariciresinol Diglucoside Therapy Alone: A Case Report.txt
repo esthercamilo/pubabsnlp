@@ -1,0 +1,2 @@
+{'Year': '2024'}
+Pancreatic cancer (PC) is among the deadliest malignancies. Kidney cancer (KC) is a common malignancy globally. Chemo- or radio-therapies are not very effective to control PC or KC, and overdoses often cause severe site reactions to the patients. As a result, novel treatment strategies with high efficacy but without toxic side effects are urgently desired. Secoisolariciresinol diglucoside (SDG) belongs to plant lignans with potential anticancer activities, but clinical evidence is not available in PC or KC treatment.

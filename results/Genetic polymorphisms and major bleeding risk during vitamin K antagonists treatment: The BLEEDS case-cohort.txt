@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun'}
+Major bleeding occurs annually in 1%-3% of patients on vitamin K antagonists (VKAs), despite close monitoring. Genetic variants in proteins involved in VKA response may affect this risk.

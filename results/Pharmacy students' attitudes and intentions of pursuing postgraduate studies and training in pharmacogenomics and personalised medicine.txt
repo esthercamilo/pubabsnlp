@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Mar', 'Day': '23'}
+Pharmacists' contribution to pharmacogenomics (PGx) implementation in clinical practice is vital, but a great proportion of them are not aware of PGx and its applications. This highlights the university education's crucial role to prepare pharmacists to face future challenges in such a constantly evolving and demanding environment.

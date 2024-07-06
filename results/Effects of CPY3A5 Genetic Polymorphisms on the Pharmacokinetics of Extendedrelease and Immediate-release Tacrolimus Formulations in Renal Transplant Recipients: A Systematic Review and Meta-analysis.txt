@@ -1,0 +1,2 @@
+{'Year': '2021'}
+Although the pharmacokinetic variability of Tacrolimus (Tac) metabolism is primarily influenced by CYP3A5 genotypes, the potential effect according to CYP3A5 polymorphisms in Tac extended-release (Tac-ER) and immediate-release (Tac-IR) and between these formulations' conversion needs further investigation. The purpose of this study was to clarify the association of CYP3A5 genotypes and pharmacokinetics of different Tac formulations in renal transplant recipients.

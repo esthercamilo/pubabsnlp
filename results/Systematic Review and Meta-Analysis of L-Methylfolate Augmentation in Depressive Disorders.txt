@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May'}
+  Partial response to pharmacotherapy is common in major depressive disorder (MDD) and many patients require alternative pharmacotherapy or augmentation, including adjunctive L-methylfolate. Given that L-methylfolate augmentation is rarely included in major clinical practice guidelines, we sought to systematically review evidence for L-methylfolate augmentation in adults with MDD and to examine its efficacy meta-analytically.

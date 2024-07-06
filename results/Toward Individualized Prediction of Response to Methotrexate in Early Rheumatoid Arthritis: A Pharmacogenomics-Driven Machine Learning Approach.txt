@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun'}
+To test the ability of machine learning (ML) approaches with clinical and genomic biomarkers to predict methotrexate treatment response in patients with early rheumatoid arthritis (RA).

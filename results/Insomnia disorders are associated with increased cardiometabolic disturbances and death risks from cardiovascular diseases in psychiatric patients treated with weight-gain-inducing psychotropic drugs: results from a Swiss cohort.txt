@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '17'}
+Insomnia disorders as well as cardiometabolic disorders are highly prevalent in the psychiatric population compared to the general population. We aimed to investigate their association and evolution over time in a Swiss psychiatric cohort.

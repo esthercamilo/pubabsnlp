@@ -1,0 +1,2 @@
+{'Year': '2024'}
+Rupture of abdominal aortic aneurysm (rAAA) is a fatal event in the elderly. Elevated blood pressure and weakening of vessel wall strength are major risk factors for this devastating event. This present study examined whether the expression profile of mechanosensitive genes correlates with the phenotype and outcome, thus, serving as a biomarker for AAA development.

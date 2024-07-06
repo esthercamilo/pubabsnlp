@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Autistic spectrum disorders (ASD) children and adolescents usually present comorbidities, with 40-70% of them affected by attention deficit hyperactivity disorders (ADHD). The first option of pharmacological treatment for these patients is methylphenidate (MPH). ASD children present more side effects and poorer responses to MPH than ADHD children. The objective of our study is to identify genetic biomarkers of response to MPH in ASD children and adolescents to improve its efficacy and safety.

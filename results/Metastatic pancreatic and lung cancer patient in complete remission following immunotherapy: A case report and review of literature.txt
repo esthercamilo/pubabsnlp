@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '15'}
+Metastatic pancreatic ductal adenocarcinoma (PDAC) is a lethal malignancy with dispiriting survival data. Immunotherapy is a promising approach to many cancer types, but achieves poor outcomes in advanced PDAC due to its immunosuppressive tumor microenvironment. We describe a case of metastatic PDAC effectively treated with pembrolizumab.

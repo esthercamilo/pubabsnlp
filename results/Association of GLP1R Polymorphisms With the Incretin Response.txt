@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug', 'Day': '18'}
+Polymorphisms in the gene encoding the glucagon-like peptide-1 receptor (GLP1R) are associated with type 2 diabetes but their effects on incretin levels remain unclear.

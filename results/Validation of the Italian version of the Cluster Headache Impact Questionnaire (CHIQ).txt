@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug'}
+The Cluster Headache Impact Questionnaire (CHIQ) is a specific and easy-to-use questionnaire to assess the current impact of cluster headache (CH). The aim of this study was to validate the Italian version of the CHIQ.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb'}
+This study aimed to provide up-to-date information on paediatric population pharmacokinetic models of tacrolimus and to identify factors influencing tacrolimus pharmacokinetic variability.

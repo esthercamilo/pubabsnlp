@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '21'}
+Aspirin is widely used for preventing ischaemic events. About 20%-40% of patients have aspirin resistance (ASR), which prevents them from benefiting from aspirin medication. This study aimed to develop and validate a model based on single-nucleotide polymorphism (SNP) to distinguish ASR patients.

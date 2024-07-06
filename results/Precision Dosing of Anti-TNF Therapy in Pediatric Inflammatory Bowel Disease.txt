@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+This review focuses on recent advancements in anti-TNF therapeutic drug monitoring (TDM), pharmacogenetics and personalized drug selection for children with inflammatory bowel disease (IBD).

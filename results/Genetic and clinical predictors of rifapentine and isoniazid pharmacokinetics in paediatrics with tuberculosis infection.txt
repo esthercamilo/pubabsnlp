@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '03'}
+Twelve weekly doses of rifapentine and isoniazid (3HP regimen) are recommended for TB preventive therapy in children with TB infection. However, they present with variability in the pharmacokinetic profiles. The current study aimed to develop a pharmacokinetic model of rifapentine and isoniazid in 12 children with TB infection using NONMEM.

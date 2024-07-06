@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug', 'Day': '11'}
+Long COVID is a major public health issue. Whether long COVID is comorbid with psychiatric disorders remains unclear. Here, we investigate the association between long COVID, psychiatric symptoms and psychiatric disorders.

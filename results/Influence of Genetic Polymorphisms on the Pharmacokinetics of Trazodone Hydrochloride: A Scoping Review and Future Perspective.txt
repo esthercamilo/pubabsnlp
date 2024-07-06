@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '01'}
+Trazodone hydrochloride is an antidepressant used in clinical practice. As a substrate of cytochrome P450 enzymes that is vulnerable to P-glycoprotein transport, several factors can alter its plasma concentration, and hence, dose adjustment may be required. The aim of this scoping review was to identify genetic polymorphisms that influence the pharmacokinetics of trazodone hydrochloride.

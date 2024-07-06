@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+The extensive variability in cytochrome P450 2D6 (CYP2D6) metabolism is mainly caused by genetic polymorphisms. However, there is large, unexplained variability in CYP2D6 metabolism within CYP2D6 genotype subgroups. Solanidine, a dietary compound found in potatoes, is a promising phenotype biomarker predicting individual CYP2D6 metabolism. The aim of this study was to investigate the correlation between solanidine metabolism and the CYP2D6-mediated metabolism of risperidone in patients with known CYP2D6 genotypes.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar'}
+Tenofovir and para-aminosalicylic acid (PAS) may be coprescribed to treat patients with concomitant infections of human immunodeficiency virus and Mycobacterium tuberculosis bacteria. Both drugs are known to have remarkable renal uptake transporter-mediated clearance. Owing to the lack of clinical studies on drug-drug interaction between the 2 drugs, we conducted a translational clinical study to investigate the effect of PAS on tenofovir pharmacokinetics (PK).

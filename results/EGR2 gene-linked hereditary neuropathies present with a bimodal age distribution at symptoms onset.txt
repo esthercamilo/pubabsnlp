@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep'}
+Mutations in the Early-Growth Response 2 (EGR2) gene cause various hereditary neuropathies, including demyelinating Charcot-Marie-Tooth (CMT) disease type 1D (CMT1D), congenital hypomyelinating neuropathy type 1 (CHN1), Déjerine-Sottas syndrome (DSS), and axonal CMT (CMT2).

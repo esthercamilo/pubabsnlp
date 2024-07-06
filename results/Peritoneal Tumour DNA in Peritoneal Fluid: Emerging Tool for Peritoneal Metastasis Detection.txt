@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '29'}
+The prognostic significance of positive peritoneal cytology still varied between cancer types and geographical origin. However, because of the lack of sensitivity of this biomarker, conventional cytology is not routinely performed in every country. Here, we wanted to test a new biomarker, peritoneal tumour DNA, using NGS technique, in order to compare it with the historical one, in patients having peritoneal metastases of gastrointestinal or ovarian cancer.

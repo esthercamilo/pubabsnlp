@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '01'}
+Understanding the genetic underpinnings of antidepressant treatment response in unipolar major depressive disorder (MDD) can be useful in identifying patients at risk for poor treatment response or treatment resistant depression. A polygenic risk score (PRS) is a useful tool to explore genetic liability of a complex trait such as antidepressant treatment response. Here, we review studies that use PRSs to examine genetic overlap between any trait and antidepressant treatment response in unipolar MDD.

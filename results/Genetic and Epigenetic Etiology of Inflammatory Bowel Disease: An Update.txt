@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '16'}
+Inflammatory bowel disease (IBD) is a chronic disease with periods of exacerbation and remission of the disease. The etiology of IBD is not fully understood. Many studies point to the presence of genetic, immunological, environmental, and microbiological factors and the interactions between them in the occurrence of IBD. The review looks at genetic factors in the context of both IBD predisposition and pharmacogenetics.

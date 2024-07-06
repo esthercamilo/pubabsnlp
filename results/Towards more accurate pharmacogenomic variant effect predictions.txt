@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+Tweetable abstract Accurate variant interpretation has become a key bottleneck for the translation of an individual's pharmacogenome into actionable recommendations. We recommend an integrated use of multiplexed assays, structure-based predictions and biobank data to develop more accurate effect predictors.

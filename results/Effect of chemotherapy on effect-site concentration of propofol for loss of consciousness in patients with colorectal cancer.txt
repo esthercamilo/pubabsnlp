@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr'}
+The depth of anesthesia is an essential factor in surgical prognosis. The neurotoxic effect of chemotherapeutic drugs affects the sensitivity to anesthetics. This study was conducted to determine whether the effect-site concentration (Ce) of propofol for loss of consciousness (LOC) differs in patients undergoing preoperative chemotherapy.

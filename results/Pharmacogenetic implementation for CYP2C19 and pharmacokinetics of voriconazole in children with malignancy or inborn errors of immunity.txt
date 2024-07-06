@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '17'}
+Voriconazole pharmacokinetics (PK) are known to be affected by genetic polymorphisms of drug-metabolizing enzymes such as CYP2C19; however, such information is limited for the pediatric population. The primary aim of this study is to establish a voriconazole PK model incorporating CYP2C19 phenotypes in Japanese children with malignancy or inborn errors of immunity.

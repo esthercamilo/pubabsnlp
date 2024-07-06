@@ -1,0 +1,2 @@
+{'Year': '2022'}
+To identify more objectively predictive factors of severe outcome among patients hospitalized for coronavirus disease 2019 (COVID-19).

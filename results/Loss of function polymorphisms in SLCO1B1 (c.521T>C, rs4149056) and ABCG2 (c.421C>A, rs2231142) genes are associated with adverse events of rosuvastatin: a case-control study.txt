@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+The study aims to evaluate relationship between polymorphisms associated with a reduced function of two transporter proteins resulting in increased exposure to rosuvastatin - organic anion transporter 1B1 (OATP1B1) (SLCO1B1 c.521T>C) and ATP binding cassette subfamily G member 2 (ABCG2) (ABCG2 c.421C>A) and occurrence of rosuvastatin related myotoxicity/hepatotoxicity.

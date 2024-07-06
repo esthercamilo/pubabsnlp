@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Retreatment with anti-EGFR monoclonal antibodies is a promising strategy in patients with <i>RAS/BRAF</i> wild-type (wt) metastatic colorectal cancer (mCRC) who achieved benefit from previous anti-EGFR exposure upon exclusion of mutations in <i>RAS/BRAF</i> genes according to circulating tumor DNA (ctDNA) analysis by means of liquid biopsy (LB). This treatment approach is now being investigated in the randomized phase II trial PARERE (NCT04787341). We here present preliminary findings of molecular screening.

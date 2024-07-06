@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '27'}
+Few studies have described associations between the AKI biomarkers urinary neutrophil gelatinase-associated lipocalin (NGAL) and kidney injury molecule-1 (KIM-1) with AKI in cisplatin-treated children. We aimed to describe excretion patterns of urine NGAL and KIM-1 and associations with AKI in children receiving cisplatin.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+The Pharmacogenomics (PGx) Profile Service was a proof-of-concept project to implement PGx in patient care at Mayo Clinic.

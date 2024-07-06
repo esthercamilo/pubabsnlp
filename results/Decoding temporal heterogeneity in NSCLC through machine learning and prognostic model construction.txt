@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '13'}
+Non-small cell lung cancer (NSCLC) is a prevalent and heterogeneous disease with significant genomic variations between the early and advanced stages. The identification of key genes and pathways driving NSCLC tumor progression is critical for improving the diagnosis and treatment outcomes of this disease.

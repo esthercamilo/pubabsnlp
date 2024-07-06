@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jan', 'Day': '23'}
+Response to medications can differ widely among individual patients. Adverse drug reactions can lead to serious morbidity and mortality. Pharmacogenetic (PGx) testing can predict responses to medications and increased risks of adverse events where the genetic basis is understood. Several published manuscripts suggest positive impacts of systematic preemptive PGx testing. However, few studies have been conducted on PGx implementation in the Military Health System (MHS).

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+Age-related muscle dysfunctions are common disorders resulting in poor quality of life in the elderly. Probiotic supplementation is a potential strategy for preventing age-related sarcopenia as evidence suggests that probiotics can enhance muscle function via the gut-muscle axis. However, the effects and mechanisms of probiotics in age-related sarcopenia are currently unknown. In this study, we examined the effects of Lactobacillus casei Shirota (LcS), a probiotic previously reported to improve muscle function in young adult mice.

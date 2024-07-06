@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '01'}
+Azithromycin has been shown to improve gastrointestinal motility in adults and may have fewer drug interactions and reduced arrhythmogenic effects than erythromycin. We hypothesized that azithromycin is comparable to erythromycin in eliciting pharmacodynamic outcomes for antral and small bowel motility.

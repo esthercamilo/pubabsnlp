@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May'}
+Hemodialysis (HD) using super high-flux dialyzer (HD + SHF) comparably removed uremic toxins to high-volume postdilution online hemodiafiltration (olHDF). Integration of hemoperfusion (HP) to HD + SHF (HD + SHF + HP) might provide superior uremic toxin removing capability to high-volume postdilution olHDF.

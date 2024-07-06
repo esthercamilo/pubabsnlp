@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '04'}
+Distal chromosome 16 duplication syndrome (also known as 16q partial trisomy) is a very rare genetic disorder recently described in few clinical reports. 16q trisomy is generally associated with a multisystemic phenotype including intrauterine growth restriction (IUGR), brain and cardiac defects, intellectual disability (ID) and an increased risk of both prenatal and postnatal lethality. Smaller copy number variants (CNV) within the 16q region create partial trisomies, which occur less frequently than full trisomy 16q.

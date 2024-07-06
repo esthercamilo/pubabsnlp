@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov'}
+Patients with non-small cell lung cancer (NSCLC) receiving curative surgery have a risk of relapse, and adjuvant treatments only translate into a 5% increase in 5-year survival. We assessed the clinical significance of epithelial-mesenchymal transition (EMT) and explored its association with the [SNAIL/miR-34]:[ZEB/miR-200] regulation hub to refine prognostic information.

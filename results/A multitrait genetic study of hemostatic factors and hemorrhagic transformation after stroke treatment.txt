@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+Thrombolytic recombinant tissue plasminogen activator (r-tPA) treatment is the only pharmacologic intervention available in the ischemic stroke acute phase. This treatment is associated with an increased risk of intracerebral hemorrhages, known as hemorrhagic transformations (HTs), which worsen the patient's prognosis.

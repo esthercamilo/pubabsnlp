@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jan', 'Day': '01'}
+Vascular endothelial growth factor tyrosine kinase inhibitors (VEGF-TKIs) are a common cancer treatment. However, the pharmacologic characteristics of VEGF-TKIs may influence cardiovascular risks. The relative risks of major adverse cardiovascular events (MACEs) associated with VEGF-TKIs are poorly understood.

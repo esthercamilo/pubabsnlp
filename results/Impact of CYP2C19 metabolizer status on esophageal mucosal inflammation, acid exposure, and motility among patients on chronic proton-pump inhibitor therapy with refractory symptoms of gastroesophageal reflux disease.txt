@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun'}
+The extent of disease severity remains unclear among CYP2C19 rapid and ultra-rapid metabolizers with refractory symptoms of gastroesophageal reflux disease (GERD) on chronic proton-pump inhibitors (PPIs).

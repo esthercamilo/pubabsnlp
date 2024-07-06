@@ -1,0 +1,2 @@
+{'Year': '2021'}
+We aimed to enrich the pharmacogenomic information of a Blang population (BP) from Yunnan Province in China.

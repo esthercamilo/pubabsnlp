@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '15'}
+Multi-omic profiling data, such as The Cancer Genome Atlas and pharmacogenomic data, facilitate research into cancer mechanisms and drug development. However, it is not easy for researchers to connect, integrate and analyze huge and heterogeneous data, which is a major obstacle to the utilization of cancer genomic data.

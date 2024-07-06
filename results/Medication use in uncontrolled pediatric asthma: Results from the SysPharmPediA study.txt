@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb', 'Day': '01'}
+Uncontrolled pediatric asthma has a large impact on patients and their caregivers. More insight into determinants of uncontrolled asthma is needed. We aim to compare treatment regimens, inhaler techniques, medication adherence and other characteristics of children with controlled and uncontrolled asthma in the: Systems Pharmacology approach to uncontrolled Paediatric Asthma (SysPharmPediA) study.

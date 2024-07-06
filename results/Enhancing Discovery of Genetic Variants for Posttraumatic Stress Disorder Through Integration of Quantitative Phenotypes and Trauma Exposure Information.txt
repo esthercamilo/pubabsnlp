@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr', 'Day': '01'}
+Posttraumatic stress disorder (PTSD) is heritable and a potential consequence of exposure to traumatic stress. Evidence suggests that a quantitative approach to PTSD phenotype measurement and incorporation of lifetime trauma exposure (LTE) information could enhance the discovery power of PTSD genome-wide association studies (GWASs).

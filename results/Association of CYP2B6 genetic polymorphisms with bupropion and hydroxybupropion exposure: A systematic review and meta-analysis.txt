@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+Bupropion is metabolized to its active metabolite, hydroxybupropion (HB), by the genetically polymorphic cytochrome P450 2B6 (CYP2B6) enzyme. Despite its significant role in bupropion metabolism, the magnitude of the impact of CYP2B6 genotype on the exposure of bupropion has not been quantified.

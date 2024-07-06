@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct'}
+Early-onset pancreatic cancer (EOPC) represents 5-10% of all pancreatic ductal adenocarcinoma (PDAC) cases, and the etiology of this form is poorly understood. It is not clear if established PDAC risk factors have the same relevance for younger patients. This study aims to identify genetic and non-genetic risk factors specific to EOPC.

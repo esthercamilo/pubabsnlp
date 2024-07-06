@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May', 'Day': '01'}
+Advances in pharmacogenomics have paved the way for personalized medicine. The purpose of this review is to summarize the background, rationale, and evidence for pharmacogenomics in cardiovascular medicine.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '10'}
+Tumor immune infiltration and peripheral blood immune signatures have prognostic and predictive value in breast cancer. Whether distinct peripheral blood immune phenotypes are associated with response to neoadjuvant chemotherapy (NAC) remains understudied.

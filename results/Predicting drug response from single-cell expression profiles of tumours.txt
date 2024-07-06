@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '01'}
+Intra-tumour heterogeneity (ITH) presents a significant obstacle in formulating effective treatment strategies in clinical practice. Single-cell RNA sequencing (scRNA-seq) has evolved as a powerful instrument for probing ITH at the transcriptional level, offering an unparalleled opportunity for therapeutic intervention.

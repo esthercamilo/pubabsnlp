@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec'}
+Pooled CRISPR screen is a promising tool in drug targets or essential genes identification with the utilization of three different systems including CRISPR knockout (CRISPRko), CRISPR interference (CRISPRi) and CRISPR activation (CRISPRa). Aside from continuous improvements in technology, more and more bioinformatics methods have been developed to analyze the data obtained by CRISPR screens which facilitate better understanding of physiological effects.

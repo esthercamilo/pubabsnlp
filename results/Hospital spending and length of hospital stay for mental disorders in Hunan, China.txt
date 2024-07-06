@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Apr'}
+To describe hospital spending and length of stay for mental disorders in Hunan, China.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '07'}
+Indian natural products have been anecdotally used for cancer treatment but with limited efficacy. To better understand their mechanism, we examined the publicly available data for the activity of Indian natural products in the NCI-60 cell line panel.

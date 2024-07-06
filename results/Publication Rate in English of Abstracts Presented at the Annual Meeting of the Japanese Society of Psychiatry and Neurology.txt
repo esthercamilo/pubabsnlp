@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar', 'Day': '16'}
+Relatively low publication rates of abstracts presented at scientific meetings (i.e., 37.3%, 95% CI: 35.3-39.3) have been reported across various fields worldwide. However, no study has investigated the publication rate of abstracts presented at psychiatric meetings and factors associated with full publication in Japan. This study aimed to determine the proportion of conference abstracts in the psychiatric field that reach full publication in English and its associated factors in Japan.

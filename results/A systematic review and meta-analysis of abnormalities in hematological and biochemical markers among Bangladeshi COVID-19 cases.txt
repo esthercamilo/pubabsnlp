@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+Abnormalities in hematological and biochemical markers are assumed to be associated with the progression of COVID-19 disease. This meta-analysis was performed to assess the consequences of abnormalities of biomarkers (D-dimers, C-reactive protein [CRP], serum ferritin, lactate dehydrogenase [LDH], random blood sugar [RBS], absolute neutrophil count [ANC], neutrophil to lymphocyte ratio (NLR), serum creatinine, and hemoglobin) in the Bangladeshi COVID-19 patients.

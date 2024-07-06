@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb'}
+Antitumour necrosis factor (TNF) drugs impair serological responses following SARS-CoV-2 vaccination. We sought to assess if a third dose of a messenger RNA (mRNA)-based vaccine substantially boosted anti-SARS-CoV-2 antibody responses and protective immunity in infliximab-treated patients with IBD.

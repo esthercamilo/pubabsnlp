@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct'}
+Acute intermittent porphyria (AIP), caused by heterozygous germline mutations of the heme synthesis pathway enzyme HMBS (hydroxymethylbilane synthase), confers a high risk of hepatocellular carcinoma (HCC) development. Yet, the role of HMBS in liver tumorigenesis remains unclear.

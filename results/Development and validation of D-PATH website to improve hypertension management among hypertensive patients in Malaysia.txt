@@ -1,0 +1,2 @@
+{'Year': '2024', 'Season': 'Jan-Dec'}
+This study aimed at developing and validating a web application on hypertension management called the D-PATH website.

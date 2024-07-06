@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Following the increased survival of patients with metastatic melanoma thanks to immunotherapy and targeted therapy, neoadjuvant approaches are being investigated to address the unmet needs of unresponsive and intolerant patients. We aim to investigate the efficacy of neoadjuvant plus adjuvant combined or sequenced vemurafenib, cobimetinib and atezolizumab in patients with high-risk, resectable <i>BRAF</i>-mutated and wild-type melanoma.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb', 'Day': '15'}
+Genome-wide association studies have successfully identified more than 100 loci associated with susceptibility to rheumatoid arthritis (RA). However, our understanding of the functional effects of genetic variants in causing RA and their effects on disease severity and response to treatment remains limited.

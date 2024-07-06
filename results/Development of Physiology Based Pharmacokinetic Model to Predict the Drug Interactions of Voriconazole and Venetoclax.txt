@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug'}
+Venetoclax (VEN), an anti-tumor drug that is a substrate of cytochrome P450 3A enzyme (CYP3A4), is used to treat leukemia. Voriconazole (VCZ) is an antifungal medication that inhibits CYP3A4. The goal of this study is to predict the effect of VCZ on VEN exposure.

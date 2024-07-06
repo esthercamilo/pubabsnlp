@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '26'}
+Despite extensive research that has achieved notable advancements over the last decades, cardiovascular disease (CVD) remains the leading cause of death worldwide, with millions affected around the world [...].

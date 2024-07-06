@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '30'}
+Psychiatric symptoms and mental disorders are common after Coronavirus Disease-19 (COVID-19). Some drugs used to treat acute COVID-19 have psychiatric side effects. We assessed the psychiatric symptoms and mental disorders of patients treated for acute COVID-19 with hydroxychloroquine (HCQ), interleukin-6 receptor antagonists (anti-IL-6), and corticoids (CTC).

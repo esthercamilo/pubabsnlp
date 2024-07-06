@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+Significantly discrepant survival rates have been documented in single disease childhood cancer cohorts in South Africa; those from higher socioeconomic groups were shown to have a significantly lower risk of death than those from less affluent households. This study aimed to determine the impact of socioeconomic status (SES) on childhood cancer survival using pooled South African data.

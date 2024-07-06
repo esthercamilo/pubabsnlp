@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '14'}
+HNF1A-MODY is a monogenic form of diabetes caused by variants in the HNF1A gene. Different HNF1A variants are associated with differences in age of disease onset, but other factors are postulated to influence this trait. Here, we searched for genetic variants influencing age of HNF1A-MODY onset.

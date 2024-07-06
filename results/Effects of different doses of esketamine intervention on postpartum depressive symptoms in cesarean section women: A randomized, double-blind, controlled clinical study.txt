@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '15'}
+The optimal dosage and method of esketamine for postpartum depressive symptoms (PDS) are unclear. We conducted a randomized controlled trial (RCT) to investigate the effect of different doses of esketamine on PDS in women undergoing cesarean section, with evidence of prenatal depression.

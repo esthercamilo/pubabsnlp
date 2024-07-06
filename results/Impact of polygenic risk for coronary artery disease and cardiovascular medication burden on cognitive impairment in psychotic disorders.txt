@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar', 'Day': '08'}
+Cognitive impairment is a core deficit across psychotic disorders, the causes and therapeutics of which remain unclear. Epidemiological observations have suggested associations between cognitive dysfunction in psychotic disorders and cardiovascular risk factors, but an underlying etiology has not been established.

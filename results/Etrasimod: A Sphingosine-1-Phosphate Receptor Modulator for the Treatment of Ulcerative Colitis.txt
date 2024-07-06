@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jan', 'Day': '23'}
+To review the pharmacologic and clinical profile of etrasimod in the treatment of ulcerative colitis (UC).

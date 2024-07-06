@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '01'}
+Tacrolimus shows high variability in inter- and intraindividual pharmacokinetics (PK); therefore, it is important to develop an appropriate model for accurate therapeutic drug monitoring (TDM) procedures. This study aimed to develop a pharmacokinetic model for tacrolimus that can be used for TDM procedures in Korean adult transplant recipients by integrating published models with acquired real-world TDM data and evaluating clinically meaningful covariates.

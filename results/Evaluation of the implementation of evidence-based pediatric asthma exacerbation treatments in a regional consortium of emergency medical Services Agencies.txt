@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May'}
+Asthma exacerbations are a frequent reason for pediatric emergency medical services (EMS) encounters. The objective of this study was to examine the implementation of evidence-based treatments for pediatric asthma in a regional consortium of EMS agencies.

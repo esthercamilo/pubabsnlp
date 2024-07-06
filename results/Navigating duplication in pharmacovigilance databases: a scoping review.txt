@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '29'}
+Pharmacovigilance databases play a critical role in monitoring drug safety. The duplication of reports in pharmacovigilance databases, however, undermines their data integrity. This scoping review sought to provide a comprehensive understanding of duplication in pharmacovigilance databases worldwide.

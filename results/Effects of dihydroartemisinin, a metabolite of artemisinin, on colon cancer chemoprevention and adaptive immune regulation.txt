@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr'}
+Artemisinin (ART) is an anti-malaria natural compound with a moderate anticancer action. As a metabolite of ART, dihydroartemisinin (DHA) may have stronger anti-colorectal cancer (CRC) bioactivities. However, the effects of DHA and ART on CRC chemoprevention, including adaptive immune regulation, have not been systematically evaluated and compared.

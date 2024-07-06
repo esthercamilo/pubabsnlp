@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+A substantial number of survivors of childhood acute lymphoblastic leukemia (ALL) suffer from treatment-related late adverse effects. While multiple studies have identified the effects of chemotherapeutics and radiation therapy on musculoskeletal outcomes, few have investigated their associations with genetic factors.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+The aim of the study was to identify predictors determining the course of COVID-19 and antibody response in elite athletes.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun'}
+Inhaled corticosteroid (ICS) response among patients with asthma is influenced by genetics, but biologically actionable insights based on associations have not been found. Various glucocorticoid response omics data sets are available to interrogate their biological effects.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Mar', 'Day': '31'}
+The adenylate cyclase type 9 (ADCY9) gene appears to determine atherosclerotic outcomes in patients treated with dalcetrapib. In mice, we recently demonstrated that Adcy9 inactivation potentiates endothelial function and inhibits atherogenesis. The objective of this study was to characterize the contribution of ADCY9 to the regulation of endothelial signalling pathways involved in atherosclerosis.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '18'}
+This study aims to understand patient and healthcare provider perspectives on the integration and application of pharmacogenetics (PGx) testing in routine clinical practice.

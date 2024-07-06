@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '10'}
+The safety of reintroducing chemotherapy in the pediatric renal tumor setting after severe hepatopathy (SH), including sinusoidal obstruction syndrome (SOS), is uncertain. We describe the incidence, severity, outcomes, and impact on subsequent treatment for patients with SH from National Wilms Tumor Study (NWTS) protocols 3-5.

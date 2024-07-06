@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Sep'}
+Coronavirus disease 2019 (COVID-19) is rapidly spreading worldwide. Drug therapy is one of the major treatments, but contradictory results of clinical trials have been reported among different individuals. Furthermore, comprehensive analysis of personalized pharmacotherapy is still lacking. In this study, analyses were performed on 47 well-characterized COVID-19 drugs used in the personalized treatment of COVID-19.

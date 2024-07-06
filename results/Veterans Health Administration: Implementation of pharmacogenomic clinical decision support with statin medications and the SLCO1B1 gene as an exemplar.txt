@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '04'}
+To describe the implementation of clinical decision support tools for alerting prescribers of actionable drug-gene interactions in the Veterans Health Administration (VHA).

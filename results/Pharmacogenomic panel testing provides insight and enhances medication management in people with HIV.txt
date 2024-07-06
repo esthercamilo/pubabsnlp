@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '01'}
+Our study aimed to assess the impact of pharmacogenomic panel testing in people with HIV (PWH).

@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov', 'Day': '30'}
+To evaluate phenotypic and genetic relationships between migraine and lipoprotein subfractions.

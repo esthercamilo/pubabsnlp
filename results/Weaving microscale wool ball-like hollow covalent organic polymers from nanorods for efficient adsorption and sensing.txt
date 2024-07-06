@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct', 'Day': '13'}
+Microscale covalent organic polymers with a unique 3D hollow wool ball-like morphology have been woven from 1D nanorods by a cascade emulsion strategy with a large surface area (284 m<sup>2</sup> g<sup>-1</sup>), which showed great potential for simultaneous removal (<i>Q</i><sub>max</sub>, 358.15 mg g<sup>-1</sup>) and fluorescent detection (detection limit, 8.0 μg L<sup>-1</sup>) of bisphenol A.

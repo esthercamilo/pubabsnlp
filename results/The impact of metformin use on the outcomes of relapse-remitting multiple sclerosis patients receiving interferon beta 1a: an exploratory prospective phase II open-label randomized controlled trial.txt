@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+Multiple sclerosis (MS) is a chronic demyelinating neurodegenerative disorder. Elevated levels of pro-inflammatory mediators and some oxidative stress parameters can accelerate the demyelination process. We aimed to investigate the efficacy and safety of metformin as an adjuvant therapy to interferon beta 1a (IFNβ-1a) in relapsing-remitting multiple sclerosis (RRMS) patients.

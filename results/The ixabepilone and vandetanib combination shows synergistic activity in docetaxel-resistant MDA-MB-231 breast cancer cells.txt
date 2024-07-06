@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct'}
+The lack of drug targets is an obstacle to the treatment of patients with triple-negative breast cancer (TNBC). At present, non-specific cytotoxic drugs are first-line agents, but the development of resistance is a major problem with these agents. The epidermal growth factor receptor (EGFR) is a potential target in some TNBCs, because its tyrosine kinase activity drives tumorigenesis. Thus, small molecule inhibitors of the EGFR in combination with cytotoxic agents could be important for the treatment of TNBCs.

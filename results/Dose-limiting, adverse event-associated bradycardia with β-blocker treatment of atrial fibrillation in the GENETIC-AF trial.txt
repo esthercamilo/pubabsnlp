@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb'}
+Heart failure (HF) patients with atrial fibrillation (AF) often have conduction system disorders, which may be worsened by β-blocker therapy.

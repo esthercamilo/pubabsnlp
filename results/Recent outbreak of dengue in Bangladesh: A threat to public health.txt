@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Apr'}
+The dengue virus is widespread throughout Bangladesh and significantly contributes to morbidity and mortality. One effective method for preventing further dengue epidemics is to reduce mosquito breeding at the most opportune period each year. This study aims to determine dengue prevalence in 2022 by comparing previous years' data and estimating the period of this disease's most significant incidence.

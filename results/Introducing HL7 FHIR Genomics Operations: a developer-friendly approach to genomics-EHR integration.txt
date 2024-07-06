@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb', 'Day': '16'}
+Enabling clinicians to formulate individualized clinical management strategies from the sea of molecular data remains a fundamentally important but daunting task. Here, we describe efforts towards a new paradigm in genomics-electronic health record (HER) integration, using a standardized suite of FHIR Genomics Operations that encapsulates the complexity of molecular data so that precision medicine solution developers can focus on building applications.

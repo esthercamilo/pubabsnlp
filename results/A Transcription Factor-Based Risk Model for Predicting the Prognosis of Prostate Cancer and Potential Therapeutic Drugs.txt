@@ -1,0 +1,2 @@
+{'Year': '2021'}
+Prostate cancer (PC) is one of the most critical cancers affecting men's health worldwide. The development of many cancers involves dysregulation or mutations in key transcription factors. This study established a transcription factor-based risk model to predict the prognosis of PC and potential therapeutic drugs.

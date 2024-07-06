@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun', 'Day': '01'}
+Prostacyclin infusion for pulmonary arterial hypertension (PAH) is an effective therapy with varied dosing requirements and clinical response. The major aim of this study was to determine new biologically-based predictors of prostacyclin treatment response heterogeneity.

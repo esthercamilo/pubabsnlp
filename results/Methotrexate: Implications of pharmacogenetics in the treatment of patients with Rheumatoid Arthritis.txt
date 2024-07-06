@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct', 'Day': '01'}
+Methotrexate (MTX) is an anti-folate drug with anti-proliferative and anti-inflammatory effects. MTX proved to be the most highly effective, fast-acting disease modifying anti-rheumatic drug (DMARD), being widely used for the treatment of rheumatoid arthritis (RA). This review aims to describe the main genetic variants identified concerning proteins that play a role in methotrexate's kinetics and efficiency profile.

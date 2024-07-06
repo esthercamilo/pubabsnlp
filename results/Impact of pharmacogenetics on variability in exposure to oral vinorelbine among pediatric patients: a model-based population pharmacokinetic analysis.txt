@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+Better understanding of pharmacokinetics of oral vinorelbine (VNR) in children would help predicting drug exposure and, beyond, clinical outcome. Here, we have characterized the population pharmacokinetics of oral VNR and studied the factors likely to explain the variability observed in VNR exposure among young patients.

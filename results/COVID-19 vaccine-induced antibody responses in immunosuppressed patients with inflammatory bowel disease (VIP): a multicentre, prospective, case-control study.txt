@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr'}
+The effects that therapies for inflammatory bowel disease (IBD) have on immune responses to SARS-CoV-2 vaccination are not yet fully known. Therefore, we sought to determine whether COVID-19 vaccine-induced antibody responses were altered in patients with IBD on commonly used immunosuppressive drugs.

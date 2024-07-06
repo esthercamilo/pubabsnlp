@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Feb'}
+Chronic kidney disease (CKD) is reported in 20%-30% of children after liver transplantation (LT). One of the proposed underlying causes is the long-term exposure to tacrolimus, a calcineurin inhibitor (CNI), which is the main immunosuppressive drug used after LT. Variation in tacrolimus absolute exposure and relative dose requirements are believed to be important risk factors for developing CNI-associated nephrotoxicity.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb', 'Day': '10'}
+South Asians (SAs) represent ∼25% of the world's population and account for >50% of global cardiovascular (CV) deaths, yet they continue to be underrepresented in contemporary clinical trials. The REDUCE-IT study demonstrated in a high-risk and predominantly White population that icosapent ethyl (IPE) lowered major adverse cardiovascular events by 25%. We sought to determine the generalizability of these results to a high-risk population of SAs with established CV disease living in Canada.

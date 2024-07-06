@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov', 'Day': '27'}
+Patients with opioid use disorder (OUD) display an interindividual variability in their response to medications for opioid use disorder (MOUD). A genetic basis may explain the variability in this response. However, no consensus has been reached regarding which genetic variants significantly contribute to MOUD outcomes.

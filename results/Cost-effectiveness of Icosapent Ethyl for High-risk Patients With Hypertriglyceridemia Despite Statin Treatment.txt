@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Feb', 'Day': '01'}
+The Reduction of Cardiovascular Events With Icosapent Ethyl-Intervention Trial (REDUCE-IT) demonstrated the efficacy of icosapent ethyl (IPE) for high-risk patients with hypertriglyceridemia and known cardiovascular disease or diabetes and at least 1 other risk factor who were treated with statins.

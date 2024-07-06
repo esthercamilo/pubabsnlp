@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Jul', 'Day': '23'}
+Panax notoginseng saponins (PNS) as the main effective substances from P. notoginseng with low bioavailability could be bio-converted by human gut microbiota. In our previous study, PNS metabolic variations mediated by gut microbiota have been observed between high fat, high protein (HF-HP) and low fat, plant fiber-rich (LF-PF) dietary subjects. In this study, we aimed to correspondingly characterize the relationship between distinct gut microbial species and PNS metabolites.

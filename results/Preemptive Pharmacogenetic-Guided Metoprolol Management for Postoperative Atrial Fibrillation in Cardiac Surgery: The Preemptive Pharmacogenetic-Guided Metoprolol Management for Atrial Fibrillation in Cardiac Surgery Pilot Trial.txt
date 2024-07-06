@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct'}
+To test the hypothesis that implementation of a cytochrome P-450 2D6 (CYP2D6) genotype-guided perioperative metoprolol administration will reduce the risk of postoperative atrial fibrillation (AF), the authors conducted the Preemptive Pharmacogenetic-Guided Metoprolol Management for Atrial Fibrillation in Cardiac Surgery pilot study.

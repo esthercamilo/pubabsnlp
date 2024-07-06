@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Liquid chromatography coupled with mass spectrometry (LC-MS) is widely used in metabolomics studies, while HILIC LC-MS is particularly suited for polar metabolites. Determining an optimized mobile phase and developing a proper liquid chromatography method tend to be laborious, time-consuming and empirical.

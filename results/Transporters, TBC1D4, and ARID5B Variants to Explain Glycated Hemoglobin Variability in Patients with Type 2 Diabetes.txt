@@ -1,0 +1,2 @@
+{'Year': '2021'}
+Genetic variants could aid in predicting antidiabetic drug response by associating them with markers of glucose control, such as glycated hemoglobin (HbA1c). However, pharmacogenetic implementation for antidiabetics is still under development, as the list of actionable markers is being populated and validated. This study explores potential associations between genetic variants and plasma levels of HbA1c in 100 patients under treatment with metformin.

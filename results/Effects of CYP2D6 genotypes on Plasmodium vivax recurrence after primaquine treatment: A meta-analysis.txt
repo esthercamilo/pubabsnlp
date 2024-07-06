@@ -1,0 +1,2 @@
+{'Year': '2022', 'Season': 'Jul-Aug'}
+To elucidate the relationship between CYP2D6 polymorphisms and Plasmodium vivax recurrence in patients receiving primaquine-based treatment through systematic review and meta-analysis.

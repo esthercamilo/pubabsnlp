@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec'}
+The co-occurrence of cyanotic congenital heart disease (CCHD) and PHEO/PGL has been reported, but the role of the hypoxic environment in the pathogenesis of PHEO/PGL remains unclear. Our aim was to compare plasma metanephrine and normetanephrine levels between patients with CCHD and patients with acyanotic congenital heart disease (ACCHD).

@@ -1,0 +1,2 @@
+{'Year': '2022'}
+To investigate the potential pathogenic mechanism of temporal lobe epilepsy with hippocampal sclerosis (TLE+HS) by analyzing the expression profiles of microRNA/ mRNA/ lncRNA/ DNA methylation in brain tissues.

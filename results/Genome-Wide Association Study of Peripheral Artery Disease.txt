@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct'}
+Peripheral artery disease (PAD) affects >200 million people worldwide and is associated with high mortality and morbidity. We sought to identify genomic variants associated with PAD overall and in the contexts of diabetes and smoking status.

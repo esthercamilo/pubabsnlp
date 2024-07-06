@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '19'}
+Obstructive sleep apnea (OSA) is frequently associated with a chronic inflammatory state and cardiovascular/metabolic complications. The aim of this study was to evaluate the influence of certain comorbidities on a panel of 45 chemokines and cytokines in OSA patients with special regard to their possible association with cardiovascular diseases.

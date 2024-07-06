@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+Circulating dysfunctional factor IX (FIX) might modulate distribution of infused FIX in hemophilia B (HB) patients. Recurrent substitutions at FIX activation sites (R191-R226, >300 patients) are associated with variable FIX activity and antigen (FIXag) levels.

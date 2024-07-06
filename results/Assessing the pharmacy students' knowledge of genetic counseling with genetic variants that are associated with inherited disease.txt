@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug'}
+To assess pharmacy students' understanding of the importance of genetic counseling through a didactic lecture and active in-class learning exercise in a required pharmacogenomics course.

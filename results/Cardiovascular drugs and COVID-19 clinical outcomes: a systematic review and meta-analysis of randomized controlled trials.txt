@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug'}
+To update our previously reported systematic review and meta-analysis of observational studies on cardiovascular drug exposure and COVID-19 clinical outcomes by focusing on newly published randomized controlled trials (RCTs).

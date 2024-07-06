@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun'}
+Lithium is the most effective treatment for bipolar disorder, resulting in strong suicide prevention effects. The therapeutic range of lithium, however, is narrow and treatment initiation requires individual titration to address inter-individual variability. We aimed to improve lithium dose prediction using clinical and genomic data.

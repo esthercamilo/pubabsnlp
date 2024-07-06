@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Tumor-treating fields (TTFields) are a new therapeutic modality for patients with glioblastoma (GBM). However, studies on survival outcomes of TTFields are rarely reported in China. This study aimed to examine the clinical efficacy and safety of TTFields therapy for GBM in China.

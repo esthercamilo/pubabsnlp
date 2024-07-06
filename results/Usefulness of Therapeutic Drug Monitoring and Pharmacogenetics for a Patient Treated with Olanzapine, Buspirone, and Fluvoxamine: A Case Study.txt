@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '01'}
+A patient, with a mental disorder caused by an intracranial infection, treated with olanzapine, fluvoxamine, and buspirone. The plasma exposure of olanzapine was too high at standard doses, with evidence indicating that it was caused by drug-drug interactions.

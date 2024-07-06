@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '01'}
+Guidelines recommend individualized decision-making for colorectal cancer (CRC) screening among adults aged 76 to 84 years, a process that includes a consideration of health state and patient preference.

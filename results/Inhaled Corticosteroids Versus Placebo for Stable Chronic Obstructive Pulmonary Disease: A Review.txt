@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '12'}
+This is an abstract of a Cochrane review 'Inhaled corticosteroids versus placebo for stable chronic obstructive pulmonary disease' published in Cochrane Database of Systematic Reviews 2023 Issue 3 10.1002/14651858.cd002991.pub4. Accessed 9 May 2024 (see www.cochranelibrary.com for information). Cochrane reviews are regularly updated as new evidence emerges and in response to feedback, and the Cochrane Library should be consulted for the more recent version of the review.

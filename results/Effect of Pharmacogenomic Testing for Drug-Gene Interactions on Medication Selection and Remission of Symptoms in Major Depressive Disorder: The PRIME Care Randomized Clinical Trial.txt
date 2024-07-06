@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul', 'Day': '12'}
+Selecting effective antidepressants for the treatment of major depressive disorder (MDD) is an imprecise practice, with remission rates of about 30% at the initial treatment.

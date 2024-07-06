@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '05'}
+FOLFIRI is a standard regimen for metastatic colorectal cancer (mCRC). We hypothesized that a pharmacogenomic-directed strategy where more efficient irinotecan metabolizers (UGT1A1 *1/*1 homozygotes and *1/*28 heterozygotes) receive higher-than-standard irinotecan doses would improve progression-free survival (PFS) compared to non-genotype selected historical controls with acceptable toxicity.

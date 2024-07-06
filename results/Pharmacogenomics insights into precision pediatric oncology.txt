@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Dec', 'Day': '01'}
+Pharmacogenomic insights provide an opportunity to optimize medication dosing regimens and patient outcomes. However, the potential for interindividual genomic variability to guide medication dosing and toxicity monitoring is not yet standard of care. In this review, we present advances for the thiopurines, anthracyclines and vincristine and provide perspectives on the actionability of pharmacogenomic guidance in the future.

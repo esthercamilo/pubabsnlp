@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Sep', 'Day': '08'}
+The combination of biomarkers and drugs is the subject of growing interest both from regulators, physicians and companies. This study protocol of a systematic review is aimed to describe available literature evidences about the cost-effectiveness, cost-utility or net-monetary benefit of the use of biomarkers in solid tumour as tools for customising immunotherapy to identify what further research needs.

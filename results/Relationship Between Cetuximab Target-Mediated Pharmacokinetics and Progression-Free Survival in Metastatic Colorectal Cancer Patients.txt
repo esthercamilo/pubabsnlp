@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep'}
+Cetuximab, an anti-epidermal growth factor receptor (EGFR) monoclonal immunoglobulin (Ig)G1 antibody, has been approved for the treatment of metastatic colorectal cancer (mCRC). The influence of target-antigen on cetuximab pharmacokinetics has never been investigated using target-mediated drug disposition (TMDD) modelling. This study aimed to investigate the relationship between cetuximab concentrations, target kinetics and progression-free survival (PFS).

@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Aug', 'Day': '16'}
+Self-management of ambulatory cancer pain is full of challenges. Motivated by the need for better pain management, we developed a WeChat-supported platform, Medication Housekeeper (MediHK), to enhance communication, optimize outcomes, and promote self-management in the home setting.

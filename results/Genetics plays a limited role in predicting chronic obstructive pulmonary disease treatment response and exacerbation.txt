@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct'}
+Combination treatments, targeting multiple disease processes, benefit subjects with acute exacerbation of chronic obstructive pulmonary disease (AECOPD). However, predicting treatment response and exacerbation risk remain challenging.

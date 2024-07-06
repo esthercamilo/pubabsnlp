@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Aug', 'Day': '23'}
+Genetic variants associated with acute side effects of radiotherapy in nasopharyngeal carcinoma (NPC) remain largely unknown.

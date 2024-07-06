@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Mar', 'Day': '01'}
+Comfrey (Symphytum officinale L., Boraginaceae) root preparations are used as both traditional remedies and therapeutic agents in treating pain and inflammation associated with joint, bone, and muscle ailments. Even though numerous phytochemicals contribute to the beneficial effects of comfrey, the presence of toxic pyrrolizidine alkaloids (PAs) overshadows its uses.

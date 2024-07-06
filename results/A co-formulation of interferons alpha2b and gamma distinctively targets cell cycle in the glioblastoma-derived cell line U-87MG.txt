@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '29'}
+HeberFERON is a co-formulation of α2b and γ interferons, based on their synergism, which has shown its clinical superiority over individual interferons in basal cell carcinomas. In glioblastoma (GBM), HeberFERON has displayed promising preclinical and clinical results. This led us to design a microarray experiment aimed at identifying the molecular mechanisms involved in the distinctive effect of HeberFERON compared to the individual interferons in U-87MG model.

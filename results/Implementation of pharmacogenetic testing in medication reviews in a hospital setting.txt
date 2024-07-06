@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct'}
+To investigate whether it is feasible to perform pharmacogenetic testing and implement the test results as part of medication reviews during hospitalization of multimorbid patients.

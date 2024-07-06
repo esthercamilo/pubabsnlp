@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May'}
+Non-alcoholic steatohepatitis (NASH)-induced liver fibrosis is emerging as the most common cause of liver disease. For evaluation of therapies, there is a pressing need to identify non-invasive, mechanism-based biomarkers. A pro-fibrotic process relevant to human NASH involves a pathway in which a transcriptional regulator called TAZ (WWTR1) in hepatocytes induces the secretion of pro-fibrotic Indian hedgehog (IHH). We therefore reasoned that circulating IHH may be a useful mechanism-based marker to assess changes in NASH fibrosis.

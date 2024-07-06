@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '01'}
+A Slovenian three-generation family with 3 individuals with bilateral optic neuropathy and 2 unaffected relatives with a novel homoplasmic missense variant m.13042G > T (A236S) in the ND5 gene is described. A detailed phenotype at initial diagnosis and a follow-up of bilateral optic neuropathy progression is presented for 2 affected individuals.

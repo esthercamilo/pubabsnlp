@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May', 'Day': '12'}
+Pharmacogenomic testing guided treatment have been developed to guide drug selection or conversion in major depressive disorder patients. Whether patients benefit from pharmacogenetic testing remains unclear. We aim to evaluates the effect of pharmacogenomic testing guiding on clinical outcomes of major depressive disorder.

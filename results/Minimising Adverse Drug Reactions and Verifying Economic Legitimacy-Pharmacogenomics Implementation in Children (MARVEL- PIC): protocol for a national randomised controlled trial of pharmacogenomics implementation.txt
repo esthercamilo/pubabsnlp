@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '16'}
+DNA-informed prescribing (termed pharmacogenomics, PGx) is the epitome of personalised medicine. Despite international guidelines existing, its implementation in paediatric oncology remains sparse.

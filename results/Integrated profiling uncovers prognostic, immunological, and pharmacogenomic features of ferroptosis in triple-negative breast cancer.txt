@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Ferroptosis is an iron-dependent type of regulated cell death triggered by the toxic buildup of lipid peroxides on cell membranes. Nonetheless, the implication of ferroptosis in triple-negative breast cancer (TNBC), which is the most aggressive subtype of breast carcinoma, remains unexplored.

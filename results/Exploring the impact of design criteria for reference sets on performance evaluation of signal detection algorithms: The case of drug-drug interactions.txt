@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug'}
+To evaluate the impact of multiple design criteria for reference sets that are used to quantitatively assess the performance of pharmacovigilance signal detection algorithms (SDAs) for drug-drug interactions (DDIs).

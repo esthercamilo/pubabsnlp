@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Mar', 'Day': '01'}
+Individuals with anorexia nervosa maintain extremely low body weights despite elevations in the circulating orexigenic hormone ghrelin. Whether circulating levels of endogenous ghrelin are associated with weight gain in anorexia nervosa is unknown.

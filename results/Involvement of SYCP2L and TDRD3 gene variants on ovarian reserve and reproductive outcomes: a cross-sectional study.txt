@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '12'}
+Single nucleotide variants have been implicated in the response to fertility treatment and a pharmacogenomic approach may help to customize therapy based on patient genome. We aimed to evaluate the effect, individual and combined, of SYCP2L (rs2153157:G>A) and TDRD3 (rs4886238:G>A) variants on ovarian reserve, response to controlled ovarian stimulation (COS) and reproductive outcomes of women undergoing in vitro fertilization (IVF) treatment.

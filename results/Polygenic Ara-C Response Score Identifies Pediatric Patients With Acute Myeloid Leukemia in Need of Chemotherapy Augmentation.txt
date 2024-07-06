@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar', 'Day': '01'}
+To establish a patient-specific polygenic score derived from cytarabine (ara-C) pathway pharmacogenomic evaluation to personalize acute myeloid leukemia (AML) treatment.

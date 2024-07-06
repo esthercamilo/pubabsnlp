@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '07'}
+Results of the 2021 ASHP National Survey of Pharmacy Practice in Hospital Settings are presented.

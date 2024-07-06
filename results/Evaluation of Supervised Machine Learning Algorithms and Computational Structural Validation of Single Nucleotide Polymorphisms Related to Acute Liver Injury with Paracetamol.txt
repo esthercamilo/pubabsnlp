@@ -1,0 +1,2 @@
+{'Year': '2023'}
+To identify single nucleotide polymorphisms (SNPs) of paracetamol-metabolizing enzymes that can predict acute liver injury.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May'}
+Use of real-world data (RWD) for external controls added to single-arm trials (SAT) is increasingly prevalent in regulatory submissions. Due to inherent differences in the data-generating mechanisms, biases can arise. This paper aims to illustrate how to use quantitative bias analysis (QBA).

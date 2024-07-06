@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jul'}
+Significant challenges in the management of major depressive disorder include the lag period from treatment initiation to an evident response, low response rates and unpredictable disparities in outcome between patients. As a large part of these has been linked to genetic mechanisms, we tried to establish a relationship between genes associated with serotonin neurotransmission and outcome to selective serotonin reuptake inhibitor (SSRI) treatment.

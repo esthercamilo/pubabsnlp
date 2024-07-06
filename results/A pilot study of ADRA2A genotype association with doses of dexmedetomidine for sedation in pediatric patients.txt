@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun'}
+Dexmedetomidine is titrated to achieve sedation in the pediatric and cardiovascular intensive care units (PICU and CVICU). In adults, dexmedetomidine response has been associated with an ADRA2A polymorphism (rs1800544); CC genotype is associated with an increased sedative response compared with GC and GG. To date, this has not been studied in children.

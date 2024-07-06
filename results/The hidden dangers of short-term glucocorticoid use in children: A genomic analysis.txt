@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '30'}
+Glucocorticoid (GC) administration has been associated with adverse drug reactions (ADRs) affecting multiple organ systems. While long-term use is widely recognized as a significant independent predictor of ADRs, it is important to note that even short-term use can lead to serious ADRs. The considerable inter-individual variability in ADRs occurrence may be influenced by genetic factors. This study, we present a case of a child who experienced significant weight gain and osteoporosis, following a brief administration of GC.

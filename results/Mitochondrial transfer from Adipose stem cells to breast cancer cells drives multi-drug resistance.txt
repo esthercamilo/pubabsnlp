@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '14'}
+Breast cancer (BC) is a complex disease, showing heterogeneity in the genetic background, molecular subtype, and treatment algorithm. Historically, treatment strategies have been directed towards cancer cells, but these are not the unique components of the tumor bulk, where a key role is played by the tumor microenvironment (TME), whose better understanding could be crucial to obtain better outcomes.

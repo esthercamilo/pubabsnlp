@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Pharmacogenetic effects of statins on clinical changes in Alzheimer's disease (AD) could be mediated by epistatic interactions among relevant genetic variants involved in cholesterol metabolism.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '01'}
+Hypertension is linked to gut dysbiosis. Here, the impact of the angiotensin receptor antagonist irbesartan on the gut microbiota of spontaneously hypertensive rats (SHR) were investigated. In addition, we assessed their contribution to its antihypertensive effect.

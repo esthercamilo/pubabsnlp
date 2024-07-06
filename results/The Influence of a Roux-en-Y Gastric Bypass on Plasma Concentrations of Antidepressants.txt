@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May'}
+Roux-en-Y gastric bypass (RYGB) involves alterations of the gastrointestinal tract resulting in altered absorption. Patients with obesity have a higher prevalence of depression, and antidepressants are often prescribed. Alterations caused by RYGB could modify drug bioavailability and cause potential subtherapeutic plasma concentrations, increasing the risk of depressive relapse. The aim of this study was to describe the evolution of trough drug dose-normalized antidepressant plasma concentrations before and after RYGB.

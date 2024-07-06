@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+To conduct a review of studies evaluating the influence of body size and weight (WT) on the pharmacokinetics (PK) of drugs recommended for heart failure (HF) treatment.

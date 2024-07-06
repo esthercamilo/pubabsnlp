@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct', 'Day': '13'}
+First-line decision making is the key to the successful care of mCRC patients and <i>RAS/BRAF</i> status is crucial to select the best targeted agent. In hub centers, a relevant proportion of patients referred from small volume centers may not have standard tissue-based (STB) molecular results available at the time of the first visit (T0). Liquid biopsy (LB) may help circumvent these hurdles.

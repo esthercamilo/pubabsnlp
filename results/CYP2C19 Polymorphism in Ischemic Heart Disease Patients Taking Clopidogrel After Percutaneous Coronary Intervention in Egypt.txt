@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jun'}
+Cardiovascular diseases (CVDs) are considered a leading cause of death worldwide. Allelic variation in the CYP2C19 gene leads to a dysfunctional enzyme, and patients with this loss-of-function allele will have an impaired clopidogrel metabolism, which eventually results in major adverse cardiovascular events (MACE). Ischemic heart disease patients (n = 102) who underwent percutaneous cardiac intervention (PCI) followed by clopidogrel were enrolled in the present study.

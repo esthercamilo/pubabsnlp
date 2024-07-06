@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+Metabolic dependencies of chronic lymphocytic leukaemia (CLL) cells may represent new personalized treatment approaches in patients harbouring unfavourable features.

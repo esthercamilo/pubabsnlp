@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May'}
+Ischemic coronary heart disease (IHD) is the leading cause of death worldwide. Genetic variation is presumed to be a major factor underlying sex differences for IHD events, including mortality. The purpose of this study was to identify sex-specific candidate genes associated with all-cause mortality among people diagnosed with coronary artery disease (CAD).

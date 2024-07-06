@@ -1,0 +1,2 @@
+{'Year': '2021'}
+Warfarin is primarily metabolized by cytochrome P450 2C9 (CYP2C9) enzyme, which is encoded by the CYP2C9 gene. CYP2C9*2 and CYP2C9*3 variants significantly influence warfarin metabolism and subsequently the required dose of warfarin.

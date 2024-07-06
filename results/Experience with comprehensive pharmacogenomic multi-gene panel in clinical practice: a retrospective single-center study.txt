@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jun', 'Day': '22'}
+To assess the prevalence of actionable pharmacogenetic interventions in patients who underwent pharmacogenetic testing with a multi-gene panel.

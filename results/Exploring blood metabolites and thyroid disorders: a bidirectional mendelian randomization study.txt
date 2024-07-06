@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Human blood metabolites have demonstrated close associations with thyroid disorders in observational studies. However, it's essential to determine whether these correlations imply causation. Mendelian Randomization (MR) offers a promising approach to investigate these patterns.

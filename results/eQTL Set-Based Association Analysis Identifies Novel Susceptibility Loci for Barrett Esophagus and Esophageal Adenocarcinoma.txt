@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '02'}
+Over 20 susceptibility single-nucleotide polymorphisms (SNP) have been identified for esophageal adenocarcinoma (EAC) and its precursor, Barrett esophagus (BE), explaining a small portion of heritability.

@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Nov', 'Day': '01'}
+Cocaine use disorder (CUD) has significant consequences and there remain no FDA-approved pharmacotherapies. Ondansetron is an indirect dopaminergic modulator that has shown efficacy in alcohol use disorder, particularly in phenotypic and genotypic subgroups, and was found to be efficacious in a pilot dose-finding trial for CUD.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb'}
+Among Bangladeshi males and females, colorectal cancer is the fourth and fifth most prevalent cancer, respectively. Several studies have shown that the transforming growth factor beta 1 (TGFβ1) gene and SMAD4 gene have a great impact on colorectal cancer.

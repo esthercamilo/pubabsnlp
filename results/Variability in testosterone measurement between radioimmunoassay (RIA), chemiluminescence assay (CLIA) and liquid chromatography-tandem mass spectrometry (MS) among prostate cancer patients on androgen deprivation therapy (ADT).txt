@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May'}
+Monitoring testosterone (T) levels is recommended to assess the effectiveness of androgen deprivation therapy (ADT) in advanced prostate cancer. T levels below 20 ng/dL have been associated with better outcomes. Three main measures for T exist including radioimmunoassay (RIA), chemiluminescence assay (CLIA) and mass spectrometry (MS). While CLIA and RIA are ubiquitous, MS is regarded as the reference standard. We set out to determine the discordance of T measurements amongst men on ADT.

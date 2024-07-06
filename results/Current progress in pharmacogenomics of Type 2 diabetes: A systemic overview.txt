@@ -1,0 +1,2 @@
+{'Year': '2021', 'Season': 'Sep-Oct'}
+Type 2 diabetes mellitus (T2DM) is a prevalent disease with incidences increasing globally at a rapid rate. The goal of T2DM treatment is to control glucose levels and prevent the aggravation of glycemic symptoms.

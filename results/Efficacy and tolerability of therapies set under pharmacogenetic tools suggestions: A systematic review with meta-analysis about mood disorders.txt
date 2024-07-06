@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May'}
+Bipolar Disorder (BD) and Major Depressive Disorder (MDD) have a huge impact on functioning and quality of life; moreover, they are linked to extensive direct and indirect costs. This systematic review with meta-analysis aims to evaluate the utility of pharmacogenetic tests (PGT) in terms of efficacy and tolerability into the routine clinical treatment of mood disorders.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '01'}
+The DRAMES (Décès en Relation avec l'Abus de Médicaments Et de Substances) register is a database of drug-related deaths with the aim of identifying the psychoactive substances associated with and estimating the trends in these deaths. Our novel approach is based on the collection of data on all deaths for which toxicology experts have performed analyses.

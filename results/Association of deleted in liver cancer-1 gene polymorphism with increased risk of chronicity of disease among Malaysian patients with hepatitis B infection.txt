@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Dec', 'Day': '01'}
+The aim of this study is to examine the association between genetic variations in deleted in liver cancer 1 (DLC1) gene with progression of the hepatitis B virus (HBV) infection.

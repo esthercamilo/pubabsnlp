@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May'}
+Antipsychotic drug treatment is a commonly used therapeutic strategy in the field of psychiatry. Rational and standardized use of antipsychotics is crucial in clinical practice, and excessive use of antipsychotics may lead to severe toxic reactions. Thus, attention should be given to the monitoring of drug concentration and examination of organ function.

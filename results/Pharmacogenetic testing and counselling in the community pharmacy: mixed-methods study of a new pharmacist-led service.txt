@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+Pharmacogenetic (PGx) testing and counselling (short: PGx service) in the community pharmacy is not routinely practiced. We propose a comprehensive pharmacist-led service where PGx information is integrated into medication reviews.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan'}
+BACKGROUND AND OBJECTIVE: Education might be causal to type 2 diabetes mellitus (T2DM). We triangulated cohort and genetic evidence to consolidate the causality between education and T2DM.

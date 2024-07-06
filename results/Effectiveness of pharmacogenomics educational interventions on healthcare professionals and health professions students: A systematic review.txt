@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Nov'}
+The field of pharmacogenomics is rapidly advancing, but its adoption and implementation remain slow and lacking. Lack of pharmacogenomics knowledge among healthcare professionals is the most frequently cited barrier to adopting and implementing pharmacogenomics in clinical settings.

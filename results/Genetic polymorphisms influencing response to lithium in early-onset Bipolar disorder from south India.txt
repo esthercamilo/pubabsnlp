@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Apr'}
+Early-onset Bipolar disorder (EOBD), has a more malignant course with high recurrence risk and there is a need for population-specific pharmaco-genomic study.

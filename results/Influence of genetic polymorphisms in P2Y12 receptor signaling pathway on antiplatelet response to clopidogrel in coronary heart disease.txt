@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '30'}
+Remarkable interindividual variability in clopidogrel response is observed, genetic polymorphisms in P2RY12 and its signal pathway is supposed to affect clopidogrel response in CHD patients.

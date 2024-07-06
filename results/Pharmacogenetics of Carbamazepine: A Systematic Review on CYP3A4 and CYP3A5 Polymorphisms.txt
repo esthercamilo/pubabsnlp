@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun', 'Day': '07'}
+The association between carbamazepine (CBZ) metabolism and resistance in epilepsy and the genetic polymorphisms of CYP3A5 (rs776746 and rs15524) and CYP3A4 (rs2242480, rs2740574, rs35599367, rs12721627, and rs28371759) has been the subject of previous investigations with controversial results. We conducted a systematic review to assess the potential link between these polymorphisms and CBZ metabolism and resistance.

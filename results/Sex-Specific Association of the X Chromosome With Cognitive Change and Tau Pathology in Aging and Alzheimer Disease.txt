@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct', 'Day': '01'}
+The X chromosome represents 5% of the human genome in women and men, and its influence on cognitive aging and Alzheimer disease (AD) is largely unknown.

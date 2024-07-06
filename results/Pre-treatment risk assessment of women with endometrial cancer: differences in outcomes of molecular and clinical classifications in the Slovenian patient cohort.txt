@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Sep', 'Day': '17'}
+The aim of this study was to evaluate changes in prognostic risk profiles of women with endometrial cancer by comparing the clinical risk assessment with the integrated molecular risk assessment profiling.

@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '08'}
+Pharmacogenetic (PGx) testing for germline variants in the DPYD and UGT1A1 genes can be used to guide fluoropyrimidine and irinotecan dosing, respectively. Despite the known association between PGx variants and chemotherapy toxicity, preemptive testing prior to chemotherapy initiation is rarely performed in routine practice.

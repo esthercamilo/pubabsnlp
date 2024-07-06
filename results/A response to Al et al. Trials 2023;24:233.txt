@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '13'}
+In their recent paper, Al and colleagues (Trials 2023;24:233) argue that manipulation of the methods of recruitment using well-known techniques in order to increase enrollment can be ethically acceptable. This brief response challenges that notion as an affront to voluntariness and a devolution of the ethics of human subjects research to the "ethics" of the marketplace.

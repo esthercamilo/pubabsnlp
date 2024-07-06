@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'May', 'Day': '16'}
+Swen et al.<sup>1</sup> examine the utility of multi-gene pharmacogenetic testing in a large multi-national cohort. They show fewer adverse drug reactions among patients receiving testing and prescribing recommendations based on genotype results compared with those receiving usual care.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+Valproate inhibits clearance of lamotrigine and greatly increases its concentrations. We assessed whether this effect was moderated by a polymorphism (ABCG2 c.421C>A) of the breast cancer resistance protein.

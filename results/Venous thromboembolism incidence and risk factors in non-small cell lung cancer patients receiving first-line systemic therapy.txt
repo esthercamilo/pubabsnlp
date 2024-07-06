@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Dec'}
+There are limited data on venous thromboembolism (VTE) incidence and predictive factors in non-small cell lung cancer (NSCLC) across first-line therapies.

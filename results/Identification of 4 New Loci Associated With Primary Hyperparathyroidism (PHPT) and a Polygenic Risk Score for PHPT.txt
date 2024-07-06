@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '25'}
+A hypothesis-free genetic association analysis has not been reported for patients with primary hyperparathyroidism (PHPT).

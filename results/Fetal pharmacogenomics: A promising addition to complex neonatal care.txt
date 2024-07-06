@@ -1,0 +1,2 @@
+{'Year': '2022', 'Season': 'Sep-Oct'}
+Pharmacogenomics (PGx) characterizes genetic variation in medication response. 85-95% of the population carries actionable PGx variants. No prior studies have demonstrated the application and feasibility of PGx in prenatal testing. We assessed parental desire for PGx findings from fetal exome sequencing (ES), evaluated PGx variants, and reviewed implications for medically complex neonates.

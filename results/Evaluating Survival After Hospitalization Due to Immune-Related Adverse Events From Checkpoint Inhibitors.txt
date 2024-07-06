@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '03'}
+As immune checkpoint inhibitors (CPI) are increasingly approved for cancer treatment, hospitalizations related to severe immune-related adverse events (irAE) will increase. Here, we identify patients hospitalized due to irAEs and describe survival outcomes across irAE, CPI, and cancer type.

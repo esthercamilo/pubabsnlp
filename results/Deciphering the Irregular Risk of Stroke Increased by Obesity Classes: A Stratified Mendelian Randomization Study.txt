@@ -1,0 +1,2 @@
+{'Year': '2021'}
+To investigate the relationship between different classes of obesity and stroke, we conducted a stratified Mendelian randomization (MR) study.

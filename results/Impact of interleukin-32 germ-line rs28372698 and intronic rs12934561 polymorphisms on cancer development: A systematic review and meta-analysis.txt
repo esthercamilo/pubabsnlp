@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Oct'}
+The pro-inflammatory cytokine IL-32 has high susceptibility to develop cancer. But no previous meta-analysis was done to provide firm evidence. This systematic review and meta-analysis was designed to evaluate the association of IL-32 gene polymorphisms (rs28372698 and rs12934561) with cancer.

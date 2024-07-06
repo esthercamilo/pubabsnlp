@@ -1,0 +1,2 @@
+{'Year': '2024'}
+Psychiatric patients are at high risk of readmission, and a high body mass index has previously been shown as a risk factor. We sought to replicate this finding and 1) to prospectively assess the association of metabolic syndrome and its five components with readmission in psychiatric hospitals and 2) to identify other clinical and sociodemographic predictors of readmission.

@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Co-trimoxazole has been reported as a common culprit drug for various cutaneous adverse drug reactions (CADRs). However, information on genotypic and phenotypic characteristics is still limited. We aimed to study clinical characteristics, genetic suitability, laboratory findings, and treatment outcomes in patients with co-trimoxazole-induced CADR and determine variables associated with severe cutaneous adverse reactions (SCARs).

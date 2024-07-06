@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Sep'}
+Diabetic kidney disease (DKD) is the leading cause of kidney failure and has a substantial genetic component. Our aim was to identify novel genetic factors and genes contributing to DKD by performing meta-analysis of previous genome-wide association studies (GWAS) on DKD and by integrating the results with renal transcriptomics datasets.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '20'}
+Our study genotyped pharmacogenes in 200 individuals from Inner Mongolia Autonomous Region, China. Aim to find distinct pharmacogenomic variations among the Mongolian population and to investigate the potential clinically operable gene-drug connection and genotype-phenotype correlation of differential variation in the Mongolian population.

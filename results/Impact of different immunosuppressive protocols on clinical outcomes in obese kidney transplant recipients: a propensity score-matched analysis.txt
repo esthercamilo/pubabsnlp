@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '31'}
+Although obesity has become a significant problem in transplantation medicine, the impact of different immunosuppressive protocols on clinical outcomes in obese transplant recipients remains unclear.

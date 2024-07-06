@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Oct'}
+Canada exhibits one of highest lifetime prevalence for post-traumatic stress disorder (PTSD), but the etiology of this debilitating mental health condition still remains largely unknown. This study aims to examine the genetics of PTSD in the Canadian Longitudinal Study on Aging (CLSA) to identify potential genetic factors involved in the development of PTSD.

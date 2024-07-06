@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Sep'}
+Fasciola hepatica is a globally distributed trematode that causes significant economic losses. Triclabendazole is the primary pharmacological treatment for this parasite. However, the increasing resistance to triclabendazole limits its efficacy. Previous pharmacodynamics studies suggested that triclabendazole acts by interacting mainly with the β monomer of tubulin.

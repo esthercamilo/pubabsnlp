@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jun'}
+Statins are the most widely used lipid-lowering agents for patients with hyperlipidemia. However, interindividual variations in efficacy and risk of adverse drug reactions to statin treatment have been widely reported. Ethnicity is well known to be one of the contributing factors to this variation, particularly among Asians.

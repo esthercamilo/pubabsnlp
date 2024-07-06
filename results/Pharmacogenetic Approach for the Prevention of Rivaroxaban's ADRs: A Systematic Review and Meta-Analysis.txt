@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Pharmacogenetics is a potential approach that can be applied to decline the burden of rivaroxaban's ADRs. The current systematic review and meta-analysis aim to identify genetic variants correlated with rivaroxaban exposure and evaluate their importance.

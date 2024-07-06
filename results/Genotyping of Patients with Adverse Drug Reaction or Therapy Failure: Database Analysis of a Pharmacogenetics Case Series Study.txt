@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Pharmacogenetics (PGx) is an emerging aspect of personalized medicine with the potential to increase efficacy and safety of pharmacotherapy. However, PGx testing is still not routinely integrated into clinical practice. We conducted an observational case series study where PGx information from a commercially available panel test covering 30 genes was integrated into medication reviews. The aim of the study was to identify the drugs that are most frequently object of drug-gene-interactions (DGI) in the study population.

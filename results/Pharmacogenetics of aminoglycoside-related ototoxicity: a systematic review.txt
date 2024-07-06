@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '17'}
+Aminoglycosides (AGs) are important antibiotics in the treatment of Gram-negative sepsis. However, they are associated with the risk of irreversible sensorineural hearing loss (SNHL). Several genetic variants have been implicated in the development of ototoxicity.

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '01'}
+Although genetic and environmental factors are involved in the aetiology of bipolar disorder [BD], studies focused on their interplay are lacking. The current investigation examines interactions and correlations between polygenic risk scores [PRS] for BD and major depressive disorder [MDD] with stressful life events [SLEs] in liability for BD.

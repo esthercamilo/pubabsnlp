@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Mar'}
+Profiling patients on a proposed 'immunometabolic depression' (IMD) dimension, described as a cluster of atypical depressive symptoms related to energy regulation and immunometabolic dysregulations, may optimise personalised treatment.

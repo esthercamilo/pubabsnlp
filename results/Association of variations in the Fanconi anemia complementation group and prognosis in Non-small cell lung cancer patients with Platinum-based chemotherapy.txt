@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'May', 'Day': '30'}
+To explore the associations between FANC (FANCA, FANCC, FANCE, FANCF, and FANCJ) single nucleotide polymorphisms (SNPs) and prognosis of non-small cell lung cancer (NSCLC) patients with platinum-based chemotherapy.

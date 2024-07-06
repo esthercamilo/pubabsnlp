@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr'}
+A multicenter clinical trial in patients with mild persistent asthma indicated that response to inhaled corticosteroids (ICS) is limited to those with sputum eosinophilia. However, testing for sputum eosinophilia is impractical in most clinical settings.

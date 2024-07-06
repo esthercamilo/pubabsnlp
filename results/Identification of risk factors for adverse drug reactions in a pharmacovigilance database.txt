@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec'}
+In addition to identifying new safety signals, pharmacovigilance databases could be used to identify potential risk factors for adverse drug reactions (ADRs).

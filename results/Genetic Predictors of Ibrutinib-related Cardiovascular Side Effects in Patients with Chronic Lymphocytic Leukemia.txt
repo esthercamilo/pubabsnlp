@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '01'}
+Patients with chronic lymphocytic leukemia (CLL) treated with ibrutinib are at risk of developing cardiovascular side effects (CVSE). The molecular determinants of CVSEs have not been fully elucidated. We interrogated genetic polymorphisms in the Bruton tyrosine kinase (BTK) signaling pathway for their association with ibrutinib-related CVSEs.

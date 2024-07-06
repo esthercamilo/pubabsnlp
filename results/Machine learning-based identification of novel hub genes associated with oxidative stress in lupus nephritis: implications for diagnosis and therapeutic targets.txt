@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '18'}
+Lupus nephritis (LN) is a complication of SLE characterised by immune dysfunction and oxidative stress (OS). Limited options exist for LN. We aimed to identify LN-related OS, highlighting the need for non-invasive diagnostic and therapeutic approaches.

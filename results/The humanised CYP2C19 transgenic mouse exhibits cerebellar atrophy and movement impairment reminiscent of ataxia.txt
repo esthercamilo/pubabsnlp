@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Feb'}
+CYP2C19 transgenic mouse expresses the human CYP2C19 gene in the liver and developing brain, and it exhibits altered neurodevelopment associated with impairments in emotionality and locomotion. Because the validation of new animal models is essential for the understanding of the aetiology and pathophysiology of movement disorders, the objective was to characterise motoric phenotype in CYP2C19 transgenic mice and to investigate its validity as a new animal model of ataxia.

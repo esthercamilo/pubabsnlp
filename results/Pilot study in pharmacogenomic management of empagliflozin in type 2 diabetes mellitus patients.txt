@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Dec'}
+Type 2 diabetes mellitus (T2DM) is a metabolic disorder in which the patients with high blood sugar develop insufficient insulin secretion or insulin resistance. The <i>solute carrier family, 5 member 2 (SLC5A2)</i> gene is a member of sodium/glucose transporter family which can reduce heart and kidney problems. The current study aims to look into any association between rs11646054 variant in <i>SLC5A2</i> gene and the anti-diabetic efficacy and safety of empagliflozin.

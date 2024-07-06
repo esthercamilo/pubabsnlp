@@ -1,0 +1,2 @@
+{'Year': '2023'}
+Variants in organic cation transporter (OCT) genes play a crucial role in metformin pharmacokinetics and are critical for diabetes treatment. However, studies investigating the effect of OCT genetic polymorphisms on metformin response have reported inconsistent results. This review and meta-analysis aimed to evaluate the associations between OCT genetic polymorphisms and metformin response and intolerance in individuals with type 2 diabetes mellitus (T2DM).

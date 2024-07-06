@@ -1,0 +1,2 @@
+{'Year': '2021'}
+Advances in genomic medicine have the potential to revolutionise cancer patient care by driving forwards the clinical practice of precision oncology. This review aims to outline how genomic medicine advances may alter the care of cancer patients and their families over the next 10 years.

@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jun'}
+Adverse drug reactions (ADRs) are an important public health challenge worldwide; however, pharmacovigilance systems are plagued by under-reporting. Mobile technologies, including mobile applications such as Med Safety, could strengthen ADR reporting. We explored the acceptability, and factors that could influence uptake of, Med Safety for ADR reporting by health workers in Uganda.

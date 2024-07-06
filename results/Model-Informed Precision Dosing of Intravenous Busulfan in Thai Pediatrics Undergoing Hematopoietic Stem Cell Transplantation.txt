@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '14'}
+Conditioning bifunctional agent, busulfan, is commonly used on children before hematopoietic stem cell transplantation. Currently, at the Ramathibodi hospital, Bangkok, Thailand, initial dosing is calculated according to age and body surface area, and 7 samples per day are used for therapeutic drug monitoring (TDM). This study aimed to identify the best strategies for individual dosages a priori from patient characteristics and a posteriori based on TDM.

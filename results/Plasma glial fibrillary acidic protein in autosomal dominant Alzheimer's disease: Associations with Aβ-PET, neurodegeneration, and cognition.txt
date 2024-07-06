@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jul'}
+Glial fibrillary acidic protein (GFAP) is a promising candidate blood-based biomarker for Alzheimer's disease (AD) diagnosis and prognostication. The timing of its disease-associated changes, its clinical correlates, and biofluid-type dependency will influence its clinical utility.

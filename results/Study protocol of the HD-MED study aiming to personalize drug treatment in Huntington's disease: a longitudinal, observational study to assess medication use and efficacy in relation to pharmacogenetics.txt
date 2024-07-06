@@ -1,0 +1,2 @@
+{'Year': '2023', 'Season': 'Jan-Dec'}
+Huntington's disease (HD) is a hereditary, neurodegenerative disorder characterized by motor, cognitive, and psychiatric symptoms. Currently, HD can only be managed symptomatically, including a large variety of prescribed drugs. Many HD patients experience negative medication effects (e.g. side effects or non-response). Pharmacogenetic (PGx) studies show how genetic variation affects both medication efficacy and toxicity and holds the potential to improve these outcomes of drug treatment.

@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Pharmacogenetic testing in patients with cancer requiring cytotoxic chemotherapy offers the potential to predict, prevent, and mitigate chemotherapy-related toxicities. While multiple drug-gene pairs have been identified and studied, few drug-gene pairs are currently used routinely in the clinical status. Here we review what is known, theorized, and unknown regarding the use of pharmacogenetic testing in cancer.

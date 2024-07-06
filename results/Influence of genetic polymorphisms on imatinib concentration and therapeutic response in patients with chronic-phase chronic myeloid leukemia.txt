@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'May', 'Day': '30'}
+Diminished bioavailability of imatinib in leukemic cells contributes to poor clinical response. We examined the impact of genetic polymorphisms of imatinib on the pharmacokinetics and clinical response in 190 patients with chronic myeloid leukaemia (CML).

@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Jun'}
+TAS-117 is a highly potent and selective, oral, allosteric pan-AKT inhibitor under development for advanced/metastatic solid tumors. The safety, clinical pharmacology, pharmacogenomics and efficacy were investigated.

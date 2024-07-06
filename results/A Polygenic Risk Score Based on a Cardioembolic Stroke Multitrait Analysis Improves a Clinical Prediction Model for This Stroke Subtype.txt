@@ -1,0 +1,2 @@
+{'Year': '2022'}
+Occult atrial fibrillation (AF) is one of the major causes of embolic stroke of undetermined source (ESUS). Knowing the underlying etiology of an ESUS will reduce stroke recurrence and/or unnecessary use of anticoagulants. Understanding cardioembolic strokes (CES), whose main cause is AF, will provide tools to select patients who would benefit from anticoagulants among those with ESUS or AF. We aimed to discover novel loci associated with CES and create a polygenetic risk score (PRS) for a more efficient CES risk stratification.

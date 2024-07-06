@@ -1,0 +1,2 @@
+{'MedlineDate': '2023 Sep-Oct 01'}
+The purpose of this study was to review the association between the SLC6A4 5-HTTLPR polymorphism and antidepressant (AD)-associated treatment emergent mania (TEM) in bipolar disorder alongside starting a discussion on the merits of developing risk stratification models to guide when not to provide AD treatment for bipolar depression.

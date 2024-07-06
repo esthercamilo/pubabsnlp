@@ -1,0 +1,2 @@
+{'Year': '2024'}
+CYP3A5 polymorphisms have been associated with variations in the pharmacokinetics of tacrolimus (Tac) in kidney transplant patients. Our study aims to quantify how the CYP3A5 genotype influences tacrolimus trough concentrations (C<sub>0</sub>) in a Vietnamese outpatient population by selecting an appropriate population pharmacokinetic model of Tac for our patients.

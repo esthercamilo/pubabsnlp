@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Aug', 'Day': '27'}
+Lung cancer belongs to the most common carcinoma worldwide and is the leading cause of cancer-related death. Bone morphogenetic protein-4 (BMP-4) is extracellular signaling molecule involved in many important processes, including cell proliferation and mobility, apoptosis and angiogenesis. Thrombospondin-1 (TSP-1) belongs to the extracellular matrix proteins. It participates in the cell-to-cell and cell-to-matrix interactions and thus plays important role in tumor microenvironment for cancer development and metastasis formation.

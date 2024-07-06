@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jun'}
+Galcanezumab is a monoclonal antibody acting against the calcitonin gene-related peptide approved for the preventive treatment of migraine. The aim of this article is to explore its effectiveness and safety of galcanezumab in chronic migraine (CM) with medication overuse-headache (MOH).

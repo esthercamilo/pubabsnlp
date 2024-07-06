@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '01'}
+Pharmacogenomics, which offers a potential means by which to inform prescribing and avoid adverse drug reactions, has gained increasing consideration in other medical settings but has not been broadly evaluated during perioperative care.

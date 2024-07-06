@@ -1,0 +1,2 @@
+{'Year': '2022'}
+This study aimed to explore the population pharmacokinetic modeling (PopPK) of levofloxacin (LFX) and moxifloxacin (MXF), as well as the percent probability of target attainment (PTA) as defined by the ratio of the area under the plasma concentration-time curve over 24 h and the in vitro minimum inhibitory concentration (AUC0-24/MIC) in Ethiopian multidrug resistant tuberculosis (MDR-TB) patients.

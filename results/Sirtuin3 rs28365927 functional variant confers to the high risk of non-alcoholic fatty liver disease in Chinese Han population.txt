@@ -1,0 +1,2 @@
+{'Year': '2021', 'Month': 'Aug', 'Day': '26'}
+Non-alcoholic fatty liver disease (NAFLD) is a multifactorial condition associated with aging, insulin resistance, metabolic syndrome, genetic factors and more. Although genetic traits are among the most important risks factors for NAFLD, the understanding of their influence is still quite limited. The present study aimed at identifying novel single nucleotide polymorphisms (SNPs) that may confer a risk for NAFLD in the Han Chinese population.

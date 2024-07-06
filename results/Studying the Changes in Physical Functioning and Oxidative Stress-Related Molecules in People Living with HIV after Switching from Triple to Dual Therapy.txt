@@ -1,0 +1,2 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '26'}
+Physical activity could increase the production of oxidative stress biomarkers, affecting the metabolism and excretion of antiretroviral drugs and, consequently, the clinical outcome. Nowadays, people living with HIV (PLWH) are mostly switching from triple to dual therapy, but no data are available in terms of physical functioning and oxidative stress. The aim of this study was to evaluate if some antioxidant biomarkers and physical functioning tests could be different according to triple or dual antiretroviral therapy.

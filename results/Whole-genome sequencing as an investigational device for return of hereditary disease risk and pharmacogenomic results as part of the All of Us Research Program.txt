@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Mar', 'Day': '28'}
+The All of Us Research Program (AoURP, "the program") is an initiative, sponsored by the National Institutes of Health (NIH), that aims to enroll one million people (or more) across the USA. Through repeated engagement of participants, a research resource is being created to enable a variety of future observational and interventional studies. The program has also committed to genomic data generation and returning important health-related information to participants.

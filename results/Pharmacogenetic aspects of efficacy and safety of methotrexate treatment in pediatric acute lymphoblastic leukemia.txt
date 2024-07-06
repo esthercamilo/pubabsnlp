@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '01'}
+To evaluate the role of ABCB1 (C3435T rs1045642, rs1128503, rs2032582, rs4148738), SLCO1B1 T521C rs4149056 genetic polymorphisms in the development of major types of methotrexate (MTX) toxicities and the occurrence of a terminal event (death, relapse) in pediatric АLL.

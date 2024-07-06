@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '01'}
+The recent successes of poly-ADP ribose polymerase (PARP) inhibitors and belzutifan support germline genetic data as an exciting, accessible source for biomarkers in cancer treatment. This study hypothesizes, however, that most oncology clinical trials using germline data largely prioritize BRCA1/2 as biomarkers and PARP inhibitors as therapy.

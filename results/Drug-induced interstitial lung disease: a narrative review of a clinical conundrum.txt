@@ -1,0 +1,2 @@
+{'Year': '2024', 'Season': 'Jan-Feb'}
+Drug-induced interstitial lung disease (DI-ILD) is increasing in incidence, due to the use of many new drugs across a broad range of cancers and chronic inflammatory diseases. The presentation and onset of DI-ILD are variable even for the same drug across different individuals. Clinical suspicion is essential for identifying these conditions, with timely drug cessation an important determinant of outcomes.

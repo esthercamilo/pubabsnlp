@@ -1,0 +1,2 @@
+{'Year': '2024'}
+The response to antipsychotic therapy is highly variable. Pharmacogenomic (PGx) factors play a major role in deciding the effectiveness and safety of antipsychotic drugs. A hybrid type 2 effectiveness-implementation research will be conducted to evaluate the clinical utility (safety and efficacy), cost-effectiveness, and facilitators and barriers in implementing PGx-assisted management compared to standard of care in patients with schizophrenia attending a tertiary care hospital in eastern India.

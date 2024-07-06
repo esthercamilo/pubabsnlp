@@ -1,0 +1,2 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '13'}
+Most prostate cancer patients die from metastasis and lack accurate efficacious biomarkers to monitor the disease behavior, optimize treatment and assess prognosis. Herein, we aimed to identify meaningful lncRNA biomarkers associated with prostate cancer metastatic progression.

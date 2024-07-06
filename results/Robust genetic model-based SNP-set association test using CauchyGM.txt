@@ -1,0 +1,2 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '01'}
+Association testing on genome-wide association studies (GWAS) data is commonly performed under a single (mostly additive) genetic model framework. However, the underlying true genetic mechanisms are often unknown in practice for most complex traits. When the employed inheritance model deviates from the underlying model, statistical power may be reduced. To overcome this challenge, an integrative association test that directly infers the underlying genetic model from GWAS data has previously been proposed for single-SNP analysis.
