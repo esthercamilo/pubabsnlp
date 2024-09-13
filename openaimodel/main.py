@@ -25,7 +25,7 @@ def gerar_respostas_gpt(texto):
     )
 
     # Acessar a resposta corretamente
-    return response.choices[0].message['content'].strip()
+    return response.choices[0].message.content.strip()
 
 
 # Texto de exemplo
