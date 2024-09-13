@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Nov'}
+Pharmacogenetic influence of eNOS gene variant on endothelial and glucose metabolism responses to L-arginine supplementation: Post hoc analysis of the L-arginine trial.
+To evaluate whether variants of the eNOS gene are associated with endothelial and metabolic responses to L-arginine (L-arg) supplementation.

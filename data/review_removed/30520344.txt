@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jan'}
+Prevalence of pharmacogenomic variants affecting the efficacy of clopidogrel therapy in the Hispanic Community Health Study/Study of Latinos cohort.
+Although clopidogrel is the most widely used oral P2Y12 receptor antagonist, up to 10% of acute coronary syndrome patients treated with clopidogrel will experience a recurrent myocardial infarction and 2-3% will experience stent thrombosis within 1 year. The purpose of this research is to describe the prevalence of pharmacogene variants associated with clopidogrel responsiveness (CYP2C19, B4GALT2, ABCB1, PON1, CES1 and P2RY12) in Hispanic/Latino patients of diverse backgrounds.

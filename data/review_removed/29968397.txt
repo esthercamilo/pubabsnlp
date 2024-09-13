@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Dec'}
+Moderation of baclofen response by a GABA<sub>B</sub> receptor polymorphism: results from the BacALD randomized controlled trial.
+Baclofen has been shown to reduce alcohol consumption in alcohol-dependent individuals, but there is marked heterogeneity in response. An association between GABBR1 rs29220 and alcohol dependence has been demonstrated previously. The present study evaluated whether the response to baclofen is moderated by a single nucleotide polymorphism (rs29220) in the GABAB receptor subunit 1 gene (GABBR1).

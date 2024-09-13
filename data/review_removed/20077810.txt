@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jan'}
+[Pharmacogenetics/pharmacogenomics in psychiatry].
+Pharmacogenetics/pharmacogenomics has been developed so rapidly in these twenty years and the pharmacogenetic/pharmacogenomic research in psychiatry is also the case. Especially, the impact of genetic polymorphism (e.g., cytochrome P450 (CYP)) on pharmacokinetics of psychotropics have been extensively studied, however, recently, most of the studies in this field have been moved to pharmacodynamic study, i.e., the studies on impact of genetics polymorphism on clinical response and adverse effects to pharmacotherapy with psychotropics. Development of pharmacogenetics/ pharmacogenomics in psychiatry may well lead to a future of individualized pharmacotherapy for psychiatric disorders.

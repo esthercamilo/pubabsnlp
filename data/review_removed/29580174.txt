@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Apr'}
+Effect of hydrochlorothiazide on serum uric acid concentration: a genome-wide association study.
+To recognize genetic associations of hydrochlorothiazide-induced change in serum uric acid (SUA) concentration.

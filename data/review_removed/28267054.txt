@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'May'}
+Assessment of patient perceptions of genomic testing to inform pharmacogenomic implementation.
+Pharmacogenomics seeks to improve prescribing by reducing drug inefficacy/toxicity. However, views of patients during pharmacogenomic-guided care are largely unknown. We sought to understand the attitudes and perceptions of patients in an institutional implementation project and hypothesized that views would differ on the basis of experience with pharmacogenomic-guided care.

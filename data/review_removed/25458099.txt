@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jan'}
+Polymorphism of the multidrug resistance 1 gene MDR1/ABCB1 C3435T and response to antiepileptic drug treatment in temporal lobe epilepsy.
+A synonymous C to T variant at position 3435 (c.3435C>T) is one common polymorphism of the multidrug resistant 1 (MDR1) gene, which encodes the major transmembrane efflux transporter P-glycoprotein. It has been suggested that this polymorphism, and more specifically the 3435CC genotype, may be associated with the response to antiepileptic drug treatment. Here we wished to examine the role of such a candidate variant in a cohort of 175 patients (98 women and 76 men; mean ± SD age: 47.90 ± 17.64) with temporal lobe epilepsy (TLE).

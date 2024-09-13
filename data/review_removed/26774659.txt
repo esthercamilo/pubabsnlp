@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jul'}
+Childhood asthma exacerbations and the Arg16 β2-receptor polymorphism: A meta-analysis stratified by treatment.
+The Gly-to-Arg substitution at the 16 position (rs1042713) in the β2-adrenoceptor gene (ADRB2) is associated with enhanced downregulation and uncoupling of β2-receptors.

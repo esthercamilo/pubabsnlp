@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Apr'}
+Genetic determinants of acute asthma therapy response in children with moderate-to-severe asthma exacerbations.
+We documented inter-individual variability in the response to acute asthma therapy in children, attributed in part to five clinical factors (oxygen saturation, asthma severity score, virus detection, fever, symptoms between exacerbations; DOORWAY study). The contribution of genetic determinants of failure of acute asthma management have not been elucidated.

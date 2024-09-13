@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Apr', 'Day': '18'}
+Genome-wide association study of antidepressant response: involvement of the inorganic cation transmembrane transporter activity pathway.
+Genome-wide association studies (GWAS) represent the current frontier in pharmacogenomics. Thousands of subjects of Caucasian ancestry have been included in previous GWAS investigating antidepressant response. GWAS focused on this phenotype are lacking in Asian populations.

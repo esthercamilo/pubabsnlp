@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Oct'}
+Prediction of response to interferon therapy in multiple sclerosis.
+Single nucleotide polymorphisms (SNPs) in the genes encoding interferon response factor (IRF)-5, IRF-8 and glypican-5 (GPC5) have been associated with disease activity in multiple sclerosis (MS) patients treated with interferon (IFN)-β. We analysed whether SNPs in the IRF5, IRF8 and GPC5 genes are associated with clinical disease activity in MS patients beginning de novo treatment with IFN-β.

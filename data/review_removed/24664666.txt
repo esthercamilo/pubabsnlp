@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'May'}
+Pharmacogenetics of antiplatelet therapy.
+There has been substantial progress toward understanding and investigating the specific genetic factors that influence interindividual variations in platelet-directed therapy. There has also been substantial progress toward better understanding of the pharmacogenetics of drug metabolism and phamacodynamic response to platelet antagonists. We summarize the relationship between genetic polymorphisms, response to platelet antagonists, and clinical impact on patient treatment for the commonly used antiplatelet drugs. The challenge faced in translating genotype identification into improved clinical outcomes reflects the complexity involved in the genomic influence on drug metabolism and activation.

@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'May', 'Day': '01'}
+Stability of Anticoagulation Following Acenocoumarin in Stroke Patients: Role of Pharmacogenomics and Acquired Factors.
+Pharmacogenomics plays an important role in drug metabolism. A stable anticoagulation is important for primary and secondary prevention of cardioembolic stroke and cerebral venous sinus thrombosis (CVST). We report the role of cytochrome P450 ( CYP2C9*2/*3 ) and vitamin K epoxide reductase subunit 1 ( VKORC1 ) genotypes and acquired causes in maintaining stability of anticoagulation following acenocoumarin in cardioembolic stroke and CVST.

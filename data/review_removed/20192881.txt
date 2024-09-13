@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Apr'}
+Decision criteria for rational selection of homogeneous genotyping platforms for pharmacogenomics testing in clinical diagnostics.
+Genotyping is crucial for the identification of genetic markers underlying the development of neoplastic diseases and for determining individual variations in response to specific drugs. Technologies which can accurately identify genetic polymorphisms will dramatically affect routine diagnostic processes and future therapeutic developments in personalized medicine. However, such methods need to fulfill the principles of analytical validation to determine their suitability to assess nucleotide polymorphisms in target genes.

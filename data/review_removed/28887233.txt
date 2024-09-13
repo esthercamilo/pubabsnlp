@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Nov', 'Day': '15'}
+Methotrexate pharmacogenetics in Uruguayan adults with hematological malignant diseases.
+Individual variability is among the causes of toxicity and interruption of treatment in acute lymphoblastic leukemia (ALL) and severe non-Hodgkin lymphoma (NHL) patients under protocols including Methotrexate (MTX): 2,4-diamino-N10-methyl propyl-glutamic acid.

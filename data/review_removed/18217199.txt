@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Feb'}
+Pharmacogenomics and migraine: possible implications.
+Pharmacogenomics is the science about how inherited factors influence the effects of drugs. Drug response is always a result of mutually interacting genes with important modifications from environmental and constitutional factors. Based on the genetic variability of pharmacokinetic and in some cases pharmacodynamic variability we mention possible implications for the acute and preventive treatment of migraine. Pharmacogenomics will most likely in the future be one part of our therapeutic armamentarium and will provide a stronger scientific basis for optimizing drug therapy on the basis of each patient's genetic constitution.

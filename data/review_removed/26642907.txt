@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Apr'}
+Warfarin Dosing Algorithms and the Need for Human Intervention.
+Dosing algorithms for warfarin incorporate clinical and genetic factors, but human intervention to overrule algorithm-based dosing may occasionally be required. The frequency and reasons for varying from algorithmic warfarin management have not been well studied.

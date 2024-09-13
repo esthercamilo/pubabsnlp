@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jul'}
+Commercial Pharmacogenetic Tests in Psychiatry: Do they Facilitate the Implementation of Pharmacogenetic Dosing Guidelines?
+Expert groups have created dosing guidelines to facilitate the implementation of pharmacogenetic knowledge into clinical practice and commercial pharmacogenetic tests are becoming increasingly accessible. However, the extent to which these commercial tests facilitate the implementation of dosing guidelines is not clear.

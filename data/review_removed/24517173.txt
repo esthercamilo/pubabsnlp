@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'May'}
+Personalized oxycodone dosing: using pharmacogenetic testing and clinical pharmacokinetics to reduce toxicity risk and increase effectiveness.
+To develop a framework for integrating pharmacogenetics with clinical pharmacokinetics for personalized oxycodone dosing based on a patient's CYP2D6 phenotype.

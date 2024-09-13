@@ -1,0 +1,3 @@
+{'Year': '2019'}
+Effect of Environmental Exposure and Pharmacogenomics on Drug Metabolism.
+Pesticides are major xenobiotic compounds and environmental pollutants, which are able to alter drug-metabolizing enzyme as well as pharmacokinetics of drugs. Subsequent to the release of the human genome project, genetic variations (polymorphism) become an integral part of drug development due to their influence on disease susceptibility/ progression of the disease and their impact on drug absorption, distribution, metabolism of active metabolites and finally excretion of the drug. Genetic polymorphisms crucially regulate pharmacokinetics and pharmacodynamics of drugs under the influence of physiological condition, lifestyle, as well as pathological conditions collectively.

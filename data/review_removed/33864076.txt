@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Nov', 'Day': '02'}
+Cannabidiol converts NF-κB into a tumor suppressor in glioblastoma with defined antioxidative properties.
+The transcription factor NF-κB drives neoplastic progression of many cancers including primary brain tumors (glioblastoma [GBM]). Precise therapeutic modulation of NF-κB activity can suppress central oncogenic signaling pathways in GBM, but clinically applicable compounds to achieve this goal have remained elusive.

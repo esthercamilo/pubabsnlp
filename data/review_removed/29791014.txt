@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Sep'}
+Interaction between ABCG2 421C>A polymorphism and valproate in their effects on steady-state disposition of lamotrigine in adults with epilepsy.
+To investigate the impact of glucuronidation enzyme (UGT1A4*3 142T>G, UGT1A4*2 70C>A, UGT2B7 -161C>T) and transporter (MDR1/ABCB1 1236C>T, ABCG2 421C>A) polymorphisms on steady-state disposition of lamotrigine and on the lamotrigine-valproate interaction.

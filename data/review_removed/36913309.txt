@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '01'}
+Lack of exposure to pharmacogenomics education among the health care providing students in the West Bank of Palestine.
+Evaluating the knowledge in pharmacogenomics (PGx) is the first step toward the implementation of PGx testing in clinical practice. This survey aimed to evaluate the knowledge of PGx testing among healthcare providing students at the top-ranked university in the West Bank of Palestine.

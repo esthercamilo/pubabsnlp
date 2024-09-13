@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Feb'}
+Out-of-school genomics program for young women demystifies genomics and fosters interest in biomedical sciences.
+Pharmacogenomics (PGx) plays a critical role in personalized medicine; however, most healthcare practitioners lack the training and confidence in PGx required to fully utilize its potential. Although continuing education and inclusion of PGx into the professional curricula will begin to address this deficiency, PGx education at the secondary and postsecondary levels would demystify PGx and pique interest at an academic stage that is key to funneling PGx curious students into the science and healthcare pipeline earlier.

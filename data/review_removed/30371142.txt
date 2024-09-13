@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Nov'}
+No association between G1359A CB1 polymorphisms and pain in young northeastern Mexicans.
+Recent studies show an association between the endocannabinoid system and pain. In this study, we analyzed the association between two CNR1 gene polymorphisms and pain perception in a northeast Mexican population.

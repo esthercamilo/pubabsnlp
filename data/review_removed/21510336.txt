@@ -1,0 +1,3 @@
+{'Year': '2010', 'Season': 'Jul-Dec'}
+[Pharmacogenomics in clinical trials].
+Studies of the relationship between variations in DNA or RNA characteristics and drug response are yielding important advances, boosted by continuous improvements and decreasing costs of the techniques for large-scale analysis of genes and proteins. This is increasing current capabilities to discover new drugs and therapeutic targets, establish early and differential diagnosis of disease, and optimize the use of existing medicines. As Personalised Medicine continues to develop, the question arises as to when biomarkers and genomics should best be incorporated into the drug development process.

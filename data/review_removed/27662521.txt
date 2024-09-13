@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar'}
+Patterns of antiplatelet drug use after a first myocardial infarction during a 10-year period.
+The aims of the present study were to assess antiplatelet drug use patterns after a first myocardial infarction (MI) and to evaluate the determinants of antiplatelet nonpersistence.

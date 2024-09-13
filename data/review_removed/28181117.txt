@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Aug'}
+CYP2D6 Genetic Variation and Beta-Blocker Maintenance Dose in Patients with Heart Failure.
+This study examined whether a CYP2D6 polymorphism (CYP2D6*4) was related to beta-blocker maintenance dose in patients with heart failure.

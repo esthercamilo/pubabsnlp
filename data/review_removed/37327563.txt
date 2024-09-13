@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Aug'}
+Pharmacogenetic testing in psychiatry: Perspective on clinical utility.
+Pharmacogenetic studies the influence of inherited characteristics on medication. While different from pharmacogenomics, which is a study of the entire genome in relation to medication effect, their distinction remains inconsistent, and the two terms are used interchangeably. Although the potential of pharmacogenomics in psychiatry is apparent and its clinical utility is suboptimal, the uptake of recommendations and guidelines is minimal and research into PGx is not diverse. This article offers an overview of pharmacogenetics (PGx) in psychiatry, explores the difficulties, and provides recommendations on improving its applicability and clinical utility.

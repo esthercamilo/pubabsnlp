@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Mar'}
+Genetic association analysis of N-methyl-D-aspartate receptor subunit gene GRIN2B and clinical response to clozapine.
+Approximately 30% of patients with schizophrenia fail to respond to antipsychotic therapy and are classified as having treatment-resistant schizophrenia. Clozapine is the most efficacious drug for treatment-resistant schizophrenia and may deliver superior therapeutic effects partly by modulating glutamate neurotransmission. Response to clozapine is highly variable and may depend on genetic factors as indicated by twin studies. We investigated eight polymorphisms in the N-methyl-D-aspartate glutamate receptor subunit gene GRIN2B with response to clozapine.

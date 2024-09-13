@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Feb'}
+Genetics of warfarin sensitivity in an emergency department population with thromboembolic.
+Emergency department (ED) patients with venous thromboembolism (VTE) are eventually treated with a standard dose of warfarin despite the fact that a number of patients are known to be sensitive to warfarin and may experience supra-therapeutic INRs and adverse bleeding events. Pharmacogenetics is an emerging field of medical practice that seeks to improve drug safety and efficacy in an individual patient by tailoring treatment to the patient's known genetic makeup.

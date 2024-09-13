@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Oct', 'Day': '16'}
+Construction of possible integrated predictive index based on EGFR and ANXA3 polymorphisms for chemotherapy response in fluoropyrimidine-treated Japanese gastric cancer patients using a bioinformatic method.
+Variability in drug response between individual patients is a serious concern in medicine. To identify single-nucleotide polymorphisms (SNPs) related to drug response variability, many genome-wide association studies have been conducted.

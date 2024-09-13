@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Aug'}
+Challenges and Opportunities for Clinical Pharmacogenetic Research Studies in Resource-limited Settings: Conclusions From the Council for International Organizations of Medical Sciences-Ibero-American Network of Pharmacogenetics and Pharmacogenomics Meeting.
+The symposium Health and Medicines in Indigenous Populations of America was organized by the Council for International Organizations of Medical Sciences (CIOMS) Working Group on Clinical Research in Resource-Limited Settings (RLSs) and the Ibero-American Network of Pharmacogenetics and Pharmacogenomics (RIBEF). It was aimed to share and evaluate investigators' experiences on challenges and opportunities on clinical research and pharmacogenetics.

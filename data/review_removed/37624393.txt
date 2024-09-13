@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Nov'}
+Population pharmacokinetics and pharmacogenetics analyses of imatinib in Chinese patients with chronic myeloid leukemia in a real-world situation.
+Imatinib is presently the first-line choice for the treatment of chronic myeloid leukemia. However, there are limited real-world data on Chinese patients to support individualized medicine. This work aims to characterize population pharmacokinetics in Chinese patients with chronic myeloid leukemia, investigate the effects of several covariates on imatinib exposure, and provide support for personalized medicine and dose reduction.

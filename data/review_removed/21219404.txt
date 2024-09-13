@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Feb'}
+Influence of polymorphisms within the methotrexate pathway genes on the toxicity and efficacy of methotrexate in patients with juvenile idiopathic arthritis.
+We investigated whether several polymorphisms within the methotrexate (MTX) pathway genes were related to the toxicity and efficacy of MTX in 92 Japanese patients with articular-type juvenile idiopathic arthritis (JIA).

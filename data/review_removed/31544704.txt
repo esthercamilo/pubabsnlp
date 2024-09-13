@@ -1,0 +1,3 @@
+{'Year': '2019'}
+The Pharmacogenomics "Side-effect" of TP53/EGFR in Non-small Cell Lung Cancer Accompanied with Atorvastatin Therapy: A Functional Network Analysis.
+Atorvastatin belongs to the group of statins and is the leading drug for hypercholesterolemia treatment. Although, its anticancer effects are highly appreciated, its properties are still unclear. The aim of this study was to explore the underlying anticancer mechanisms induced by atorvastatin and enlarge the potential target in non-small cell lung cancer.

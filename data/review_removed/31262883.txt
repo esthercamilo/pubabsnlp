@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jul'}
+Broad-spectrum Cross-resistance to Anticancer Drugs Mediated by Epidermal Growth Factor Receptor.
+The oncogenic role of epidermal growth factor receptor (EGFR) has been intensively studied. However, its emerging role in drug resistance has not been fully addressed.

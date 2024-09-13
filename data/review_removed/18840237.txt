@@ -1,0 +1,3 @@
+{'Year': '2008', 'Season': 'Fall'}
+Genotyping the future: scientists' expectations about race/ ethnicity after BiDil.
+The ongoing debate about the FDA approval of BiDil in 2005 demonstrates how the first racially/ethnically licensed drug is entangled in both Utopian and dystopian future visions about the continued saliency of race/ethnicity in science and medicine. Drawing on the sociology of expectations, this paper analyzes how scientists in the field of pharmacogenetics are constructing certain visions of the future with respect to the use of social categories of race/ethnicity and the impact of high-throughput genotyping technologies that promise to transform scientific practices.

@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Nov'}
+Pharmacogenetics-based population pharmacokinetic analysis of tenofovir in Thai HIV-infected patients.
+To develop a population pharmacokinetic model and identify sources of variability, genetic and nongenetic factors, of tenofovir.

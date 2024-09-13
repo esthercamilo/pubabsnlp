@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Apr'}
+Deletion of the mouse Fmo1 gene results in enhanced pharmacological behavioural responses to imipramine.
+Many drugs are the subject of multipathway oxidative metabolism catalyzed by one or more cytochromes P450 or flavin-containing monooxygenases (FMOs). This complicates assessment of the role of individual enzymes in metabolizing the drug and, hence, in understanding its pharmacogenetics. To define the role of FMOs in drug metabolism, we produced FMO-deficient mice.

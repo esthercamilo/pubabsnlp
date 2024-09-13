@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jun'}
+Educational innovations in clinical pharmacogenomics.
+Genetic and genomic discovery is revolutionizing medicine at an extraordinary pace, leading to a better understanding of disease and improved treatments for patients. This advanced pace of discovery presents an urgency to expand medical school curricula to include genetic and genomic testing (including pharmacogenomics), and integration of genomic medicine into clinical practice. Consequently, organizations and healthcare authorities have charged medical schools with training future physicians to be competent in their knowledge of genomic implementation.

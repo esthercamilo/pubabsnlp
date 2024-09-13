@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Sep'}
+Variants of FasL and ABCC5 are predictive of outcome after chemotherapy-based treatment in osteosarcoma.
+Previous pharmacogenetics studies showed that genetic variants could be indicative of the response to chemotherapy. We aimed to investigate whether variants of FasL, MSH2, ABCC5, CASP3 and CYP3A4 are associated with the outcome after chemotherapy-based treatment in osteosarcoma.

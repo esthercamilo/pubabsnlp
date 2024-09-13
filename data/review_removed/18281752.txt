@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Feb'}
+[Pharmacogenetics in fluoropyrimidine chemotherapy].
+Pharmacogenetics has been widely studied to predict the clinical outcome including response, survival, and toxicity in patients treated by fluoropyrimidines based on a candidate approach. Several "candidate" gene expressions or polymorphisms in 5-fluorouracil pathway have been selected and identified retrospectively to correlate closely with the clinical outcome in small patient cohorts. Because of the lack of prospective confirmation, these candidate genes have not yet been applied in clinical practice as the predictive biomarker. Further studies by the pathway approach which overview the entire 5-fluorouracil pathway and that by the global approach using array are warranted.

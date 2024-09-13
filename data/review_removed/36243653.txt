@@ -1,0 +1,3 @@
+{'Year': '2023', 'Season': 'Jan-Feb'}
+Implementing comprehensive pharmacogenomics in a community hospital-associated primary care setting.
+Pharmacogenomics (PGx) is an emerging field. Many drug-gene interactions are known but not yet routinely addressed in clinical practice. Therefore, there is a significant gap in care, necessitating development of implementation strategies.

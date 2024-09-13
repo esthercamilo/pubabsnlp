@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jan'}
+Pharmacogenomics of sterol synthesis and statin use in schizophrenia subjects treated with antipsychotics.
+Patients with schizophrenia treated with antipsychotics often develop metabolic side effects including dyslipidemia. Antipsychotics potentially upregulate gene expression of a lipid metabolism pathway protein called SREBP via SREB transcription factors (SREBFs). Genetic variation within SREBF may contribute to dyslipidemias and lipid medication efficacy within schizophrenia.

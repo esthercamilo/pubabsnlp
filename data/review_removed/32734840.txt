@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Nov'}
+Description of Pharmacogenomic Testing Among Patients Admitted to the Intensive Care Unit After Cardiovascular Surgery.
+Pharmacogenomic (PGx) testing has the potential to provide information on specific drug-metabolizing enzymes that may lead to an absence, reduction, or increase in medication effect in patients. There is a paucity of prospective studies examining PGx testing in the intensive care unit (ICU) setting.

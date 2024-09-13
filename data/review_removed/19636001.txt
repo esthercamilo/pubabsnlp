@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Sep', 'Day': '01'}
+Racial differences in advanced colorectal cancer outcomes and pharmacogenetics: a subgroup analysis of a large randomized clinical trial.
+Racial disparities in colorectal cancer (CRC) survival are documented, but there are few data on comparative response to chemotherapy. A subgroup analysis of a multisite National Cancer Institute-sponsored trial (N9741) was performed comparing outcomes of black and white patients with metastatic CRC receiving uniform treatment.

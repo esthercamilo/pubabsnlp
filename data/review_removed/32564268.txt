@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Aug'}
+Effect of Sex, Use of Pantoprazole and Polymorphisms in SLC22A1, ABCB1, CES1, CYP3A5 and CYP2D6 on the Pharmacokinetics and Safety of Dabigatran.
+Dabigatran is a direct oral anticoagulant (DOAC) used for the treatment of several thrombotic conditions. To date, very few pharmacogenetic studies on dabigatran were published. We aimed to investigate the influence of 59 polymorphisms in 15 genes (including CES1, UGT and CYP that encode enzymes and ABCB1 and SLC that encode transporters), concomitant treatment with pantoprazole and demographic characteristics (including sex or race) on dabigatran pharmacokinetics and safety.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jul'}
+Rescue morphine in mechanically ventilated newborns associated with combined OPRM1 and COMT genotype.
+Determine whether SNPs of OPRM1 118A>G (asn(40)asp), COMT 472G>A (val(158)met) and ARRB2 8622C>T are associated with morphine rescue in newborns on mechanical ventilation.

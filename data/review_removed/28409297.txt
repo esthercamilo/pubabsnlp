@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Aug'}
+The SLCO1A2 -189_-188InsA polymorphism reduces clearance of rocuronium in patients submitted to elective surgeries.
+Rocuronium (ROC) is a neuromuscular blocker mainly eliminated by biliary excretion dependent on organic anion transporting polypeptide 1A2 (OATP1A2) hepatocellular uptake. However, the influence of SLCO1A2 (gene encoding OATP1A2) genetic polymorphism on ROC pharmacokinetics was never described before. The objective of this work was to evaluate the influence of genetic polymorphisms of SLCO1A2 on the pharmacokinetics of rocuronium (ROC).

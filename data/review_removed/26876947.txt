@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Oct', 'Day': '15'}
+Pharmacogenomic Study of Clozapine-Induced Agranulocytosis/Granulocytopenia in a Japanese Population.
+Clozapine-induced agranulocytosis (CIA)/clozapine-induced granulocytopenia (CIG) (CIAG) is a life-threatening event for schizophrenic subjects treated with clozapine.

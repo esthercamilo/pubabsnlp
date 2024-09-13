@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Sep'}
+Exploring the mechanism of Shexiang Tongxin dropping pill in the treatment of microvascular angina through network pharmacology and molecular docking.
+Microvascular angina (MVA) is a group of clinical manifestations of angina pectoris or angina-like chest pain, positive exercise test, and exclusion of epicardial coronary artery spasm, wherein coronary angiography (CAG) does not present obvious epicardial vascular stenosis. Shexiang Tongxin dropping pill (STDP) has the effect of benefiting the Qi and opening the blood vessels, activating blood circulation, and resolving blood stasis. We explored the mechanism of STDP against MVA by network pharmacology and molecular docking.

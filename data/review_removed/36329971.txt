@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Oct'}
+Personalized antihypertensive treatment guided by pharmacogenomics in China.
+The implementation of genotyping for anti-hypertensive drugs in clinical practice remains a challenge. We conducted this study to analyze the distribution of polymorphisms of antihypertensive drug-related genes in Changsha County in China and compare the clinical effectiveness of genotype-guided and clinical experience-guided antihypertensive therapy in hypertensive individuals.

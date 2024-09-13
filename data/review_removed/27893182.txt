@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Feb'}
+Interindividual variability in dabigatran and rivaroxaban exposure: contribution of ABCB1 genetic polymorphisms and interaction with clarithromycin.
+Essentials Rivaroxaban and dabigatran are substrates of the P-glycoprotein (P-gp) encoded by the ABCB1 gene. We tested the effect of ABCB1 polymorphisms and of a P-gp inhibitor on both drugs' pharmacokinetics. The ABCB1 genotype was not a clinically relevant determinant of both drugs' pharmacokinetics. Administration of P-gp inhibitors with dabigatran or rivaroxaban should be exercised with caution.

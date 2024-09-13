@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'May'}
+Clinical Utility of Pharmacogenomic Data Collected by a Health-System Biobank to Predict and Prevent Adverse Drug Events.
+Medication-related harm represents a significant issue for patient safety and quality of care. One strategy to avoid preventable adverse drug events is to utilize patient-specific factors such as pharmacogenomics (PGx) to individualize therapy.

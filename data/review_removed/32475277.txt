@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jun'}
+Using pharmacogenetics to structure individual pain management protocols in total knee arthroplasty.
+The purpose of this study was to use pharmacogenetics to determine the frequency of genetic variants in our total knee arthroplasty (TKA) patients that could affect postoperative pain medications. Pharmacogenetic testing evaluates patient DNA to determine if a drug is expected to have a normal clinical effect, heightened effect, or no effect at all on the patient. It also predicts whether patients are likely to experience side effects from medicine. We further sought to determine if changing the multimodal programme based on these results would improve pain control or reduce side effects.

@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Feb'}
+Polymorphisms in miRNAs Gene (146a, 149, 196a) and Susceptibility to ARV-associated Hepatotoxicity.
+Micro RNAs act as a regulatory layer for pharmacogenomics-related gene ex-pression. It could play a role in the efficacy and toxicity of the drug. The SNPs in miRNA genes are linked with different functional consequences.

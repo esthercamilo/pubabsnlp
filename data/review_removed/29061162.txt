@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Oct', 'Day': '23'}
+Whole transcriptome analysis of human erythropoietic cells during ontogenesis suggests a role of VEGFA gene as modulator of fetal hemoglobin and pharmacogenomic biomarker of treatment response to hydroxyurea in β-type hemoglobinopathy patients.
+Human erythropoiesis is characterized by distinct gene expression profiles at various developmental stages. Previous studies suggest that fetal-to-adult hemoglobin switch is regulated by a complex mechanism, in which many key players still remain unknown. Here, we report our findings from whole transcriptome analysis of erythroid cells, isolated from erythroid tissues at various developmental stages in an effort to identify distinct molecular signatures of each erythroid tissue.

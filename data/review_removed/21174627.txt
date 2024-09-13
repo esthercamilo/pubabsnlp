@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Jan'}
+Comparison of warfarin pharmacogenetic dosing algorithms in a racially diverse large cohort.
+Multiple warfarin pharmacogenetic dosing algorithms have been reported to date. However, there is only limited information available on the performance of the algorithms that can be used with the results of a US FDA-cleared warfarin pharmacogenetic test. We compared the performance of warfarin pharmacogenetic dosing algorithms in a large racially diverse cohort.

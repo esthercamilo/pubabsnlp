@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Sep'}
+Development of a laboratory-based pharmacogenomics independent study and advanced pharmacy practice experience: Connecting basic science to clinical application.
+The role of pharmacists in pharmacogenomics (PGx) use clinically is expanding, leading to increased pharmacy education requirements. Current reports indicate that PGx is primarily taught through didactic courses, indicating a need for applied coursework in pharmacy curricula, including laboratory exercises and clinical experiences. Such courses are instrumental in helping students connect the science of PGx to patient care.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jan'}
+A candidate gene study of capecitabine-related toxicity in colorectal cancer identifies new toxicity variants at DPYD and a putative role for ENOSF1 rather than TYMS.
+Capecitabine is an oral 5-fluorouracil (5-FU) pro-drug commonly used to treat colorectal carcinoma and other tumours. About 35% of patients experience dose-limiting toxicity. The few proven genetic biomarkers of 5-FU toxicity are rare variants and polymorphisms, respectively, at candidate loci dihydropyrimidine dehydrogenase (DPYD) and thymidylate synthase (TYMS).

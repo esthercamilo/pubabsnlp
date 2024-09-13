@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Nov'}
+Community pharmacists' attitudes towards clinical utility and ethical implications of pharmacogenetic testing.
+To examine community pharmacists' attitudes towards pharmacogenetic (PGx) testing, including their views of the clinical utility of PGx and the ethical, social, legal and practical implications of PGx testing.

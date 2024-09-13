@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Nov'}
+N-acetyltransferase 2 polymorphism and acetylation profiles in Buginese ethnics of Indonesia.
+N-acetyltransferase 2 (NAT2) is a key enzyme involved in the phase II metabolism of aromatic amines and heterocyclic aromatic amines present in a wide range of xenobiotics. The aim of this study was to investigate the NAT2 polymorphism in the Buginese ethnic group of Indonesia to determine the frequency of NAT2 alleles in this population.

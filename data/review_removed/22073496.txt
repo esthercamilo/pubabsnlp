@@ -1,0 +1,3 @@
+{'Year': '2011', 'Season': 'Sep-Oct'}
+The impact of pharmacogenetics in the treatment of allergic disease and asthma.
+Personalized medicine includes the application of genomic information in predicting disease and therapeutic response to ultimately individualize patient care. Pharmacogenetics is key in achieving true personalized care. However, the clinical applicability of genetic testing to "everyday medicine" is yet to be realized. This paper will discuss areas in allergic/inflammatory disease that have been impacted by pharmacogenetic research and how this application may be brought from the "bench to the bedside."

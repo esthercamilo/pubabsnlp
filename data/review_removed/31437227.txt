@@ -1,0 +1,3 @@
+{'Year': '2019'}
+Bone metabolism genes variation and response to bisphosphonate treatment in women with postmenopausal osteoporosis.
+Long-term treatment is used in patients with osteoporosis, and bisphosphonates (BPs) are the most commonly prescribed medications. However, in some patients this therapy is not effective, cause different side effects and complications. Unfortunately, at least one year is needed to identify and confirm an ineffectiveness of BPs therapy on bone mineral density (BMD). Among other factors, a response to BPs therapy may also be explained by genetic factors. The aim of this study was to analyze the influence of SOST, PTH, FGF2, FDPS, GGPS1, and LRP5 gene variants on the response to treatment with aminobisphosphonates.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Dec'}
+Pharmacogenetic interaction analysis of VEGFR-2 and IL-8 polymorphisms in advanced breast cancer patients treated with paclitaxel and bevacizumab.
+To investigate pharmacogenetic interactions among VEGF-A, VEGFR-2, IL-8, HIF-1α, EPAS-1 and TSP-1 SNPs and their role on progression-free survival in a population of metastatic breast cancer patients treated with bevacizumab in combination with first-line paclitaxel.

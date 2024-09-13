@@ -1,0 +1,3 @@
+{'Year': '2015', 'Season': 'Mar-Apr'}
+A patient-centered approach to the development and pilot of a warfarin pharmacogenomics patient education tool for health professionals.
+To describe an exploratory project to develop and pilot a novel patient educational tool that explains the concept of pharmacogenomics and its impact on warfarin dosing that can be utilized by health professionals providing patient counseling.

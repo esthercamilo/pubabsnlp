@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jan'}
+Mass Spectrometry in Precision Medicine: Phenotypic Measurements Alongside Pharmacogenomics.
+Precision medicine is becoming a major topic within the medical community and is gaining traction as a standard approach in many disciplines. This approach typically revolves around the use of a patient's genetic makeup to allow the physician to choose the appropriate course of treatment. In many cases the genetic information directs the drug to be used to treat the patient. In other cases the genetic markers associated with enzyme function may inform dosage recommendations. However there is a second way in which precision medicine can be practiced-that is, by therapeutic drug monitoring (TDM).

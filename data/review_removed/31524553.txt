@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jan'}
+Pharmacogenetics and drug metabolism: historical perspective and appraisal.
+The events leading up to the discovery of genetically controlled polymorphic metabolism of xenobiotics and pharmaceutical chemicals are briefly summarised with the salient historical features being emphasised. Especial attention has been given to seminal works in the then emerging field.The evolving knowledge of such polymorphic metabolism and its role in the quest for personalised medicine and the individualisation of patient drug therapy are appraised. Opinion is offered as to whether or not the full potential has been exploited and if the practical application of this information may be regarded as a success or failure within the present clinical arena.

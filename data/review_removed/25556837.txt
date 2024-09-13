@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jun'}
+Methadone dose in heroin-dependent patients: role of clinical factors, comedications, genetic polymorphisms and enzyme activity.
+Methadone is characterized by wide intersubject variability regarding the dose needed to obtain full therapeutic response. We assessed the influence of sociodemographic, ethnic, clinical, metabolic and genotypic variables on methadone maintenance dose requirement in opioid-dependent responder patients.

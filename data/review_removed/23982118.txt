@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Nov'}
+Phase I clinical and pharmacokinetic/pharmacogenetic study of a triplet regimen of S-1/irinotecan/oxaliplatin in patients with metastatic colorectal or gastric cancer.
+We conducted a phase I study of S-1 combined with irinotecan and oxaliplatin (TIROX) to determine the maximum-tolerated dose (MTD) and recommended dose (RD) and to assess its safety, pharmacokinetics, pharmacogenetics, and preliminary efficacy in patients with metastatic colorectal cancer (MCRC) or metastatic gastric cancer (MGC).

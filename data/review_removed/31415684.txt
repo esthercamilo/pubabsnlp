@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Feb', 'Day': '21'}
+Preliminary outcomes of preemptive warfarin pharmacogenetic testing at a large rural healthcare center.
+As a preliminary evaluation of the outcomes of implementing pharmacogenetic testing within a large rural healthcare system, patients who received pre-emptive pharmacogenetic testing and warfarin dosing were monitored until June 2017.

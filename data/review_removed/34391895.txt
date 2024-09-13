@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Nov'}
+Large-scale prospective genome-wide association study of oxaliplatin in stage II/III colon cancer and neuropathy.
+The severity of oxaliplatin (L-OHP)-induced peripheral sensory neuropathy (PSN) exhibits substantial interpatient variability, and some patients suffer from long-term, persisting PSN. To identify single-nucleotide polymorphisms (SNPs) predicting L-OHP-induced PSN using a genome-wide association study (GWAS) approach.

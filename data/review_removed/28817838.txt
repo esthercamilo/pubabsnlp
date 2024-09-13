@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Sep', 'Day': '26'}
+Pharmacogenetic determinants of outcomes on triplet hepatic artery infusion and intravenous cetuximab for liver metastases from colorectal cancer (European trial OPTILIV, NCT00852228).
+The hepatic artery infusion (HAI) of irinotecan, oxaliplatin and 5-fluorouracil with intravenous cetuximab achieved outstanding efficacy in previously treated patients with initially unresectable liver metastases from colorectal cancer. This planned study aimed at the identification of pharmacogenetic predictors of outcomes.

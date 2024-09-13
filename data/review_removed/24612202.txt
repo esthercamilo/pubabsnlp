@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Nov'}
+Hydrochlorothiazide-induced hyperuricaemia in the pharmacogenomic evaluation of antihypertensive responses study.
+Elevations in uric acid (UA) and the associated hyperuricaemia are commonly observed secondary to treatment with thiazide diuretics. We sought to identify novel single nucleotide polymorphisms (SNPs) associated with hydrochlorothiazide (HCTZ)-induced elevations in UA and hyperuricaemia.

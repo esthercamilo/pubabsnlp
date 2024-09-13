@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Sep', 'Day': '16'}
+Rash in Breast-Feeding Mother: Standardized Patient Case for Clerkship Students.
+Adverse drug reactions are a leading cause of morbidity and mortality. The full impact of these reactions is often not recognized by health care providers, which can lead to a cascade of additional medications prescribed to treat adverse effects caused by the inciting medication.

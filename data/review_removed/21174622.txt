@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Jan'}
+Population-specific documentation of pharmacogenomic markers and their allelic frequencies in FINDbase.
+Population and ethnic group-specific allele frequencies of pharmacogenomic markers are poorly documented and not systematically collected in structured data repositories. We developed the Frequency of Inherited Disorders Pharmacogenomics database (FINDbase-PGx), a separate module of the FINDbase, aiming to systematically document pharmacogenomic allele frequencies in various populations and ethnic groups worldwide.

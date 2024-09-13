@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Jul'}
+Clinically available pharmacogenomics tests.
+The development of robust and clinically valuable pharmacogenomic tests has been anticipated to be one of the first tangible results of the Human Genome Project. Despite both obvious and unanticipated obstacles, a number of tests have now become available in various practice settings. Lessons can be learned from examination of these tests, the evidence that has catalyzed their use, their value to prescribers, and their merit as tools for personalizing therapeutics.

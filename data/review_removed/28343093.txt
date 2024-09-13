@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jun'}
+Influence of genetic variants of CYP2D6, CYP2C9, CYP2C19 and CYP3A4 on antiepileptic drug metabolism in pediatric patients with refractory epilepsy.
+Identified the polymorphisms of CYP2D6, CYP2C9, CYP2C19 and CYP3A4, within a rigorously selected population of pediatric patients with drug-resistant epilepsy.

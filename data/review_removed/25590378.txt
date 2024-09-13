@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Mar', 'Day': '02'}
+The functional implications of common genetic variation in CYP3A5 and ABCB1 in human proximal tubule cells.
+Calcineurin inhibitors (CNIs) are the primary immunosuppressive drugs used in solid organ transplantation but are associated with the development of histological lesions leading to kidney failure. CNIs are metabolized by CYP3A and excreted by not only P-glycoprotein (P-gp) (ABCB1) in the gut and liver, but also by proximal tubule cells (PTCs) in the kidney. Multiple studies have demonstrated the importance of genetic variation in CYP3A5 and ABCB1 for CNI disposition and nephrotoxicity. The present study was designed to study the functional implication of variation in these two genes in human PTCs.

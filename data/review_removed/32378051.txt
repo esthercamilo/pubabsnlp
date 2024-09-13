@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jun'}
+Clinical evaluation of germline polymorphisms associated with capecitabine toxicity in breast cancer: TBCRC-015.
+Capecitabine is important in breast cancer treatment but causes diarrhea and hand-foot syndrome (HFS), affecting adherence and quality of life. We sought to identify pharmacogenomic predictors of capecitabine toxicity using a novel monitoring tool.

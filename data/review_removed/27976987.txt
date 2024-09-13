@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jan'}
+Prediction of atorvastatin plasmatic concentrations in healthy volunteers using integrated pharmacogenetics sequencing.
+To use variants found by next-generation sequencing to predict atorvastatin plasmatic concentration profiles (AUC) in healthy volunteers.

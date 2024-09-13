@@ -1,0 +1,3 @@
+{'Year': '2016', 'Season': 'Jul-Aug'}
+Evaluation of CYP2C19, P2Y12, and ABCB1 polymorphisms and phenotypic response to clopidogrel in healthy Indian adults.
+CYP2C19 and P2Y12 polymorphisms have been claimed to alter the pharmacodynamic response to clopidogrel. ABCB1 polymorphism has been associated with the efflux of clopidogrel resulting in decreased bioavailability. Due to paucity of data from Indian population, the present study was undertaken to evaluate the association of genetic polymorphisms of CYP2C19, P2Y12, and ABCB1 with inhibition of platelet aggregation (IPA) by clopidogrel.

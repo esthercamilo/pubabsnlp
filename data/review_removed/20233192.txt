@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Mar'}
+Pharmacogenetics of CYP2C19: functional and clinical implications of a new variant CYP2C19*17.
+Cytochrome P450 2C19 metabolizes many important drugs. In 2006, a variant allele (CYP2C19*17) associated with increased activity was discovered, but its likely clinical significance is controversial. Investigators disagree about the phenotype to be assigned to the two CYP2C19*17 genotypes. The aim of this study was to provide a critical summary, helpful to prescribers.

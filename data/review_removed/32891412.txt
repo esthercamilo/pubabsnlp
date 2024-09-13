@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Dec'}
+Genetic mutations associated with susceptibility to perioperative complications in a longitudinal biorepository with integrated genomic and electronic health records.
+Existing genetic information can be leveraged to identify patients with susceptibilities to conditions that might impact their perioperative care, but clinicians generally have limited exposure and are not trained to contextualise this information. We identified patients with genetic susceptibilities to anaesthetic complications using a perioperative biorepository and characterised the concordance with existing diagnoses.

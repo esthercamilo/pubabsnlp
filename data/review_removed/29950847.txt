@@ -1,0 +1,3 @@
+{'Year': '2018'}
+<i>COMT</i> Val 108/158 Met polymorphism and treatment response to aripiprazole in patients with acute schizophrenia.
+The <i>COMT</i> Val 108/158 Met polymorphism (rs4680) may affect treatment response to antipsychotics, as well as metabolism and dynamics of neurotransmitters during the treatment of schizophrenia. We investigated the effects of the <i>COMT</i> Val 108/158 Met polymorphism on treatment response to aripiprazole and plasma monoamine metabolite levels in patients with acute schizophrenia.

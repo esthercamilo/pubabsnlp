@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Oct'}
+Pharmacogenetic profile and major depressive and/or bipolar disorder treatment: a retrospective, cross-sectional study.
+To compare pharmacogenetic test predictions with self-reported treatment experience and side effect tolerability among patients with depression taking psychotherapeutic medications.

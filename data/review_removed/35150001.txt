@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jul'}
+Contribution of common and rare genetic variants in CEP72 on vincristine-induced peripheral neuropathy in brain tumour patients.
+Studies implicated a role for a genetic variant in CEP72 in vincristine-induced peripheral neuropathy. This study aims to evaluate this association in a cohort of brain tumour patients, to perform a cross-disease meta-analysis and explore the protein-coding region of CEP72.

@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Sep', 'Day': '25'}
+6th Golden Helix Pharmacogenomics Day: pharmacogenomics and individualized therapy.
+The Golden Helix Pharmacogenomics Days are international scientific meetings aiming to educate healthcare professionals and biomedical scientists about pharmacogenomics and personalized medicine. In this meeting report, we provide an overview of the scientific lectures and the topics discussed during the 6th Golden Helix Pharmacogenomics Day that was held in Belgrade, Serbia last June 5, 2012. The scientific program included lectures by the local and international speakers from Europe and the United States.

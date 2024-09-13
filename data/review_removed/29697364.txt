@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Apr', 'Day': '20'}
+IMPACT web portal: oncology database integrating molecular profiles with actionable therapeutics.
+With the advancement of next generation sequencing technology, researchers are now able to identify important variants and structural changes in DNA and RNA in cancer patient samples. With this information, we can now correlate specific variants and/or structural changes with actionable therapeutics known to inhibit these variants. We introduce the creation of the IMPACT Web Portal, a new online resource that connects molecular profiles of tumors to approved drugs, investigational therapeutics and pharmacogenetics associated drugs.

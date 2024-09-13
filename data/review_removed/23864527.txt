@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Nov'}
+Feasibility of implementing a comprehensive warfarin pharmacogenetics service.
+To determine the procedural feasibility of a pharmacist-led interdisciplinary service for providing genotype-guided warfarin dosing for hospitalized patients newly starting warfarin.

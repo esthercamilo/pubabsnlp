@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Sep'}
+Integration of known DNA, RNA and protein biomarkers provides prediction of anti-TNF response in rheumatoid arthritis: results from the COMBINE study.
+In rheumatoid arthritis (RA) several recent efforts have sought to discover means of predicting which patients would benefit from treatment. However, results have been discrepant with few successful replications. Our objective was to build a biobank with DNA, RNA and protein measurements to test the claim that the current state-of-the-art precision medicine will benefit RA patients.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Sep'}
+5-HTTLPR moderates naltrexone and psychosocial treatment responses in heavy drinking men who have sex with men.
+A functional polymorphism (5-HTTLPR) in the promoter region of the serotonin transporter gene has been widely studied as a risk factor and moderator of treatment for a variety of psychopathologic conditions. To evaluate whether 5-HTTLPR moderates the effects of treatment to reduce heavy drinking, we studied 112 high-functioning European-American men who have sex with men (MSM). Subjects participated in a randomized clinical trial of naltrexone (NTX) and cognitive behavioral therapy (CBT) for problem drinking.

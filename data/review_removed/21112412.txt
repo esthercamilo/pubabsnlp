@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Mar'}
+Mitochondrial pharma-Q-genomics: targeting the OXPHOS cytochrome b.
+Genetic variation in human cytochrome b generates structurally different coenzyme Q binding pockets, affects the coupling efficiency of the oxidative phosphorylation system and susceptibility to different medical conditions. As modification of coupling efficiency has already been shown to have therapeutic interest, these structural differences might be used to develop new drugs and allow for personalized medicine, giving rise to a new field: mitochondrial pharmacogenomics.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Apr'}
+Genome-wide analysis of methotrexate pharmacogenomics in rheumatoid arthritis shows multiple novel risk variants and leads for TYMS regulation.
+Methotrexate (MTX) is the drug of first choice for the treatment of rheumatoid arthritis (RA), but is effective only in around 60% of the patients. Identification of genetic markers to predict response is essential for effective treatment within a critical window period of 6 months after diagnosis, but have been hitherto elusive. In this study, we used genome-wide genotype data to identify the potential risk variants associated with MTX (poor)response in a north Indian RA cohort.

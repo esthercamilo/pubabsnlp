@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Aug', 'Day': '14'}
+Increased primaquine total dose prevents Plasmodium vivax relapses in patients with impaired CYP2D6 activity: report of three cases.
+The relapsing nature of Plasmodium vivax infection is a major barrier to its control and elimination. Factors such as adequate dosing, adherence, drug quality, and pharmacogenetics can impact the effectiveness of radical cure of P. vivax and need to be adequately evaluated. CYP2D6 pathway mediates the activation of primaquine (primaquine) into an active metabolite(s) in hepatocytes, and impaired activity has been linked to a higher risk of relapse.

@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '01'}
+AWOT and CWOT for genotype and genotype-by-treatment interaction joint analysis in pharmacogenetics GWAS.
+Pharmacogenomics (PGx) research holds the promise for detecting association between genetic variants and drug responses in randomized clinical trials, but it is limited by small populations and thus has low power to detect signals. It is critical to increase the power of PGx genome-wide association studies (GWAS) with small sample sizes so that variant-drug-response association discoveries are not limited to common variants with extremely large effect.

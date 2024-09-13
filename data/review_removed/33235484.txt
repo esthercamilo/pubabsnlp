@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Influence of PSRC1, CELSR2, and SORT1 Gene Polymorphisms on the Variability of Warfarin Dosage and Susceptibility to Cardiovascular Disease.
+Cardiovascular disease is one of the most common causes of morbidity and mortality worldwide. Several cardiovascular diseases require therapy with warfarin, an anticoagulant with large interindividual variability resulting in dosing difficulties. The selected genes and their polymorphisms have been implicated in several Genome-Wide Association Study (GWAS) to be associated with cardiovascular disease.

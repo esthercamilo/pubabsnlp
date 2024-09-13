@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Mar'}
+Comparative clinical trial of the variability factors of the exposure indices used for the drug monitoring of two tacrolimus formulations in kidney transplant recipients.
+Several studies found differences in tacrolimus whole blood trough levels (C0) or area-under-the curve (AUC) between the twice-daily (Tac-BID) and once-daily (Tac-OD) formulations given to kidney transplant recipients at equal doses. As C0 is widely used as a surrogate of the AUC for individual dose adjustment, this study investigated the correlation and proportionality between C0 and the 24h-AUC, depending on the formulation, time post-transplantation, pharmacogenetics traits and other individual characteristics.

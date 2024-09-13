@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Feb'}
+Pharmacogenetics of trough serum anti-TNF levels in paediatric inflammatory bowel disease.
+Identifying DNA variants associated with trough serum anti-tumour necrosis factor (TNF) levels could predict response to treatment in inflammatory bowel disease (IBD). To date, no specific studies have been performed in children. The aim of this study was to identify genetic variants associated with trough serum anti-TNF levels and whether these variants are differential markers for infliximab and adalimumab.

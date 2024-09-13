@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Jul'}
+The pharmacogenetics of β-adrenergic receptor antagonists in the treatment of hypertension and heart failure.
+β-Blockers have an important therapeutic role throughout the cardiovascular continuum. However, there is considerable variation in response to these drugs, which may be related to genetic influences on their pharmacokinetics and pharmacodynamic effects.

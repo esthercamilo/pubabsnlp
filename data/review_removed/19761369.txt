@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Sep'}
+Molecular diversity at the CYP2D6 locus in healthy and schizophrenic southern Brazilians.
+The delineation of allele distribution and frequency is required to effectively translate pharmacogenetics to the clinic and given the paucity of CYP2D6 data in the Brazilian population, the purpose of this research was to characterize CYP2D6 alleles and genotype frequencies in Brazilians of European and African ancestries. Moreover, since it is suggested in the literature that CYP2D6 poor metabolism might be involved with susceptibility to schizophrenia, we included data from Brazilian schizophrenic patients to verify if CYP2D6 poor metabolism phenotypes are associated with susceptibility to schizophrenia.

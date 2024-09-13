@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Apr'}
+A comparison of DMET Plus microarray and genome-wide technologies by assessing population substructure.
+The capacity of the Affymetrix drug metabolism enzymes and transporters (DMET) Plus pharmacogenomics genotyping chip to estimate population substructure and cryptic relatedness was evaluated. The results were compared with estimates using genome-wide HapMap data for the same individuals.

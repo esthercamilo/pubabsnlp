@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Correlation of genetic polymorphisms with clinical outcomes in pemetrexed-treated advanced lung adenocarcinoma patients.
+Pemetrexed is a commonly used chemotherapeutic agent for lung adenocarcinoma patients. We investigated the impact of the genetic polymorphisms on the therapeutic efficacy of pemetrexed in lung adenocarcinoma patients.

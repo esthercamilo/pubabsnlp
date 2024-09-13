@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Sep'}
+Pharmacogenomics panel test for prevention toxicity in patient who receive Fluoropirimidine/Oxaliplatin-based therapy.
+Both Fluoropirimidine and Oxaliplatin (FluOx) are the most common anticancer drugs used to treat lung, colorectal, ovarian, breast, head/neck, and genitourinary cancers. However, the efficacy of FluOx-based therapy is often compromised because of the severe risk of toxicity. Stratification of patients for multidrug response is a promising strategy for cancer treatment and personalized therapy.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Apr'}
+Novel investigational therapeutics for panic disorder.
+Panic disorder (PD) is a common disabling anxiety disorder associated with relevant social costs. Effective anti-panic medications exist but have several drawbacks. From a clinical perspective, there is still a strong unmet need for more effective, faster acting and more tolerable therapeutic treatments.

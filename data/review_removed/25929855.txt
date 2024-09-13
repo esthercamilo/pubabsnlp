@@ -1,0 +1,3 @@
+{'Year': '2015'}
+GenoChip CYP2D6 macroarray as a method to genotype for CYP2D6 variants: results of a validation study in a Caucasian population.
+The aim of this study was to investigate the concordance between the novel GenoChip CYP2D6 macroarray and the AmpliChip, which is considered the gold standard in CYP2D6 genotyping.

@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Sep'}
+Rapid and ultra-rapid metabolizers with CYP2C19*17 polymorphism do not respond to standard therapy with proton pump inhibitors.
+Polymorphisms in genes encoding drug metabolizing enzymes may lead to varied enzyme activity and inter-individual variability in drug efficacy and/or toxicity. Since CYP2C19 and CYP3A4 genes code for enzymes involved in metabolizing wide variety of drugs including proton pump inhibitors, we sought to identify polymorphisms in these genes in order to study their impact on drug metabolism in subjects.

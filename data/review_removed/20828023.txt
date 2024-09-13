@@ -1,0 +1,3 @@
+{'Year': '2010', 'Season': 'Apr-Jun'}
+[Genomics in medicine: challenges and perspectives for the nursing care].
+The acknowledgment of the genetic component in the majority of pathologies, not only hereditary or oncological, and of the individual biological responses to therapies and in infectious diseases, is now granted.

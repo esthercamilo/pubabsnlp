@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jul', 'Day': '19'}
+A qualitative approach to assess the opinion of physicians about the challenges and prospects of pharmacogenomic testing implementation in clinical practice in Greece.
+Pharmacogenomics (PGx) constitutes an important part of personalized medicine and has several clinical applications. PGx role in clinical practice is known, however, it has not been widely adopted yet. In this study, we aim to investigate the perspectives of Greek physicians regarding the implementation of PGx testing in clinical practice and the key issues associated with it.

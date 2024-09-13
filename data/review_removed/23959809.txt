@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Oct'}
+HLA in Georgians (Caucasus) and their relationship with Eastern Mediterraneans.
+HLA-A, -B, -DQB1, and -DRB1 typing has been performed in a sample of Georgian population (South Caucasus). Allele frequencies, neighbour joining and correspondence relatedness analyses and extended HLA haplotypes have been obtained with comparison with other Middle East and Mediterranean populations. Our Georgian sample tends to be genetically related in these analyses with Eastern Mediterraneans and Middle East people. This is important for future regional transplant programs, and Georgian HLA and disease epidemiology and pharmacogenomics.

@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Apr'}
+Role of pharmacogenetics on deferasirox AUC and efficacy.
+We evaluated deferasirox pharmacokinetic according to SNPs in genes involved in its metabolism and elimination. Moreover, we defined a plasma area under the curve cut-off value predicting therapy response.

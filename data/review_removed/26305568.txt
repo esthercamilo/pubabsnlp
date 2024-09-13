@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Comparison of Nine Statistical Model Based Warfarin Pharmacogenetic Dosing Algorithms Using the Racially Diverse International Warfarin Pharmacogenetic Consortium Cohort Database.
+Multiple linear regression (MLR) and machine learning techniques in pharmacogenetic algorithm-based warfarin dosing have been reported. However, performances of these algorithms in racially diverse group have never been objectively evaluated and compared. In this literature-based study, we compared the performances of eight machine learning techniques with those of MLR in a large, racially-diverse cohort.

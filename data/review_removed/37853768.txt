@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Feb'}
+Association of <i>IL-6</i> rs1800795, but not <i>TNF-α</i> rs1800629, and <i>IL-1β</i> rs16944 polymorphisms' genotypes with recovery of ischemic stroke patients following thrombolysis.
+Inflammatory cytokines like tumor necrosis factor-α (TNF-α), interleukin (IL)-1β, and IL-6 can cause brain injury, slow recovery, and adverse effects (ADEs) in ischemic stroke (IS) patients treated with recombinant tissue plasminogen activator (rtPA). We explored the relationship between selected polymorphisms within <i>TNF-α</i>, <i>IL-1β</i> and <i>IL-6</i> genes, and post-IS outcome and ADEs in patients treated with rtPA.

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jul'}
+Pharmacogenetic Testing in Depressed Patients and Interdisciplinary Exchange between a Pharmacist and Psychiatrists Results in Reduced Hospitalization Times.
+Pharmacogenetics (PGx) is a well-researched tool to improve pharmacotherapy. So far, it has not been implemented into daily practice in Germany. In psychopharmacology, substantial benefit can be expected by using PGx due to the excessive CYP metabolism of the psychotropic drugs as well as already discovered target polymorphisms (e. g., serotonin receptor).

@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'May', 'Day': '16'}
+Minimising Adverse Drug Reactions and Verifying Economic Legitimacy-Pharmacogenomics Implementation in Children (MARVEL- PIC): protocol for a national randomised controlled trial of pharmacogenomics implementation.
+DNA-informed prescribing (termed pharmacogenomics, PGx) is the epitome of personalised medicine. Despite international guidelines existing, its implementation in paediatric oncology remains sparse.

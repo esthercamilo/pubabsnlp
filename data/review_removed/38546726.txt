@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Aug', 'Day': '12'}
+Implementation of CYP2C19 and CYP2D6 genotyping to guide antidepressant use in a large rural health system.
+We describe the implementation and ongoing maintenance of CYP2C19 and CYP2D6 focused pharmacogenetic (PGx) testing to guide antidepressant and antianxiety medication prescriptions in a large rural, nonprofit health system.

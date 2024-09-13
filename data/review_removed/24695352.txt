@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Aug'}
+Functional CYP2B6 variants and virologic response to an efavirenz-containing regimen in Port-au-Prince, Haiti.
+Efavirenz is widely prescribed for HIV-1 infection. Three polymorphisms in CYP2B6 define plasma efavirenz trough concentration strata that vary across an ∼10-fold range. We characterized associations between human genetic polymorphisms and virologic response among participants who received efavirenz-containing regimens in a prospective clinical trial.

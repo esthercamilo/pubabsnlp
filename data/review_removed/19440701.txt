@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Jul'}
+Influence of pharmacogenetics on indinavir disposition and short-term response in HIV patients initiating HAART.
+To assess the relationship between genetic polymorphisms and indinavir pharmacokinetic variability and to study the link between concentrations and short-term response or metabolic safety.

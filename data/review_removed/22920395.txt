@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Aug'}
+The population attributable fraction as a measure of the impact of warfarin pharmacogenetic testing.
+We aimed to estimate the population impact of warfarin pharmacogenetic testing (WPGT) across multiple populations.

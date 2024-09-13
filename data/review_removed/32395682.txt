@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Factors Associated with Declining to Participate in a Pediatric Oncology Next Generation Sequencing Study.
+For the advances of pediatric oncology next generation sequencing (NGS) research to equitably benefit all children, a diverse and representative sample of participants is needed. However, little is known about demographic and clinical characteristics that differentiate families who decline enrollment in pediatric oncology NGS research.

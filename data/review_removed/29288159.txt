@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Dec', 'Day': '29'}
+Sphingolipid Metabolic Pathway Impacts Thiazide Diuretics Blood Pressure Response: Insights From Genomics, Metabolomics, and Lipidomics.
+Although hydrochlorothiazide (HCTZ) is a well-established first-line antihypertensive in the United States, <50% of HCTZ treated patients achieve blood pressure (BP) control. Thus, identifying biomarkers that could predict the BP response to HCTZ is critically important. In this study, we utilized metabolomics, genomics, and lipidomics to identify novel pathways and biomarkers associated with HCTZ BP response.

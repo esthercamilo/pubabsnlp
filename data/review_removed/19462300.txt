@@ -1,0 +1,3 @@
+{'Year': '2009'}
+Pharmacogenetic treatments for drug addiction: cocaine, amphetamine and methamphetamine.
+Pharmacogenetics uses genetic variation to predict individual differences in response to medications and holds much promise to improve treatment of addictive disorders.

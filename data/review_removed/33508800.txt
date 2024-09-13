@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Feb', 'Day': '28'}
+A Practical Utility and Benefit of Pharmacogenetic-based Antidepressant Treatment Strategy for Major Depressive Disorder Patients with Difficult-to-treat.
+We report the results of pharmacogenomics-based antidepressant treatment (PGXt) results in treating treatment-resistant major depressive disorder (TRD) patients in real practice.

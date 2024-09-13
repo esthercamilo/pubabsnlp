@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jul'}
+Extending and evaluating a warfarin dosing algorithm that includes CYP4F2 and pooled rare variants of CYP2C9.
+Warfarin dosing remains challenging because of its narrow therapeutic window and large variability in dose response. We sought to analyze new factors involved in its dosing and to evaluate eight dosing algorithms, including two developed by the International Warfarin Pharmacogenetics Consortium (IWPC).

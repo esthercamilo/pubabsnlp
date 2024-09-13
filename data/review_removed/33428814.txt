@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jan'}
+Pharmacogenetics of inhaled corticosteroids and exacerbation risk in adults with asthma.
+Inhaled corticosteroids (ICS) are a cornerstone of asthma treatment. However, their efficacy is characterized by wide variability in individual responses.

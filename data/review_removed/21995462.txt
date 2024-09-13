@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Apr'}
+Influence of SLCO1B3 haplotype-tag SNPs on docetaxel disposition in Chinese nasopharyngeal cancer patients.
+SLCO1B3 is an influx transporter located at the hepatocyte basolateral membrane and it is involved in the uptake of a broad range of drug substrates including docetaxel. The pharmacogenetics of SLCO1B3 is not well characterized and previous in vivo and in vitro studies reported conflicting results with regards to the functional effects of the limited number of SLCO1B3 polymorphisms that were studied. Docetaxel displays a wide interindividual variability in its pharmacokinetics and pharmacodynamics and an understanding of SLCO1B3 pharmacogenetics might provide clinical benefits in guiding docetaxel dosing.

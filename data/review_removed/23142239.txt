@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jan', 'Day': '17'}
+Ontogenic development of cardiomyocytes derived from transgene-free human induced pluripotent stem cells and its homology with human heart.
+Reprogramming of somatic cells utilizing viral free methods provide a remarkable method to generate human induced pluripotent stem cells (hiPSCs) for regenerative medicine. In this study, we evaluate developmental ontogeny of cardiomyocytes following induced differentiation of hiPSCs.

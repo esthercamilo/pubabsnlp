@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'May', 'Day': '28'}
+Efficient estimation of grouped survival models.
+Time- and dose-to-event phenotypes used in basic science and translational studies are commonly measured imprecisely or incompletely due to limitations of the experimental design or data collection schema. For example, drug-induced toxicities are not reported by the actual time or dose triggering the event, but rather are inferred from the cycle or dose to which the event is attributed. This exemplifies a prevalent type of imprecise measurement called grouped failure time, where times or doses are restricted to discrete increments. Failure to appropriately account for the grouped nature of the data, when present, may lead to biased analyses.

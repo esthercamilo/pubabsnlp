@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Sep'}
+Primary care physician experiences with integrated pharmacogenomic testing in a community health system.
+To explore primary care physicians' views of the utility and delivery of direct access to pharmacogenomics (PGx) testing in a community health system.

@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'May'}
+Pharmacogenomic findings from clinical whole exome sequencing of diagnostic odyssey patients.
+We characterized the pharmacogenomics (PGx) results received by diagnostic odyssey patients as secondary findings during clinical whole exome sequencing (WES) testing as a part of their care in Mayo Clinic's Individualized Medicine Clinic to determine the potential benefits and limitations to this cohort.

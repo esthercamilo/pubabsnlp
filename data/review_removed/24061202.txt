@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Nov'}
+Predictors of consent to pharmacogenomics testing in the IDEAL study.
+Pharmacogenomic testing is important in developing individualized therapeutic approaches. In the phase 3 IDEAL (Individualized Dosing to Assess Optimal Pegylated Interferon Therapy) clinical trial, a subset of patients receiving peginterferon and ribavirin for treatment of chronic hepatitis C agreed to provide blood samples for genetic testing. Genome-wide association studies subsequently identified associations between IL28B polymorphism and sustained virologic response, and ITPA polymorphism and ribavirin-associated anemia.

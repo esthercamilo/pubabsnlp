@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Oct'}
+Germline Genetic Biomarkers of Sunitinib Efficacy in Advanced Renal Cell Carcinoma: Results From the RENAL EFFECT Trial.
+Sunitinib, the vascular endothelial growth factor pathway inhibitor, is an established standard-of-care for advanced renal cell carcinoma (RCC). This study aimed to assess correlations between candidate germline single nucleotide polymorphisms (SNPs) and sunitinib efficacy in patients from the RENAL EFFECT trial (NCT00267748), a randomized phase II study in patients with metastatic RCC comparing the 4-weeks-on/2-weeks-off schedule and a continuous daily dosing schedule.

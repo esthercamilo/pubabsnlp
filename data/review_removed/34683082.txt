@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Sep', 'Day': '22'}
+Advances in Personalized Medicines along with Functional Genomics and Pharmacogenomics.
+State-of-the-art research on the human genome has produced remarkable research achievements in pharmacogenomics and functional genomics, and these research results are making an invaluable contribution to the advancement of personalized medicine [...].

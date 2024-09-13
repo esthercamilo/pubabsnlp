@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Feb'}
+Genomic Sequence Variation Markup Language (GSVML).
+With the aim of making good use of internationally accumulated genomic sequence variation data, which is increasing rapidly due to the explosive amount of genomic research at present, the development of an interoperable data exchange format and its international standardization are necessary. Genomic Sequence Variation Markup Language (GSVML) will focus on genomic sequence variation data and human health applications, such as gene based medicine or pharmacogenomics.

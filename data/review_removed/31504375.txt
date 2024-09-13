@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jul', 'Day': '01'}
+Pharmacogenomic polygenic response score predicts ischaemic events and cardiovascular mortality in clopidogrel-treated patients.
+Clopidogrel is prescribed for the prevention of atherothrombotic events. While investigations have identified genetic determinants of inter-individual variability in on-treatment platelet inhibition (e.g. CYP2C19*2), evidence that these variants have clinical utility to predict major adverse cardiovascular events (CVEs) remains controversial.

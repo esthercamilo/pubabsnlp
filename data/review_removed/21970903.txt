@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Apr'}
+An overview of osteoporosis: from genetics to clinics.
+Osteoporosis is the most frequent metabolic bone disease and the one which mostly benefited from the knowledge of bone metabolism, both in terms of diagnosis and therapy. In the future, pharmacogenomics will optimize therapy response by customization on the basis of genotype, improving efficacy, and limiting the onset of side effects.

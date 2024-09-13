@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jul'}
+Mechanism of sulfotransferase pharmacogenetics in altered xenobiotic metabolism.
+Cytosolic sulfotransferases (SULTs), one of the vital enzymes of detoxication, catalyze the sulfation of native and exogenous hydrophobic molecules. Xenobiotic accumulation can induce a variety of diseases, including cancers. Sulfation facilitates the solubilization and removal of xenobiotics. However, sulfation may activate the pharmacological activities of xenobiotics.

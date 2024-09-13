@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Oct'}
+Pharmacogenetic predictors of variability in efavirenz pharmacokinetics in an admixed Brazilian HIV cohort.
+To investigate the influence of pharmacogenetic polymorphisms on efavirenz (EFV) exposure and metabolism in HIV-infected Brazilians under treatment with EFV-containing antiretroviral (ART) regimens.

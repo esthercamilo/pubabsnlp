@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Aug'}
+Cytosolic 5'-nucleotidase III (NT5C3): gene sequence variation and functional genomics.
+5'-Nucleotidases play a critical role in nucleotide pool balance and in the metabolism of nucleoside analogs such as gemcitabine and cytosine arabinoside (AraC). We previously performed an expression array association study with gemcitabine and AraC cytotoxicity using 197 human lymphoblastoid cell lines. One gene that was significantly associated with gemcitabine cytotoxicity was a nucleotidase family member, NT5C3. Very little is known with regard to the pharmacogenomics of this family of enzymes.

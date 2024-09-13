@@ -1,0 +1,3 @@
+{'Year': '2021', 'Season': 'Winter'}
+Adverse Events of Antipsychotics and Cytochrome Polymorphisms: A Case Series on 31 Patients.
+Adverse events (AEs) contribute to poor outcome in patients affected by mental disorders. The aim of this case series is to describe how many antipsychotics-associated serious AEs could have been prevented if we had known in advance the genetic profile of the patient.

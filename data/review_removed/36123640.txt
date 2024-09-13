@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '19'}
+Clinical and genetic factors associated with self-reported cognitive deficits in women with breast cancer: the "CAGE-Cog" study.
+Breast cancer patients undergoing chemotherapy treatment are at particular risk of experiencing acute cognitive impairment leading to daily challenges in decision-making and reduced quality of life and functional autonomy. The aim was to assess the relationship between clinical and genetic factors and cognitive function in a sample of patients with breast cancer undergoing chemotherapy.

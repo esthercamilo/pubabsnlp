@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'May'}
+Use of Real-World Evidence in US Payer Coverage Decision-Making for Next-Generation Sequencing-Based Tests: Challenges, Opportunities, and Potential Solutions.
+Given the potential of real-world evidence (RWE) to inform understanding of the risk-benefit profile of next-generation sequencing (NGS)-based testing, we undertook a study to describe the current landscape of whether and how payers use RWE as part of their coverage decision making and potential solutions for overcoming barriers.

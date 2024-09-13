@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Nov'}
+Visual DNA microarray for detection of epidermal growth factor receptor (EGFR) gene mutations.
+To develop a gold nanoparticle-based visual DNA microarray for simple and rapid screening of EGFR gene mutations.

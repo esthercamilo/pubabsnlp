@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jun'}
+Deciphering ADME genetic data using an automated haplotype approach.
+To investigate the utility of statistical tools in translating Affymetrix Drug Metabolizing Enzyme and Transporter (DMET) Assay single-nucleotide polymorphisms (SNPs) into common consensus star alleles.

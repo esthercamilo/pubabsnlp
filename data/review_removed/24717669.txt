@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'May'}
+Pharmacogenetics of heart failure.
+Novel medical approaches and personalized medicine seek to use genetic information to 'individualize' and improve diagnosis, prevention, and therapy. The personalized management of cardiovascular disease involves a large spectrum of potential applications, from diagnostics of monogenic disorders, to prevention and management strategies based on modifier genes, to pharmacogenetics, in which individual genetic information is used to optimize the pharmacological treatments.

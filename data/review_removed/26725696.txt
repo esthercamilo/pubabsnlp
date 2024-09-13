@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Feb'}
+Bringing clinical pharmacogenomics information to pharmacists: A qualitative study of information needs and resource requirements.
+As key experts in supporting medication-decision making, pharmacists are well-positioned to support the incorporation of pharmacogenomics into clinical care. However, there has been little study to date of pharmacists' information needs regarding pharmacogenomics. Understanding those needs is critical to design information resources that help pharmacists effectively apply pharmacogenomics information.

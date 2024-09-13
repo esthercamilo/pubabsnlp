@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Apr'}
+SNPs associated with activity and toxicity of cabazitaxel in patients with advanced urothelial cell carcinoma.
+We aimed to identify SNPs associated with cabazitaxel toxicity and response within a Phase II clinical trial using this compound in advanced transitional cell carcinoma after progression to a platinum-based regimen.

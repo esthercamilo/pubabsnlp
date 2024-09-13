@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Nov'}
+Role of Drug-Gene Interactions and Pharmacogenetics in Simvastatin-Associated Pulmonary Toxicity.
+Simvastatin has previously been associated with drug-induced interstitial lung disease. In this retrospective observational study, cases with non-specific interstitial pneumonia (NSIP) or idiopathic pulmonary fibrosis (IPF) with simvastatin-associated pulmonary toxicity (n = 34) were evaluated.

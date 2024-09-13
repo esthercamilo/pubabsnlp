@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Mar'}
+The Pharmacogene Variation (PharmVar) Consortium: Incorporation of the Human Cytochrome P450 (CYP) Allele Nomenclature Database.
+The Human Cytochrome P450 (CYP) Allele Nomenclature Database, a critical resource for the pharmacogenetics and genomics communities, has transitioned to the Pharmacogene Variation (PharmVar) Consortium. In this report we provide a summary of the current database, provide an overview of the PharmVar consortium, and highlight the PharmVar database which will serve as the new home for pharmacogene nomenclature.

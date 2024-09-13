@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Jul'}
+Ethical concerns related to developing pharmacogenomic treatment strategies for addiction.
+Pharmacogenomics (PGx) research is poised to enable physicians to identify optimally effective treatments for individual substance abusers based on their genetic profiles. This paper addresses ethical issues related to PGx treatment strategies for addiction, focusing especially on the use of race variables in genomics research and ensuring equitable access to novel PGx treatments. Unless the field addresses the ethical challenges posed by these issues, PGx treatment innovations for addiction threaten to exacerbate already dramatic disparities in the burden of drug dependence for minority and other underserved populations.

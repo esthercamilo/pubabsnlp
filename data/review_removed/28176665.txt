@@ -1,0 +1,3 @@
+{'Year': '2017'}
+In vivo Phenotyping Methods: Cytochrome P450 Probes with Emphasis on the Cocktail Approach.
+Differences in drug response among patients are common. Most major drugs are effective in only 25 to 60 percent of the patients, in part due to the CYP enzymes, whose activity vary up to 50-fold between individuals for some index metabolic reactions. Several factors affect CYP activity, among which genetic polymorphisms have been studied as the major cause for long time. Age, gender, disease states, and environmental influences such as smoking, concomitant drug treatment or exposure to environmental chemicals are also important.

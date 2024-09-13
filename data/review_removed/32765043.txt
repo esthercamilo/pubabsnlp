@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Development of Customizable Implementation Guides to Support Clinical Adoption of Pharmacogenomics: Experiences of the Implementing GeNomics In pracTicE (IGNITE) Network.
+Clinical adoption of genomic medicine has lagged behind the pace of scientific discovery. Practice-based resources can help overcome implementation challenges.

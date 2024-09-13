@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jun'}
+How close are we to personalized mitotane dosing in the treatment of adrenocortical carcinoma? State of the art and future perspectives.
+Mitotane is the only drug registered specifically for adrenocortical carcinoma. Finding the optimal dose for a patient is difficult due to large differences in bioavailability, toxicity and effect. We therefore look to improve personalized dosing of mitotane.

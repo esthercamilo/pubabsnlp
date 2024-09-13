@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Dec'}
+Pharmacogenomics of statin therapy: any new insights in efficacy or safety?
+To examine the current evidence concerning the effects of genetic variation on statin-related low-density lipoprotein cholesterol reductions, clinical efficacy, and adverse events and the relevance for patient care.

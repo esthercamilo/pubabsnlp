@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Dec', 'Day': '01'}
+The Utility of Pharmacogenetics Testing in Psychiatric Populations.
+The implementation of pharmacogenetic tests including multiple gene variants has shown promising potential as a decision-making tool for optimizing psychopharmacological treatment regimens and reducing treatment costs. However, the varying clinical validity of gene variants included in pharmacogenetic test batteries, and inconsistencies in their translation into medical recommendations between commercially available pharmacogenetic tests, complicates their rational implementation. Thus, there is a need for well-designed, reproducible studies documenting the clinical significance of the various genetic variants.

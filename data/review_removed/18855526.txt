@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Oct'}
+Amodiaquine pharmacogenetics.
+Amodiaquine is a central drug in the new global strategy of combination therapies for the control of malaria. Amodiaquine is mainly metabolized hepatically towards its major active metabolite desethylamodiaquine, by the polymorphic P450 isoform CYP2C8. Amodiaquine is associated with rare but serious side effects, as well as with relatively frequent mild ones. These are expected to be at least partially related to CYP2C8 alleles. Pharmacogenetic knowledge of amodiaquine exposed populations is important for pharmacovigilance issues and in being a first step for future realistic applications from a personal medicine perspective.

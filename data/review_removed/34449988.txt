@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jul'}
+Perspectives of Pediatric Providers Regarding Clinical Use of Pharmacogenetics.
+A major goal of the current personalized medicine era is to utilize pharmacogenetics (PGx) in order to influence how medications and therapies are prescribed by providers. However, disparities for prescribing medications between adults and children exist. Research has shown that children are not just small adults and there are different challenges for pediatric providers in regards to ordering and interpreting PGx tests. The goal of this study was to obtain an initial understanding of current pharmacogenetic testing by pediatric providers, as well as determine perceived barriers.

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jan'}
+Impact of early nausea on varenicline adherence and smoking cessation.
+Varenicline effectiveness may be related to the level of adherence, which might be reduced by adverse effects such as nausea. The aim of the study was to test a possible effect of nausea on smoking cessation outcomes mediated by adherence.

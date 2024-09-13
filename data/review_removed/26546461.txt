@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Dec'}
+A study to explore the correlation of ABCB1, ABCG2, OCT1 genetic polymorphisms and trough level concentration with imatinib mesylate-induced thrombocytopenia in chronic myeloid leukemia patients.
+Imatinib mesylate is presently the first-line treatment for chronic myeloid leukemia (CML). Therapeutic drug monitoring (TDM) and pharmacogenetic screening is warranted for better management of imatinib therapy. The present study was framed to explore the influence of common drug transporter gene polymorphisms of ABCB1, ABCG2, OCT1 and trough level concentration on commonly occurring adverse events in CML patients treated with imatinib mesylate.

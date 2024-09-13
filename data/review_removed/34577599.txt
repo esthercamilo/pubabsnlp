@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Sep', 'Day': '03'}
+Comparison of Multidrug Use in the General Population and among Persons with Diabetes in Denmark for Drugs Having Pharmacogenomics (PGx) Based Dosing Guidelines.
+This study measures the use of drugs within the therapeutic areas of antithrombotic agents (B01), the cardiovascular system (C), analgesics (N02), psycholeptics (N05), and psychoanaleptics (N06) among the general population (GP) in comparison to persons with diabetes in Denmark. The study focuses on drugs having pharmacogenomics (PGx) based dosing guidelines for CYP2D6, CYP2C19, and SLCO1B1 to explore the potential of applying PGx-based decision-making into clinical practice taking drug-drug interactions (DDI) and drug-gene interactions (DGI) into account.

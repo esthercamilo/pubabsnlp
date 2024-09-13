@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jan'}
+Pharmacogenetics of stimulant abuse liability: association of CDH13 variant with amphetamine response in a racially-heterogeneous sample of healthy young adults.
+A previous genome-wide association study (GWAS) in a predominately Caucasian sample of healthy young adults linked greater amphetamine-induced rewarding effects with the rs3784943 G allele of the cadherin 13 (CDH13; i.e., a cell adhesion molecule implicated in neuronal connectivity) gene. This association has not been subsequently examined, nor has it been studied in Asian populations, which may have greater frequencies of the risk allele.

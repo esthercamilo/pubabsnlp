@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Aug', 'Day': '01'}
+Physicians' pharmacogenomics information needs and seeking behavior: a study with case vignettes.
+Genetic testing, especially in pharmacogenomics, can have a major impact on patient care. However, most physicians do not feel that they have sufficient knowledge to apply pharmacogenomics to patient care. Online information resources can help address this gap. We investigated physicians' pharmacogenomics information needs and information-seeking behavior, in order to guide the design of pharmacogenomics information resources that effectively meet clinical information needs.

@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Nov'}
+Landscape of warfarin and clopidogrel pharmacogenetic variants in Qatari population from whole exome datasets.
+Pharmacogenetic landscapes of commonly used antiplatelet drugs, warfarin and clopidogrel have been studied in-depth in many countries. However, there is a paucity of data to understand their patterns in the Arab populations.

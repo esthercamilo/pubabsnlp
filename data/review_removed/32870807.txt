@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Sep', 'Day': '01'}
+Using a pharmacogenetic clinical decision support system to improve psychopharmacotherapy dosing in patients with affective disorders.
+Although pharmacogenetic tests provide the information on a genotype and the predicted phenotype, these tests do not themselves provide the interpretation of data for a physician. Currently, there are approximately two dozen pharmacogenomic clinical decision support systems (CDSSs) used in psychiatry. Implementation of the CDSSs forming the recommendations on drug and dose selection according to the results of pharmacogenetic testing is an urgent task. Fulfillment of this task will allow increasing the efficacy of therapy and decreasing the risk of undesirable side effects.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Dec'}
+Early cost-utility analysis of genetically guided therapy for patients with drug-resistant epilepsy.
+Existing gene panels were developed to understand the etiology of epilepsy, and further benefits will arise from an effective pharmacogenomics panel for personalizing therapy and achieving seizure control. Our study assessed the cost-effectiveness of a pharmacogenomics panel for patients with drug-resistant epilepsy, compared with usual care.

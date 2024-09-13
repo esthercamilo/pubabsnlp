@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Sep'}
+Pharmacogenetic analysis of irreversible severe cisplatin-induced nephropathy: a case report of a 27-year-old woman.
+In this report we describe a young patient diagnosed with bulky FIGO stage IIIb squamous cell cervix carcinoma with severe and irreversible nephropathy after three weekly low-doses of cisplatin. Besides several known risk factors such as hypomagnesemia and hypoalbuminemia, the patient also proved to be homozygously polymorphic for two polymorphisms within the COMT gene (c.615 + 310C>T and c.616-367C>T). As COMT polymorphism has been associated with cisplatin-induced ototoxicity, its effect on nephrotoxicity of cisplatin should be the subject of further investigation.

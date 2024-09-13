@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Aug', 'Day': '01'}
+GABAergic neurons in the insular cortex play an important role in cue-morphine reward memory reconsolidation.
+There have been recent reports that reconsolidation-based interventions attenuate drug reward memories in rodents. The insular cortex (IC) is an essential part of neural circuits that underlie cue-drug memory reconsolidation. GABAergic interneurons in the IC are a potent control on network excitability and play an important role in the inhibitory mediation of reward circuits. However, the function of GABAergic neurons in the IC for memory reconsolidation remains unclear; therefore, we conducted this study to clarify this.

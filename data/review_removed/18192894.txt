@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Feb'}
+Pharmacogenetics of cyclosporine in children suggests an age-dependent influence of ABCB1 polymorphisms.
+To evaluate whether variations in the ABCB1, ABCC2, SLCO1B1, CYP3A4, CYP3A5, or NR1I2 genes are associated with the pharmacokinetics of cyclosporine in pediatric renal transplant candidates, and whether the effects of these variants are related to age.

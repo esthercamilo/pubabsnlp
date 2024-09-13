@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'May', 'Day': '01'}
+[Pharmacogenetics and antiepileptic drug metabolism: implication of genetic variants in cytochromes P450].
+Antiepileptic drugs (AEDs) are used for the seizures control in patients with epilepsy, however 20-30% of epileptic patients are drug resistant. Several factors contributing to the variability of the AEDs response, and this variability can be partially attributed to the presence of sequence variations (polymorphisms) in genes encoding enzymes involved in the AEDs metabolism.

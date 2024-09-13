@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Dec', 'Day': '26'}
+Independent replication of polymorphisms predicting toxicity in breast cancer patients randomized between dose-dense and docetaxel-containing adjuvant chemotherapy.
+Although pharmacogenomics has evolved substantially, a predictive test for chemotherapy toxicity is still lacking. We compared the toxicity of adjuvant dose-dense doxorubicin-cyclophosphamide (ddAC) and docetaxel-doxorubicin-cyclophosphamide (TAC) in a randomized multicenter phase III trial and replicated previously reported associations between genotypes and toxicity.

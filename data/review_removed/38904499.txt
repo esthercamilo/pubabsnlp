@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jul', 'Day': '28'}
+Association between genetic polymorphisms in fibrinogen genes and bleeding risk in patients treated with direct oral anticoagulants.
+This study aimed to investigate the association between polymorphisms in fibrinogen genes and bleeding risk in patients receiving direct oral anticoagulants (DOACs).

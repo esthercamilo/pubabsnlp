@@ -1,0 +1,3 @@
+{'Year': '2023', 'Season': 'Jan-Jun'}
+Asparaginase toxicity in Hispanic adult and pediatric patients with acute lymphoblastic leukemia: current understanding.
+Asparaginase is essential to chemotherapy regimens for acute lymphoblastic leukemia (ALL). Survival of patients with ALL has improved since incorporating asparaginase into chemotherapy backbones. Hispanic patients have a higher incidence of ALL than other ethnicities and suffer inferior outcomes. The inferior outcome of Hispanics is due to several factors, including the increased incidence of high-risk genetic subtypes and susceptibility to treatment-related toxicity.

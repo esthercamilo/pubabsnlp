@@ -1,0 +1,3 @@
+{'Year': '2014'}
+Pharmacogenomic knowledge gaps and educational resource needs among physicians in selected specialties.
+The use of pharmacogenomic testing in the clinical setting has the potential to improve the safety and effectiveness of drug therapy, yet studies have revealed that physicians lack knowledge about the topic of pharmacogenomics, and are not prepared to implement it in the clinical setting. This study further explores the pharmacogenomic knowledge deficit and educational resource needs among physicians.

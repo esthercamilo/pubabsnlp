@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jan'}
+Pharmacogenetics of CYP2C19 genetic polymorphism on clopidogrel response in patients with ischemic stroke from Saudi Arabia.
+To elucidate the degree of genetic polymorphisms CYP2C19 (CYP2C19*2, CYP2C19*3) of key drug metabolizing enzymes on the antiplatelet effect of clopidogrel response in patients with acute ischemic stroke from Saudi Arabia.

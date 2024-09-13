@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Apr'}
+Genetic Variants Influencing Plasma Renin Activity in Hypertensive Patients From the PEAR Study (Pharmacogenomic Evaluation of Antihypertensive Responses).
+Plasma renin is an important regulator of blood pressure (BP). Plasma renin activity (PRA) has been shown to correlate with variability in BP response to antihypertensive agents. We conducted a genome-wide association study to identify single-nucleotide polymorphisms (SNPs) associated with baseline PRA using data from the PEAR study (Pharmacogenomic Evaluation of Antihypertensive Responses).

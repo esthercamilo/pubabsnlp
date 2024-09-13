@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar'}
+Clopidogrel pharmacogenetics: Beyond candidate genes and genome-wide association studies.
+While it is well established that genetic variation is a significant contributor to interindividual variability in clopidogrel efficacy, candidate gene and genome-wide approaches have failed to reproducibly identify genetic determinants of antiplatelet response, apart from variants in CYP2C19, prompting the need for more innovative study designs. Herein, we highlight the potential benefit of exome sequencing of patients at the extremes of clopidogrel responsivity through examination of data reported in this issue of Clinical Pharmacology & Therapeutics.

@@ -1,0 +1,3 @@
+{'Year': '2021'}
+Pharmacogenetics of tenofovir and emtricitabine penetration into cerebrospinal fluid.
+Blood-cerebrospinal fluid (CSF) barrier transporters affect the influx and efflux of drugs. The antiretrovirals tenofovir and emtricitabine may be substrates of blood-brain barrier (BBB) and blood-CSF barrier transporters, but data are limited regarding the pharmacogenetics and pharmacokinetics of their central nervous system (CNS) penetration.

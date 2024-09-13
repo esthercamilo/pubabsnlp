@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Apr'}
+Crystal arthritis: Is HLAB genotyping the future of gout pharmacogenomics?
+Advances in pharmacogenomics have improved understanding of allopurinol hypersensitivity syndrome (AHS), and new research suggests HLA-B*5801 is a strong risk factor for this condition; in some populations, almost all patients who develop AHS carry this allele. This discovery could influence the treatment of gout, in particular, how allopurinol is used.

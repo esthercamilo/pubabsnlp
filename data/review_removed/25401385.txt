@@ -1,0 +1,3 @@
+{'Year': '2014'}
+An index of barriers for the implementation of personalised medicine and pharmacogenomics in Europe.
+Personalised medicine (PM) is an innovative way to produce better patient outcomes by using an individualised or stratified approach to disease and treatment rather than a collective treatment approach for patients. Despite its tangible advantages, the complex process to translate PM into the member states and European healthcare systems has delayed its uptake. The aim of this study is to identify relevant barriers represented by an index to summarise challenging areas for the implementation of PM in Europe.

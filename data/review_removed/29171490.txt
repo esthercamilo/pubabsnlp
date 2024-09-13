@@ -1,0 +1,3 @@
+{'Year': '2017'}
+[Genetic and clinical predictors of treatment efficacy in depressive disorders].
+To study clinical and genetic characteristics that impact on the efficacy of pharmacotherapy of depressive disorders.

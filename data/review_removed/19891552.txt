@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Nov'}
+Thiopurine S-methyltransferase pharmacogenetics in a large-scale healthy Italian-Caucasian population: differences in enzyme activity.
+To investigate the influence of genotype, age and gender on the thiopurine S-methyltransferase (TPMT) phenotype in healthy Italian-Caucasian subjects.

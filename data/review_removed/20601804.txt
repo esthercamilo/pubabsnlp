@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jul', 'Day': '05'}
+Pharmacogenetics and other molecular targets in the management of pancreatic adenocarcinoma. Highlights from the "2010 ASCO Annual Meeting". Chicago, IL, USA. June 4-8, 2010.
+Among various abstracts presented at the Annual Meeting of the American Society of Clinical Oncology (ASCO) held in Chicago, June 2010, four interesting abstracts focusing on pancreatic cancer merit further discussion in this post-ASCO commentary as they potentially provide insight to clinicians and hope to patients. These abstracts point to the future of pancreatic cancer management through identification of molecular targets and prognostic factors to overcome the limits of efficacious chemotherapy delivery.

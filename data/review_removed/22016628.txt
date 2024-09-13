@@ -1,0 +1,3 @@
+{'Year': '2011'}
+Pharmacogenetics of OATP transporters reveals that SLCO1B1 c.388A>G variant is determinant of increased atorvastatin response.
+The relationship between variants in SLCO1B1 and SLCO2B1 genes and lipid-lowering response to atorvastatin was investigated.

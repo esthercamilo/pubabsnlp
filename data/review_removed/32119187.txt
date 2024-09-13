@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jul'}
+A survey of precision diagnosis and management capacity of pulmonary embolism in 90 hospitals of China.
+To conduct a survey of diagnostic facility and therapeutic capability of Pulmonary thromboembolism (PE) in 90 hospitals throughout China.

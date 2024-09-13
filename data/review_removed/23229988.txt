@@ -1,0 +1,3 @@
+{'Year': '2012'}
+Making pharmacogenetic testing a reality in a community pharmacy.
+To provide information for community pharmacies considering implementation of a pharmacogenetic testing service.

@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Oct'}
+A model to incorporate genetic testing (5-HTTLPR) in pharmacological treatment of major depressive disorders.
+To evaluate the benefit of pharmacogenetics in antidepressant treatment.

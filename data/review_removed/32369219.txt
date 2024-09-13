@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Aug'}
+Severe hyperglycaemia following pazopanib treatment: The role of drug-drug-gene interactions in a patient with metastatic renal cell carcinoma-A case report.
+Pazopanib is a tyrosine kinase inhibitor with hyperglycaemia as a known adverse event, but case reports of severe hyperglycaemia are exceptional. We report a case of severe hyperglycaemia following pazopanib administration in a patient with metastatic renal cell carcinoma.

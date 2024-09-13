@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Nov', 'Day': '24'}
+[The pharmacogenetics of hypoglycemia and the glycemic variability at the patients ith type 2 diabetes mellitus].
+To investigate the link between the hypoglycemia (registrated accurately by the professional Continuous Glucose Monitoring CGM; severe hypoglycemia at home) and the hetero-/homozygote carriage of single nucleotide polymorphisms (SNP) of cytochrome systems geneCYP2C9(rs1799853CYP2C9*2 иrs1057910CYP2C9*3) at the patients with Type 2 Diabetes Mellitus (T2DM) used sulphonylurea (SU).

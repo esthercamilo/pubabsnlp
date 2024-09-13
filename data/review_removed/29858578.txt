@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Feb'}
+Pharmacogenetic testing in the Veterans Health Administration (VHA): policy recommendations from the VHA Clinical Pharmacogenetics Subcommittee.
+The Veterans Health Administration (VHA) Clinical Pharmacogenetics Subcommittee is charged with making recommendations about whether specific pharmacogenetic tests should be used in healthcare at VHA facilities. We describe a process to inform VHA pharmacogenetic testing policy.

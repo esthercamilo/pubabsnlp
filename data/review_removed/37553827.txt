@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Oct'}
+The effect of chronic lithium treatment on hippocampal progenitor cells: Transcriptomic analysis and systems pharmacology.
+To identify the genomics underpinning the increased volume of the hippocampus after long-term administration of lithium (Li) in bipolar disorder patients, hypothesizing the possible contribution of cell growth and differentiation pathways to this complication.

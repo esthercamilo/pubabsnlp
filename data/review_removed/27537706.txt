@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar'}
+Assessing the capability of massively parallel sequencing for opportunistic pharmacogenetic screening.
+The aim of the study was to assess exome data for preemptive pharmacogenetic screening for 203 clinically relevant pharmacogenetic variant positions from the Pharmacogenomics Knowledgebase and Clinical Pharmacogenetics Implementation Consortium and identify copy-number variants (CNVs) in CYP2D6.

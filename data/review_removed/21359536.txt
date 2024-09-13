@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Aug'}
+Impact of interleukin-10 gene polymorphisms on tacrolimus dosing requirements in Chinese liver transplant patients during the early posttransplantation period.
+Pharmacogenetics holds the potential to elucidate the inherited basis of differences between individual responses to drugs. Impacts of CYP3A5 and ABCB1 gene polymorphisms on the immunosuppressant tacrolimus have been reported in previous studies of liver transplantation. The functions of interleukin-10 (IL-10) gene expression are complex in the early period after liver transplantation. In this study, we examined the IL-10 genotypes of both recipients and donors to clarify the influence of these genetic variants on tacrolimus dose requirements and pharmacokinetics.

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Sep', 'Day': '30'}
+Development and validation of a next-generation sequencing panel for clinical pharmacogenetics.
+The rapid clinical implementation of next generation sequencing techniques is  due to its ability to sequence a large number of genetic regions at lower costs  than conventional techniques. However, its use in the field of pharmacogenetics  is still very limited.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Aug', 'Day': '31'}
+Pharmacogenetics of the Late-Onset Efavirenz Neurotoxicity Syndrome (LENS).
+The late-onset efavirenz neurotoxicity syndrome (LENS) presents as ataxia and/or encephalopathy with supratherapeutic efavirenz plasma concentrations (>4 µg/mL). Efavirenz is primarily metabolized by cytochrome P450 2B6 (CYP2B6), with CYP2A6 as an accessory pathway. We hypothesized that participants with LENS would predominantly be CYP2B6 slow metabolizers. The aim of our study was to determine the frequency of CYP2B6 slow metabolizers in participants with LENS.

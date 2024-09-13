@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Apr'}
+Utilising SNP Association Analysis as a Prospective Approach for Personalising Androgenetic Alopecia Treatment.
+Androgenetic alopecia (AGA) is a prevalent, multifactorial form of hair loss involving complex aetiological factors, such as altered androgen regulation and energy metabolism. Existing treatments offer limited success, thus highlighting the need for advanced, personalised therapeutic strategies. This study focuses on correlating the genetic mechanisms of AGA with molecular targets involved in the response to current treatment modalities.

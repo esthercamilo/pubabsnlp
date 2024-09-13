@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Mar'}
+Warfarin pharmacogenetics: an illustration of the importance of studies in minority populations.
+Translation of pharmacogenetics to clinical practice is increasingly common. However, most data arise in people of European ancestry, so clinical translation in non-Europeans can be challenging. Depending on the population being assessed, a polymorphism’s effect can differ in magniture or be absent. Studies in minorities are therefore essential as they present opportunities for discovery that would be missed through European-only studies, and they ensure that all populations benefit from clinical pharmacogenetics.

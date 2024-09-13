@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Nov'}
+Survey on warfarin pharmacogenetic testing among anticoagulation providers.
+Our study aimed to assess anticoagulation providers' perception and knowledge of warfarin pharmacogenetic testing, and to identify barriers to using it in their clinical practice.

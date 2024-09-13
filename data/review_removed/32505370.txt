@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Oct', 'Day': '15'}
+Pharmacogenetic-guided and clinical warfarin dosing algorithm assessments with bleeding outcomes risk-stratified by genetic and covariate subgroups.
+Safe administration of warfarin presents challenges due to a narrow therapeutic INR range and significant variability in inter-individual dose response. Bleeding secondary to warfarin use is a leading cause of hospitalization.

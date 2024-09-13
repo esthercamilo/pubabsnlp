@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Sep'}
+Upfront DPYD Genotype-Guided Treatment for Fluoropyrimidine-Based Chemotherapy in Advanced and Metastatic Colorectal Cancer: A Cost-Effectiveness Analysis.
+Fluoropyrimidines are the most widely used chemotherapy drugs for advanced and metastatic colorectal cancer (CRC). Individuals with certain DPYD gene variants are exposed to an increased risk of severe fluoropyrimidine-related toxicities. This study aimed to evaluate the cost-effectiveness of preemptive DPYD genotyping to guide fluoropyrimidine therapy in patients with advanced or metastatic CRC.

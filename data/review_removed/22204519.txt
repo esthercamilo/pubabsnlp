@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Dec', 'Day': '28'}
+Pharmacogenomics and personalized medicine: the plunge into next-generation sequencing.
+A report on the 9th Annual Cold Spring Harbor/Wellcome Trust meeting 'Pharmacogenomics and Personalized Medicine', Hinxton, Cambridge, UK, 29 September to 2 October 2011.

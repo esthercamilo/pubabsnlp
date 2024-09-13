@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jun'}
+Cancer pain.
+Cancer pain management is in continuous innovation and new data are available that could change the therapeutical approach and guidelines.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jun'}
+TET2 and CSMD1 genes affect SBP response to hydrochlorothiazide in never-treated essential hypertensives.
+Thiazide diuretics have been recommended as a first-line antihypertensive treatment, although the choice of 'the right drug in the individual essential hypertensive patient' remains still empirical. Essential hypertension is a complex, polygenic disease derived from the interaction of patient's genetic background with the environment. Pharmacogenomics could be a useful tool to pinpoint gene variants involved in antihypertensive drug response, thus optimizing therapeutic advantages and minimizing side effects.

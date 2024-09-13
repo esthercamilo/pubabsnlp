@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Sep'}
+Efficacy of the pharmacologic chaperone migalastat in a subset of male patients with the classic phenotype of Fabry disease and migalastat-amenable variants: data from the phase 3 randomized, multicenter, double-blind clinical trial and extension study.
+Outcomes in patients with Fabry disease receiving migalastat during the phase 3 FACETS trial (NCT00925301) were evaluated by phenotype.

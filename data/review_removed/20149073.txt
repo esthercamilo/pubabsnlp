@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'May'}
+Pharmacogenetics of acenocoumarol in patients with extreme dose requirements.
+There is currently intense debate as to whether pharmacogenetic algorithms for estimating the initial dose of coumarins provide a more accurate dose than the fixed-dose approach. Recently, it has been suggested that the greatest benefit of pharmacogenetic algorithms is observed in patients with extreme dose requirements.

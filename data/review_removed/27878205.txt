@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Nov', 'Day': '23'}
+Iterative Development and Evaluation of a Pharmacogenomic-Guided Clinical Decision Support System for Warfarin Dosing.
+Pharmacogenomic-guided dosing has the potential to improve patient outcomes but its implementation has been met with clinical challenges. Our objective was to develop and evaluate a clinical decision support system (CDSS) for pharmacogenomic-guided warfarin dosing designed for physicians and pharmacists.

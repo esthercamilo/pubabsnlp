@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Apr'}
+Pharmacogenomics of CYP2A6, CYP2B6, CYP2C19, CYP2D6, CYP3A4, CYP3A5 and MDR1 in Vietnam.
+The aim of this study was to obtain pharmacogenetic data in a Vietnamese population on genes coding for proteins involved in the elimination of drugs currently used for the treatment of malaria and human immunodeficiency virus/acquired immunodeficiency syndrome.

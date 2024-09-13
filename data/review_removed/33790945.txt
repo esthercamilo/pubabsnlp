@@ -1,0 +1,3 @@
+{'Year': '2021'}
+Capacity Building of Health Professionals on Genetics and Genomics Practice: Evaluation of the Effectiveness of a Distance Learning Training Course for Italian Physicians.
+The rapid spread of personalized medicine requires professionals to manage the "omics revolution." Therefore, the genetics/genomics literacy of healthcare professionals should be in line with the continuous advances in this field, in order to implement its potential implications for diagnosis, control and treatment of diseases. The present study investigates the effectiveness of a distance learning course on genetics and genomics targeted at medical doctors.

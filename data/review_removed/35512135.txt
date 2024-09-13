@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '01'}
+Pharmacogenetics of Dolutegravir Plasma Exposure Among Southern Africans With Human Immunodeficiency Virus.
+Dolutegravir is a component of preferred antiretroviral therapy (ART) regimens. We characterized the pharmacogenetics of dolutegravir exposure after ART initiation in the ADVANCE trial in South Africa.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '30'}
+Genetic polymorphisms of pharmacogenomic VIP variants in the Lahu population from Yunnan Province.
+Pharmacogenomics has been widely used to study the very important pharmacogenetic (VIP) variants among populations, but information on pharmacogenomics in the Lahu population is limited. The purpose of this study was to determine the differences in the distribution of VIP variants between the Lahu and the other 26 populations.

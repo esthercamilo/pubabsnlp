@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Mar'}
+Pharmacogenomics - a minor rather than major force in clinical medicine.
+Pharmacogenomics (PGx) is touted as essential for the future of precision medicine. But the opportunity cost of PGx from the prescribers' perspective is rarely considered. The aim of this article is to critique PGx-guided prescribing using clinical pharmacology principles so that important cases for PGx testing are not missed by doctors responsible for therapeutic decision making.

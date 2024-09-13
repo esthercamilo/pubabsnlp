@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Sep'}
+Population pharmacokinetic/pharmacogenetic model of lopinavir/ritonavir in HIV-infected patients.
+This study aims to develop a population pharmacokinetic/pharmacogenetic model for lopinavir/ritonavir (LPV/r) in European HIV-infected patients.

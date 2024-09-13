@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Oct'}
+Linezolid in the treatment of drug-resistant tuberculosis: the challenge of its narrow therapeutic index.
+Linezolid is an oxazolidinone with potent activity against M tuberculosis, and improves culture conversion and cure rates when added to treatment regimens for drug resistant tuberculosis. However, linezolid has a narrow therapeutic window, and the optimal dosing strategy that minimizes the substantial toxicity associated with linezolid's prolonged use in tuberculosis treatment has not been determined, limiting the potential impact of this anti-mycobacterial agent.

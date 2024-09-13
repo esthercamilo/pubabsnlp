@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'May', 'Day': '30'}
+Towards the clinical implementation of pharmacogenetics in bipolar disorder.
+Bipolar disorder (BD) is a psychiatric illness defined by pathological alterations between the mood states of mania and depression, causing disability, imposing healthcare costs and elevating the risk of suicide. Although effective treatments for BD exist, variability in outcomes leads to a large number of treatment failures, typically followed by a trial and error process of medication switches that can take years. Pharmacogenetic testing (PGT), by tailoring drug choice to an individual, may personalize and expedite treatment so as to identify more rapidly medications well suited to individual BD patients.

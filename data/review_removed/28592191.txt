@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jun'}
+Influence of two variants of CYP450 oxidoreductase on the stable dose of acenocoumarol in a Spanish population.
+To evaluate the influence of two variants of P450 oxidoreductase (POR), rs2868177 and POR*28, on the stable dosage of acenocoumarol.

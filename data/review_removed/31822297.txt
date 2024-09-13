@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Dec', 'Day': '10'}
+Human genetics and genomics research in Ecuador: historical survey, current state, and future directions.
+In South America, the history of human genetics is extensive and its beginnings go back to the onset of the twentieth century. In Ecuador, the historical record of human genetics and genomics research is limited. In this context, our work analyzes the current status and historical panorama of these fields, based on bibliographic searches in Scopus, Google Scholar, PubMed, and Web of Science.

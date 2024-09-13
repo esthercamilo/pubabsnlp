@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jan'}
+High interpatient variability of raltegravir CSF concentrations in HIV-positive patients: a pharmacogenetic analysis.
+To analyse the determinants of raltegravir CSF penetration, including the pharmacogenetics of drug transporters located at the blood-brain barrier or blood-CSF barrier.

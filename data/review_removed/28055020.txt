@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jul'}
+Participant-perceived understanding and perspectives on pharmacogenomics: the Mayo Clinic RIGHT protocol (Right Drug, Right Dose, Right Time).
+To examine predictors of understanding preemptive CYP2D6 pharmacogenomics test results and to identify key features required to improve future educational efforts of preemptive pharmacogenomics testing.

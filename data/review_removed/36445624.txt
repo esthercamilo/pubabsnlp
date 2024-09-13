@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jun'}
+Safety and Efficacy of CYP2C19 Genotype-Guided Escalation of P2Y<sub>12</sub> Inhibitor Therapy After Percutaneous Coronary Intervention in Chronic Kidney Disease: a Post Hoc Analysis of the TAILOR-PCI Study.
+Chronic kidney disease (CKD) is a risk factor for ischemic and bleeding events with dual antiplatelet therapy after percutaneous coronary intervention (PCI). Whether the presence of CYP2C19 loss of function (LOF) alleles modifies this risk, and whether a genotype-guided (GG) escalation of P2Y<sub>12</sub> inhibitor therapy post PCI is safe in this population is unclear.

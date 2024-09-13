@@ -1,0 +1,3 @@
+{'Year': '2018', 'Season': 'Oct-Dec'}
+Cost Implications of Reactive Versus Prospective Testing for Dihydropyrimidine Dehydrogenase Deficiency in Patients With Colorectal Cancer: A Single-Institution Experience.
+Severe toxicity is experienced by a substantial minority of patients receiving fluoropyrimidine-based chemotherapy, with approximately 20% of these severe toxicities attributable to polymorphisms in the <i>DPYD</i> gene. The <i>DPYD</i> codes for the enzyme dihydropyrimidine dehydrogenase (DPD) important in the metabolism of fluoropyrimidine-based chemotherapy. We questioned whether prospective <i>DPYD</i> mutation analysis in all patients commencing such therapy would prove more cost-effective than reactive testing of patients experiencing severe toxicity.

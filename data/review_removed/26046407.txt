@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jun'}
+Evidence for Clinical Implementation of Pharmacogenomics in Cardiac Drugs.
+To comprehensively assess the pharmacogenomic evidence of routinely used drugs for clinical utility.

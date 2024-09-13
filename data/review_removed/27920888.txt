@@ -1,0 +1,3 @@
+{'Year': '2016', 'Season': 'Oct-Dec'}
+Development of a High-Resolution Melting Analysis Method for CYP2C19*17 Genotyping in Healthy Volunteers.
+Genetic polymorphisms of drug metabolisms by cytochrome P450 (P450s) could affect drug response, attracting particular interest in the pharmacogenetics. Due to the importance of CYP2C19* 17 allele and its capability of super- fast metabolism and also lack of information about distribution of the alleles in Iranian population, this research aimed to use High Resolution Melting (HRM) method compared to PCR-RFLP for genotyping healthy Iranian population.

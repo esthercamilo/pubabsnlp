@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jan', 'Day': '01'}
+Variation in Mu-Opioid Receptor Gene <i>(OPRM1)</i> as a Moderator of Naltrexone Treatment to Reduce Heavy Drinking in a High Functioning Cohort.
+It is well known that naltrexone, an FDA-approved medication for treatment of alcohol dependence, is effective for only a subset of individuals. Recent studies have examined the utility of a functional A118G single nucleotide polymorphism (SNP) of the mu-opioid receptor gene <i>(OPRM1)</i> as a predictor of naltrexone treatment response. Although the findings to date have generally been consistent with a moderating effect of the SNP, further evaluation of this hypothesis is warranted.

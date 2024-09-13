@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Potential Usefulness of Clopidogrel Pharmacogenetics in Cerebral Endovascular Procedures and Carotid Artery Stenting.
+Previous reports have shown inadequate response to dual antiplatelet therapy (DAPT) with aspirin and clopidogrel in 5-30% of patients undergoing percutaneous coronary interventions (PCI), due mostly to clopidogrel resistance. This prevalence increases up to 66% in patients undergoing neurointerventional procedures. However, clinical significance of CYP2C19 genotypes in neurointerventional procedures or carotid artery stenting (CAS) is unknown.

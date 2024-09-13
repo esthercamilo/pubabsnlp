@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Aug'}
+No genetic associations with mepolizumab efficacy in COPD with peripheral blood eosinophilia.
+Improved understanding of genetic effects on response to treatments with novel approaches for COPD with peripheral blood eosinophilia, such as mepolizumab (a humanized monoclonal antibody to IL-5), may improve treatment outcomes. We conducted a study to identify genetic variants associated with efficacy of mepolizumab COPD.

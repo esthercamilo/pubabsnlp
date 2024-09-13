@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jan'}
+Dramatic effect of levetiracetam in early-onset epileptic encephalopathy due to STXBP1 mutation.
+Syntaxin Binding Protein 1 (STXBP1) mutations determine a central neurotransmission dysfunction through impairment of the synaptic vesicle release, thus causing a spectrum of phenotypes varying from syndromic and non-syndromic epilepsy to intellectual disability of variable degree. Among the antiepileptic drugs, levetiracetam has a unique mechanism of action binding SV2A, a glycoprotein of the synaptic vesicle release machinery.

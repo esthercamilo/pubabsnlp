@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Feb'}
+Calcium-channel blockers: Clinical outcome associations with reported pharmacogenetics variants in 32 000 patients.
+Pharmacogenetic variants impact dihydropyridine calcium-channel blockers (dCCBs; e.g., amlodipine) treatment efficacy, yet evidence on clinical outcomes in routine primary care is limited. Reported associations in pharmacogenomics knowledge base PharmGKB have weak supporting evidence. We aimed to estimate associations between reported pharmacogenetic variants and incident adverse events in a community-based cohort prescribed dCCB.

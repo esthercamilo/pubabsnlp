@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Feb', 'Day': '22'}
+Pharmacogenomic knowledge representation, reasoning and genome-based clinical decision support based on OWL 2 DL ontologies.
+Every year, hundreds of thousands of patients experience treatment failure or adverse drug reactions (ADRs), many of which could be prevented by pharmacogenomic testing. However, the primary knowledge needed for clinical pharmacogenomics is currently dispersed over disparate data structures and captured in unstructured or semi-structured formalizations. This is a source of potential ambiguity and complexity, making it difficult to create reliable information technology systems for enabling clinical pharmacogenomics.

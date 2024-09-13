@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jul'}
+Combined influence of LDLR and HMGCR sequence variation on lipid-lowering response to simvastatin.
+Although statins are efficacious for lowering low-density lipoprotein cholesterol, there is wide interindividual variation in response. We tested the extent to which combined effects of common alleles of LDLR and HMGCR can contribute to this variability.

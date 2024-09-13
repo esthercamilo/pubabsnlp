@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jul'}
+Pharmacogenomics of acetylsalicylic acid and other nonsteroidal anti-inflammatory agents: clinical implications.
+Pharmacogenomics investigates interindividual genetic variability in the DNA sequence of drug targets, drug-metabolizing enzymes or disease genes, RNA expression, or protein translation of genes affecting drug response and drug safety. Aspirin and other nonsteroidal anti-inflammatory drugs (NSAIDs) are among the most commonly prescribed medications with well-documented variation in patient response in terms of efficacy and safety. This variation may in part be explained by pharmacogenomics.

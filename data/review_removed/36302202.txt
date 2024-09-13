@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '01'}
+Mapping, clustering, and analysis of research in psychiatric genomics.
+The distribution pattern and knowledge structure of psychiatric genomics were surveyed based on literature dealing with both psychiatry and genomics/genetics. Coword analysis and bibliographic coupling of the records retrieved from Scopus and PubMed for 2016-2020 revealed the subsurface research aspects.

@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Oct', 'Day': '01'}
+Driver network as a biomarker: systematic integration and network modeling of multi-omics data to derive driver signaling pathways for drug combination prediction.
+Drug combinations that simultaneously suppress multiple cancer driver signaling pathways increase therapeutic options and may reduce drug resistance. We have developed a computational systems biology tool, DrugComboExplorer, to identify driver signaling pathways and predict synergistic drug combinations by integrating the knowledge embedded in vast amounts of available pharmacogenomics and omics data.

@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Jan', 'Day': '27'}
+A pharmacogenetic strategy for immunosuppression based on the CYP3A5 genotype.
+Pharmacogenetics has the potential to complement therapeutic drug monitoring in achieving target blood concentrations of the immunosuppressive drugs during the critical early period after transplantation when adequate drug exposure is essential to prevent rejection. The most attractive candidate for a pharmacogenetic strategy is tacrolimus dosing based on the CYP3A5 genotype.

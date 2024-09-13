@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Mar'}
+Increased risk of vincristine neurotoxicity associated with low CYP3A5 expression genotype in children with acute lymphoblastic leukemia.
+This study evaluates the relationship between cytochrome P450 (CYP) 3A5 genotype and vincristine-induced peripheral neuropathy (VIPN) in children with precursor B cell acute lymphoblastic leukemia (preB ALL). We have shown in vitro that vincristine is metabolized significantly more efficiently by CYP3A5 than by CYP3A4. We also found that vincristine neurotoxicity is less common in African-Americans (70% express CYP3A5) than in Caucasians. We test the hypothesis that CYP3A5 expressers experience less vincristine neuropathy than do CYP3A5 non-expressers.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Season': 'Jan-Feb'}
+Identification of PDE5A:E90K: a polymorphism in the canine phosphodiesterase 5A gene affecting basal cGMP concentrations of healthy dogs.
+Cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase (PDE5A) is the target of phosphodiesterase inhibitors such as sildenafil. Polymorphisms in the PDE5A gene that may predict response to therapy with sildenafil and nitric oxide, be linked to disease progression, and aid in risk assessment have been identified in human beings. Identification of polymorphisms in PDE5A could affect the physiologic actions of PDE5A and the effects of phosphodiestrase type 5 inhibitor drugs.

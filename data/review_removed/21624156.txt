@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'May', 'Day': '17'}
+Integration and publication of heterogeneous text-mined relationships on the Semantic Web.
+Advances in Natural Language Processing (NLP) techniques enable the extraction of fine-grained relationships mentioned in biomedical text. The variability and the complexity of natural language in expressing similar relationships causes the extracted relationships to be highly heterogeneous, which makes the construction of knowledge bases difficult and poses a challenge in using these for data mining or question answering.

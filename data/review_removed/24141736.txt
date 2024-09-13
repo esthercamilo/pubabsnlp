@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Dec'}
+Next-generation sequencing of pharmacogenes: a critical analysis focusing on schizophrenia treatment.
+Because of the unmet needs of current pharmacotherapy for schizophrenia, antipsychotic pharmacogenetic research is of utmost importance. However, to date, few clinically applicable antipsychotic pharmacogenomic alleles have been identified. Nonetheless, next-generation sequencing technologies are expected to aid in the identification of clinically significant variants for this complex phenotype. The aim of this study was therefore to critically examine the ability of next-generation sequencing technologies to reliably detect variation present in pharmacogenes.

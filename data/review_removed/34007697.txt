@@ -1,0 +1,3 @@
+{'Year': '2018'}
+Primary Care Clinicians Attitudes and Knowledge of Pharmacogenetics in a Large, Multi-state, Healthcare System.
+Considerable progress has been made in the way of pharmacogenetic research and the development of clinical recommendations; however, its implementation into clinical practice has been slower than anticipated. We sought to better understand its lack of clinical uptake within primary care.

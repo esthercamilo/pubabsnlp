@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Oct'}
+Designing a theory and evidence informed pharmacogenomic testing service in community pharmacy in England.
+Pharmacogenomics (PGx) uses DNA to predict an individual's response to a medicine. Internationally, the delivery of PGx is frequently via community pharmacies, who can take a saliva sample, send it off for analysis and contribute to the final clinical decision making. No similar service has been set up in England.

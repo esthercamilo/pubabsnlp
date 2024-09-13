@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Feb'}
+A nationwide survey of pharmacists' perception of pharmacogenetics in the context of a clinical decision support system containing pharmacogenetics dosing recommendations.
+To benchmark Dutch pharmacists knowledge, experience and attitudes toward pharmacogenetics (PGx) with a specific focus on the effects of awareness of the Dutch Pharmacogenetics Working Group guidelines.

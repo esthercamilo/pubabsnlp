@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'May'}
+Polymorphisms associated with etanercept response in moderate-to-severe plaque psoriasis.
+Few studies have evaluated the influence of pharmacogenetics in psoriatic patients treated with etanercept.

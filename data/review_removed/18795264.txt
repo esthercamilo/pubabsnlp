@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Jan'}
+A micro opioid receptor gene polymorphism (A118G) and naltrexone treatment response in adherent Korean alcohol-dependent patients.
+Previous studies have demonstrated an association between genetic polymorphisms of the mu opioid receptor gene (OPRM1) and response to naltrexone treatment. The Asp40 variant genotype previously shown to be associated with naltrexone treatment response is known to be relatively common among Koreans.

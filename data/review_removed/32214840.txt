@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Sex Differences in Associations Between CYP2D6 Phenotypes and Response to Opioid Analgesics.
+Several small studies have previously investigated associations between the cytochrome P450 2D6 (CYP2D6) metabolism and response to opioids. We used a large sample of patients to study associations between CYP2D6 phenotypes and estimated CYP2D6 enzymatic activity scores with pain control and adverse reactions related to codeine and tramadol use. We conducted additional analyses to determine whether our results were consistent among men and women.

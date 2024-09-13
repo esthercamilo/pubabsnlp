@@ -1,0 +1,3 @@
+{'Year': '2014'}
+Pharmacogenomics of neuropsychiatric disorders: analysis of genetic variability in 162 identified neuroreceptors using 1000 Genomes Project data.
+Neuroreceptors are considered to be primary drug targets and their abrupt signaling is a notable cause of interindividual drug response variability and treatment failure for complex neuropsychiatric diseases. In view of recent evidence, it is believed that common genetic risk factors mainly highly polymorphic neuroreceptors are being shared among neuropsychiatric disorders.

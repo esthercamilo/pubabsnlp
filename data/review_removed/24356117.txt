@@ -1,0 +1,3 @@
+{'Year': '2013'}
+Caveat emptor: single nucleotide polymorphism reporting in pharmacogenomics.
+While it is arguably the most comprehensive source of genetic information, the NCBI's dbSNP database (National Center for Biotechnology Information database of single nucleotide polymorphisms; http://www.ncbi.nlm.nih.gov/projects/SNP/) is imperfect. In this commentary, we highlight the issues surrounding this database, while considering the great importance and utility of this resource for those in the pharmacology and pharmacogenomics communities. We describe our experience with the information in this database as a cautionary tale for those who will utilize such information in the future. We also discuss several measures that could render it more reliable.

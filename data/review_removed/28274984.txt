@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar', 'Day': '15'}
+Development of a postgraduate year 2 pharmacy residency in clinical pharmacogenetics.
+The structure and development of an innovative, ASHP-accredited postgraduate year 2 (PGY2) clinical pharmacogenetics residency program are described.

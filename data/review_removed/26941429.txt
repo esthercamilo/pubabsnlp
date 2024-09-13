@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Feb', 'Day': '25'}
+Advancing Pharmacogenomics Education in the Core PharmD Curriculum through Student Personal Genomic Testing.
+To develop, implement, and evaluate "Test2Learn" a program to enhance pharmacogenomics education through the use of personal genomic testing (PGT) and real genetic data.

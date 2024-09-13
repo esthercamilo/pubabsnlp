@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'May'}
+Pharmacogenetics of antitumor necrosis factor therapy in severe sarcoidosis.
+Antitumor necrosis factor (TNF) treatment is an effective third-line treatment option in severe sarcoidosis. But not all patients respond to treatment. Pharmacogenetics studies the influence of genetic variations on treatment response.

@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'May'}
+Avoidable drug-gene conflicts and polypharmacy interactions in patients participating in a personalized medicine program.
+Determine the ability of a pharmacogenetic service, PRIMER, to identify drug-gene (DGI) and drug-drug interactions (DDI) in patients across multiple conditions. PRIMER consists of patient selection criteria, a gene panel and actionable guidance for DGIs and DDIs.

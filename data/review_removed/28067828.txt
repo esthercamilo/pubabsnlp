@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jan', 'Day': '06'}
+Pharmacogenetic Foundations of Therapeutic Efficacy and Adverse Events of Statins.
+In the era of precision medicine, more attention is paid to the search for predictive markers of treatment efficacy and tolerability. Statins are one of the classes of drugs that could benefit from this approach because of their wide use and their incidence of adverse events.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jan'}
+Impact of mineralocorticoid receptor polymorphisms on urinary electrolyte excretion with and without diuretic drugs.
+Polymorphisms in the mineralocorticoid receptor may affect urinary sodium and potassium excretion. We investigated polymorphisms in the MR gene in relation to urinary electrolyte excretion in two separate studies.

@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Apr'}
+The safety of treating newly diagnosed epilepsy.
+Epilepsy is a serious chronic neurological disorder manifested by an enduring symptomatic predisposition to seizures. Newly diagnosed individuals face increased morbidity, mortality, and socioeconomic costs. Anti-epileptic drug therapy is the treatment usually prescribed, which has efficacy in seizure control and mitigating long-term mortality.

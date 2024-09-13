@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '01'}
+Development and validation wise assessment of genotype guided warfarin dosing algorithm in Indian population.
+A study was conducted to develop and validate the warfarin pharmacogenetic dose optimization algorithm considering the clinical pharmacogenetic implementation consortium (CPIC) recommendations for the Asian ethnicity population.

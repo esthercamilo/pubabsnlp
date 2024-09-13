@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Apr'}
+Variability in plasma rifampicin concentrations and role of <i>SLCO1B1</i>, <i>ABCB1</i>, <i>AADAC2</i> and <i>CES2</i> genotypes in Ethiopian patients with tuberculosis.
+Rifampicin, a key drug against tuberculosis (TB), displays wide between-patient pharmacokinetics variability and concentration-dependent antimicrobial effect. We investigated variability in plasma rifampicin concentrations and the role of <i>SLCO1B1</i>, <i>ABCB1</i>, arylacetamide deacetylase (<i>AADAC</i>) and carboxylesterase 2 (<i>CES-2</i>) genotypes in Ethiopian patients with TB.

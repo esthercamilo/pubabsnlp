@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'May'}
+Systematic screening for polymorphisms within the UGT1A6 gene in three Chinese populations and function prediction through structural modeling.
+To date, there have been relatively few studies on the UGT1A6 gene in the Chinese population. The present study was designed to determine the allele frequencies and haplotypes of this gene in the population and predict the candidate functional mutations.

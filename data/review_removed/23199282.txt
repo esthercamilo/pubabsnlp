@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Feb'}
+Pharmacogenetics of antipsychotics: recent progress and methodological issues.
+Antipsychotic drug is the mainstay of treatment for schizophrenia, and there are large inter-individual differences in clinical response and side effects. Pharmacogenetics provides a valuable tool to fulfill the promise of personalized medicine by tailoring treatment based on one's genetic markers.

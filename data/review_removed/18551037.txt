@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Jul'}
+Pharmacogenetics of P450 oxidoreductase: effect of sequence variants on activities of CYP1A2 and CYP2C19.
+All microsomal cytochrome P450s enzymes, including those that metabolize the majority of clinically used drugs, require electron transfer through P450 oxidoreductase (POR). Mutations in human POR cause altered steroidogenesis and congenital malformations, but the clinical effects on drug metabolism are unclear. We examined the effects of POR sequence variants on two drug-metabolizing P450 enzymes, CYP1A2 and CYP2C19.

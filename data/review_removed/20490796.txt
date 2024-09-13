@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Sep'}
+Doxorubicin-induced suppression of poly(ADP-ribose) polymerase-1 (PARP-1) activity and expression and its implication for PARP inhibitors in clinical trials.
+Monozygotic twins provide an excellent tool to study environmental effects on human health. Poly(ADP-ribose) polymerase-1 (PARP-1) is an important enzyme primarily involved in DNA repair and genomic stability and is under clinical investigation as a target for anticancer therapy. As a part of a PARP pharmacogenetics study, elderly male monozygotic twins, one healthy and the other with a Trojani grade 3 sarcoma treated with doxorubicin (DOX: 142.5 mg/m(2)), were recruited for the study.

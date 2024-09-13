@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Dec'}
+G-protein beta-3 subunit genotype predicts enhanced benefit of fixed-dose isosorbide dinitrate and hydralazine: results of A-HeFT.
+The purpose of this study was to evaluate the influence of the guanine nucleotide-binding proteins (G-proteins), beta-3 subunit (GNB3) genotype on the effectiveness of a fixed-dose combination of isosorbide dinitrate and hydralazine (FDC I/H) in A-HeFT (African American Heart Failure Trial).

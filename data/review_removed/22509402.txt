@@ -1,0 +1,3 @@
+{'Year': '2012'}
+Effect on adherence to nicotine replacement therapy of informing smokers their dose is determined by their genotype: a randomised controlled trial.
+The behavioural impact of pharmacogenomics is untested. We tested two hypotheses concerning the behavioural impact of informing smokers their oral dose of NRT is tailored to analysis of DNA.

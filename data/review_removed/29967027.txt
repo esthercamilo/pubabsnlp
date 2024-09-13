@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Sep'}
+Is It Time for Systematic Voriconazole Pharmacogenomic Investigation for Central Nervous System Aspergillosis?
+Voriconazole is the standard treatment for invasive aspergillosis but requires therapeutic drug monitoring to optimize therapy. We report two cases of central nervous system aspergillosis treated with voriconazole. Because of low trough plasma concentrations, we identified gain-of-function mutations in CYP2C19 that were partially responsible for the therapeutic failure of voriconazole. We suggest that systematic voriconazole pharmacogenomic investigation of cerebral aspergillosis be performed to avoid effective therapy delay in this life-threatening disease.

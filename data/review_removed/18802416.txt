@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Oct'}
+Universal health care, genomic medicine and Thailand: investing in today and tomorrow.
+One potential outcome of investing in genomic medicine is the provision of tools for creating a more cost-effective health-care system. Partly with this aim in mind, Thailand has launched two genotyping initiatives: the Thai SNP Discovery Project and the Thai Centre for Excellence in Life Sciences Pharmacogenomics Project. Together, these projects will help Thailand understand the genomic diversity of its population and explore the role that this diversity has in drug response and disease susceptibility in its population. A major future challenge will be for Thailand to integrate genomic medicine in its relatively young universal health-care system.

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Mar', 'Day': '14'}
+Integration analysis of metabolites and single nucleotide polymorphisms improves the prediction of drug response of celecoxib.
+Pharmacogenetics and pharmacometabolomics are the common methods for personalized medicine, either genetic or metabolic biomarkers have limited predictive power for drug response.

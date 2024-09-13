@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Dec'}
+The pharmacogenetics of metformin and its impact on plasma metformin steady-state levels and glycosylated hemoglobin A1c.
+The aim of this study was to evaluate the effect of genetic variations in OCT1, OCT2, MATE1, MATE 2, and PMAT on the trough steady-state plasma concentration of metformin and hemoglobin A1c (Hb1Ac).

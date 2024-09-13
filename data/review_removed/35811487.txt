@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jun'}
+Genetic markers of drug hypersensitivity in pediatrics: current state and promise.
+Drug hypersensitivity reactions (DHRs) represent a great challenge to clinicians due to their unpredictability and severity, notably being potentially fatal. Genetic markers for DHRs have been emerging as potential valuable clinical tools for prediction and diagnosis of DHRs. Dedicated pediatric studies in this field are scarce and many published studies lack key data in this regard.

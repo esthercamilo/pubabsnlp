@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Aug'}
+Pharmacogenomics, biochemistry, toxicology, microbiology and cancer research in one go.
+Arylamine N-acetyltransferases (NATs) are phase II xenobiotic metabolizing enzymes playing a key role in the detoxification and metabolic activation of aromatic amine xenobiotics. The triennial International NAT Workshop has been an important academic meeting where developments in the study of NATs and aromatic amine metabolism have been presented. The 2010 Workshop took place in University Paris Diderot Paris, France. Topics included: structures and functions of eukaryotic and prokaryotic NATs, gene regulation and expression of human NATs, polymorphisms and their effects, arylamine metabolism and toxicity. Nomenclature issues were also discussed.

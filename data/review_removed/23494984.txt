@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jul'}
+Simultaneous pharmacogenetics-based population pharmacokinetic analysis of darunavir and ritonavir in HIV-infected patients.
+Darunavir is a potent protease inhibitor of HIV. To enhance its pharmacokinetic profile, darunavir must be co-administered with ritonavir. There is wide inter-patient variability in darunavir pharmacokinetics among HIV-infected individuals, however. Darunavir is a known substrate for influx transporters, such as the 1A2 and the 1B1 members of the solute carrier organic anion transporter family (SLCO1A2, SLCO1B1), as well as for efflux transporters such as the multi-drug resistance protein 1 (MRP1).

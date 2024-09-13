@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Aug'}
+Transmembrane Domain Single-Nucleotide Polymorphisms Impair Expression and Transport Activity of ABC Transporter ABCG2.
+To study the function and expression of nine naturally occurring single-nucleotide polymorphisms (G406R, F431L, S441N, P480L, F489L, M515R, L525R, A528T and T542A) that are predicted to reside in the transmembrane regions of the ABC transporter ABCG2.

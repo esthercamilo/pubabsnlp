@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Mar', 'Day': '01'}
+Evaluation of pharmacogenomic evidence for drugs related to <i>ADME</i> genes in CPIC database.
+Clinical Pharmacogenetics Implementation Consortium (CPIC) is a platform that advances the pharmacogenomics (PGx) practice by developing evidence-based guidelines. The purpose of this study was to analyze the CPIC database for ADME related genes and their corresponding drugs, and evidence level for drug-gene pairs; and to determine the presence of these drug-gene pairs in the highest mortality diseases in the United States.

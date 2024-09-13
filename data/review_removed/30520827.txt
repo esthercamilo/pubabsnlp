@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Feb'}
+Switching Immunosuppression From Cyclosporine to Tacrolimus in Kidney Transplant Recipients Based on CYP3A5 Genotyping.
+Kidney transplant recipients on long-term cyclosporine (CsA) therapy may develop multiple adverse drug events, and immunosuppression conversion from CsA to tacrolimus (Tac) is an option. Genetic variations, especially cytochrome P450 (CYP) 3A5*3, affects Tac dosing. However, little information is available to guide the conversion with regards to patients' pharmacogenomics. We aimed to investigate whether CYP3A5, CYP3A4, and ABCB1 genotyping could contribute to a more precise and individualized initial dosing of Tac at the time of immunosuppressant conversion.

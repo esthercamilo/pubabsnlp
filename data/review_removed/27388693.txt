@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jan'}
+Prediction of CYP2D6 phenotype from genotype across world populations.
+Owing to its highly polymorphic nature and major contribution to the metabolism and bioactivation of numerous clinically used drugs, CYP2D6 is one of the most extensively studied drug-metabolizing enzymes and pharmacogenes. CYP2D6 alleles confer no, decreased, normal, or increased activity and cause a wide range of activity among individuals and between populations. However, there is no standard approach to translate diplotypes into predicted phenotype.

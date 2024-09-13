@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Apr'}
+Warfarin pharmacogenetic trials: is there a future for pharmacogenetic-guided dosing?
+“In clinical practice, it is common for warfarin to be initiated at a fixed dose for the first several doses.”

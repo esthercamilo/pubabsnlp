@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Genetic variations in NADPH-CYP450 oxidoreductase in a Czech Slavic cohort.
+Estimating polymorphic allele frequencies of the NADPH-CYP450 oxidoreductase (POR) gene in a Czech Slavic population.

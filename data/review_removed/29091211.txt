@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Oct', 'Day': '01'}
+Influence of ABCB11 and HNF4α genes on daclatasvir plasma concentration: preliminary pharmacogenetic data from the Kineti-C study.
+Daclatasvir is an inhibitor of HCV non-structural 5A protein and is a P-glycoprotein substrate. Pharmacogenetics has had a great impact on previous anti-HCV therapies, particularly considering the association of IL-28B polymorphisms with dual therapy outcome.

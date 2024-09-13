@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Nov'}
+An update on ethnic differences in drug metabolism and toxicity from anti-cancer drugs.
+Based on recent emerging evidence of inter-ethnic differences in drug response and toxicity, ethnic diversity in pharmacokinetics, pharmacogenomics and clinical outcomes are being increasingly investigated. Ultimately, this will promote improved understanding of inter-individual differences in the pharmacokinetics and tolerance of cytotoxic drugs.

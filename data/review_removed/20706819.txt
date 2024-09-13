@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Aug'}
+The genetics of inflammatory bowel disease: diagnostic and therapeutic implications.
+The genetics of inflammatory bowel diseases (IBD) has brought new insight into the spectrum of disease phenotypes that are collectively labeled as either Crohn's disease or ulcerative colitis. In concert with the pharmacogenomics of drug therapy, it has led clinicians to develop the notion of a more tailored approach to therapy.

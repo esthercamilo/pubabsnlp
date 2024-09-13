@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'May'}
+A genome-wide interaction analysis of tricyclic/tetracyclic antidepressants and RR and QT intervals: a pharmacogenomics study from the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) consortium.
+Increased heart rate and a prolonged QT interval are important risk factors for cardiovascular morbidity and mortality, and can be influenced by the use of various medications, including tricyclic/tetracyclic antidepressants (TCAs). We aim to identify genetic loci that modify the association between TCA use and RR and QT intervals.

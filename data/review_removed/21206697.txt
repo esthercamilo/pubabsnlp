@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Sep'}
+Pharmacogenomics of pediatric asthma.
+Asthma is a complex disease with multiple genetic and environmental factors contributing to it. A component of this complexity is a highly variable response to pharmacological therapy. Pharmacogenomics is the study of the role of genetic determinants in the variable response to therapy. A number of examples of possible pharmacogenomic approaches that may prove of value in the management of asthma are discussed below.

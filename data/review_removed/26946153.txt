@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'May'}
+First external quality assurance program of the Italian HLA-B*57:01 Network assessing the performance of clinical virology laboratories in HLA-B*57:01 testing.
+Since the HLA-B*57:01 allele is strongly associated with abacavir hypersensitivity reaction, testing for the presence of HLA-B*57:01 is mandatory before administration of abacavir. While HLA-B*57:01 testing is usually provided by pharmacogenetics, genetics or blood transfusion services, clinical virology laboratories can be an optimal opportunity for HLA-B*57:01 testing since they receive blood samples for routine HIV monitoring and have the expertise for convenient and less expensive PCR-based point mutation assays.

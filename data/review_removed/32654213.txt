@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Oct'}
+National survey of physicians' perspectives on pharmacogenetic testing in solid organ transplantation.
+Our objective was to evaluate physicians' perspectives on the clinical utility of pharmacogenetic (PGx) testing in kidney, liver, heart, and lung transplantation (KLHL-Tx).

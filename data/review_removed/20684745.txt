@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Jan'}
+Atypical antipsychotics for the treatment of behavioral and psychological symptoms in dementia, with a particular focus on longer term outcomes and mortality.
+Many people with Alzheimer's disease (AD) and other dementias are prescribed atypical antipsychotics for behavioral and psychiatric symptoms such as aggression and psychosis. Recent evidence has highlighted safety concerns regarding antipsychotics in these individuals.

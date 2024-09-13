@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Oct'}
+Markers of cholesterol absorption and synthesis predict the low-density lipoprotein cholesterol response to atorvastatin.
+Genetic loci predict <5% of variation in low-density lipoprotein cholesterol (LDL-C) response to statins. Cholestanol and desmosterol are plasma markers of cholesterol absorption and synthesis, respectively. Because statins lower LDL-C by inhibiting cholesterol synthesis, we studied the relationship between cholestanol and desmosterol and LDL-C response to atorvastatin.

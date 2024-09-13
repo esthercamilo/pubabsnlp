@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Apr'}
+The role of candidate genetic polymorphisms in the interaction between voriconazole and cyclosporine in patients undergoing allogeneic hematopoietic cell transplantation: An explorative study.
+To evaluate polymorphisms in genes of drug metabolizing enzymes and transporters involved in cyclosporine and/or voriconazole disposition among patients undergoing allogeneic hematopoietic cell transplantation (allo-HCT).

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Season': 'Jan-Dec'}
+Phase I study of vinblastine in combination with nilotinib in children, adolescents, and young adults with refractory or recurrent low-grade glioma.
+New rescue regimens are needed for pediatric refractory/recurrent low-grade glioma. Nilotinib is a tyrosine kinase inhibitor that has potential synergistic effects with vinblastine on angiogenesis, tumor cell growth, and immunomodulation.

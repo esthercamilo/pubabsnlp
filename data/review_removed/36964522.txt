@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Mar', 'Day': '24'}
+Sex-biased molecular differences in lung adenocarcinoma are ethnic and smoking specific.
+Sex-related differences in cancer epidemiology, tumor biology, immune system activity, and pharmacogenomics have been suggested to be important considerations for precision cancer control. Here we elucidated systematically sex biases in genetic variants, gene expression profiles, and immunological landscapes of lung adenocarcinoma patients (LUADs) with different ancestry and smoking status.

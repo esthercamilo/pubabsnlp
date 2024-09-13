@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Apr'}
+Pharmacogenomics and asthma treatment: acceptability to children, families and healthcare professionals.
+Evidence supporting personalised treatment for asthma based on an individual's genetics is mounting. The views of children and young people (CYP), parents and healthcare professionals (HCPs) about this evolution of clinical care are not known.

@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Clinician Perspectives on Using Pharmacogenomics in Clinical Practice.
+To describe the knowledge and attitudes of clinicians participating in a large pharmacogenomics implementation program.

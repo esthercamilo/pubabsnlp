@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'May'}
+Human immunodeficiency virus therapeutics and pharmacogenomics.
+Pharmacogenomics and pharmacogenetics are promising in development of a personalized treatment approach They are of paramount importance for basic immunology, for peptide based vaccine design (vaccinomics) drug monitoring in clinical setting and molecular pathophysiology of multifactorial diseases like cancer, tuberculosis, cardiac disorders, diabetes, asthma, HIV, etc.

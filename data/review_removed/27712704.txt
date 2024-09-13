@@ -1,0 +1,3 @@
+{'Year': '2016', 'Season': 'Sep-Oct'}
+Measuring High-Risk Patients' Preferences for Pharmacogenetic Testing to Reduce Severe Adverse Drug Reaction: A Discrete Choice Experiment.
+To investigate patient preferences and willingness to pay (WTP) for a genetic test that can reduce the risk of life-threatening adverse drug reactions (ADRs). We hypothesize that test features (risk of developing the adverse reaction with and without testing, test cost, and treatment cost) and the choice context (physician recommendation and the most common choice made by peer patients) will influence choices.

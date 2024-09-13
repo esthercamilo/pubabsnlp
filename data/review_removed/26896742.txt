@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'May', 'Day': '15'}
+Impact of 5-HTTLPR on SSRI serotonin transporter blockade during emotion regulation: A preliminary fMRI study.
+The short ('S') allele of the serotonin transporter (5-HTT)-linked polymorphic region (5-HTTLPR) is associated with increased negative emotion processing bias, and this polymorphism moderates acute effects of selective serotonin reuptake inhibitor (SSRI) treatment. In this preliminary study, we explore the moderating effect of 5-HTTLPR on the impact of the SSRI, escitalopram during emotion regulation of negative emotional stimuli.

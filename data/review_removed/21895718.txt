@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Mar'}
+Genetic polymorphisms of genes coding to alcohol-metabolizing enzymes in western Mexicans: association of CYP2E1*c2/CYP2E1*5B allele with cirrhosis and liver function.
+Alcoholic cirrhosis constitutes a major public health problem in the world where ADH1B, ALDH2, and CYP2E1 polymorphisms could be playing an important role. We determined ADH1B*2, ALDH2*2, and CYP2E1*c2 allele frequencies in healthy control individuals (C) and patients with alcoholic cirrhosis (AC) from western Mexico.

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Apr'}
+<i>TRIB3</i> rs6037475 is a potential biomarker for predicting felodipine drug response in Chinese patients with hypertension.
+Our previous studies have found that single nucleotide polymorphisms (SNPs) of <i>tribbles homolog 3</i> (<i>TRIB3</i>) are related to the hypotensive effects of calcium-channel blockers (CCBs) and angiotensin-converting enzyme (ACE) inhibitors. In this study, we aimed at exploring and validating the effect of <i>TRIB3</i> polymorphism on antihypertensive drugs responses.

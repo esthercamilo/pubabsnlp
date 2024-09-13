@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Aug'}
+Pharmacogenetic testing for the guidance of psychiatric treatment: a multicenter retrospective analysis.
+We investigated the association between clinical outcome and the recommendations of a pharmacogenetic test (Neuropharmagen) in patients with a variety of psychiatric conditions whose previous treatment regimen had failed.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Feb', 'Day': '15'}
+The GG genotype of the serotonin 4 receptor genetic polymorphism, rs1345697, is associated with lower remission rates after antidepressant treatment: Findings from the METADAP cohort.
+Pharmacological studies have yielded valuable insights into the role of the serotonin 4 receptor (HTR4) in major depressive episodes (MDE) and response to antidepressant drugs (AD). A genetic association has been shown between HTR4 and susceptibility to mood disorders. Our study aims at assessing the association between the HTR4 genetic polymorphism, rs1345697, and improvement in depressive symptoms and remission after antidepressant treatment in MDE patients.

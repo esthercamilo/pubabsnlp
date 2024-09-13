@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Dec'}
+Pharmacokinetic and pharmacogenomic modelling of the CYP3A activity marker 4β-hydroxycholesterol during efavirenz treatment and efavirenz/rifampicin co-treatment.
+To assess the effect of the major efavirenz metabolizing enzyme (CYP2B6) genotype and the effects of rifampicin co-treatment on induction of CYP3A by efavirenz.

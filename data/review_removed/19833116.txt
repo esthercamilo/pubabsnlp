@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jan'}
+High-level expression of early growth response-1 and association of polymorphism with total IgE and atopy in allergic rhinitis adults.
+Early growth response-1 (Egr-1) is expressed in human airways and its polymorphisms have been associated with total IgE and atopy in asthmatic patients. We investigated the effects of Chinese-tagging single nucleotide polymorphism (SNP) of Egr-1 and its mRNA expression on allergic rhinitis (AR) traits.

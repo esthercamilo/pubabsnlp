@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Nov', 'Day': '01'}
+Polymorphisms in folate-metabolizing enzymes and response to 5-fluorouracil among patients with stage II or III rectal cancer (INT-0144; SWOG 9304).
+Recurrence and toxicity occur commonly among patients with rectal cancer who are treated with 5-fluorouracil (5-FU). The authors hypothesized that genetic variation in folate-metabolizing genes could play a role in interindividual variability. The objective of the current study was to evaluate the associations between genetic variants in folate-metabolizing genes and clinical outcomes among patients with rectal cancer treated with 5-FU.

@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Oct'}
+Role of chemical structures and the 1331T>C bile salt export pump polymorphism in idiosyncratic drug-induced liver injury.
+Several pharmaceutical compounds have been shown to exert inhibitory effects on the bile salt export pump (BSEP) encoded by the ABCB11 gene. We analysed the combined effect on drug-induced liver injury (DILI) development of the ABCB11 1331T>C polymorphism and the presence of specific chemical moieties, with known BSEP inhibiting properties, in the causative drug.

@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Mar'}
+Impact of STAT1 polymorphisms on crizotinib-induced hepatotoxicity in ALK-positive non-small cell lung cancer patients.
+Crizotinib is the first-line small molecule tyrosine kinase inhibitor for ALK-positive non-small cell lung cancer. In this study, a retrospective pharmacogenomics investigation was conducted to explore the relationship between genes related to RTK downstream signaling pathways and crizotinib-induced hepatic toxicity in ALK-positive NSCLC patients.

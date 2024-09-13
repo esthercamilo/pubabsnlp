@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Technical Challenges and Opportunities when Implementing Pharmacogenomics Decision Support Integrated in the Electronic Health Record.
+Clinical use of pharmacogenomic (PGx) knowledge at the bedside is new and complex. Our program has implemented multiple PGx-CDS interventions in different clinical settings and in multiple commercial EHRs. Herein, we discuss lessons learned and propose general technical guidelines related to PGx implementation.

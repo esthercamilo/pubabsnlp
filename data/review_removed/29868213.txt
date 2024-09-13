@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Disease burden and the role of pharmacogenomics in African populations.
+The burden of communicable and non-communicable diseases in Sub-Saharan Africa poses a challenge in achieving quality healthcare. Although therapeutic drugs have generally improved health, their efficacy differs from individual to individual. Variability in treatment response is mainly because of genetic variants that affect the pharmacokinetics and pharmacodynamics of drugs.

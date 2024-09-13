@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jul'}
+Genetic polymorphisms of pharmacogenomic VIP variants in the Dai population from Yunnan province.
+Pharmacogenomics plays a crucial role in individualized therapy, but the variant information of pharmacogenomics in the Dai population is limited. We therefore aimed to screen very important pharmacogenetic (VIP) in the Dai population and compared differences between Dai and other 25 populations.

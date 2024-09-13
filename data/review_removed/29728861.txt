@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jan'}
+Patient characteristics driving clinical utility in psychiatric pharmacogenetics: a reanalysis from the AB-GEN multicentric trial.
+Clinical utility of commercial multi-gene pharmacogenetic tests in depression is starting to be studied with some promising results on efficacy and tolerability. Among the next steps is the definition of the patient profile that is most likely to benefit from testing. Here we present a reanalysis of data from the AB-GEN randomized clinical trial showing that clinical utility of pharmacogenetic testing can be markedly influenced by patient characteristics such as age, baseline severity and duration of current depressive episode.Trial registration ClinicalTrials.gov NCT02529462.

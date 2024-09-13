@@ -1,0 +1,3 @@
+{'Year': '2014'}
+The use of haplotype-specific transcripts improves sample annotation consistency.
+Exact sample annotation in expression microarray datasets is essential for any type of pharmacogenomics research.

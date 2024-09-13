@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jun'}
+Genetic determinants of lipid-lowering response to atorvastatin therapy in an Indian population.
+Statins form the backbone of lipid-lowering therapy for the prevention of cardiovascular disease. However, there is large interindividual variability in clinical response to statin treatment. Several gene variants that can be aligned to either the pharmacokinetics or pharmacodynamics of statin have been proposed as potentially important determinants of statin response. We aimed to study the association of known variations in SLCO1B1, CYP3A4, ABCB1, CYP3A5, ABCG5 and CYP7A1 genes with lipid levels in response to atorvastatin therapy.

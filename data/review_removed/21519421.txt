@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Mar', 'Day': '10'}
+Pharmacogenomics training using an instructional software system.
+To implement an elective course in pharmacogenomics designed to teach pharmacy students about the fundamentals of pharmacogenomics and the anticipated changes it will bring to the profession.

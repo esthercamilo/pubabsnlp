@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jan'}
+Integrating anatomo-physiological changes and pharmacogenomics in anti-infective therapy management: is it a major concern?
+Success of anti-infective therapy is a major challenge in some patients given anatomo-physiological changes and genetic variations. In this case anecdote, we report the management strategy of a patient suffering from chronic pulmonary aspergillosis in a context of anorexia nervosa and genetic polymorphism.

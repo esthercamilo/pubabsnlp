@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Dec'}
+Towards Allograft Longevity: Leveraging Omics Technologies to Improve Heart Transplant Outcomes.
+Heart transplantation (HT) remains the optimal therapy for patients living with end-stage heart disease. Despite recent improvements in peri-transplant management, the median survival after HT has remained relatively static, and complications of HT, including infection, rejection, and allograft dysfunction, continue to impact quality of life and long-term survival.

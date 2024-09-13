@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Dec'}
+The influence of ethnicity on warfarin dosage requirements in the chilean population.
+Vitamin K antagonists are drugs that are widely prescribed around the world and their use has helped improve the prognosis of patients with thromboembolic disease. However, a high interindividual variability has been observed in dosage requirements to reach the desired anticoagulation range that could be due to environmental and genetic factors. Studies suggest that ethnicity influences coumarin response, supporting the observed differences in dose requirements across various populations. Studies using mitochondrial DNA (mtDNA) markers have suggested that the Chilean population has a predominantly Amerindian genetic pool.

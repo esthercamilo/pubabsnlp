@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Sep'}
+Differential expression of genes related to calcineurin and mTOR signaling and regulatory miRNAs in peripheral blood from kidney recipients under tacrolimus-based therapy.
+Genetic and epigenetics factors have been implicated in drug response, graft function and rejection in solid organ transplantation. Differential expression of genes involved in calcineurin and mTOR signaling pathway and regulatory miRNAs was analyzed in the peripheral blood of kidney recipient cohort (n=36) under tacrolimus-based therapy.

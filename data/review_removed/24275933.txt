@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Nov'}
+[Pharmacogenetics. Clinical relevance in anesthsiology].
+Pharmacogenetics deals with hereditary factors which influence the pharmacodynamics and pharmacokinetics of drugs leading to individual diverse reactions. Also in anesthesiology differences in the pharmacogenetics of patients can lead to relevant alterations in the pharmacodynamics of drugs.

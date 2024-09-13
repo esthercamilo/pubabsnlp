@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jun'}
+Evaluation of methodology for the analysis of 'time-to-event' data in pharmacogenomic genome-wide association studies.
+To evaluate the power to detect associations between SNPs and time-to-event outcomes across a range of pharmacogenomic study designs while comparing alternative regression approaches.

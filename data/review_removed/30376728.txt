@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Feb'}
+Chemical pharmacotherapy for the treatment of orthostatic hypotension.
+Orthostatic hypotension (OH) is a common yet often overlooked condition. Particularly debilitating is neurogenic orthostatic hypotension (nOH) caused by deficient neurotransmission of norepinephrine, which is the primary neurotransmitter released at sympathetic peripheral vascular nerve terminals in response to orthostatic stress.

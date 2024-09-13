@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Observational study to calculate addictive risk to opioids: a validation study of a predictive algorithm to evaluate opioid use disorder.
+Opioid abuse in chronic pain patients is a major public health issue, with rapidly increasing addiction rates and deaths from unintentional overdose more than quadrupling since 1999.

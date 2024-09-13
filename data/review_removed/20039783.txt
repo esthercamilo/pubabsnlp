@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Feb'}
+Pharmacogenetic testing in the United Kingdom genetics and immunogenetics laboratories.
+For certain drugs, pharmacogenetic tests can reduce adverse drug reactions and improve treatment efficacy. However, the adoption of pharmacogenetics into clinical practice has been relatively slow. One potential barrier is the capacity of laboratories to meet the demands of a clinical pharmacogenetic service. We aimed to establish the range, capacity to deliver, and demand for germline pharmacogenetic testing in the United Kingdom and Ireland, through an e-survey of 34 molecular genetics and 28 histocompatibility and immunogenetics (H&I) laboratories.

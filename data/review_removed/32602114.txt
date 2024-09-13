@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Feb'}
+PharmVar GeneFocus: CYP2C19.
+The Pharmacogene Variation Consortium (PharmVar) catalogues star (*) allele nomenclature for the polymorphic human CYP2C19 gene. CYP2C19 genetic variation impacts the metabolism of many drugs and has been associated with both efficacy and safety issues for several commonly prescribed medications. This GeneFocus provides a comprehensive overview and summary of CYP2C19 and describes how haplotype information catalogued by PharmVar is utilized by the Pharmacogenomics Knowledgebase and the Clinical Pharmacogenetics Implementation Consortium (CPIC).

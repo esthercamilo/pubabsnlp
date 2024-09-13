@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Allele Drop Out Conferred by a Frequent CYP2D6 Genetic Variation For Commonly Used CYP2D6*3 Genotyping Assays.
+Accurate genotyping of CYP2D6 is challenging due to its inherent genetic variation, copy number variation (duplications and deletions) and hybrid formation with highly homologous pseudogenes. Because a relatively high percentage (∼25%) of clinically prescribed drugs are substrates for this enzyme, accurate determination of its genotype for phenotype prediction is essential.

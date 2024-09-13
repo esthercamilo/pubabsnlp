@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Nov'}
+Triazole antifungal agents drug-drug interactions involving hepatic cytochrome P450.
+Triazole antifungal agents are often prescribed as first-line therapy for candidemia, in non-neutropenic hosts and invasive pulmonary aspergillosis, and in critically ill patients who receive many concomitant medications. As substrates and inhibitors of cytochrome P450 (CYP), the triazoles can interact with many drugs, which may lead to enhanced toxicity of the concomitant medication(s) or ineffective antifungal treatment. Therefore, clinicians must understand the drug interaction profile of this class.

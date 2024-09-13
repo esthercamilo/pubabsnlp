@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jun'}
+Population pharmacokinetics and pharmacogenetics of apatinib in adult cancer patients.
+Apatinib is widely used in Chinese cancer patients. As the in vivo drug disposition of apatinib has large individual differences, adverse events are prone to occur. Cytochrome P450 (CYP)3A5 and cancer types maybe the main factors affecting this individual differences. The objective of our study was to establish a population pharmacokinetics (PK) model of apatinib in adult cancer patients, and to explore optimal dosage regimens for individualized treatment.

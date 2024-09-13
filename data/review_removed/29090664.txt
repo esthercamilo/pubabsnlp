@@ -1,0 +1,3 @@
+{'Year': '2018'}
+Pharmacogenetics of Metabolic Genes of Anthracyclines in Acute Myeloid Leukemia.
+Anthracyclines in combination with cytarabine have been the standard therapy for acute myeloid leukemia (AML) for decades with high efficacy. However, the majority of patients will show initial resistance or will relapse after initial complete remission. Genetic variability in genes involved in anthracyclines metabolic pathway could be one of the causes of the interindividual differences in clinical outcomes.

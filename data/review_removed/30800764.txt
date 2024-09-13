@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar', 'Day': '27'}
+Medical Genetics Ethics Case Collection: Discussion Materials for Medical Students in the Genomic Era.
+This collection of cases in medical genetics focuses on ethical dimensions of genetic testing. Given the recent and continuing revolution in genetic testing technologies, understanding the nuances of genetic tests and the implications of their outcomes for patients is a critical learning goal for medical students.

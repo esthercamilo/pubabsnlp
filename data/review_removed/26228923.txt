@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Interactive effects of CYP3A4, CYP3A5, MDR1 and NR1I2 polymorphisms on tracrolimus trough concentrations in early postrenal transplant recipients.
+To evaluate the influences of CYP3A4, CYP3A5, MDR1 and NR1I2 polymorphisms on tacrolimus concentration in early postrenal transplant recipients.

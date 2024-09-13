@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jan'}
+Pharmacogenetics testing (DPYD and UGT1A1) for fluoropyrimidine and irinotecan in routine clinical care: Perspectives of medical oncologists and oncology pharmacists.
+Despite robust evidence and international guidelines, to support routine pharmacogenetic (PGx) testing, integration in practice has been limited. This study explored clinicians' views and experiences of pre-treatment DPYD and UGT1A1 gene testing and barriers to and enablers of routine clinical implementation.

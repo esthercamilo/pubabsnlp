@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Oct'}
+Genetic and non-genetic factors responsible for antiplatelet effects of clopidogrel in Japanese patients undergoing coronary stent implantation: an algorithm to predict on-clopidogrel platelet reactivity.
+Antiplatelet effects of clopidogrel appear to be affected by various factors including genetic polymorphism. So far, there has been little information about the response of clopidogrel in Asians, whose prevalence of a CYP2C19 loss-of-function (LOF) allele is high.

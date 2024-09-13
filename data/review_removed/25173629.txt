@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Feb', 'Day': '01'}
+Nucleus accumbens medium spiny neuron subtypes mediate depression-related outcomes to social defeat stress.
+The nucleus accumbens is a critical mediator of depression-related outcomes to social defeat stress. Previous studies demonstrate distinct neuroplasticity adaptations in the two medium spiny neuron (MSN) subtypes, those enriched in dopamine receptor D1 versus dopamine receptor D2, in reward and reinforcement leading to opposing roles for these MSNs in these behaviors. However, the distinct roles of nucleus accumbens MSN subtypes, in depression, remain poorly understood.

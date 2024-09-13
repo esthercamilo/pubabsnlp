@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Oct'}
+The impact of pharmacogenomics on the management of cardiac disease.
+Pharmacogenomics promises to help maximize efficacy and minimize adverse drug reactions. It could have a significant impact on the treatment of cardiovascular disease, the leading cause of death in the United States. The past decade has seen pharmacogenomics move from study of a candidate gene to genome-wide approaches, with the development of a series of pharmacogenetic tests. However, many barriers need to be overcome for cardiovascular pharmacogenomics to have its promised clinical impact.

@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'May'}
+Pharmacogenetics of the effects of colesevelam on colonic transit in irritable bowel syndrome with diarrhea.
+Protein products of klothoβ (KLB) and fibroblast growth factor receptor 4 (FGFR4) impact fibroblast growth factor 19-mediated feedback inhibition of hepatic bile acid (BA) synthesis. Variants of KLB and FGFR4 influence colonic transit (CT) in diarrhea-predominant irritable bowel syndrome (IBS-D).

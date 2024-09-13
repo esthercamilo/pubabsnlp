@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Dec'}
+Impact of age, sex and cytochrome P450 genotype on quetiapine and N-desalkylquetiapine serum concentrations: A study based on real-world data from 8118 patients.
+To investigate the effect of aging, sex and cytochrome P450 (CYP) genotypes on the exposure of quetiapine (QUE) and the pharmacologically active metabolite N-desalkylquetiapine (NDQ).

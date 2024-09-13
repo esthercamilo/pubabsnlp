@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jul'}
+Variants in ADRB1 and CYP2C9: Association with Response to Atenolol and Losartan in Marfan Syndrome.
+To test whether variants in ADRB1 and CYP2C9 genes identify subgroups of individuals with differential response to treatment for Marfan syndrome through analysis of data from a large, randomized trial.

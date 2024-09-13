@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Feb'}
+Genetic polymorphisms are associated with variations in warfarin maintenance dose in Han Chinese patients with venous thromboembolism.
+Warfarin is a clinical anticoagulant that requires periodic monitoring because it is associated with adverse outcomes. Personalized medicine, which is based on pharmacogenetics, holds great promise in solving these types of problems. It aims to provide the tools and knowledge to tailor drug therapy to an individual patient, with the potential of increasing safety and efficacy of medications.

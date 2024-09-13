@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jul'}
+Clinical and genetic features of Argentinian children with diabetes-onset before 12months of age: Successful transfer from insulin to oral sulfonylurea.
+Neonatal diabetes mellitus (NDM) is a rare monogenic disorder, reported to affect less than 2 cases per 100,000 infants. There are two types, permanent (PNDM) and transient (TNDM). We describe our clinical experience in determining and comparing the genetic basis of diabetes in children with onset before 6months versus those diagnosed between 6 and 12months of age.

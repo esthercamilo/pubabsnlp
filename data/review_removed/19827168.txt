@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Jun'}
+Genetic polymorphisms in folate pathway enzymes as a possible marker for predicting the outcome of methotrexate therapy in Japanese patients with rheumatoid arthritis.
+Low-dose methotrexate (MTX) therapy is widely used in the treatment of rheumatoid arthritis (RA). Though the difference in response to MTX between patients with RA is large, the factors that contribute to this variability remain unclear.

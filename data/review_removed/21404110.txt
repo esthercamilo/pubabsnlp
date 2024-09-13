@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Nov'}
+Population pharmacokinetics and pharmacogenetics of vincristine in paediatric patients treated for solid tumour diseases.
+The interindividual variability of vincristine pharmacokinetics is quite large, but the origins of this variability are not properly understood. The aim of this study was to develop a population pharmacokinetic model of vincristine in a paediatric population treated for solid tumour disease and evaluate the impact of different ABCB1, CYP3A4 and CYP3A5 polymorphisms on the different pharmacokinetic parameters.

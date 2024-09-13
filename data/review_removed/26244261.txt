@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Dihydropyrimidinase and β-ureidopropionase gene variation and severe fluoropyrimidine-related toxicity.
+To assess the association of DPYS and UPB1 genetic variation, encoding the catabolic enzymes downstream of dihydropyrimidine dehydrogenase, with early-onset toxicity from fluoropyrimidine-based chemotherapy.

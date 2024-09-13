@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Sep'}
+Vitamin D receptor gene polymorphism and vitamin D supplementation on clinical/ treatment outcome in tuberculosis: current and future perspectives.
+Tuberculosis (TB) is a transnational public health concern, which requires more precise treatment strategies than the existing approaches. Vitamin D modulates the inflammatory and immune response to the disease. Robust evidence shows that vitamin D deficiency and its receptor gene polymorphism influence the susceptibility to TB and the outcome of the anti-tubercular treatment (ATT). However, in the different populations, these findings were inconsistent and even contradictory.

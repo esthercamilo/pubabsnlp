@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Apr'}
+Multidisciplinary model to implement pharmacogenomics at the point of care.
+Despite potential clinical benefits, implementation of pharmacogenomics (PGx) faces many technical and clinical challenges. These challenges can be overcome with a comprehensive and systematic implementation model.

@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Corrigendum to "Pharmacogenetics of Risperidone and Cardiovascular Risk in Children and Adolescents".
+[This corrects the article DOI: 10.1155/2016/5872423.].

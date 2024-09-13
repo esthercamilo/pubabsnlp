@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Dec'}
+Genetics and pharmacogenetics of substance use disorders.
+The "Genetics and Pharmacogenetics of Substance Use Disorder" session was chaired by Dr. Pao-Luh Tao and had three speakers. The speakers and their topics were: Dr. Li-Shiun Chen presented on Genomics and Personalized Medicine for Smoking Cessation Treatments, Dr. Chih-Ken Chen presented on the Genetics of Methamphetamine Abuse and Methamphetamine Psychosis, and Dr. Yu-Li Liu presented on a Pharmacogenomics Study in a Taiwan Methadone Maintenance Cohort.

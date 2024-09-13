@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Dec'}
+Pharmacogenetics of the mycophenolic acid targets inosine monophosphate dehydrogenases IMPDH1 and IMPDH2: gene sequence variation and functional genomics.
+Inosine monophosphate dehydrogenases, encoded by IMPDH1 and IMPDH2, are targets for the important immunosuppressive drug, mycophenolic acid (MPA). Variation in MPA response may result, in part, from genetic variation in IMPDH1 and IMPDH2.

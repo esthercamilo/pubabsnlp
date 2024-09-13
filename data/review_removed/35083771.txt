@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jul'}
+Statin treatment effectiveness and the SLCO1B1*5 reduced function genotype: Long-term outcomes in women and men.
+To estimate the effect of rs4149056 (SLCO1B1*5) genotype (decreases statin transport) on cholesterol control and treatment duration in male and female primary care patients prescribed common statin medications.

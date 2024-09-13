@@ -1,0 +1,3 @@
+{'Year': '2022'}
+Baseline Testosterone Predicts Body Composition and Metabolic Response to Testosterone Therapy.
+Male hypogonadism adversely affects body composition, bone mineral density (BMD), and metabolic health. A previous report showed that pre-treatment testosterone (T) levels of <200 ng/dl is associated with greater improvement in spine BMD with T therapy. However, to date, there is no study that investigates whether baseline T levels also influence body composition and metabolic response to T therapy.

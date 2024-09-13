@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '01'}
+Pharmacogenetics of tuberculosis treatment toxicity and effectiveness in a large Brazilian cohort.
+Genetic polymorphisms have been associated with risk of anti-tuberculosis treatment toxicity. We characterized associations with adverse events and treatment failure/recurrence among adults treated for tuberculosis in Brazil.

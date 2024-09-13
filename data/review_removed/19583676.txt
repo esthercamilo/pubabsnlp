@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Aug'}
+Comparison of linkage disequilibrium patterns and haplotype structure of eight single nucleotide polymorphisms across the CYP1A2 gene between the Korean, and other populations registered in the International HapMap database.
+The aim of this study was to determine the frequencies of CYP1A2 gene polymorphisms, analyze Linkage disequilibrium (LD) blocks and haplotypes in a Korean population, and compare them with those in African, European, Japanese and Chinese populations.

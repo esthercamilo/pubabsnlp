@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'May', 'Day': '01'}
+Effectiveness of Genotype-Specific Tricyclic Antidepressant Dosing in Patients With Major Depressive Disorder: A Randomized Clinical Trial.
+Evidence of the clinical benefit of pharmacogenetics-informed treatment (PIT) with antidepressants is still limited. Especially for tricyclic antidepressants (TCAs), pharmacogenetics may be of interest because therapeutic plasma concentrations are well defined, identification of optimal dosing can be time consuming, and treatment is frequently accompanied by adverse effects.

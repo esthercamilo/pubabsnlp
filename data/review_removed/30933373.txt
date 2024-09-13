@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Aug'}
+Warfarin dose requirement in patients having severe thrombosis or thrombophilia.
+Warfarin dose requirement varies significantly. We compared the clinically established doses based on international normalized ratio (INR) among patients with severe thrombosis and/or thrombophilia with estimates from genetic dosing algorithms.

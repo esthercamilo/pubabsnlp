@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Feb', 'Day': '10'}
+Use of Clopidogrel and Proton Pump Inhibitors Alone or in Combinations in Persons with Diabetes in Denmark; Potential for CYP2C19 Genotype-Guided Drug Therapy.
+Clopidogrel and proton pump inhibitors (PPIs) are among the most used drugs in Denmark for which there exists pharmacogenomics (PGx)-based dosing guidelines and FDA annotations. In this study, we further scrutinized the use of clopidogrel and PPIs when prescriptions were redeemed from Danish Pharmacies alone or in combination in the Danish population and among persons with diabetes in Denmark. The focus deals with the potential of applying PGx-guided antiplatelet therapy taking both drug-drug interactions (DDI) and drug-gene interactions (DGI) into account.

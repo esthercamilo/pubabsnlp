@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Oct'}
+Clinical variables, not RAAS polymorphisms, predict blood pressure response to ACE inhibitors in Sardinians.
+No definite factors predict blood pressure response to angiotensin-converting enzyme-inhibitors. The aim of this study was to test the association of gene polymorphisms of the renin-angiotensin-aldosterone system with essential hypertension and anthropometric variables, intermediate phenotypes and gene polymorphisms with blood pressure after fosinopril in a genetically homogeneous cohort.

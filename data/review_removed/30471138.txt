@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Mar'}
+Pharmacogenetics of artemether-lumefantrine influence on nevirapine disposition: Clinically significant drug-drug interaction?
+In this study the influence of first-line antimalarial drug artemether-lumefantrine on the pharmacokinetics of the antiretroviral drug nevirapine was investigated in the context of selected single nucleotide polymorphisms (SNPs) in a cohort of adult HIV-infected Nigerian patients.

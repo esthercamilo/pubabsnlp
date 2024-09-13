@@ -1,0 +1,3 @@
+{'Year': '2023'}
+Genetic analysis of the equine orthologues for human CYP2D6: unraveling the complexity of the CYP2D family in horses.
+Because of their importance as companion animals or as racehorses, horses can be treated with various drugs. Although it is known that drug withdrawal times can vary for each horse, pharmacogenetics for these animals has not been adequately studied and requires further development. Since <i>CYP2D6</i> is responsible for the metabolism of 25-30% of drugs in humans, including some used to treat horses, a study of the <i>CYP2D</i> family in horses was conducted to define its genetic structure as well as its expression pattern in the liver.

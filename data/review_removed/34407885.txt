@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Aug', 'Day': '18'}
+Perception of personalized medicine, pharmacogenomics, and genetic testing among undergraduates in Hong Kong.
+The global development and advancement of genomic medicine in the recent decade has accelerated the implementation of personalized medicine (PM) and pharmacogenomics (PGx) into clinical practice, while catalyzing the emergence of genetic testing (GT) with relevant ethical, legal, and social implications (ELSI).

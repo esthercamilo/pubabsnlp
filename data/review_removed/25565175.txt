@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Mar'}
+Perspectives on pharmacogenomics of antiretroviral medications and HIV-associated comorbidities.
+To summarize current knowledge and provide perspective on relationships between human genetic variants, antiretroviral medications, and aging-related complications of HIV-1 infection.

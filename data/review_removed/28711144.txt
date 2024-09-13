@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Aug'}
+Genetics of Juvenile Idiopathic Arthritis.
+Juvenile idiopathic arthritis (JIA) affects approximately 1 in 1000 US children. The cause of JIA is most likely multifactorial and due to an interplay of genetics and environmental factors. This article summarizes the known genetic risk factors for JIA that have been identified, and in some cases replicated, using a variety of methods, including genomewide association and candidate gene association studies. A brief discussion regarding pharmacogenomics and studies to data linking genetics to treatment response and outcomes is included.

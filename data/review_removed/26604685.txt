@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Prevalence of the rs7903146C>T polymorphism in TCF7L2 gene for prediction of type 2 diabetes risk among Iranians of different ethnicities.
+Pharmacogenetics is the study of genetic polymorphisms affecting responses to drug therapy. The common rs7903146 (C>T) polymorphism of the TCF7L2 gene has recently been associated with type 2 diabetes (T2D). In this study, prevalence of the rs7903146 (C>T) polymorphism in the TCF7L2 gene for prediction of T2D risk was examined in an Iranian population of different ethnicities.

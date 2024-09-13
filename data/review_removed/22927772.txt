@@ -1,0 +1,3 @@
+{'Year': '2012'}
+Clinical application of pharmacogenetic-based warfarin-dosing algorithm in patients of Han nationality after rheumatic valve replacement: a randomized and controlled trial.
+The polymorphisms of VKORC1 and CYP2C9 play increasingly important roles in the inter-individual variability in warfarin dose. This study aimed to evaluate the feasibility of clinical application of pharmacogenetic-based warfarin-dosing algorithm in patients of Han nationality with rheumatic heart disease after valve replacement in a randomized and controlled trial.

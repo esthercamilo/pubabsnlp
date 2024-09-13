@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Apr'}
+Indicated association between polygenic risk score and treatment-resistance in a naturalistic sample of patients with schizophrenia spectrum disorders.
+One third of people diagnosed with schizophrenia fail to respond adequately to antipsychotic medication, resulting in persisting disabling symptoms, higher rates of hospitalization and higher costs for society. In an effort to better understand the mechanisms behind resistance to antipsychotic treatment in schizophrenia, we investigated its potential relationship to the genetic architecture of the disorder.

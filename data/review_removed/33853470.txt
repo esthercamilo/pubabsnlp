@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jun'}
+Feasibility of preemptive pharmacogenetic testing in colorectal cancer patients within a community oncology setting.
+Pharmacogenetics, in hand with precision medicine in oncology, represents an opportunity to holistically tailor a patient's treatment regimen using both somatic and germline variants to improve efficacy and decrease toxicity. Colorectal cancer patients represent a population with frequent use of fluoropyrimidine and irinotecan and are an ideal opportunity for implementation of preemptive pharmacogenetics as evidence supports pharmacogenetic testing for <i>DPYD</i> and <i>UGT1A1</i> to reduce fluoropyrimidine and irinotecan toxicities.

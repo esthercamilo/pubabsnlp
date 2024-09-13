@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Oct'}
+Pharmacogenetic factors affecting β-blocker metabolism and response.
+β-blockers are among the most widely prescribed of all drugs, used for treatment of a large number of cardiovascular diseases. Herein we evaluate literature pertaining to pharmacogenetics of β-blocker therapy, provide insight into the robustness of the genetic associations, and determine the appropriateness for translating these genetic associations into clinical practice.

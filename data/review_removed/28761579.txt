@@ -1,0 +1,3 @@
+{'Year': '2017'}
+A Bayesian Approach for Population Pharmacokinetic Modeling of Alcohol in Japanese Individuals.
+Blood alcohol concentration data that were previously obtained from 34 healthy Japanese subjects with limited sampling times were reanalyzed. Characteristics of the data were that the concentrations were obtained from only the early part of the time-concentration curve.

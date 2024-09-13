@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Apr'}
+Pharmacogenomic determinants of the cardiovascular effects of dalcetrapib.
+Dalcetrapib did not improve clinical outcomes, despite increasing high-density lipoprotein cholesterol by 30%. These results differ from other evidence supporting high-density lipoprotein as a therapeutic target. Responses to dalcetrapib may vary according to patients' genetic profile.

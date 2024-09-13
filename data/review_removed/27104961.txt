@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jul'}
+Precision medicine for psychopharmacology: a general introduction.
+Precision medicine is an emerging medical model that can provide accurate diagnoses and tailored therapeutic strategies for patients based on data pertaining to genes, microbiomes, environment, family history and lifestyle.

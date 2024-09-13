@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Mar'}
+A retrospective analysis of preemptive pharmacogenomic testing in 22,918 individuals from China.
+Pharmacogenomics (PGx) examines the influence of genetic variation on drug responses. With more and more Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines published, PGx is gradually shifting from the reactive testing of single gene toward the preemptive testing of multiple genes. But the profile of PGx genes, especially for the intra-country diversity, is not well understood in China.

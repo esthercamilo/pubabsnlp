@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Genetic Analysis of Pharmacogenomic VIP Variants of ABCB1, VDR and TPMT Genes in an Ethnically Isolated Population from the North Caucasus Living in Jordan.
+Differences in individual responses to the same medications remarkably differ among populations. A number of genes that play integral roles in drug responses have been designated as very important pharmacogenes (VIP), as they are responsible for differences in drug safety, efficacy, and adverse drug reactions among certain ethnic groups. Identifying the polymorphic distribution of VIP in a range of ethnic groups will be conducive to population-based personalized medicine.

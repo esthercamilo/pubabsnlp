@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jul'}
+Tamoxifen Dose Escalation in Patients With Diminished CYP2D6 Activity Normalizes Endoxifen Concentrations Without Increasing Toxicity.
+Polymorphic CYP2D6 is primarily responsible for metabolic activation of tamoxifen to endoxifen. We previously reported that by increasing the daily tamoxifen dose to 40 mg/day in CYP2D6 intermediate metabolizer (IM), but not poor metabolizer (PM), patients achieve endoxifen concentrations similar to those of extensive metabolizer patients on 20 mg/day. We expanded enrollment to assess the safety of CYP2D6 genotype-guided dose escalation and investigate concentration differences between races.

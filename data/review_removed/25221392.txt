@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jul'}
+Pharmacogenetic evaluation of ABCB1, Cyp2C9, Cyp2C19 and methylene tetrahydrofolate reductase polymorphisms in teratogenicity of anti-epileptic drugs in women with epilepsy.
+Pregnancy in women with epilepsy (WWE) who are on anti-epileptic drugs (AEDs) has two- to three-fold increased risk of fetal malformations. AEDs are mostly metabolized by Cyp2C9, Cyp2C19 and Cyp3A4 and transported by ABCB1. Patients on AED therapy can have folate deficiency. We hypothesize that the polymorphisms in ABCB1, Cyp2C9, Cyp2C19 and methylene tetrahydrofolate reductase (MTHFR) might result in differential expression resulting in differential drug transport, drug metabolism and folate metabolism, which in turn may contribute to the teratogenic impact of AEDs.

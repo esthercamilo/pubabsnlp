@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Oct'}
+Potential role of CMPK1, SLC29A1, and TLE4 polymorphisms in gemcitabine-based chemotherapy in HER2-negative metastatic breast cancer patients: pharmacogenetic study results from the prospective randomized phase II study of eribulin plus gemcitabine versus paclitaxel plus gemcitabine (KCSG-BR-13-11).
+In this study, we evaluated the association between genetic polymorphisms of 23 genes associated with gemcitabine metabolism and the clinical efficacy of gemcitabine in breast cancer patients.

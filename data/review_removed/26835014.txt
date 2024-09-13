@@ -1,0 +1,3 @@
+{'Year': '2016'}
+Pharmacogenomically actionable medications in a safety net health care system.
+Prior to implementing a trial to evaluate the economic costs and clinical outcomes of pharmacogenetic testing in a large safety net health care system, we determined the number of patients taking targeted medications and their clinical care encounter sites.

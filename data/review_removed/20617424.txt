@@ -1,0 +1,3 @@
+{'Year': '2010'}
+Pharmacogenomics in thrombosis.
+Inherited or acquired genetic abnormalities play a major role in thromboembolic complications. The goal of pharmacogenomics is to tailor medications to an individual's genetic makeup in order to improve the benefit-to-risk ratio. Significant findings have been documented showing the effect of certain genetic variations (e.g., in CYP2C9 and VKORC1) on the dose response to warfarin. Pharmacogenomic and genetic information is crucial to improving the efficacy and safety of pharmacotherapy and for the optimal management of thromboembolic disorders.

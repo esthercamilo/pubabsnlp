@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jun'}
+Cytochrome P450 pharmacogenetics in African populations: implications for public health.
+Africa harbors a disproportionate burden of disease when taking into account the triple challenge caused by HIV/AIDS, tuberculosis (TB) and malaria, against a backdrop of an increasing burden of noncommunicable diseases. More than 80% of therapeutic drugs used in the management of these diseases/conditions are metabolized by CYP enzymes that exhibit genetic polymorphisms.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Mar'}
+Fast and frugal trees: translating population-based pharmacogenomics to medication prioritization.
+Fast and frugal decision trees (FFTs) can simplify clinical decision making by providing a heuristic approach to contextual guidance. We wanted to use FFTs for pharmacogenomic knowledge translation at point-of-care.

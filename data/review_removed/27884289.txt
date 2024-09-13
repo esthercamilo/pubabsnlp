@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Dec'}
+Psoriasis Therapy: Breakthroughs in Pharmacogenomics or in Pharmacology?
+As the cost of psoriasis therapies skyrockets, it becomes increasingly important to find biomarkers that predict which patients will respond to expensive medications. The ability to predict response to a specific therapy is particularly important for medications that are effective in only a small portion of the population. As we develop medications that clear most patients, the need for a predictive biomarker diminishes. Nevertheless, the importance of pharmacogenomics is likely to increase as the cost of drugs continues to rise.

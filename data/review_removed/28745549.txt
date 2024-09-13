@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Aug'}
+Prior opioid exposure influences parents' sharing of their children's CYP2D6 research results.
+To determine parents' use of their children's CYP2D6 research result. We hypothesized that perceived utility, likelihood of sharing and actual sharing of results would differ between parents with children previously exposed (cases) or unexposed (controls) to opioids.

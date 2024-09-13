@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jun'}
+Estimation of CYP3A4*1B single nucleotide polymorphism in patients with recurrent Major Depressive Disorder.
+Major depression is the most common mental illness in the world. Failures in treatment may occur due to the presence of a subtype of depression called TRD (Treatment- Resistant Depression). CYP3A4 polymorphism (rs2740574) can increase the activity of Cytochrome P450 3A4, contributing to faster metabolism of xenobiotics and reduced response to treatment. The aim of the study was to assess the distribution of CYP3A4*1B in study and control group and to estimate the influence of particular genotypes on parameters such as: age at onset, severity of symptoms before treatment and on the effectiveness of therapy.

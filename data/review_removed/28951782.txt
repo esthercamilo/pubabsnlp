@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Influence of genetic variants on renal uric acid handling in response to frusemide: an acute intervention study.
+Genetic variation in the renal urate transporters <i>SLC2A9</i> (GLUT9) and <i>SLC22A11</i> (OAT4) has been reported to interact with diuretics to increase the risk of developing gout. The aim of this study was to determine whether variation in <i>SLC2A9</i> or <i>SLC22A11</i> influences acute renal handling of uric acid in response to frusemide.

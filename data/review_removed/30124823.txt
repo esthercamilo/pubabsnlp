@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Aug', 'Day': '16'}
+Pharmacokinetics, Pharmacodynamics, and Pharmacogenetics of Efavirenz 400 mg Once Daily During Pregnancy and Post-Partum.
+A clinical trial showed that efavirenz 400 mg once daily (EFV400) is as effective as the standard adult dose. World Health Organization recommends EFV400 as an alternative first-line agent, but data are lacking in the third trimester of pregnancy (TT). We investigated the pharmacokinetics, efficacy, and CYP2B6 pharmacogenetics in HIV-infected women (WLWH) on EFV400 during TT and post-partum (PP).

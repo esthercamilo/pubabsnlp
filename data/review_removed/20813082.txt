@@ -1,0 +1,3 @@
+{'Year': '2010'}
+[Optimization of monogenic diabetes screening programme--initial report on recruitment efficacy of the TEAM project].
+Due to the lack of precise diagnostic criteria, current search strategy for monogenic diabetes is predominantly based on atypical clinical course of diabetes and intuition of the attending physician. Yet another issue is the common view that monogenic diabetes is rare. It discourages from performing deepened diagnostics and makes it difficult to gain experience necessary to select appropriate patients for genetic examination.

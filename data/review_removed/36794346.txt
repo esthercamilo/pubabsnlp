@@ -1,0 +1,3 @@
+{'Year': '2023', 'Season': 'Jul-Dec'}
+Identification of adverse drug reactions that may be related to pharmacogenetics in a public hospital in the South of Brazil.
+Adverse drug reactions (ADRs) are of great concern in clinical practice. Pharmacogenetics can identify individuals and groups at increased risk of developing ADRs, enabling treatment adjustments to improve outcomes. The study aimed to determine the prevalence of ADRs related to drugs with pharmacogenetic evidence level 1A in a public hospital in Southern Brazil.

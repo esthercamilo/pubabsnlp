@@ -1,0 +1,3 @@
+{'Year': '2016', 'Season': 'May-Jun'}
+Verification of five pharmacogenomics-based warfarin administration models.
+This study aims to screen and validate five individual warfarin dosing models (four Asian model algorithms, namely, Ohno, Wen, Miao, Huang, and the algorithm of International Warfarin Pharmacogenetic Consortium, namely IWPC algorithm) with the aim of evaluating their accuracy, practicality, and safety.

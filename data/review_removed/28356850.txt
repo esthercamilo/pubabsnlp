@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Oct'}
+Influence of Promoter Polymorphisms of the TNF-α (-308G/A) and IL-6 (-174G/C) Genes on Therapeutic Response to Etanercept in Rheumatoid Arthritis.
+The study was undertaken to assess the influence of functional -308G/A TNF-α (rs 1800629) and -174G/C IL-6 (rs1800795) promoter polymorphisms on the therapeutic response to etanercept, a TNF-α blocker, in patients with rheumatoid arthritis (RA).

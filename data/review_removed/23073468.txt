@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Nov', 'Day': '27'}
+Comparison of pharmacokinetics and pharmacogenetics of once- and twice-daily tacrolimus in the early stage after renal transplantation.
+This study investigated pharmacokinetic and pharmacogenetic differences between a modified-release once-daily formulation of tacrolimus (Tac-QD) and the original formulation requiring twice-daily intake (Tac-BID) in de novo renal transplant recipients.

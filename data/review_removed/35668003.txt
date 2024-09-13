@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Sep'}
+Cost-effectiveness of DPYD Genotyping Prior to Fluoropyrimidine-based Adjuvant Chemotherapy for Colon Cancer.
+Adjuvant fluoropyrimidine-based chemotherapy substantially reduces recurrence and mortality after resection of stage 3 colon cancer. While standard doses of 5-fluorouracil and capecitabine are safe for most patients, the risk of severe toxicity is increased for the approximately 6% of patients with dihydropyimidine dehydrogenase (DPD) deficiency caused by pathogenic DPYD gene variants. Pre-treatment screening for pathogenic DPYD gene variants reduces severe toxicity but has not been widely adopted in the United States.

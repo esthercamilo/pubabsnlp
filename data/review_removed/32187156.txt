@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jun'}
+Knowledge, attitude, and practice towards pharmacogenomics among hospital pharmacists in Thailand.
+Pharmacogenomics (PGx) is the use of human genomic information to avoid toxicity and optimize efficacy of drug therapy in an individual. Hospital pharmacists are the key persons to facilitate the incorporation of PGx into clinical practice. PGx is relatively new to Thai hospital pharmacists. Therefore, this study aimed to evaluate the knowledge, attitude, and practice of Thai hospital pharmacists towards PGx implementation.

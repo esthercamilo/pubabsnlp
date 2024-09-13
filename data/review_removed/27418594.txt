@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Aug'}
+Genotype-Dependent Effects of Dalcetrapib on Cholesterol Efflux and Inflammation: Concordance With Clinical Outcomes.
+Dalcetrapib effects on cardiovascular outcomes are determined by adenylate cyclase 9 gene polymorphisms. Our aim was to determine whether these clinical end point results are also associated with changes in reverse cholesterol transport and inflammation.

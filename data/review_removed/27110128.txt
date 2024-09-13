@@ -1,0 +1,3 @@
+{'Year': '2016'}
+ABCB1 and ABCC2 and the risk of distant metastasis in Thai breast cancer patients treated with tamoxifen.
+Genetic polymorphisms of drug-metabolizing enzymes and transporters have been extensively studied with regard to tamoxifen treatment outcomes. However, the results are inconclusive. Analysis of organ-specific metastasis may reveal the association of these pharmacogenetic factors. The aim of this study is to investigate the impact of CYP3A5, CYP2D6, ABCB1, and ABCC2 polymorphisms on the risk of all distant and organ-specific metastases in Thai patients who received tamoxifen adjuvant therapy.

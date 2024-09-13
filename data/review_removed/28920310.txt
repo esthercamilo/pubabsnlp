@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Aug'}
+The 12th National Lung Cancer Academic Conference in China.
+  The 12th National Lung Cancer Academic Conference was held in Wu Han, China in 2011.

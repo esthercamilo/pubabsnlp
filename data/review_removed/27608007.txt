@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Sep', 'Day': '05'}
+Pharmacogenetics Biomarkers and Their Specific Role in Neoadjuvant Chemoradiotherapy Treatments: An Exploratory Study on Rectal Cancer Patients.
+Pathological complete response (pCR) to neoadjuvant chemoradiotherapy (CRT) in locally advanced rectal cancer (LARC) is still ascribed to a minority of patients. A pathway based-approach could highlight the predictive role of germline single nucleotide polymorphisms (SNPs). The primary aim of this study was to define new predictive biomarkers considering treatment specificities. Secondary aim was to determine new potential predictive biomarkers independent from radiotherapy (RT) dosage and cotreatment with oxaliplatin.

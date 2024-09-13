@@ -1,0 +1,3 @@
+{'Year': '2012', 'Season': 'Jul-Aug'}
+Effect of anti-tuberculosis therapy on polymorphic drug metabolizing enzyme CYP2C9 using phenytoin as a probe drug.
+Patients on anti-tuberculosis therapy (ATT) are more prone to drug interactions in the presence of coexisting illnesses which warrant drug therapy. Rifampicin is a strong CYP enzyme inducer while isoniazid is a potent CYP inhibitor. The objective of the study was to find the net effect of one month ATT on CYP2C9 enzyme and to correlate it with respect to the CYP2C9 genetic polymorphisms.

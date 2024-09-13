@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Nov'}
+The role of pharmacogenetics in the treatment of anxiety disorders and the future potential for targeted therapeutics.
+Anxiety disorders (AD) are among the most common mental disorders worldwide. Pharmacotherapy, including benzodiazepines, selective serotonin reuptake inhibitors, serotonin-norepinephrine reuptake inhibitors, and tricyclic antidepressants is currently based on 'trial-and-error,' and is effective in a subset of patients or produces partial response only. Recent research proposes that treatment response and tolerability of the drugs are associated with genetic factors.

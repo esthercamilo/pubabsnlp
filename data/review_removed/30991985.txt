@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Apr', 'Day': '16'}
+Genome sequencing analysis of blood cells identifies germline haplotypes strongly associated with drug resistance in osteosarcoma patients.
+Osteosarcoma is the most common malignant bone tumor in children. Survival remains poor among histologically poor responders, and there is a need to identify them at diagnosis to avoid delivering ineffective therapy. Genetic variation contributes to a wide range of response and toxicity related to chemotherapy. The aim of this study is to use sequencing of blood cells to identify germline haplotypes strongly associated with drug resistance in osteosarcoma patients.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Feb'}
+Pharmacogenetics of antipsychotics.
+During the past decades, increasing efforts have been invested in studies to unravel the influence of genetic factors on antipsychotic (AP) dosage, treatment response, and occurrence of adverse effects. These studies aimed to improve clinical care by predicting outcome of treatment with APs and thus allowing for individualized treatment strategies. We highlight most important findings obtained through both candidate gene and genome-wide association studies, including pharmacokinetic and pharmacodynamic factors.

@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Mar'}
+Association between variants in <i>TCF7L2</i>, <i>CTRB1/2</i>, and <i>GLP-1R</i> genes and response to therapy with glucagon-like peptide-1 receptor agonists.
+The factors determining the response to treatment with glucagon-like peptide-1 receptor agonists (GLP-1- RAs) have not been clarified. The present study investigated the association between polymorphisms in <i>TCF7L2</i>, <i>CTRB1/2</i>, and <i>GLP-1 R</i> genes and response to GLP-1 RAs regarding glycemic control and weight loss among Greek patients with type 2 diabetes mellitus (T2DM).

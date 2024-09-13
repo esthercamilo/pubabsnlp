@@ -1,0 +1,3 @@
+{'Year': '2024'}
+Comparative Analysis of Machine Learning Algorithms Evaluating the Single Nucleotide Polymorphisms of Metabolizing Enzymes with Clinical Outcomes Following Intravenous Paracetamol in Preterm Neonates with Patent Ductus Arteriosus.
+Pharmacogenomics has been identified to play a crucial role in determining drug response. The present study aimed to identify significant genetic predictor variables influencing the therapeutic effect of paracetamol for new indications in preterm neonates.

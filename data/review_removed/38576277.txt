@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Apr'}
+Treatment for Resistant Hypertension Under the Guidance of Pharmacogenomics: A Randomised Controlled Open-Label Trial.
+To evaluate the efficacy and safety of pharmacogenomics (PGx)-guided treatment in individuals with resistant hypertension (RH).

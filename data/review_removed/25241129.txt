@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Nov'}
+Genotyping common FSHR polymorphisms based on competitive amplification of differentially melting amplicons (CADMA).
+To provide an improved platform for simple, reliable, and cost-effective genotyping.

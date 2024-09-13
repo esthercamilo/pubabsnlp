@@ -1,0 +1,3 @@
+{'Year': '2017', 'Season': 'Nov-Dec'}
+Implementation of a Standardized Medication Therapy Management Plus Approach within Primary Care.
+The purpose of this study was to implement a clinical pharmacist-led medication therapy management (MTM) service within a primary-care setting that is enhanced by 1) a clinical decision support system (CDSS) that includes a unique combination of medication risk mitigation factors, which aids the pharmacist in interpreting the medication profile, and 2) pharmacogenomics (PGx) testing.

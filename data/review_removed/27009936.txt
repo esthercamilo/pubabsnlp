@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'May'}
+Patient-Reported Outcomes and Early Discontinuation in Aromatase Inhibitor-Treated Postmenopausal Women With Early Stage Breast Cancer.
+Early discontinuation of aromatase inhibitors (AIs) is common and leads to poor outcomes but is challenging to predict. In the Exemestane and Letrozole Pharmacogenetics trial, a high rate of early discontinuation due to intolerance was observed. We hypothesized that early changes in patient-reported outcomes (PROs) predict AI discontinuation and that biochemical factors are associated with changes in PROs.

@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Dec'}
+Demonstrating utility of pharmacogenetics in pediatric populations: methodological considerations.
+Interpretable and meaningful pharmacogenetic data are dependent on accurate characterization of phenotypes. High-quality reports are critical, and important clinical data must not be omitted. Adequate funding to fully support dedicated program personnel is essential to meet this requirement because an "employee-driven" network that funds its surveillance clinicians is likely to be more effective than a voluntary surveillance model in capturing both adequate numbers of cases and well-characterized clinical data for rigorous phenotyping.

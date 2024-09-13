@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Sep'}
+Recommendations for genetic testing to reduce the incidence of anthracycline-induced cardiotoxicity.
+Anthracycline-induced cardiotoxicity (ACT) occurs in 57% of treated patients and remains an important limitation of anthracycline-based chemotherapy. In various genetic association studies, potential genetic risk markers for ACT have been identified. Therefore, we developed evidence-based clinical practice recommendations for pharmacogenomic testing to further individualize therapy based on ACT risk.

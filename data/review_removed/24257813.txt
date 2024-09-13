@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Feb'}
+Genetic differences in cytochrome P450 enzymes and antidepressant treatment response.
+Antidepressant response varies between patients, possibly due to differences in the rate cytochrome P450 enzymes metabolise antidepressants into inactive compounds. Drug metabolism rates are influenced by common variants in the genes encoding these enzymes. However, it remains unclear whether treatment outcomes can be predicted by either CYP450 genotype or antidepressant serum concentration.

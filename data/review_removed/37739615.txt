@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Oct'}
+A first small step toward personalized immunosuppression.
+Lloberas et al. provide further evidence for the benefits of an individualized tacrolimus dosing algorithm based on population pharmacokinetics and pharmacogenetics. Better tacrolimus dosing could prevent underexposure and overexposure and potentially save costs. Most important, this could be the start of precision medicine in kidney transplantation, incorporating improved immunologic and donor quality assessments, advanced biopsy readouts, innovative pharmacogenomics for drug safety, and novel diagnostic and outcome algorithms to guide a truly personalized therapy.

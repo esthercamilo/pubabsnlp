@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Aug'}
+Pharmacogenetic considerations for late life depression therapy.
+Geriatric depression is a heterogeneous disorder with a complex genetic background. Current first-line treatment of depression is associated with a lower therapeutic outcome in aged depressed patients, when compared to younger subjects. Research which has explored this inadequate response has highlighted several factors which have come into play with the pharmacogenetics of antidepressants in the elderly being a particular area of interest.

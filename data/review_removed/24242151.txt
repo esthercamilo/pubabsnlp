@@ -1,0 +1,3 @@
+{'Year': '2013'}
+[Developments in pharmacotherapy: personalised pharmacotherapy?].
+Effect-sizes of pharmacological treatments for addictive disorders are limited and a substantial number of patients do not derive any benefit from these treatments.

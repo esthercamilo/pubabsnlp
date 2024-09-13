@@ -1,0 +1,3 @@
+{'Year': '2018'}
+Qualitative user evaluation of a revised pharmacogenetic educational toolkit.
+Pharmacogenetic (PGx) testing is a leading application for personalized and precision medicine; however, there are barriers, including limited provider and patient understanding, which affect its uptake. There is a need for tools that can enhance the patient and provider experience with testing and promoting the shared and informed decision-making.

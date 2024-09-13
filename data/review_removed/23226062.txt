@@ -1,0 +1,3 @@
+{'Year': '2012'}
+ABCB1 haplotype and OPRM1 118A > G genotype interaction in methadone maintenance treatment pharmacogenetics.
+Genetic variability in ABCB1, encoding the P-glycoprotein efflux transporter, has been linked to altered methadone maintenance treatment dose requirements. However, subsequent studies have indicated that additional environmental or genetic factors may confound ABCB1 pharmacogenetics in different methadone maintenance treatment settings. There is evidence that genetic variability in OPRM1, encoding the mu opioid receptor, and ABCB1 may interact to affect morphine response in opposite ways. This study aimed to examine whether a similar gene-gene interaction occurs for methadone in methadone maintenance treatment.

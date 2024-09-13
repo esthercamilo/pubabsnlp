@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'May', 'Day': '07'}
+[Genomic medicine and infectious diseases].
+Relentless progress in our knowledge of the nature and functional consequences of human genetic variation allows for a better understanding of the protracted battle between pathogens and their human hosts. Multiple polymorphisms have been identified that impact our response to infections or to anti-infective drugs, and some of them are already used in the clinic. However, to make personalized medicine a reality in infectious diseases, a sustained effort is needed not only in research but also in genomic education.

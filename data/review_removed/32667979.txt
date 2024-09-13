@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'May', 'Day': '18'}
+Implications of Efavirenz Pharmacogenetics When Switching From Efavirenz- to Dolutegravir-containing Antiretroviral Regimens.
+Many patients switch from efavirenz- to dolutegravir-based regimens. In a phase 1 dolutegravir-efavirenz interaction study, mean dolutegravir minimum concentration decreased by 60% and 85% among CYP2B6 normal and slow/intermediate metabolizers, respectively. Mean efavirenz half-life was 2.7 times greater in slow vs normal metabolizers. Slow metabolizers will experience more prolonged subtherapeutic dolutegravir concentrations.

@@ -1,0 +1,3 @@
+{'Year': '2020'}
+<i>SLC30A8, CDKAL1, TCF7L2, KCNQ1</i> and <i>IGF2BP2</i> are Associated with Type 2 Diabetes Mellitus in Iranian Patients.
+Type 2 diabetes mellitus (T2DM) is a serious public health issue with significantly increasing rates across the world. The genome-wide association studies (GWAS) have previously manifested involved genes that remarkably enhance the risk of T2DM. In this study, the association of common variants with T2DM risk has been identified among Iranian population from Tehran province of Iran.

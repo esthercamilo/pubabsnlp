@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Oct', 'Day': '22'}
+DBCSMOTE: a clustering-based oversampling technique for data-imbalanced warfarin dose prediction.
+Vitamin K antagonist (warfarin) is the most classical and widely used oral anticoagulant with assuring anticoagulant effect, wide clinical indications and low price. Warfarin dosage requirements of different patients vary largely. For warfarin daily dosage prediction, the data imbalance in dataset leads to inaccurate prediction on the patients of rare genotype, who usually have large stable dosage requirement. To balance the dataset of patients treated with warfarin and improve the predictive accuracy, an appropriate partition of majority and minority groups, together with an oversampling method, is required.

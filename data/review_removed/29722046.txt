@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Aug'}
+Pharmacogenomic biomarkers: Interpretation of information included in United States and Japanese drug labels.
+Many drug labels contain information on pharmacogenomic biomarkers (PGBMs), but the information is not necessarily actionable. Pharmacogenomics Knowledgebase (PharmGKB) aims to clarify the level of action for PGBMs (PGx levels) implied in each label as issued by the US Food and Drug Administration. We wished to evaluate the association between the PGx level for US and Japanese drug labels and the insurance coverage for PGBM testing or approval for in vitro diagnostics (IVDs) in each country.

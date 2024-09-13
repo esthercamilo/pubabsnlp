@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Aug'}
+Drug-induced liver injury: what was new in 2008?
+Given the number of publications appearing annually regarding drug-induced liver injury (DILI), there remains a need to concisely summarize each year's new crop of case series and reports as well as the advances in mechanisms of liver injury and in the field of pharmacogenomics relating to DILI.

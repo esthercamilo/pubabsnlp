@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Dec'}
+Effects of SCN1A and SCN2A polymorphisms on responsiveness to valproic acid monotherapy in epileptic children.
+This study was conducted to explore the influence of genetic variations on responsiveness to valproic acid (VPA) monotherapy among Chinese children with epilepsy.

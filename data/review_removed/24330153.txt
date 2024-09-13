@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Apr'}
+Host genome variations and risk of infections during induction treatment for childhood acute lymphoblastic leukaemia.
+To investigate association of host genomic variation and risk of infections during treatment for childhood acute lymphoblastic leukaemia (ALL).

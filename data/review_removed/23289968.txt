@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Mar'}
+Metabolic differences of current thienopyridine antiplatelet agents.
+Antithrombotics are one of the most commonly prescribed classes of medication around the world. The thienopyridines are an integral part of antithrombotic therapy and are prescribed for various indications including acute coronary syndrome, peripheral vascular disease and cerebrovascular disease. These drugs have distinct metabolic pathways, which lead to the formation of active metabolites that produce both observed clinical differences as well as pharmacokinetic and pharmacodynamic differences in response.

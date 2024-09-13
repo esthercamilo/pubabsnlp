@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'May'}
+Pharmacogenomic association study on the role of drug metabolizing, drug transporters and drug target gene polymorphisms in drug-resistant epilepsy in a north Indian population.
+In epilepsy, in spite of the best possible medications and treatment protocols, approximately one-third of the patients do not respond adequately to anti-epileptic drugs. Such interindividual variations in drug response are believed to result from genetic variations in candidate genes belonging to multiple pathways.

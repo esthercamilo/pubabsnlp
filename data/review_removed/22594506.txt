@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'May'}
+Program in pharmacogenomics at the Ohio State University Medical Center.
+Established in 2002, the Ohio State University Medical Center Program in Pharmacogenomics, lead by Wolfgang Sadee, is comprised of nearly 50 members dedicated to the discovery, investigation and translation of genetic biomarkers with the primary goal of advancing personalized healthcare. This article describes the research teams, bioinformatics infrastructure, supporting laboratories and Centers for Personalized Healthcare and for Clinical and Translational Science, current molecular genetic studies, translational and clinical pharmacogenomic studies, examples of biomarkers under development, and the future directions of the program.

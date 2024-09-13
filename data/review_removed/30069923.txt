@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jan'}
+CYP2D6 allele frequencies, copy number variants, and tandems in the population of Hong Kong.
+CYP2D6 plays a crucial role in drug metabolism of several drugs. It is known to be highly polymorphic with enzymatic activity ranging from poor to ultrarapid metabolic rates. While the frequencies of CYP2D6 alleles are generally known in different Asian populations, data on frequencies of the copy number variations (CNV) and tandems in CYP2D6 in which they occur are less well studied in these populations.

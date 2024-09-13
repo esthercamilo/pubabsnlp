@@ -1,0 +1,3 @@
+{'Year': '2022'}
+Economic Evaluation of Multiple-Pharmacogenes Testing for the Prevention of Adverse Drug Reactions in People Living with HIV.
+Pharmacogenetics (PGx) testing is one of the methods for determining whether individuals are at risk of adverse drug reactions (ADRs). It has been reported that multiple-PGx testing, a sequencing technology, has a higher predictive value than single-PGx testing. Therefore, this study aimed to determine the most cost-effective PGx testing strategies for preventing drug-induced serious ADRs in human immunodeficiency virus (HIV)-infected patients.

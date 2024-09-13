@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Aug'}
+Interethnic comparisons of important pharmacology genes using SNP databases: potential application to drug regulatory assessments.
+The frequencies of alleles implicated in drug-response variability provide vital information for public health management. Differences in frequencies between genetically diverse groups of individuals can hamper drug assessments, particularly in populations where clinical data are not readily available.

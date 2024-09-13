@@ -1,0 +1,3 @@
+{'Year': '2021'}
+No Association Between Pharmacogenomics Variants and Hospital and Emergency Department Utilization: A Mayo Clinic Biobank Retrospective Study.
+The use of pharmacogenomics data is increasing in clinical practice. However, it is unknown if pharmacogenomics data can be used more broadly to predict outcomes like hospitalization or emergency department (ED) visit. We aim to determine the association between selected pharmacogenomics phenotypes and hospital utilization outcomes (hospitalization and ED visits).

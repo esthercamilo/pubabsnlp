@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '01'}
+Type 2 diabetes: an exploratory genetic association analysis of selected metabolizing enzymes and transporters and effects on cardiovascular and renal biomarkers.
+This study sought to identify potential pharmacogenetic associations of selected enzymes and transporters with type 2 diabetes (T2D). In addition, pharmacogenomic profiles, concentrations of asymmetric dimethylarginine (ADMA) or kidney injury molecule-1 (KIM-1), and several covariates were investigated.

@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'May', 'Day': '01'}
+Norepinephrine Transporter Gene Variants and Remission From Depression With Venlafaxine Treatment in Older Adults.
+The primary objective of this study was to investigate five putatively functional variants of the norepinephrine transporter (SLC6A2, NET) and serotonin transporter (SLC6A4, SERT) genes and remission in depressed older adults treated with venlafaxine. A secondary objective was to analyze 17 other variants in serotonergic system genes (HTR1A, HTR2A, HTR1B, HTR2C, TPH1, TPH2) potentially involved in the mechanism of action of venlafaxine.

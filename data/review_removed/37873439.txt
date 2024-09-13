@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '02'}
+Discovery of Ancestry-specific Variants Associated with Clopidogrel Response among Caribbean Hispanics.
+High on-treatment platelet reactivity (HTPR) with clopidogrel is predictive of ischemic events in adults with coronary artery disease. Despite strong data suggesting HTPR varies with ethnicity, including clinical and genetic variables, no genome-wide association study (GWAS) of clopidogrel response has been performed among Caribbean Hispanics. This study aimed to identify genetic predictors of HTPR in a cohort of Caribbean Hispanic cardiovascular patients from Puerto Rico.

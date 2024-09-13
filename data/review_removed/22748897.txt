@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Jul'}
+Genetics and pharmacogenomics in pulmonary arterial hypertension.
+Pulmonary arterial hypertension (PAH) is an uncommon disease in the general population, but a disease with significant morbidity and mortality. The prevalence of heritable PAH (HPAH) remains unknown. The reason for incomplete penetrance of HPAH is not well understood. A patient's clinical response to disease-specific therapy is complex, involving the severity of the patient's disease, other comorbidities, appropriateness of the prescribed therapy, and patient compliance. Warfarin is often used as an adjuvant therapy in patients with PAH.

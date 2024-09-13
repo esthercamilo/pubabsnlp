@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jan', 'Day': '29'}
+A systems approach to designing effective clinical trials using simulations.
+Pharmacogenetics in warfarin clinical trials have failed to show a significant benefit in comparison with standard clinical therapy. This study demonstrates a computational framework to systematically evaluate preclinical trial design of target population, pharmacogenetic algorithms, and dosing protocols to optimize primary outcomes.

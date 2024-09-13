@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jul'}
+Prenatal exposure to serotonin reuptake inhibitors and congenital heart anomalies: an exploratory pharmacogenetics study.
+To explore the role of pharmacogenetics in determining the risk of congenital heart anomalies (CHA) with prenatal use of serotonin reuptake inhibitors.

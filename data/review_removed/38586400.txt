@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '15'}
+Genetic polymorphisms of CYP2C19 in ecuadorian population: An interethnic approach.
+<i>CYP2C19</i> is a highly polymorphic gene responsible for metabolizing commonly used drugs. <i>CYP2C19*2,*3</i> (loss of activity alleles) and <i>*17</i> (increased activity allele) are the principal alleles included in clinical guidelines, however their prevalence varies among different ethnicities. Ecuadorian population is formed by Mestizos, Afrodescendants and Native Americans and frequency of <i>CYP2C19</i> alleles could be different among them. The objective of this study was to establish the frequency of these variants in the different populations of Ecuador and to compare them with other populations.

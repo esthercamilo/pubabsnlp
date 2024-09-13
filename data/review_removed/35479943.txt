@@ -1,0 +1,3 @@
+{'Year': '2022'}
+<i>MTHFR</i> Gene Polymorphism Association With Psoriatic Arthritis Risk and the Efficacy and Hepatotoxicity of Methotrexate in Psoriasis.
+To assess whether <i>MTHFR</i> rs1801131 and rs1801133 SNPs are associated with concomitant psoriatic arthritis (PsA) and investigate the efficacy and hepatotoxicity of MTX in patients with psoriasis in the Han Chinese population.

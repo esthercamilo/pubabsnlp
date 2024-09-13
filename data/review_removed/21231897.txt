@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Feb'}
+Pharmacoeconomic evaluation of warfarin pharmacogenomics.
+the merit of applying pharmacogenomics in the induction phase of warfarin therapy for personalized dosing is controversial and highly dependent on its cost-effectiveness.

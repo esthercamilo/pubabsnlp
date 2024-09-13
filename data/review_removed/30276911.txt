@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Feb'}
+Does the nicotine metabolite ratio moderate smoking cessation treatment outcomes in real-world settings? A prospective study.
+In smoking treatment trials comparing varenicline with transdermal nicotine replacement therapy (NRT), stratified by nicotine metabolite (3-hydroxycotinine/cotinine) ratio (NMR), the relative benefit of varenicline is greater among normal rather than slow metabolizers. This study tested if the relative effectiveness of varenicline and NRT is associated with NMR status in a natural treatment setting. A secondary aim was to test if this relationship is moderated by behavioural support.

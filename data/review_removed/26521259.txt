@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Feb'}
+Population pharmacokinetics and pharmacogenetics of once daily tacrolimus formulation in stable liver transplant recipients.
+The once daily formulation of tacrolimus is an important immunosuppressive drug. Interpatient variability in metabolism has been related to genetic variation in CYP3A4 and CYP3A5. However, in liver transplantation, both donor and recipient genotypes may affect pharmacokinetics. The primary objective of this study was to investigate the effect of CYP3A4*22 and CYP3A5*3 of both donor and recipient on once daily tacrolimus pharmacokinetics. The secondary objective was to develop a limited sampling model able to accurately predict exposure.

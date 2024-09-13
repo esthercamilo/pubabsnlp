@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jan'}
+Precision Medicine Landscape of Genomic Testing for Patients With Cancer in the National Institutes of Health All of Us Database Using Informatics Approaches.
+The rapid growth of biomedical data ecosystems has catalyzed research for oncology and precision medicine. We leverage federal cloud-based precision medicine databases and tools to better understand the current landscape of precision medicine and genomic testing for patients with cancer.

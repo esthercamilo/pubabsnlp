@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Oct'}
+Tacrolimus pharmacodynamics and pharmacogenetics along the calcineurin pathway in human lymphocytes.
+Although therapeutic drug monitoring has improved the clinical use of immunosuppressive drugs, there is still interpatient variability in efficacy and toxicity that pharmacodynamic monitoring may help to reduce. To select the best biomarkers of tacrolimus pharmacodynamics, we explored the strength and variability of signal transduction and the influence of polymorphisms along the calcineurin pathway.

@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jun'}
+Developing Chinese race-specific warfarin dose prediction algorithms.
+Numerous genotype-guided warfarin dosing algorithms have been developed to individualize warfarin doses, but they can only explain 47-52% of the variability.

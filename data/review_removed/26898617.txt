@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Mar'}
+Association of pharmacokinetics and pharmacogenomics with safety and efficacy of gefitinib in patients with EGFR mutation positive advanced non-small cell lung cancer.
+Gefitinib is a potent epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor and is a key drug for patients with EGFR mutation-positive advanced non-small cell lung cancer (NSCLC). The pharmacokinetics of orally administered gefitinib varies greatly among patients. We prospectively evaluated the association of pharmacokinetics and pharmacogenomics with the safety and efficacy of gefitinib in patients with EGFR mutation-positive advanced NSCLC.

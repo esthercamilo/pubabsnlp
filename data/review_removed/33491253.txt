@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Aug'}
+Haplotype structure defines effects of common DPYD variants c.85T > C (rs1801265) and c.496A > G (rs2297595) on dihydropyrimidine dehydrogenase activity: Implication for 5-fluorouracil toxicity.
+The aim of this study was to identify risk variants and haplotypes that impair dihydropyrimidine dehydrogenase (DPD) activity and are, therefore, candidate risk variants for severe toxicity to 5-fluorouracil (5-FU) chemotherapy.

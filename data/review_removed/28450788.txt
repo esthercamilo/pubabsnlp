@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Effects of <i>CYP2D6</i> and <i>CYP3A5</i> polymorphisms on tamoxifen and its metabolites in Thai breast cancer patients.
+This study aimed to determine the effects of <i>CYP2D6</i> and <i>CYP3A5</i> polymorphisms on the levels of tamoxifen (TAM) and its metabolites in the plasma of breast cancer patients. The protocol was designed to test the associations between <i>CYP2D6</i>, <i>CYP3A5</i> genotypes and phenotypes (extensive metabolizer [EM], intermediate metabolizer [IM] and poor metabolizer [PM]) and TAM, <i>N</i>-desmethyl tamoxifen (NDMT), endoxifen (END) and 4-hydroxytamoxifen (4OHT) concentrations.

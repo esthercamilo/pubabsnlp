@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Dec'}
+Pharmacogenetics and the serotonin transporter in late-life depression.
+The etiologies of variable antidepressant response remain elusive. Aging and age-related illness add to the complexity and heterogeneity of late-life depression. The serotonin transporter (5-HTT) is the principal site of initial action for several antidepressants, including serotonin re-uptake inhibitors (SSRIs). The serotonin transporter-linked polymorphic region (5-HTTLPR) is the most widely studied polymorphism of the 5-HTT gene, SLC6A4, and is suspected of conferring vulnerability to elderly depression and resistance to treatment.

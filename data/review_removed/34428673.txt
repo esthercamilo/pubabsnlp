@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Oct'}
+Genetics plays a limited role in predicting chronic obstructive pulmonary disease treatment response and exacerbation.
+Combination treatments, targeting multiple disease processes, benefit subjects with acute exacerbation of chronic obstructive pulmonary disease (AECOPD). However, predicting treatment response and exacerbation risk remain challenging.

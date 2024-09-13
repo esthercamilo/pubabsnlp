@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Feb'}
+Pain Management Using Clinical Pharmacy Assessments With and Without Pharmacogenomics in an Oncology Palliative Medicine Clinic.
+Approximately 30% of patients with cancer who have pain have symptomatic improvement within 1 month using conventional pain management strategies. Engaging clinical pharmacists in palliative medicine (PM) and use of pharmacogenomic testing may improve cancer pain management.

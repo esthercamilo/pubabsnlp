@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Mar'}
+Characterization of cytochrome P450 (CYP) 2D6 drugs as substrates of human organic cation transporters and multidrug and toxin extrusion proteins.
+The metabolic activity of cytochrome P450 (CYP) 2D6 is highly variable and CYP2D6 genotypes insufficiently explain the extensive and intermediate metabolic phenotypes, limiting the prediction of drug response plus adverse drug reactions. Since CYP2D6 prototypic substrates are positively charged, the aim of this study was to evaluate the organic cation transporters (OCTs) and multidrug and toxin extrusion proteins (MATEs) as potential contributors to the variability of CYP2D6 hydroxylation of debrisoquine, dextromethorphan, diphenhydramine, perhexiline and sparteine.

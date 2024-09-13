@@ -1,0 +1,3 @@
+{'Year': '2013'}
+Pharmacogenomics of acute lymphoid leukemia: new insights into treatment toxicity and efficacy.
+Childhood acute lymphoblastic leukemia (ALL) provides an outstanding model for pharmacogenomic research: it is a drug-responsive disseminated cancer that is cured with medications alone in ∼ 85% of patients, but relapse remains unacceptably high for some subgroups. Inherited genomic variation contributes to the risk of relapse and to the risk of short- and long-term serious adverse effects of therapy. Our goal is to identify the inherited genomic variants that contribute to interindividual differences in response in patients with ALL. We discuss results of whole-genome interrogations of germline DNA in ALL.

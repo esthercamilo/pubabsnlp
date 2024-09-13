@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jan'}
+Pharmacogenomic testing for CYP2C19 and CYP2D6 in cyclic vomiting syndrome.
+Amitriptyline (AT) is recommended as first-line prophylactic therapy in patients with cyclic vomiting syndrome (CVS). However, significant side effects limit its use and dosing is based on trial and error. Though the Clinical Pharmacogenetic Implementation Consortium (CPIC) Guidelines recommend dosing for AT based on CY2D6 and CYP2C19 genotype profile, this is not followed in clinical practice.

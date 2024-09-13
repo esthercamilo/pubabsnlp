@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Oct'}
+Population Pharmacokinetics and Pharmacogenetics Analyses of Dasatinib in Chinese Patients with Chronic Myeloid Leukemia.
+Dasatinib, a second-generation tyrosine kinase inhibitor of BCR-ABL 1, used for first-line treatment of Philadelphia chromosome-positive chronic myeloid leukemia (CML), exhibits high pharmacokinetic (PK) variability. However, its PK data in Chinese patients with CML remains rarely reported to date. Thus, we developed a population pharmacokinetic (PPK) model of dasatinib in Chinese patients and identified the covariate that could explain the individual variability of PK for optimal individual administration.

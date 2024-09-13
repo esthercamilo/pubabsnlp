@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Aug'}
+Design and rationale of GUARDD-US: A pragmatic, randomized trial of genetic testing for APOL1 and pharmacogenomic predictors of antihypertensive efficacy in patients with hypertension.
+APOL1 risk alleles are associated with increased cardiovascular and chronic kidney disease (CKD) risk. It is unknown whether knowledge of APOL1 risk status motivates patients and providers to attain recommended blood pressure (BP) targets to reduce cardiovascular disease.

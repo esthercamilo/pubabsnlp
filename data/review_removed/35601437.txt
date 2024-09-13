@@ -1,0 +1,3 @@
+{'Year': '2022'}
+Case Report: Multifocal EBV-Associated Diffuse Large B-Cell Lymphoma in a Patient With 6-MP Associated Lymphopenia With TPMT Deficiency.
+EBV associated lymphoproliferative disorders (EBV LPD) are a known complication following solid organ or hematopoietic stem cell transplantation. The disturbance of the immune system leads to a lack of control of latent EBV-infected B-cells, as control by T-cells is mandatory to prevent uninhibited cell proliferation. EBV LPD in other settings is less frequent and etiology and pathogenesis are not completely understood.

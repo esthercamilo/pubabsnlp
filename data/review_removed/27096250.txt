@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Aug'}
+Pharmacokinetics of lamotrigine and its metabolite N-2-glucuronide: Influence of polymorphism of UDP-glucuronosyltransferases and drug transporters.
+This study aimed to develop a population pharmacokinetic model for quantitative evaluation of the influence of genetic variants in metabolic enzymes and transporters on lamotrigine pharmacokinetics while taking into account the influence of various clinical, biochemical and demographic factors.

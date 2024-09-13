@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Aug'}
+[Pharmacogenetics].
+Allergic reactions to drugs belong to the group of B-reactions, which are characterized not only by the pharmacologic profile of the drug but also by individual risk factors. Pharmacogenetic approaches facilitate identifying these risk factors. The most important example for Caucasian patients is NIDR (non-immediate drug reaction) to abacavir. Chinese patients possess risk factors for NIDR to allopurinol and anticonvulsants and the HLA locus on chromosome 6. Another potentially important area is assessing risk factors to prevent allergic reactions to antibiotics, especially with regard to the effective treatment of MRSA.

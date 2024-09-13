@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Mar', 'Day': '10'}
+Pharmacogenomic Determinants of Interindividual Drug Response Variability: From Discovery to Implementation.
+Since the term "pharmacogenetics" was first published in the late 1950s by Friedrich Vogel, the field has evolved into genome-wide association studies identifying novel variants associated with drug response phenotypes, international societies and consortia dedicated to pharmacogenomic research and clinical implementation, clinical practice guidelines, and the increasing availability of pharmacogenomic tests for healthcare providers in both hospital and primary care [...].

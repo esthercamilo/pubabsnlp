@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jun'}
+Rationale and design of the BA-SCAD (Beta-blockers and Antiplatelet agents in patients with Spontaneous Coronary Artery Dissection) randomized clinical trial.
+Spontaneous coronary artery dissection (SCAD) is a rare cause of acute coronary syndrome. Most patients are empirically treated with beta-blockers and antiplatelet drugs. The Beta-blockers and Antiplatelet agents in patients with Spontaneous Coronary Artery Dissection (BA-SCAD) is an academic, pragmatic, prospective, randomized, open-label, blinded-endpoint clinical trial, performed under the auspices of the Spanish Society of Cardiology, to assess the efficacy of pharmacological therapy in patients with SCAD.

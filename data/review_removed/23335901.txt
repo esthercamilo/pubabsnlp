@@ -1,0 +1,3 @@
+{'Year': '2012'}
+The MTHFR C677T Variant is Associated with Responsiveness to Disulfiram Treatment for Cocaine Dependency.
+Disulfiram is a one of the few pharmacotherapies for cocaine addiction that shows promise. Since disulfiram and cocaine both affect levels of global methylation we hypothesized the MTHFR gene, whose product is involved in supplying methyl groups for DNA and protein methylation, may be associated with responsiveness to disulfiram in cocaine-dependent individuals.

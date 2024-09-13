@@ -1,0 +1,3 @@
+{'Year': '2018'}
+CYP3A and CYP2C19 activity in urine in relation to CYP3A4, CYP3A5, and CYP2C19 polymorphisms in Russian peptic ulcer patients taking omeprazole.
+Proton pump inhibitors (PPIs) are metabolized by cytochrome P450. CYP2C19 is the main isoenzyme for the majority of PPI, whereas CYP3A family is a secondary enzyme for PPI biotransformation.

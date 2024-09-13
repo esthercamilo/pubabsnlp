@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Nov'}
+Prediction of synergistic anti-cancer drug combinations based on drug target network and drug induced gene expression profiles.
+Synergistic drug combinations are promising therapies for cancer treatment. However, effective prediction of synergistic drug combinations is quite challenging as mechanisms of drug synergism are still unclear. Various features such as drug response, and target networks may contribute to prediction of synergistic drug combinations. In this study, we aimed to construct a computational model to predict synergistic drug combinations.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Feb', 'Day': '15'}
+[CYP2D6 gene polymorphic markers role in determining the optimal treatment tactics for portal hypertension in patients with liver cirrhosis].
+To study the polymorphic markers CYP2D6*4 (G1846A, rs3892097), CYP2D6*6 (T1707del, rs5030655), CYP2D6*10 (C100T, rs1065852), CYP2D6*41 (G2988A, rs28371725) and CYP2D6*3 (A2549del, rs4986774) role in treatment optimization of portal hypertension with propranolol in patients with liver cirrhosis (LC).

@@ -1,0 +1,3 @@
+{'Year': '2023'}
+Screening and validation of double allele-specific binding F-primers for the measurement of antihypertensive pharmacogenomics.
+Previous studies have proposed that genetic polymorphisms of CYP2D6<sup>*</sup>10, ADRB1, NPPA, CYP3A5<sup>*</sup>3, ACE, CYP2C9<sup>*</sup>3, and AGTR1 are involved in antihypertensive pharmacogenomics. The purpose of this study is to develop an amplification analysis using double allele-specific (AS) binding primers for accurate measurement of antihypertensive pharmacogenomics.

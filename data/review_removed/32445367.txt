@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'May', 'Day': '01'}
+Clinical Validation of a 106-SNV MALDI-ToF MS Pharmacogenomic Panel.
+Laboratorians have the opportunity to help minimize the frequency of adverse drug reactions by implementing pharmacogenomic testing and alerting care providers to possible patient/drug incompatibilities before drug treatment is initiated. Methods combining PCR with MALDI-ToF MS have allowed for sensitive, economical, and multiplexed pharmacogenomic testing results to be delivered in a timely fashion.

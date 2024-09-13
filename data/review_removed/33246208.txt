@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Feb'}
+CYP2C19 Loss-of-Function is Associated with Increased Risk of Ischemic Stroke after Transient Ischemic Attack in Intracranial Atherosclerotic Disease.
+Intracranial atherosclerotic disease (ICAD) is responsible for 8-10% of acute ischemic strokes, and resistance to antiplatelet therapy is prevalent. CYP2C19 gene loss-of-function (up to 45% of patients) causes clopidogrel resistance. For patients with asymptomatic ICAD and ICAD characterized by transient ischemic attack (TIA), this study measures the effect of CYP2C19 loss-of-function on ischemic stroke risk during clopidogrel therapy.

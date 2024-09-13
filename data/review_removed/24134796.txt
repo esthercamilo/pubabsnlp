@@ -1,0 +1,3 @@
+{'Year': '2013'}
+Translating pharmacogenomics discoveries into the clinic: an implementation framework.
+The implementation of pharmacogenomics-guided care has the potential to improve clinical outcomes; however, the adoption of pharmacogenomics into clinical practice remains slow. This is partly due to the lack of a standardized framework for translating key findings into diagnostic tests. A recent study describes a comprehensive system developed by the Coriell Personalized Medicine Collaborative for facilitating the translation of genomic findings into clinical practice, and its application for seven commonly prescribed drugs. See related Research paper, http://genomemedicine.com/content/5/10/93.

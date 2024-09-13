@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jun'}
+Activities of clinical pharmacologists across Europe: A survey by the European association of clinical pharmacology and therapeutics.
+In order to explore clinical pharmacology and therapeutics (CPT) teaching and practices across continental Europe, the European Association of Clinical Pharmacology and Therapeutics (EACPT) made a survey in 2022 amongst its 27 affiliated societies.

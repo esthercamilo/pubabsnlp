@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '01'}
+Acute effects of Δ9-tetrahydrocannabinol (THC) on resting state connectivity networks and impact of COMT genotype: A multi-site pharmacological fMRI study.
+Cannabis produces various acute psychotropic effects, with marked individual differences. Cannabis use is a risk factor for developing psychotic disorders. The main component responsible for these effects is Δ9-tetrahydrocannabinol (THC). Here we investigated the neural basis of acute THC effects and its modulation by catechol-methyl-transferase (COMT) Val158Met genotype.

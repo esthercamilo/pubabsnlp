@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Dec'}
+Current status and future outlooks on therapeutic drug monitoring of fluorouracil.
+Therapeutic drug monitoring (TDM) of the anticancer drug fluorouracil (5FU) as a method to support dose adjustments has been researched and discussed extensively. Despite manifold evidence of the advantages of 5FU-TDM, traditional body surface area (BSA)-guided dosing is still widely applied.

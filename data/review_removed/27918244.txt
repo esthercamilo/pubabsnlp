@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Dec'}
+Polymorphisms of ABAT, SCN2A and ALDH5A1 may affect valproic acid responses in the treatment of epilepsy in Chinese.
+The clinical efficacy of valproic acid (VPA) varies greatly among epileptic patients. To find the potential genetic factors related to VPA responses, the pharmacogenetics study was conducted.

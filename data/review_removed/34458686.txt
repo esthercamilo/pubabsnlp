@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jul'}
+Creation of a pharmacogenomics patient portal complementary to an existing institutional provider-facing clinical decision support system.
+Applied pharmacogenomics presents opportunities for improving patient care through precision medicine, particularly when paired with appropriate clinical decision support (CDS). However, a lack of patient resources for understanding pharmacogenomic test results may hinder shared decision-making and patient confidence in treatment. We sought to create a patient pharmacogenomics education and results delivery platform complementary to a CDS system to facilitate further research on the relevance of patient education to pharmacogenomics.

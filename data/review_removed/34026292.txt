@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'May'}
+Rare variants discovery by extensive whole-genome sequencing of the Han Chinese population in Taiwan: Applications to cardiovascular medicine.
+A population-specific genomic reference is important for research and clinical practice, yet it remains unavailable for Han Chinese (HC) in Taiwan.

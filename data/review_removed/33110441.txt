@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Dissecting the mechanism of Yuzhi Zhixue granule on ovulatory dysfunctional uterine bleeding by network pharmacology and molecular docking.
+Yuzhi Zhixue Granule (YZG) is a traditional Chinese patent medicine for treating excessive menstrual flow caused by ovulatory dysfunctional uterine bleeding (ODUB) accompanied by heat syndrome. However, the underlying molecular mechanisms, potential targets, and active ingredients of this prescription are still unknown. Therefore, it is imperative to explore the molecular mechanism of YZG.

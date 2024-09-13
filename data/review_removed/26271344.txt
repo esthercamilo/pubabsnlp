@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Nov'}
+Endogenous glucose production increases in response to metformin treatment in the glycogen-depleted state in humans: a randomised trial.
+Metformin is believed to reduce glucose levels primarily by inhibiting hepatic glucose production. Recent data indicate that metformin antagonises glucagon-dependent glucose output, suggesting that compensatory mechanisms protect against hypoglycaemia. Here, we examined the effect of metformin on glucose metabolism in humans after a glycogen-depleting fast and the role of reduced-function alleles in OCT1 (also known as SLC22A1).

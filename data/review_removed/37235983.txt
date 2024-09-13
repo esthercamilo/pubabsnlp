@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '22'}
+Addressing barriers to increased adoption of DPYD genotyping at a large multisite cancer center.
+To describe the implementation of an in-house genotyping program to detect genetic variants linked to impaired dihydropyrimidine dehydrogenase (DPD) metabolism at a large multisite cancer center, including barriers to implementation and mechanisms to overcome barriers to facilitate test adoption.

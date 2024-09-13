@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jan'}
+Pharmacogenomic evaluation of CYP2C19 alleles linking low clopidogrel response and the risk of acute coronary syndrome in Indians.
+Clopidogrel is an antiplatelet drug widely prescribed to prevent atherothrombotic events in coronary artery disease patients. However, there is evidence to suggest that the effectiveness of clopidogrel varies owing to genetic diversity in CYP2C19. This heterogeneity in South Asians, who are also known to have high risk of cardiac events than other population groups, highlights the importance of investigating CYP2C19 variants to estimate the risk proportion in the groups.

@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Feb', 'Day': '18'}
+"Death is my Heir"--Ferroptosis Connects Cancer Pharmacogenomics and Ischemia-Reperfusion Injury.
+Although they are key to precision medicine, pharmacokinetics and pharmacogenomics are currently plagued with inconsistent results. In this issue of Cell Chemical Biology, Shimada et al. (2016) use cell line selectivity and appropriate filters to improve the consistency and to identify biomarkers for the selectivity of lethal compounds. These insights may be useful for our understanding of how necrosis and ischemic injury are regulated.

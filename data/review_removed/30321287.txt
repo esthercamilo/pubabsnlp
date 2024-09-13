@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'May', 'Day': '01'}
+DREADD technology reveals major impact of Gq signalling on cardiac electrophysiology.
+Signalling via Gq-coupled receptors is of profound importance in many cardiac diseases such as hypertrophy and arrhythmia. Nevertheless, owing to their widespread expression and the inability to selectively stimulate such receptors in vivo, their relevance for cardiac function is not well understood. We here use DREADD technology to understand the role of Gq-coupled signalling in vivo in cardiac function.

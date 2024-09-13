@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'May'}
+Patient willingness to undergo efavirenz dose reduction based on pharmacogenetic testing.
+Among HIV-infected adults receiving efavirenz fixed-dose combination tablets, genotyping could guide efavirenz dose reduction but would require more pills.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Aug', 'Day': '24'}
+Mitochondrial DNA variation and virologic and immunological HIV outcomes in African Americans.
+To evaluate the impact of mitochondrial DNA (mtDNA) haplogroups on virologic and immunological outcomes of HIV infection.

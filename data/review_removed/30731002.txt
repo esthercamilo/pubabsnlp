@@ -1,0 +1,3 @@
+{'Year': '2019'}
+Correction: Knowledge, perceptions and confidence of physicians and pharmacists towards pharmacogenetics practice in Kuwait.
+[This corrects the article DOI: 10.1371/journal.pone.0203033.].

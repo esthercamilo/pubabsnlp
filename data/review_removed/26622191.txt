@@ -1,0 +1,3 @@
+{'Year': '2015'}
+A pharmacogenomic prospective randomized controlled trial of CYP2B6 polymorphisms and efavirenz dose adjustment among HIV-infected Thai patients: a pilot study.
+We aimed at comparing clinical/immunological outcomes in human immunodeficiency virus (HIV)-infected patients who were treated with CYP2B6-guided and conventional efavirenz (EFV) therapy.

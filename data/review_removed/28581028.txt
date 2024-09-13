@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Nov'}
+Measuring the Value of Pharmacogenomics Evidence.
+In recent years, there is a growing need to measure the value of pharmacogenomics testing so that policymakers are well informed to decide about adopting and reimbursing pharmacogenomics testing, prioritizing pharmacogenomics research and development, and encouraging the application of companion diagnostics. Presently, there are limited economic evaluation studies of genome-guided treatment modalities that would allow decision-makers to comparatively assess the value and clinical utility of such interventions.

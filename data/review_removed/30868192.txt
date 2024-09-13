@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jul'}
+Influence of body weight and UGT2B7 polymorphism on varenicline exposure in a cohort of smokers from the general population.
+The abstinence rate to tobacco after varenicline treatment is moderate and might be partially affected by variability in varenicline concentrations. This study aimed at characterizing the sources of variability in varenicline pharmacokinetics and to relate varenicline exposure to abstinence.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Apr'}
+Approval gap of pharmacogenomic biomarkers and in vitro companion diagnostics between the United States and Japan.
+In vitro companion diagnostic devices (CDx) provide information on pharmacogenomic biomarkers (PGBMs) to enable the safe and effective use of targeted agents for personalized therapy. These devices require specific regulations that strike a balance between scientific evidence and financial burden. The aims were to compare approval of PGBMs and CDx in the USA and Japan and to help inform current discussions on personalized medicine.

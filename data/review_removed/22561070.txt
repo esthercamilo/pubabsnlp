@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Nov'}
+8q24 and 17q prostate cancer susceptibility loci in a multiethnic Asian cohort.
+Recently, several genome-wide association studies have demonstrated a cumulative association of 5 polymorphic variants in chromosomes 8q24 and 17q with prostate cancer (CaP) risk in Caucasians, particularly those harboring aggressive clinicopathologic characteristics. The purpose of this study was to evaluate the influence of these variants on CaP susceptibility in Singaporean Asian men.

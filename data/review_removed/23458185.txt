@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Aug'}
+An experimental study to identify the potential role of pharmacogenomics in determining the occurrence of oxaliplatin-induced liver injury.
+Oxaliplatin-based chemotherapy has been linked to the development of sinusoidal obstruction syndrome (SOS), which is detrimental to outcome after liver resection for colorectal liver metastases (CLM). The aim of this study was to determine how the expression of genes involved in the transport and metabolism of FOLFOX chemotherapy impacts on tissue injury in a murine model of CLM.

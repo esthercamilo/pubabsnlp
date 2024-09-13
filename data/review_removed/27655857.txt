@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jan'}
+Impact of efavirenz pharmacokinetics and pharmacogenomics on neuropsychological performance in older HIV-infected patients.
+Pharmacokinetics (PK) and pharmacodynamics of efavirenz and its 8-hydroxy metabolite (8-OH-efavirenz) have not been robustly evaluated in older HIV-infected persons.

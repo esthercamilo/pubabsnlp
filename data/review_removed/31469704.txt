@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Oct'}
+Pharmacogenomics of Cytochrome P450 of Nimodipine Metabolism After Aneurysmal Subarachnoid Hemorrhage.
+Aneurysmal subarachnoid hemorrhage (aSAH) is a type of stroke that is life threatening with high rates of mortality, and many survivors are left with permanent neurologic deficits. Nimodipine is the treatment of choice for aSAH with the goal of reduction of delayed cerebral ischemia. It is the only evidence-based medication that has been shown to have improved outcomes for delayed cerebral ischemia; therefore, it is important for neuroscience nurses to be knowledgeable of the pharmacology and pharmacogenomics properties of this medication, including cytochrome P450 (CYP450) enzymes.

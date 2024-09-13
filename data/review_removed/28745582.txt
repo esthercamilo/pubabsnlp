@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Aug'}
+CYP2C19-guided antiplatelet therapy: a cost-effectiveness analysis of 30-day and 1-year outcomes following percutaneous coronary intervention.
+Determine whether using CYP2C19 genotype to optimize antiplatelet therapy selection is cost effective over the initial 30 days and 1-year following percutaneous coronary intervention.

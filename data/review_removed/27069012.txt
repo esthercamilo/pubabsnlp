@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jun'}
+Large-scale prospective pharmacogenomics study of oxaliplatin-induced neuropathy in colon cancer patients enrolled in the JFMC41-1001-C2 (JOIN Trial).
+Peripheral sensory neuropathy (PSN) is a dose-limiting toxicity of oxaliplatin-based chemotherapy. Several genetic markers have been shown to predict oxaliplatin-induced PSN; however, results remain to be validated in a large-scale and prospective pharmacogenomics study.

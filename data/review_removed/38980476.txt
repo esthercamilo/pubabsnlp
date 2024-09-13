@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jul', 'Day': '09'}
+Strategies for DPYD testing prior to fluoropyrimidine chemotherapy in the US.
+Patients with dihydropyrimidine dehydrogenase (DPD) deficiency are at high risk for severe and fatal toxicity from fluoropyrimidine (FP) chemotherapy. Pre-treatment DPYD testing is standard of care in many countries, but not the United States (US). This survey assessed pre-treatment DPYD testing approaches in the US to identify best practices for broader adoption.

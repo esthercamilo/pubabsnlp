@@ -1,0 +1,3 @@
+{'Year': '2021'}
+Population Genetic Difference of Pharmacogenomic VIP Variants in the Tibetan Population.
+Genetic variation influences drug reaction or adverse prognosis. The purpose of this research was to genotype very important pharmacogenetic (VIP) variants in the Tibetan population.

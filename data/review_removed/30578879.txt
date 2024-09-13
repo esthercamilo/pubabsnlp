@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jun'}
+HLA-C*06:02 genotype is a predictive biomarker of biologic treatment response in psoriasis.
+Biologic therapies can be highly effective for the treatment of severe psoriasis, but response for individual patients can vary according to drug. Predictive biomarkers to guide treatment selection could improve patient outcomes and treatment cost-effectiveness.

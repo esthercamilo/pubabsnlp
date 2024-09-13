@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Dec'}
+Etamicastat, a novel dopamine β-hydroxylase inhibitor: tolerability, pharmacokinetics, and pharmacodynamics in patients with hypertension.
+Etamicastat is a dopamine β-hydroxylase (DβH) inhibitor currently in clinical development for the treatment of hypertension and heart failure.

@@ -1,0 +1,3 @@
+{'Year': '2024'}
+Application of Network Pharmacology and Molecular Docking to Explore the Mechanism of Danggui Liuhuang Tang against Hyperthyroidism.
+To investigate the mechanism of Danggui Liuhuang Tang (DGLHT) in the treatment of hyperthyroidism (HT), we explored the multi-component, multi-target, and multi-pathway mechanism based on the network pharmacology method of traditional Chinese medicine.

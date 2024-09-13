@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '05'}
+Pharmacogenetics of <i>CYP2A6</i>, <i>CYP2B6</i>, and <i>UGT2B7</i> in the Context of HIV Treatments in African Populations.
+This study focuses on identifying variations in selected CYP genes related to treatment responses in patients with HIV in African populations by investigating variant characteristics and effects in African cohorts.

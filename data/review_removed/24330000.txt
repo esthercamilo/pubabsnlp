@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jul'}
+Characterizing variability in warfarin dose requirements in children using modelling and simulation.
+Although genetic, clinical and demographic factors have been shown to explain approximately half of the inter-individual variability in warfarin dose requirement in adults, less is known about causes of dose variability in children. This study aimed to identify and quantify major genetic, clinical and demographic sources of warfarin dose variability in children using modelling and simulation.

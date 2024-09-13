@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jul'}
+Clinical application of companion diagnostics.
+Optimally, any prescription should rely on an in-depth understanding of the disease biology and the mechanism of action of the drug. However, despite the hype about precision medicine in recent years, the prescription of most drugs is still, except for a few anticancer drugs, largely based on 'trial and error' and not on solid pharmacogenomic biomarker data.

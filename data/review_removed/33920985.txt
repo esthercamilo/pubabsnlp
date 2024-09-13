@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Apr', 'Day': '15'}
+Influence of Pathogenic and Metabolic Genes on the Pharmacogenetics of Mood Disorders in Alzheimer's Disease.
+Mood disorders represent a risk factor for dementia and are present in over 60% of cases with Alzheimer's disease (AD). More than 80% variability in drug pharmacokinetics and pharmacodynamics is associated with pharmacogenetics.

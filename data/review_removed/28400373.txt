@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jul'}
+Association between VEGF-A and VEGFR-2 polymorphisms and response to treatment of neovascular AMD with anti-VEGF agents: a meta-analysis.
+The purpose of this study is to investigate whether gene polymorphisms of the vascular endothelial growth factor A (VEGF-A) and its receptor (VEGFR-2) have a pharmacogenetics effect on the anti-VEGF treatment for neovascular age-related macular degeneration (nAMD).

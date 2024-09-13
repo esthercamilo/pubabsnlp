@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Apr', 'Day': '15'}
+Clinically actionable genotypes for anticancer prescribing among >1500 patients with pharmacogenomic testing.
+In recent years, there has been increasing evidence supporting the role of germline pharmacogenomic factors predicting toxicity for anticancer therapies. Although somatic genomic data are used frequently in oncology care planning, germline pharmacogenomic testing is not. This study hypothesizes that comprehensive germline pharmacogenomic profiling could have high relevance for cancer care.

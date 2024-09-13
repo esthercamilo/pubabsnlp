@@ -1,0 +1,3 @@
+{'Year': '2022'}
+The <i>Cyp2b6 Gene</i> Polymorphism and Phenotypic Correlation of Efavirenz-Based Combination Therapy Among the Niger Delta Ethnic Population: Implications in Modern Pharmacogenomics.
+DNA polymorphism describes the difference between individuals, groups, or ethnicities, races, etc., in terms of their DNA sequences or phenotypes as relates to drug metabolism. Using predictive genotyping of drug-metabolizing genes, we can develop individuals' drug therapies that are less toxic and more effective. The main aim of the study was to evaluate genotype-phenotype-based correlation and incidence of genetic polymorphism of efavirenz blood levels among HIV/AIDS patients of the Niger Delta population.

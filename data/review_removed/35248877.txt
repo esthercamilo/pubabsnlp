@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'May'}
+Therapeutic drug monitoring of sertraline in children and adolescents: A naturalistic study with insights into the clinical response and treatment of obsessive-compulsive disorder.
+Sertraline is a selective serotonin reuptake inhibitor with specific indications in child and adolescent psychiatry. Notwithstanding its frequent use and clinical benefits, the relationship between pharmacokinetics, pharmacodynamics, efficacy, and tolerability of sertraline across indications, particularly in non-adult patients, is not fully understood.

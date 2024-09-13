@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Mar'}
+Clinical implementation of preemptive pharmacogenomics in psychiatry.
+Pharmacogenomics (PGx) holds promise to revolutionize modern healthcare. Although there are several prospective clinical studies in oncology and cardiology, demonstrating a beneficial effect of PGx-guided treatment in reducing adverse drug reactions, there are very few such studies in psychiatry, none of which spans across all main psychiatric indications, namely schizophrenia, major depressive disorder and bipolar disorder. In this study we aim to investigate the clinical effectiveness of PGx-guided treatment (occurrence of adverse drug reactions, hospitalisations and re-admissions, polypharmacy) and perform a cost analysis of the intervention.

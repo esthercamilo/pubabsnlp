@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jun'}
+Genotype-guided warfarin therapy: Still of only questionable value two decades on.
+Despite an apparently sound pharmacological basis, clinical studies of genotype-guided warfarin dosing have yielded mixed and conflicting results, leading to reluctance in its clinical implementation. The objective of this critique is to re-evaluate key warfarin pharmacogenetic studies with a view to explaining why this may be so.

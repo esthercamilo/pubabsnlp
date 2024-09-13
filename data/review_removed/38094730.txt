@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '06'}
+Successful Management of Fetal Torsades de Pointes and Long QT Syndrome by a Cardio-Obstetrical Team.
+A 32-week fetus with tachycardia and bradycardia, diagnosed with torsades de pointes, atrioventricular block, and sinus bradycardia due to a de novo <i>KCNH2</i> mutation was successfully managed by a cardio-obstetrical team. Maternal/fetal pharmacogenomic testing resulted in appropriate drug dosing without toxicity and delivery of a term infant in sinus rhythm.

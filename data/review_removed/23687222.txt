@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Aug', 'Day': '15'}
+Clinical and genetic determinants of plasma nevirapine exposure following an intrapartum dose to prevent mother-to-child HIV transmission.
+Nevirapine is metabolized by cytochrome P450 (CYP) 2B6 and CYP3A4. We characterized relationships between clinical parameters, human genetics, pharmacokinetics, and human immunodeficiency virus type 1 (HIV-1) drug resistance mutations in pregnant women following single-dose intrapartum nevirapine.

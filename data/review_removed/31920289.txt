@@ -1,0 +1,3 @@
+{'Year': '2019'}
+Developmental Pharmacogenetics of SLCO2B1 on Montelukast Pharmacokinetics in Chinese Children.
+Montelukast, a potent oral selective leukotriene-receptor antagonist, inhibits the action of cysteinyl-leukotriene in patients with asthma. Although pharmacokinetic studies of montelukast have been reported in Caucasian adults and children, and showed large inter-individual variability on pharmacokinetics, none of these studies has been explored in Chinese children. Given the potential inter-ethnic difference, the purpose of the present study was to evaluate the effects of developmental factors and pharmacogenetics of CYP2C8 and SLCO2B1 on montelukast clearance in Chinese pediatric patients.

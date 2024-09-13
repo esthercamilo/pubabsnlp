@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Sep'}
+Targeting mTOR dependency in pancreatic cancer.
+Pancreatic cancer is a leading cause of cancer-related death in the Western world. Current chemotherapy regimens have modest survival benefit. Thus, novel, effective therapies are required for treatment of this disease.

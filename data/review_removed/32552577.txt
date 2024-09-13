@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Sep'}
+Influence of CYP3A5 Genetic Polymorphism on Long-Term Renal Function in Chinese Kidney Transplant Recipients Using Limited Sampling Strategy and Abbreviated Area Under the Curve for Tacrolimus Monitoring.
+Although the association between CYP3A5 gene polymorphism and tacrolimus dosing requirements was well established, the impact on how CYP3A5 genotype affects the acute rejection and long-term renal function in patients who received kidney transplants and were treated with tacrolimus remained controversial.

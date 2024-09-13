@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Sep'}
+Drug-resistant epilepsy classified by a phenotyping algorithm associates with NTRK2.
+Up to 40% of patients with epilepsy become drug resistant (DRE). Genetic factors are likely to play a role. While efforts have focused on the transporter and target hypotheses, neither of them fully explains the pan-pharmacoresistance seen in DRE.

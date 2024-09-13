@@ -1,0 +1,3 @@
+{'Year': '2015', 'Season': 'Jun-Jul'}
+Clinical implications of neuropharmacogenetics.
+Pharmacogenetics aims to identify the underlying genetic factors participating in the variability of drug response. Indeed, genetic variability at the DNA or RNA levels can directly or indirectly modify the pharmacokinetic or the pharmacodynamic parameters of a drug. The ultimate aim of pharmacogenetics is to move towards a personalised medicine by predicting responders and non-responders, adjusting the dose of the treatment, and identifying individuals at risk of adverse drug effects.

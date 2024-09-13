@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Apr'}
+Prediction of exposure-driven myelotoxicity of continuous infusion 5-fluorouracil by a semi-physiological pharmacokinetic-pharmacodynamic model in gastrointestinal cancer patients.
+To describe 5-fluorouracil (5FU) pharmacokinetics, myelotoxicity and respective covariates using a simultaneous nonlinear mixed effect modelling approach.

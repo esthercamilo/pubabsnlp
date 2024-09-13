@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Sep', 'Day': '17'}
+Methods and results from the genome-wide association group at GAW20.
+This paper summarizes the contributions from the Genome-wide Association Study group (GWAS group) of the GAW20. The GWAS group contributions focused on topics such as association tests, phenotype imputation, and application of empirical kinships. The goals of the GWAS group contributions were varied. A real or a simulated data set based on the Genetics of Lipid Lowering Drugs and Diet Network (GOLDN) study was employed by different methods. Different outcomes and covariates were considered, and quality control procedures varied throughout the contributions.

@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'May', 'Day': '31'}
+[Pharmacogenetics and tumor sensitivity of antineoplastic agents. Application to colorectal cancer].
+There are gene polymorphisms which can impact on the pharmacodynamics of anticancer agents used in the treatment of colorectal cancer. It is the case for thymidylate synthase, for methylenetetrahydrofolate reductase and for UGT 1A1. Polymorphisms of UGT 1A1 are considered as potential indicators of a risk of toxicity treatment by irinotecan. Clinical trials are in progress so as to validate the clinical usefulness of these germinal genetic analyses so as to select treatments/doses adapted to individual profiles.

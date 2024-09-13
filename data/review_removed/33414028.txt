@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Apr'}
+PGx in psychiatry: Patients' knowledge, interest, and uncertainty management preferences in the context of pharmacogenomic testing.
+Pharmacogenomic testing (PGx) is expanding into psychiatric care. PGx could potentially offer a unique benefit to psychiatric patients, providing information about patients' reaction to medications that could reduce the time and financial burdens of drug optimization. The aims of this study were to: (1) examine psychiatry patients' familiarity and interest in PGx, and (2) explore how Uncertainty Management Theory relates to PGx testing in psychiatry.

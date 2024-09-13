@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Dec'}
+Dynamic pharmacogenetic models in anticoagulation therapy.
+This article demonstrates how a dynamic clinical-support tool can guide individualized drug therapy. We use the drug warfarin as a model to demonstrate how pharmacogenetics when combined with fundamental principles of pharmacokinetic and pharmacodynamics can provide a powerful decision-support tool to optimize personalized therapeutics.

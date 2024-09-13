@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Dec', 'Day': '01'}
+Cancer-Related Pain: Understanding Genetic Influences and Determining Implications for Practice.
+Pain can be highly variable and unpredictable. Genetics may be key to identifying pain mechanisms that control the intensity, duration, and physiologic response in individuals with chronic pain. Pharmaco-genomics and precision medicine are permitting advances in pain control with analgesic drugs that have increased effectiveness and lead to decreased side effects. Knowledge of genetic variations related to how and why patients experience pain will aid in identifying those at risk, provide a better understanding of the phenomenon of pain, and possibly lead to innovative therapies to control pain.

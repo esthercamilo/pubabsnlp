@@ -1,0 +1,3 @@
+{'Year': '2016'}
+HLA-DQ B1*0201 and A1*0102 Alleles Are Not Responsible for Antituberculosis Drug-Induced Hepatotoxicity Risk in Spanish Population.
+To evaluate the role of human leukocyte antigen (HLA) class II DQB1*0201 and DQA1*0102 in the risk of antituberculosis drug (ATD)-induced hepatotoxicity (ATDH) in a cohort of tuberculosis patients of Caucasian origin from Spain.

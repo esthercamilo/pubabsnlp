@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Mar', 'Day': '13'}
+Pharmacogenomic profiling reveals molecular features of chemotherapy resistance in IDH wild-type primary glioblastoma.
+Although temozolomide (TMZ) has been used as a standard adjuvant chemotherapeutic agent for primary glioblastoma (GBM), treating isocitrate dehydrogenase wild-type (IDH-wt) cases remains challenging due to intrinsic and acquired drug resistance. Therefore, elucidation of the molecular mechanisms of TMZ resistance is critical for its precision application.

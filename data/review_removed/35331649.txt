@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'May'}
+Implementation of preemptive DNA sequence-based pharmacogenomics testing across a large academic medical center: The Mayo-Baylor RIGHT 10K Study.
+The Mayo-Baylor RIGHT 10K Study enabled preemptive, sequence-based pharmacogenomics (PGx)-driven drug prescribing practices in routine clinical care within a large cohort. We also generated the tools and resources necessary for clinical PGx implementation and identified challenges that need to be overcome. Furthermore, we measured the frequency of both common genetic variation for which clinical guidelines already exist and rare variation that could be detected by DNA sequencing, rather than genotyping.

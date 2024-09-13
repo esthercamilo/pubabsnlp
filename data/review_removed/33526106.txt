@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Sep', 'Day': '01'}
+Pharmacogenetic-guided cannabis usage in the community pharmacy: evaluation of a pilot program.
+Pharmacists possess a skillset suited to provide evidence-based guidance to current and potential users of cannabis. Clinical pharmacogenomics research has made significant progress in defining which genetic variations are important for influencing inter-patient variability in response to cannabis. This study aims to evaluate the practicality and impact of pharmacogenetic testing in the community pharmacy to help guide in the safe use of cannabis.

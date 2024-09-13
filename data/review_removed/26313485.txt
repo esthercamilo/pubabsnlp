@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Nov'}
+Escitalopram pharmacogenetics: CYP2C19 relationships with dosing and clinical outcomes in autism spectrum disorder.
+Selective serotonin reuptake inhibitors such as escitalopram are commonly used to treat patients with autism spectrum disorder (ASD), but there are individual differences in treatment response and tolerability. CYP2C19 encodes the primary enzyme responsible for escitalopram metabolism and we investigated whether polymorphisms in CYP2C19 were related to symptoms and dosing in a pharmacogenetic study of ASD.

@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Mar'}
+An improved in silico selection of phenotype affecting polymorphisms in SLC6A4, HTR1A and HTR2A genes.
+Among the experimentally assessed DNA variations in serotonin related genes, some influence physiological expression of personality and mental disorders, others alter the responses to pharmacological and/or psychotherapeutic treatments. Because of the huge number of polymorphisms lying in genes and of the great length of time necessary to perform association studies, a selection of the variations being studied is a necessary and crucial step.

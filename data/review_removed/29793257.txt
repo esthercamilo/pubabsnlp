@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Sep'}
+A critical view of the general public's awareness and physicians' opinion of the trends and potential pitfalls of genetic testing in Greece.
+Progress in deciphering the functionality of the human genome sequence in the wake of technological advances in the field of genomic medicine have dramatically reduced the overall costs of genetic analysis, thereby facilitating the incorporation of genetic testing services into mainstream clinical practice. Although Greek genetic testing laboratories offer a variety of different genetic tests, relatively little is known about how either the general public or medical practitioners perceive genetic testing services.

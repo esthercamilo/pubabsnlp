@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Feb', 'Day': '20'}
+Inherited variation in the androgen pathway is associated with the efficacy of androgen-deprivation therapy in men with prostate cancer.
+Androgen-deprivation therapy (ADT) is the most common and effective systemic therapy for advanced prostate cancer. We hypothesized that germline genetic variation in the androgen axis would improve the efficacy of ADT.

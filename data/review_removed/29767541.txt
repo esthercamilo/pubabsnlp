@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jan'}
+Factors affecting the adoption and use of gene expression profiling by oncologists in clinical practice.
+In this study, we evaluated the association between oncologists' perceptions of and attitudes toward one frequently used gene expression profiling assays, the Oncotype DX<sup>®</sup> and oncologists' intention to use this assay in making treatment recommendations for breast cancer patients.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jul'}
+Recent Developments in Pharmacotherapy of Alcoholism.
+Alcohol use disorders are common, but only a small minority of patients receive adequate treatment. Cognitive-behavioural therapies, motivational enhancement interviewing and brief interventions are established treatments, but few pharmacotherapies are available.

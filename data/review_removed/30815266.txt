@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Apr'}
+HIV Universal Vaccine.
+For many deadly viruses, there are no preventive and / or therapeutic vaccines approved by health authorities World-wide (e.g., HIV, Ebola, Dengue, and many others). Although, for some viruses, prophylactic vaccines are very effective (e.g., HBV, and many others).In this realm, we design, manufacture, test, and streamline into the clinics novel viral universal vaccines (VUV). VUV have such unique features, that medical vaccination or natural infection induced immunity against some viruses (e.g., HBV) upon the VUV's administration to the infected with other, different viruses patients, is redirected against these other, newly infecting viruses (e.g., HIV).

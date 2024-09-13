@@ -1,0 +1,3 @@
+{'Year': '2018'}
+The utility of pharmacogenetic testing to support the treatment of bipolar disorder.
+Bipolar disorder (BD) is a frequent cause of disability, health care costs, and risk of suicide. Pharmacogenetic tests (PGTs) could help clinicians to identify those patients predisposed to the occurrence of adverse events (AEs) improving the understanding of the correlation between genetic variants and drug response.

@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '06'}
+Implementing a Pharmacogenomic-driven Algorithm to Guide Antiplatelet Therapy among Caribbean Hispanics: A non-randomized prospective cohort study.
+After percutaneous coronary intervention (PCI), clopidogrel resistant patients are at an increased risk of major adverse cardiovascular and cerebrovascular events (MACCEs). We aimed to assess whether genotype-guided selection of oral antiplatelet drugs using a clinical decision support (CDS) algorithm reduces the occurrence of these ischemic events and improves outcomes among Caribbean Hispanic patients from Puerto Rico, who are underrepresented in clinical pharmacogenomic (PGx)-guided implementation studies.

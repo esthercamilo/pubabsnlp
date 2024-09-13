@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Characterization of hepatic enzyme activity in older adults with dementia: potential impact on personalizing pharmacotherapy.
+To determine the frequency of pharmacogenomic variants and concurrent medications that may alter the efficacy and tolerability of acetylcholinesterase inhibitors (AChEIs).

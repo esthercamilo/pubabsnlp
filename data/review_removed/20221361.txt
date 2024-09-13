@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Feb', 'Day': '10'}
+An inservice program on pharmacogenetics to individualize drug therapy.
+To provide an understanding of the principles and applications of pharmacogenetics in drug therapy optimization.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jan'}
+Evaluation of pharmacogenomics and hepatic nuclear imaging-related covariates by population pharmacokinetic models of irinotecan and its metabolites.
+Body surface area (BSA)-based dosing of irinotecan (IR) does not account for its pharmacokinetic (PK) and pharmacodynamic (PD) variabilities. Functional hepatic nuclear imaging (HNI) and excretory/metabolic/PD pharmacogenomics have shown correlations with IR disposition and toxicity/efficacy. This study reports the development of a nonlinear mixed-effect population model to identify pharmacogenomic and HNI-related covariates that impact on IR disposition to support dosage optimization.

@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Mar'}
+Pharmacogenetics of warfarin dosing in Chinese adults with nonvalvular atrial fibrillation.
+The guide for the use of genotype-guided warfarin dosing in patients for the treatment of non-valvular atrial fibrillation (AF) is still lacking.

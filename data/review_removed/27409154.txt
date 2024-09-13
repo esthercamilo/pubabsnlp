@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Oct'}
+Genotype influence in responses to therapy for atrial fibrillation.
+Over the last decade, tremendous progress has been made in defining the genetic architecture of atrial fibrillation (AF). This has in part been driven by poor understanding of the pathophysiology of AF, limitations of current therapies and failure to target therapies to the underlying mechanisms.

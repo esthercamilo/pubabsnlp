@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Sep', 'Day': '01'}
+Pharmacogenomics of Cameroonian traditional herbal medicine for cancer therapy.
+A socio-economic burden associated with cancers is reported in Africa. Ethnopharmacological usages such as immune and skin disorders, inflammatory, and others chould be considered when selecting plants used to treat cancer, since these reflect disease states bearing relevance to cancer or a cancer symptoms.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Dec'}
+PROK2, HRNR, and FIG4 as potential genetic biomarkers of high bleeding propensity in East Asian patients with acute coronary syndrome using ticagrelor.
+East Asians have a higher risk of bleeding than Europeans when treated with ticagrelor. This study aimed to explore genetic indicators related to the high bleeding propensity in East Asian patients with acute coronary syndrome (ACS) using ticagrelor.

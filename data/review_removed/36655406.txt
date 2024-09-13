@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '19'}
+Genetic Landscape of Major Depressive Disorder: Assessment of Potential Diagnostic and Antidepressant Response Markers.
+The clinical heterogeneity in major depressive disorder (MDD), variable treatment response, and conflicting findings limit the ability of genomics toward the discovery of evidence-based diagnosis and treatment regimen. This study attempts to curate all genetic association findings to evaluate potential variants for clinical translation.

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Feb'}
+ABCB1 and DRD3 polymorphism as a response predicting biomarker and tool for pharmacogenetically guided clozapine dosing in Asian Indian treatment resistant schizophrenia patients.
+To investigate association of two single nucleotide polymorphisms (SNPs) ABCB1(rs1045462) and DRD3(rs6280) with clozapine response and the dose in treatment resistant schizophrenia (TRS) patients.

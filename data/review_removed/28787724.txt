@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Current State and Future Trends to Optimize the Care of African Americans with End-Stage Renal Disease.
+Chronic kidney disease is a progressive disease, which terminates in end-stage renal diseases (ESRD) that requires either dialysis or kidney transplantation for the patient to survive. There is an alarming trend in the disparities of ESRD in African Americans (AAs). Currently, AAs represent more than 30% of incident ESRD cases, yet they constitute 15% of the overall US population. Despite the reductions in mortality, increases in access to patient-centered home dialysis and preemptive kidney transplantation for the overall US ESRD population over the last decade, disparities in the care of AAs with ESRD remain largely unaffected.

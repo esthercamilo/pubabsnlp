@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Sep', 'Day': '26'}
+Pharmacogenomics and patient care: one size does not fit all.
+The time is ripe to assess whether pharmacogenomics research--the study of the genetic basis for variation in drug response--has provided important insights into a personalized approach to prescribing and dosing medications. Here, we describe the status of the field and approaches for addressing some of the open questions in pharmacogenomics research and use of genetic testing in guiding drug therapy.

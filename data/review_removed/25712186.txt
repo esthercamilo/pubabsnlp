@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Pharmacogenomics in diverse practice settings: implementation beyond major metropolitan areas.
+The limited formal study of the clinical feasibility of implementing pharmacogenomic tests has thus far focused on providers at large medical centers in urban areas. Our research focuses on small metropolitan, rural and tribal practice settings.

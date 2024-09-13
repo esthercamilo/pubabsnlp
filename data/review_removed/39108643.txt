@@ -1,0 +1,3 @@
+{'Year': '2024', 'Season': 'Jan-Dec'}
+Cost-Effectiveness Analysis of Pharmacogenomics-Guided Versus Standard Dosing of Warfarin in Patients with Mechanical Prosthetic Heart Valve.
+Warfarin is the only approved anticoagulant for antithrombotic treatment in patients with mechanical prosthetic heart valves (MPHV). However, dosing warfarin is challenging due to its narrow therapeutic window and highly variable clinical outcomes. Both low and high doses of warfarin can lead to thrombotic and bleeding events, respectively, with these complications being more severe in individuals with sensitive genetic polymorphisms. Incorporating genetic testing could enhance the accuracy of warfarin dosing and minimize its adverse events.

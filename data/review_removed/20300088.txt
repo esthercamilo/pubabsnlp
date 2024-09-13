@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Apr'}
+Genome-wide association studies in pharmacogenomics.
+Genome-wide association (GWA) studies for pharmacogenomics-related traits are increasingly being performed to identify loci that affect either drug response or susceptibility to adverse drug reactions. Until now, only the largest effects have been detected, partly because of the challenges of obtaining large numbers of cases for pharmacogenomic studies. Since 2007, a range of pharmacogenomics GWA studies have been published that have identified several interesting and novel associations between drug responses or reactions and clinically relevant loci, showing the value of this approach.

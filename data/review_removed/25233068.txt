@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Nov'}
+An update on the risk prediction and prevention of anticancer therapy-induced cardiotoxicity.
+Cardiotoxicity is a well established complication of anticancer therapy. As cancer survivorship and life expectancy for cancer patients improves, the morbidity and mortality of anticancer therapy-related cardiotoxicity has become more problematic. It is of utmost importance to identify patients at the highest risk for the development of cardiotoxicity and to determine strategies for prevention, early detection and treatment.

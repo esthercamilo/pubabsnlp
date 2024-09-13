@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Oct'}
+The 1200 patients project: creating a new medical model system for clinical implementation of pharmacogenomics.
+The paradigm of individualized drug therapy based on genetics is an ideal that is now potentially possible. However, translation of pharmacogenomics into practice has encountered barriers such as limited availability and the high cost of genetic testing, the delays involved, disagreements about interpretation of results, and even lack of understanding about pharmacogenomics in general. We describe our institutional pharmacogenomics-implementation project, "The 1200 Patients Project," a model designed to overcome these barriers and facilitate the availability of pharmacogenomic information for personalized prescribing.

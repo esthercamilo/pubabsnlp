@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Oct'}
+Clinically relevant endothelial nitric oxide synthase polymorphisms and their impact on drug response.
+Nitric oxide (NO) is a molecule with multiple functions. Several drugs involve the modulation of NO levels in their mechanism of action. NO is mainly produced in vessels by endothelial NO synthase, which is encoded by <i>NOS3</i> gene. This gene shows genetic polymorphisms associated with hypertension and other cardiovascular diseases, inflammation, psychiatric disorders, cancer, and others.

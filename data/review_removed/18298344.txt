@@ -1,0 +1,3 @@
+{'Year': '2008'}
+A new single nucleotide polymorphism genotyping method based on gap ligase chain reaction and a microsphere detection assay.
+The establishment of new methods to detect human genetic variations, such as single nucleotide polymorphisms, is of importance in hereditary disease diagnosis and pharmacogenomics. Several single nucleotide polymorphism genotyping technologies have been presented in recent years. However, techniques which would allow accurate, fast and cheap allelic determination and multiple single nucleotide polymorphism detection in parallel are still in great need.

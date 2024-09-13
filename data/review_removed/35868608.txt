@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Sep'}
+Pharmacokinetics of isoniazid and rifapentine in young pediatric patients with latent tuberculosis infection.
+This study investigated the steady-state pharmacokinetic profiles of 3-month weekly rifapentine plus isoniazid (3HP) in children with latent tuberculosisinfection (LTBI). We also assessed other factors, including tablet integrity, food, and pharmacogenetics.

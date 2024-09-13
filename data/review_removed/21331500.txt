@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Aug'}
+Tacrolimus dosing in Chinese renal transplant recipients: a population-based pharmacogenetics study.
+The aims of this study were to examine the effects of genetic and clinical factors on the maintenance dose of tacrolimus in patients following renal transplantation and to develop a tacrolimus-dosing model that could be combined with associated factors.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Oct'}
+Dietary supplements, cytochrome metabolism, and pharmacogenetic considerations.
+Dietary supplement use has continued to rise. In addition to supplement-drug interactions, it is prudent to consider how dietary supplements may interact with a patient's specific pharmacogenetics. Variations in genes associated with CYP 450 enzymes have evidence of impacting drug metabolism and adverse effects.

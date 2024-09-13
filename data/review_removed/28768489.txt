@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Aug', 'Day': '02'}
+Improved anticancer drug response prediction in cell lines using matrix factorization with similarity regularization.
+Human cancer cell lines are used in research to study the biology of cancer and to test cancer treatments. Recently there are already some large panels of several hundred human cancer cell lines which are characterized with genomic and pharmacological data. The ability to predict drug responses using these pharmacogenomics data can facilitate the development of precision cancer medicines. Although several methods have been developed to address the drug response prediction, there are many challenges in obtaining accurate prediction.

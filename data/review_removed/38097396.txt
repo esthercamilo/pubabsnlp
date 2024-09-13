@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '01'}
+Association of ITPA 94C>A genetic polymorphisms with azathioprine induced adverse effects in the South Indian population.
+Azathioprine (AZA) is an effective immunosuppressant commonly used for malignancy and immune-mediated disorders. The association between genetic polymorphisms and AZA-induced adverse effects has not been elucidated. Hence this study aimed to evaluate the relationship between single nucleotide polymorphisms of ITPA (C94A) with azathioprine-induced adverse effects.

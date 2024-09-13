@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Mar', 'Day': '01'}
+Working together to deliver stratified medicine research effectively.
+Stratified medicine is an important area of research across all clinical specialties, with far reaching impact in many spheres. Despite recently formulated global policy and research programmes, major challenges for delivering stratified medicine studies persist. Across the globe, clinical research infrastructures have been setup to facilitate high quality clinical research.

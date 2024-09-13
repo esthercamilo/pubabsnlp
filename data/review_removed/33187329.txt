@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Nov', 'Day': '11'}
+Clozapine: An Updated Overview of Pharmacogenetic Biomarkers, Risks, and Safety-Particularities in the Context of COVID-19.
+clozapine (CLZ) use is precarious due to its neurological, cardiovascular, and hematological side effects; however, it is the gold standard in therapy-resistant schizophrenia (TRS) in adults and is underused.

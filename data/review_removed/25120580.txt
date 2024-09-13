@@ -1,0 +1,3 @@
+{'Year': '2014'}
+Therapeutic drug monitoring of voriconazole: a case report of multiple drug interactions in a patient with an increased CYP2C19 activity.
+Voriconazole is metabolized by cytochrome P450 (CYP) 2C19 and CYP 3A4. Drug-drug interactions and genetic polymorphisms modulate their activities.

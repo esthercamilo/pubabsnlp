@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Feb'}
+Advancing Pharmacogenomics as a Component of Precision Medicine: How, Where, and Who?
+Pharmacogenomics is an important element of precision medicine. Advances in pharmacogenomics implementation have been made but significant barriers remain, including evidence, reimbursement, and clinician knowledge, among others. Widespread adoption of pharmacogenomics requires overcoming these barriers, a clinician champion group, which we propose will be pharmacists, and an easily accessible setting, which may be the community pharmacy. Whatever the path, it must be evidence-driven and pharmacogenomics must improve drug-related outcomes to become a standard of care.

@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jan'}
+Decoding variants in drug-metabolizing enzymes and transporters in solid tumor patients by whole-exome sequencing.
+Pharmacogenetics is involved in customizing therapy according to the genetic makeup of an individual, and is applicable for chemotherapy, radiotherapy as well as targeted therapy. Drug metabolizing enzymes (DMEs) involving both phase I, and phase II reactions are widely studied. Our study was involved in whole exome sequencing (WES) of cancer patients, followed by analysis for identifying key variations in DMEs, and associated transporters that have a potential impact on treatment outcome.

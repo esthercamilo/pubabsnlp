@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Nov'}
+Economic analysis of pharmacogenomic-guided clopidogrel treatment in Serbian patients with myocardial infarction undergoing primary percutaneous coronary intervention.
+Clopidogrel, which is activated by the CYP2C19 enzyme, is among the drugs for which all major regulatory agencies recommend genetic testing to be performed to identify a patient's CYP2C19 genotype in order to determine the optimal antiplatelet therapeutic scheme. The CYP2C19*2 and CYP2C19*3 variants are loss-of-function alleles, leading to abolished CYP2C19 function and thus have the risk of thrombotic events for carriers of these alleles on standard dosages, while the CYP2C19*17 allele results in CYP2C19 hyperactivity.

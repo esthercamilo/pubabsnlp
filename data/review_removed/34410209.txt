@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Sep'}
+The impact of <i>catha edulis (vahl) forssk. ex endl</i>. (celestraceae) (khat) on pharmacokinetics of clinically used drugs.
+Catha edulis (Vahl) Forssk. ex Endl. (Celestraceae) is used as a recreational drug on daily basis for its euphoric and psychostimulant effects. It is also chewed by individuals who are on medications, raising the possibility of drug-khat interaction. However, limited data are available in the literature, although clinically significant interactions are expected, as khat contains a complex mixture of pharmacologically active constituents.

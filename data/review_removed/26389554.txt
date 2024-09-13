@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Nov'}
+Methadone Pharmacogenetics: CYP2B6 Polymorphisms Determine Plasma Concentrations, Clearance, and Metabolism.
+Interindividual variability in methadone disposition remains unexplained, and methadone accidental overdose in pain therapy is a significant public health problem. Cytochrome P4502B6 (CYP2B6) is the principle determinant of clinical methadone elimination. The CYP2B6 gene is highly polymorphic, with several variant alleles. CYP2B6.6, the protein encoded by the CYP2B6*6 polymorphism, deficiently catalyzes methadone metabolism in vitro. This investigation determined the influence of CYP2B6*6, and other allelic variants encountered, on methadone concentrations, clearance, and metabolism.

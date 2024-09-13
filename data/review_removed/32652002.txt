@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Oct', 'Day': '01'}
+A Genome-Wide Pharmacogenetic Study of Growth Hormone Responsiveness.
+Individual patients vary in their response to growth hormone (GH). No large-scale genome-wide studies have looked for genetic predictors of GH responsiveness.

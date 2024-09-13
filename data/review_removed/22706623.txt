@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Feb'}
+Population pharmacokinetics and pharmacogenetics of once daily prolonged-release formulation of tacrolimus in pediatric and adolescent kidney transplant recipients.
+Tacrolimus(PR) is a new prolonged-release once-daily formulation of the calcineurin inhibitor tacrolimus, currently used in adult transplant patients. As there are no pharmacokinetic data available in pediatric kidney transplant recipients, the aims of this study were to develop a population pharmacokinetic model of tacrolimus(PR) in pediatric and adolescent kidney transplant recipients and to identify covariates that have a significant impacts on tacrolimus(PR) pharmacokinetics, including CYP3A5 polymorphism.

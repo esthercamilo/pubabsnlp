@@ -1,0 +1,3 @@
+{'Year': '2016'}
+Methotrexate pharmacokinetic genetic variants are associated with outcome in rheumatoid arthritis patients.
+Methotrexate (MTX) is the most used drug for the treatment of rheumatoid arthritis (RA) although outcome differs among patients.

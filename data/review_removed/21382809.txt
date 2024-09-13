@@ -1,0 +1,3 @@
+{'Year': '2011', 'Season': 'Mar-Apr'}
+Pharmacogenomics in a community pharmacy: ACT now.
+To highlight the opportunity for community pharmacists to provide pharmacogenomic testing and counseling.

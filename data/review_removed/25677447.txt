@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Apr'}
+Germline TYMS genotype is highly predictive in patients with metastatic gastrointestinal malignancies receiving capecitabine-based chemotherapy.
+This work was initiated to extend data on the effect of pharmacogenetics and chemotherapy pharmacokinetics (PK) on clinical outcome in patients with gastrointestinal malignancies.

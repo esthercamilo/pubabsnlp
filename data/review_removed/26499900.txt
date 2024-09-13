@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Dec'}
+Phase 1a/1b and pharmacogenetic study of docetaxel, oxaliplatin and capecitabine in patients with advanced cancer of the stomach or the gastroesophageal junction.
+The prognosis of gastroesophageal cancer is poor, and current regimens are associated with limited efficacy. The purpose of this study was to explore the safety and preliminary efficacy of docetaxel, oxaliplatin plus capecitabine for advanced cancer of the stomach or the gastroesophageal junction (GEJ). Secondary objectives included pharmacokinetic and pharmacogenetic analyses.

@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Apr'}
+Genetics of antiepileptic drug resistance.
+Drug resistance is an important clinical problem in epilepsy, affecting a substantial number of patients globally. Mechanisms underlying drug resistance need to be understood to develop rational therapies. Genetics offers one route to better understanding, and thus potentially treating, drug resistance.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jan'}
+The importance of including African populations in pharmacogenetics studies of warfarin response.
+Tweetable abstract Warfarin will remain in use for a long time to come, thus inclusion of African populations in pharmacogenomics is essential to be able to identify all possible biomarkers that are potential predictors for warfarin drug response.

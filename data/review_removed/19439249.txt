@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Apr', 'Day': '30'}
+Tardive dyskinesia and DRD3, HTR2A and HTR2C gene polymorphisms in Russian psychiatric inpatients from Siberia.
+Pharmacogenetics of tardive dyskinesia and dopamine D3 (DRD3), serotonin 2A (HTR2A), and 2C (HTR2C) receptors has been examined in various populations, but not in Russians.

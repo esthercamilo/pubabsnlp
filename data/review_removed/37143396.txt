@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Nov'}
+CYP2C19 loss-of-function alleles are not associated with higher prevalence of gastrointestinal bleeds in those who have been prescribed antidepressants: Analysis in a British-South Asian cohort.
+CYP2C19 is a hepatic enzyme involved in the metabolism of antidepressants associated with increased gastrointestinal bleed (GIB) risk. The aim of our study was to explore a possible association between loss-of-function CYP2C19 genotypes and GIB in South Asian ancestry participants prescribed antidepressants.

@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Oct'}
+Pharmacogenetics of genes across the doxorubicin pathway.
+A large number of genetic polymorphisms have been reported in the genes that mediate the metabolism, transport and pharmacological activity of doxorubicin. The clinical significance of these is still undergoing evaluation.

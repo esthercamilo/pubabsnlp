@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Feb'}
+Essential elements of personalized medicine.
+Genomic information has been promoted as the basis for "personalized" health care. We considered the benefits provided by genomic testing in context of the concept of personalized medicine.

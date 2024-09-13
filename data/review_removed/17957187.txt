@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Feb'}
+K(ATP) channel pharmacogenomics: from bench to bedside.
+Inheritance plays a significant role in defining drug response and toxicity. Advances in molecular pharmacology and modern genomics emphasize genetic variation in dictating inter-individual pharmacokinetics and pharmacodynamics. A case in point is the homeostatic ATP-sensitive potassium (K(ATP)) channel, an established drug target that adjusts membrane excitability to match cellular energetic demand. There is an increased recognition that genetic variability of the K(ATP) channel impacts therapeutic decision-making in human disease.

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jan', 'Day': '01'}
+[ABC transporters and drug resistance in epilepsy: biological plausibility, pharmacogenetics and precision medicine].
+A plausible mechanism that may contribute to drug resistance in epilepsy is the failure of drugs to reach the brain tissue, caused by changes in the activity of ABC transporters. The main argument in favour of this hypothesis is that resistance occurs against a wide variety of antiepileptic drugs with different mechanisms of action, suggesting a non-specific underlying phenomenon that limits the effectiveness of drug treatments.

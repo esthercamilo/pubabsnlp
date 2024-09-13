@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Sep', 'Day': '10'}
+Value of platelet pharmacogenetics in common clinical practice of patients with ST-segment elevation myocardial infarction.
+Antiplatelet drug resistance is a well-known problem, causing recurrent cardiovascular events. Multiple genetic polymorphisms have been related to antiplatelet resistance by several large trials, however data from common clinical practice is limited. We examined the influence of previously described polymorphisms, related to aspirin and clopidogrel resistance, on treatment outcome in a real life unselected population of patients presenting with ST-segment elevation myocardial infarction (STEMI) treated with percutaneous coronary intervention.

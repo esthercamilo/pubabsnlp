@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Sep'}
+Pharmacogenetics of toxic epidermal necrolysis.
+Toxic epidermal necrolysis (TEN) and Stevens-Johnson Syndrome (SJS) are two of the most severe drug-induced cutaneous reactions. Advances in genome technologies have allowed researchers to identify genetic markers associated with this drug-associated event and these have provided a potential tool for prevention.

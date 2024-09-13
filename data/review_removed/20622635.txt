@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jul'}
+Pain management of musculoskeletal injuries in children: current state and future directions.
+Pain is the most common reason for seeking health care in the Western world and is a contributing factor in up to 80% of all emergency department (ED) visits. In the pediatric emergency setting, musculoskeletal injuries are one of the most common painful presentations. Inadequate pain management during medical care, especially among very young children, can have numerous detrimental effects. No standard of care exists for the management of acute musculoskeletal injury-related pain in children. Within the ED setting, pain from such injuries has been repeatedly shown to be undertreated.

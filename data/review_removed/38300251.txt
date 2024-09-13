@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'May'}
+The landscape of very important pharmacogenes variants and potential clinical relevance in the Chinese Jingpo population: a comparative study with worldwide populations.
+Pharmacogenomics is a facet of personalized medicine that explores how genetic variants affect drug metabolism and adverse drug reactions. Therefore, this study aims to detect distinct pharmacogenomic variations among the Jingpo population and explore their clinical correlation with drug metabolism and toxicity.

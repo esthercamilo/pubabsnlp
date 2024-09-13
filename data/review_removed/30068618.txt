@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Aug', 'Day': '01'}
+Cohort Profile: the Predictors of Breast Cancer Recurrence (ProBe CaRE) Premenopausal Breast Cancer Cohort Study in Denmark.
+The Predictors of Breast Cancer Recurrence (ProBe CaRe) study was established to evaluate modification of tamoxifen (TAM) effectiveness in premenopausal women through reduced activity of TAM-metabolising enzymes. It comprehensively evaluates the effects of pharmacogenetic variants, use of concomitant medications and biomarkers involved in oestrogen metabolism on breast cancer recurrence risk.

@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jan'}
+Phenotyping with sulfasalazine - time dependence and relation to NAT2 pharmacogenetics.
+N-acetyltransferase 2 (NAT2) genotype-phenotype relation with sulfasalazine as probe drug by means of detailed genotype analysis and kinetic data evaluation.

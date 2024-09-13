@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Feb', 'Day': '11'}
+Epigenetic Modulation of Mood Disorders.
+Mood disorders are expressed in many heterogeneous forms, varying from anxiety to severe major clinical depression. The disorders are expressed in individual variety through manifestations governed by co-morbidities, symptom frequency, severity, and duration, and the effects of genes on phenotypes. The underlying etiologies of mood disorders consist of complex interactive operations of genetic and environmental factors. The notion of endophenotypes, which encompasses the markers of several underlying liabilities to the disorders, may facilitate efforts to detect and define, through staging, the genetic risks inherent to the extreme complexity of disease state.

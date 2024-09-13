@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'May'}
+Preemptive pharmacogenetic testing: exploring the knowledge and perspectives of US payers.
+Preemptive pharmacogenetic testing aims to optimize medication use by having genetic information at the point of prescribing. Payers' decisions influence implementation of this technology. We investigated US payers' knowledge, awareness, and perspectives on preemptive pharmacogenetic testing.

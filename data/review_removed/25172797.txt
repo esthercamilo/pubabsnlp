@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Sep', 'Day': '25'}
+Mechanism of action of Rhodiola, salidroside, tyrosol and triandrin in isolated neuroglial cells: an interactive pathway analysis of the downstream effects using RNA microarray data.
+The aim of this study was to identify the targets (genes, interactive signaling pathways, and molecular networks) of Rhodiola rosea extract in isolated neuroglia cells and to predict the effects of Rhodiola extract on cellular functions and diseases. In addition, the potential mechanism of action of Rhodiola rosea extract was elucidated, and the "active principle" among the three isolated constituents (salidroside, triandrin, and tyrosol) was identified.

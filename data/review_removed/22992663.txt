@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Oct'}
+Achieving the promise of personalized medicine.
+Individualized therapy is the practice of tailoring therapeutic intervention to a patient's disease, demographic characteristics, genetics, environment, lifestyle, and health status. In addition to previous methods of individualization, individualization based on pharmacogenomics is an emerging practice. Although tools are available to aid the determination of the need to individualize therapy, there are barriers to implementation. Various institutions have instituted programs to demonstrate the benefit of individualization, including programs that involve preemptive genotyping.

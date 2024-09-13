@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'May'}
+Initial dosage optimization of tacrolimus in Chinese pediatric patients undergoing kidney transplantation based on population pharmacokinetics and pharmacogenetics.
+The purpose of our research was to recommend the initial tacrolimus dosage for Chinese pediatric patients undergoing kidney transplantation based on population pharmacokinetics and pharmacogenetics.

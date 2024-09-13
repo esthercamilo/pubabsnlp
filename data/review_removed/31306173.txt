@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Nov', 'Day': '01'}
+A pharmacokinetic and pharmacogenetic evaluation of contraceptive implants and antiretroviral therapy among women in Kenya and Uganda.
+To evaluate pharmacokinetics and pharmacogenetics of contraceptive implant progestin concentrations in HIV-positive women initiating efavirenz (EFV)-containing or nevirapine (NVP)-containing antiretroviral therapy (ART).

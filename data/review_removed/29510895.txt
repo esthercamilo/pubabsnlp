@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Apr'}
+Effect of ABCG2, OCT1, and ABCB1 (MDR1) Gene Expression on Treatment-Free Remission in a EURO-SKI Subtrial.
+Tyrosine kinase inhibitors (TKIs) can safely be discontinued in chronic myeloid leukemia (CML) patients with sustained deep molecular response. ABCG2 (breast cancer resistance protein), OCT1 (organic cation transporter 1), and ABCB1 (multidrug resistance protein 1) gene products are known to play a crucial role in acquired pharmacogenetic TKI resistance. Their influence on treatment-free remission (TFR) has not yet been investigated.

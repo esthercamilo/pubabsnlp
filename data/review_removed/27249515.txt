@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jun'}
+Evidence for extensive pleiotropy among pharmacogenes.
+We sought to identify potential pleiotropy involving pharmacogenes.

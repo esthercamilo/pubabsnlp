@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jul'}
+Pharmacogenomics of cisplatin-induced neurotoxicities: Hearing loss, tinnitus, and peripheral sensory neuropathy.
+Cisplatin is a critical component of first-line chemotherapy for several cancers, but causes peripheral sensory neuropathy, hearing loss, and tinnitus. We aimed to identify comorbidities for cisplatin-induced neurotoxicities among large numbers of similarly treated patients without the confounding effect of cranial radiotherapy.

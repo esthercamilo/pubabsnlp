@@ -1,0 +1,3 @@
+{'Year': '2023', 'Season': 'Jan-Dec'}
+Study protocol of the HD-MED study aiming to personalize drug treatment in Huntington's disease: a longitudinal, observational study to assess medication use and efficacy in relation to pharmacogenetics.
+Huntington's disease (HD) is a hereditary, neurodegenerative disorder characterized by motor, cognitive, and psychiatric symptoms. Currently, HD can only be managed symptomatically, including a large variety of prescribed drugs. Many HD patients experience negative medication effects (e.g. side effects or non-response). Pharmacogenetic (PGx) studies show how genetic variation affects both medication efficacy and toxicity and holds the potential to improve these outcomes of drug treatment.

@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jul'}
+Effect of CYP2C19 polymorphism on response to bortezomib-based therapy in multiple myeloma patients.
+Bortezomib, a commonly used anti-myeloma drug, is metabolized by liver microsomal enzymes which may be polymorphic and responsible for lack of response in 30% patients. Hence, the association of CYP2C19 polymorphism with treatment response was explored in this study.

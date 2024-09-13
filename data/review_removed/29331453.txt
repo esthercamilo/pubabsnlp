@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Mar'}
+Are privacy-enhancing technologies for genomic data ready for the clinic? A survey of medical experts of the Swiss HIV Cohort Study.
+Protecting patient privacy is a major obstacle for the implementation of genomic-based medicine. Emerging privacy-enhancing technologies can become key enablers for managing sensitive genetic data. We studied physicians' attitude toward this kind of technology in order to derive insights that might foster their future adoption for clinical care.

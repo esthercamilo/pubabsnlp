@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Feb', 'Day': '19'}
+Influence of the Osteogenomic Profile in Response to Alendronate Therapy in Postmenopausal Women with Osteoporosis: A Retrospective Cohort Study.
+Postmenopausal osteoporosis is a multifactorial disease. Genetic factors play an essential role in contributing to bone mineral density (BMD) variability, which ranges from 60 to 85%. Alendronate is used as the first line of pharmacological treatment for osteoporosis; however, some patients do not respond adequately to therapy with alendronate.

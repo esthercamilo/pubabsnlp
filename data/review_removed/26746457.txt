@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jan', 'Day': '05'}
+Association of Arrhythmia-Related Genetic Variants With Phenotypes Documented in Electronic Medical Records.
+Large-scale DNA sequencing identifies incidental rare variants in established Mendelian disease genes, but the frequency of related clinical phenotypes in unselected patient populations is not well established. Phenotype data from electronic medical records (EMRs) may provide a resource to assess the clinical relevance of rare variants.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jul'}
+Neonatal medicines research: challenges and opportunities.
+The key feature of the newborn is its fast age-dependent maturation, resulting in extensive variability in pharmacokinetics and -dynamics, further aggravated by newly emerging covariates like treatment modalities, environmental issues or pharmacogenetics. This makes clinical research in neonates relevant and needed, but also challenging.

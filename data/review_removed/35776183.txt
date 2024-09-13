@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Oct'}
+Genome-wide association study of aromatase inhibitor discontinuation due to musculoskeletal symptoms.
+Aromatase inhibitors (AIs) are commonly used to treat hormone receptor positive (HR +) breast cancer. AI-induced musculoskeletal syndrome (AIMSS) is a common toxicity that causes AI treatment discontinuation. The objective of this genome-wide association study (GWAS) was to identify genetic variants associated with discontinuation of AI therapy due to AIMSS and attempt to replicate previously reported associations.

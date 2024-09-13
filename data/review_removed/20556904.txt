@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jun'}
+Do pharmacogenetics, genomics and epigenetics hold promise for molecular therapeutics and health?
+Pharmacogenetics, genomics and epigenetics have attracted the interest of both pharmaceutical research groups and the medical community. The promise of these rapidly developing research fields and the expected consequences for medicine and for the pharmaceutical industry are timely topics of interest in molecular therapeutics. Of particular interest is their role in supporting the ability to customize medical care to individual patients.

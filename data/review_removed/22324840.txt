@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Mar'}
+CYP2D6 gene variants in urban/admixed and Amerindian populations of Venezuela: pharmacogenetics and anthropological implications.
+Differences in genes encoding enzymes involved in the biotransformation of a large number of compounds, such as CYP2D6, are related to inter-individual and inter-ethnic variability in the metabolism of many drugs, which have also been linked to susceptibility to cancer and other health outcomes. Therefore, populations are likely to benefit from inclusion in pharmacogenetic research studies.

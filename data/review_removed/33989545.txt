@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'May', 'Day': '13'}
+Ancestry matters: Building inclusivity into preclinical study design.
+Human cell lines (CLs) are key assets for biomedicine but lack ancestral diversity. Here, we explore why genetic diversity among cell-based models is essential for making preclinical research more equitable and widely translatable. We lay out practical actions that can be taken to improve inclusivity in study design.

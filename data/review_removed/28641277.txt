@@ -1,0 +1,3 @@
+{'Year': '2019'}
+Association of the CFH Y402H Polymorphism with the 1-Year Response of Exudative AMD to Intravitreal Anti-VEGF Treatment in the Brazilian Population.
+Evidence of the relationship between the polymorphism of the complement factor H (CFH) gene at position 402 (Y402H) and the response to the treatment of wet AMD is controversial. The aim of this study was to compare the functional and morphological 1-year evolution of patients with exudative AMD treated with antivascular endothelial growth factor (VEGF) drugs with the CFH Y402H polymorphism in the Brazilian population.

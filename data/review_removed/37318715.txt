@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Dec'}
+The use of therapeutic drug monitoring to highlight an over-looked drug-drug interaction leading to imatinib treatment failure.
+Chronic oral anticancer therapies, are increasingly prescribed and present new challenges including the enhanced risk of overlooked drug-drug interactions (DDIs). Lengthy treatments and patients' management by different professionals can lead to serious prescribing errors that therapeutic drug monitoring (TDM) can help identifying thus allowing a more effective and safer treatment of patients with polypharmacy.

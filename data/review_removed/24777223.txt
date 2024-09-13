@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'May'}
+Public perceptions of pharmacogenetics.
+Pharmacogenetics (PGx) promises to optimize patient response to therapy. However, the public's acceptance of PGx is not well known, notably when this applies to children. Our objective was to explore perceptions of PGx testing among individuals, who differ from each other by either parental status or educational exposure to PGx, and to explore parents' views between PGx testing for oneself and PGx testing for their children.

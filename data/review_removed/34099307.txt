@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jan'}
+A Randomized Controlled Trial of Combinatorial Pharmacogenetics Testing in Adolescent Depression.
+Numerous commercial pharmacogenetics panels are now widely available for clinical use in psychiatric practice. However, there is a paucity of literature evaluating the use of combinatorial pharmacogenetics panels to enhance outcomes in the treatment of adolescents with depression. This study sought to prospectively evaluate the clinical impact of combinatorial pharmacogenetics testing in a double-blind, randomized, controlled effectiveness study for the pharmacologic treatment of adolescents with depression.

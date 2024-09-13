@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jan'}
+The functional G143E variant of carboxylesterase 1 is associated with increased clopidogrel active metabolite levels and greater clopidogrel response.
+Carboxylesterase 1 (CES1) is the primary enzyme responsible for converting clopidogrel into biologically inactive carboxylic acid metabolites.

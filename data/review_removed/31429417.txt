@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Aug', 'Day': '19'}
+Using Pharmacogenomic Testing in Primary Care: Protocol for a Pilot Randomized Controlled Study.
+Antidepressants are used by primary care providers to treat a variety of conditions, including (but not limited to) depression and anxiety. A trial-and-error approach is typically used to identify effective therapy, as treatment efficacy and safety can vary based on the response, which is affected by certain gene types. Pharmacokinetic pharmacogenomic (PGx) testing provides phenotypic classification of individuals as poor, intermediate, extensive, and ultrarapid CYP450 metabolizers, providing information for optimal drug selection.

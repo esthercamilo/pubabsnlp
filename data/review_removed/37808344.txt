@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Sep'}
+<i>CYP2C19</i> Genotype Prevalence and Association With Recurrent Myocardial Infarction in British-South Asians Treated With Clopidogrel.
+Cytochrome P450 family 2 subfamily C member 19 (CYP2C19) is a hepatic enzyme involved in the metabolism of clopidogrel from a prodrug to its active metabolite. Prior studies of genetic polymorphisms in <i>CYP2C19</i> and their relationship with clinical efficacy have not included South Asian populations.

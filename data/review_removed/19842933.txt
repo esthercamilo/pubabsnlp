@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Oct'}
+Association of the exon 3 deleted/full-length GHR polymorphism with recombinant growth hormone dose in growth hormone-deficient adults.
+Contradictory reports exist regarding the influence of the exon 3 deleted (d3)/full-length (fl) growth hormone receptor (GHR) polymorphism on responsiveness to recombinant human growth-hormone therapy in idiopathic short stature, small for gestational age and GH-deficient children, Turner syndrome patients and GH-deficient adults. In some of these studies, the d3 allele was associated with increased responsiveness to GH. The aim of this study was to test this association in a group of GH-deficient adult patients receiving recombinant GH treatment.

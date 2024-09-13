@@ -1,0 +1,3 @@
+{'Year': '2020'}
+A Quarter Century of PCR-Applied Techniques and Their Still-Increasing Fields of Use.
+Quantitative polymerase chain reaction (PCR) is the basis of a variety of scientific applications and publications in a broad range of interests. It also plays a fundamental role in nucleic acid sequencing applications, including Next Generation Sequencing (NGS)-based ones. The potential of PCR diagnostics is enormous, particularly for the early diagnosis of life-threatening infections. Some other fields of applications that use PCR on a regular basis include oncology, genetics, microbiology, biochemistry, immunogenetics, NGS, ecology, comparative genome evolution, ancestry DNA, pharmacogenomics, personalized medicine, and even general medicine.

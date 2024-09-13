@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Nov'}
+Cost-utility analysis and cross-country comparison of pharmacogenomics-guided treatment in colorectal cancer patients participating in the U-PGx PREPARE study.
+A cost-utility analysis was conducted to evaluate pharmacogenomic (PGx)-guided treatment compared to the standard-of-care intervention among patients diagnosed with colorectal cancer (CRC) in Italy.

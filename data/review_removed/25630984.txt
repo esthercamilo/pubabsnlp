@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Mar'}
+Rosuvastatin pharmacokinetics and pharmacogenetics in Caucasian and Asian subjects residing in the United States.
+Systemic exposure to rosuvastatin in Asian subjects living in Japan or Singapore is approximately twice that observed in Caucasian subjects in Western countries or in Singapore. This study was conducted to determine whether pharmacokinetic differences exist among the most populous Asian subgroups and Caucasian subjects in the USA.

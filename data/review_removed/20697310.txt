@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Oct'}
+Characterization of 17-dihydroexemestane glucuronidation: potential role of the UGT2B17 deletion in exemestane pharmacogenetics.
+Exemestane is a third-generation aromatase inhibitor used in the treatment of breast cancer in postmenopausal women. Reduction to form 17-dihydroexemestane and subsequent glucuronidation to exemestane-17-O-glucuronide is a major pathway for exemestane metabolism. The goal of this study was to analyze 17-dihydroexemestane anti-aromatase activity, characterize the 17-dihydroexemestane glucuronidation pathway, and determine whether the functional polymorphisms in active UGTs could play a role in altered 17-dihydroexemestane glucuronidation.

@@ -1,0 +1,3 @@
+{'Year': '2023', 'Season': 'Nov-Dec'}
+Omics sciences and precision medicine in sarcoma.
+Sarcomas are a relatively rare but diverse group of cancers that typically develop in the mesenchymal cells of bones and soft tissues. Occurring in more than 70 subtypes, sarcomas have broad histological presentations, posing significant challenges of prognosis and treatment. Modern multi-omics studies, which include genomics, proteomics, metabolomics, and micro-biomics, are vital to understand the underlying mechanisms of sarcoma development and progression, identify molecular biomarkers for early detection, develop personalized treatment plans, and discover drug resistance mechanisms in sarcomas to upsurge the survival rate.

@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Dec'}
+Precision medicine and pharmacogenetics: what does oncology have that addiction medicine does not?
+Precision, personalized or stratified medicine, which promises to deliver the right treatment to the right patient, is a topic of international interest in both the lay press and the scientific literature. A key aspect of precision medicine is the identification of biomarkers that predict the response to medications (i.e. pharmacogenetics). We examined why, despite the great strides that have been made in biomarker identification in many areas of medicine, only in oncology has there been substantial progress in their clinical implementation. We also considered why progress in this effort has lagged in addiction medicine.

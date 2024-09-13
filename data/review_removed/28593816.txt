@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jun'}
+The experience of physicians in pharmacogenomic clinical decision support within eight German university hospitals.
+The aim of this study was to assess the physicians' attitude, their knowledge and their experience in pharmacogenomic clinical decision support in German hospitals.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Oct'}
+CYP3A5 and ABCB1 polymorphisms as predictors for sunitinib outcome in metastatic renal cell carcinoma.
+In our exploratory studies, we associated single nucleotide polymorphisms (SNPs) in candidate genes with the efficacy and toxicities of sunitinib in metastatic renal cell carcinoma (mRCC).

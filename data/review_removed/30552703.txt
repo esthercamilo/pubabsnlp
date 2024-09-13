@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Mar'}
+A population pharmacokinetic model to predict the individual starting dose of tacrolimus in adult renal transplant recipients.
+The aims of this study were to describe the pharmacokinetics of tacrolimus immediately after kidney transplantation, and to develop a clinical tool for selecting the best starting dose for each patient.

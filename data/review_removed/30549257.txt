@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Mar'}
+Neuronal cell adhesion molecule regulating neural systems underlying addiction.
+The human NRCAM gene is associated with polysubstance use. Nrcam knockout mice do not acquire a preference for addictive substances. We aimed to elucidate the role of Nrcam in specific neural circuits underlying congenital preference for substances and the acquisition of addiction.

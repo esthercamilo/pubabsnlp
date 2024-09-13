@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Nov'}
+A 6-bp Deletion Variant in a Novel Canine Glutathione-S-Transferase Gene (GSTT5) Leads to Loss of Enzyme Function.
+Glutathione-S-transferases (GSTs) detoxify reactive xenobiotics, and defective GST gene polymorphisms increase cancer risk in humans. A low activity GST-theta variant was previously found in research beagles. The purpose of our study was to determine the molecular basis for this phenotype and its allele frequency in pet dogs.

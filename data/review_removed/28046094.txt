@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Analysis of Genetic Variation in CYP450 Genes for Clinical Implementation.
+Genetic determinants of drug response remain stable throughout life and offer great promise to patient-tailored drug therapy. The adoption of pharmacogenetic (PGx) testing in patient care requires accurate, cost effective and rapid genotyping with clear guidance on the use of the results. Hence, we evaluated a 32 SNPs panel for implementing PGx testing in clinical laboratories.

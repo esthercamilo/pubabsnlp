@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'May', 'Day': '01'}
+Appropriate chemotherapy dosing for obese adult patients with cancer: American Society of Clinical Oncology clinical practice guideline.
+To provide recommendations for appropriate cytotoxic chemotherapy dosing for obese adult patients with cancer.

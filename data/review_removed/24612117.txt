@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jun'}
+Case report: dose adjustment of warfarin using genetic information and plasma concentration monitoring.
+Carbamazepine is known to interact with warfarin. We report on a case of this interaction and on its management using the patient's genetic information.

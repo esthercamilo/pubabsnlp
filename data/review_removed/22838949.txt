@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Jul'}
+Pathway-based pharmacogenomics of gemcitabine pharmacokinetics in patients with solid tumors.
+The aim of this study was to evaluate the association of gemcitabine pathway SNPs with detailed pharmacokinetic measures obtained from solid tumor patients receiving gemcitabine-based therapy.

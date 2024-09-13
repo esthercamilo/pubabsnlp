@@ -1,0 +1,3 @@
+{'Year': '2012'}
+Relationship between antimetabolite toxicity and pharmacogenetics in Turkish cancer patients.
+Antimetabolites may cause severe toxicity and even toxic death in cancer patients. Our aim was to evaluate the relationship between antimetabolite toxicity and pharmacogenetics in patients with severe clinical toxicity or alanine transaminase (ALT) elevation after fluorouracil (5FU), capecitabine or methotrexate administration.

@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Feb', 'Day': '10'}
+Pharmacogenomics in the curricula of colleges and schools of pharmacy in the United States.
+To assess the breadth, depth, and perceived importance of pharmacogenomics instruction and level of faculty development in this area in schools and colleges of pharmacy in the United States.

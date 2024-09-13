@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Nov'}
+Influence of the CYP2C9*3 allele on the pharmacological interaction between warfarin and simvastatin.
+A letter in response to: Andersson ML, Eliasson E, Lindh JD. A clinically significant interaction between warfarin and simvastatin is unique to carriers of the CYP2C9*3 allele. Pharmacogenomics 13(7), 757-762 (2012).

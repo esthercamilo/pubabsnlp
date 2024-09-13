@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jan'}
+Association of UGT2B7 and ABCB1 genotypes with morphine-induced adverse drug reactions in Japanese patients with cancer.
+To investigate the effects of genetic polymorphisms on morphine-induced adverse events in cancer patients.

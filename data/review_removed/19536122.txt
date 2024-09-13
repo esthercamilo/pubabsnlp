@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Jul'}
+Addressing the challenges of the clinical application of pharmacogenetic testing.
+Pharmacogenomics aims to use molecular genetic markers to predict treatment outcome. Indeed, within the past decade there has been a rapid emergence of pharmacogenetic tests to aid clinicians in predicting efficacy or toxicity for some drugs. Despite this major advance in therapeutic drug management, there remain challenges to the appropriate use of pharmacogenetic tests. We discuss UGT1A1 pharmacogenetic testing to illustrate the knowledge gaps impeding widespread use of pharmacogenetic tests in the clinical setting.

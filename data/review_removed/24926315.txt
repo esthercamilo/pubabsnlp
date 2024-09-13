@@ -1,0 +1,3 @@
+{'Year': '2014'}
+Genetic variation in the 3'-UTR of CYP1A2, CYP2B6, CYP2D6, CYP3A4, NR1I2, and UGT2B7: potential effects on regulation by microRNA and pharmacogenomics relevance.
+Pharmacogenomics research has concentrated on variation in genes coding for drug metabolizing enzymes, transporters and nuclear receptors. However, variation affecting microRNA could also play a role in drug response. This project set out to investigate potential microRNA target sites in 11 genes and the extent of variation in the 3'-UTR of six selected genes; CYP1A2, CYP2B6, CYP2D6, CYP3A4, NR1I2, and UGT2B7.

@@ -1,0 +1,3 @@
+{'Year': '2022'}
+Candidate genetic variants and antidepressant-related fall risk in middle-aged and older adults.
+Antidepressant use has been associated with increased fall risk. Antidepressant-related adverse drug reactions (e.g. orthostatic hypotension) depend partly on genetic variation. We hypothesized that candidate genetic polymorphisms are associated with fall risk in older antidepressant users.

@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Nov'}
+Predicting prolonged dose titration in patients starting warfarin.
+Patients initiating warfarin therapy generally experience a dose-titration period of weeks to months, during which time they are at higher risk of both thromboembolic and bleeding events. Accurate prediction of prolonged dose titration could help clinicians determine which patients might be better treated by alternative anticoagulants that, while more costly, do not require dose titration.

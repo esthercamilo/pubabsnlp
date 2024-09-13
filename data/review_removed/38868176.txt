@@ -1,0 +1,3 @@
+{'Year': '2024'}
+Precision medicine in pharmacy: assessing pharmacogenomics competence among pharmacists and pharmacy students.
+Pharmacogenomics, a key component of precision medicine, aims to improve healthcare outcomes. As pharmacists play a pivotal role in this evolving field, an assessment of their preparedness to apply pharmacogenomics is imperative.

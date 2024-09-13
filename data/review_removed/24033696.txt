@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jan'}
+Pharmacotherapy effects on smoking cessation vary with nicotine metabolism gene (CYP2A6).
+Evidence suggests that both the nicotinic receptor α5 subunit (CHRNA5) and Cytochrome P450 2A6 (CYP2A6) genotypes influence smoking cessation success and response to pharmacotherapy. We examine the effect of CYP2A6 genotype on smoking cessation success and response to cessation pharmacotherapy, and combine these effects with those of CHRNA5 genotypes.

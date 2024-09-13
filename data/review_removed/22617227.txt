@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Jul'}
+The clinical pharmacogenomics implementation consortium: CPIC guideline for SLCO1B1 and simvastatin-induced myopathy.
+Cholesterol reduction from statin therapy has been one of the greatest public health successes in modern medicine. Simvastatin is among the most commonly used prescription medications. A non-synonymous coding single-nucleotide polymorphism (SNP), rs4149056, in SLCO1B1 markedly increases systemic exposure to simvastatin and the risk of muscle toxicity. This guideline explores the relationship between rs4149056 (c.521T>C, p.V174A) and clinical outcome for all statins. The strength of the evidence is high for myopathy with simvastatin. We limit our recommendations accordingly.

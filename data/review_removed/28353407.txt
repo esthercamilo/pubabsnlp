@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Apr'}
+Replicated evidence for aminoacylase 3 and nephrin gene variations to predict antihypertensive drug responses.
+To replicate the genome-wide associations of the antihypertensive effects of bisoprolol and losartan in GENRES, using the Finnish patients of LIFE study.

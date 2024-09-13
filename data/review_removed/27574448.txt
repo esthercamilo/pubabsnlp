@@ -1,0 +1,3 @@
+{'Year': '2016'}
+Polymorphism of CYP3A4 and ABCB1 genes increase the risk of neuropathy in breast cancer patients treated with paclitaxel and docetaxel.
+Interindividual variability of pharmacogenetics may account for unpredictable neurotoxicities of taxanes.

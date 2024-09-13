@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Pharmacogenetics of Aromatase Inhibitors in Endocrine Responsive Breast Cancer: Lessons Learnt from Tamoxifen and CYP2D6 Genotyping.
+Genetics play a significant role in drug metabolism of endocrine therapy of breast cancer. These aspects have been studied extensively in patients on tamoxifen, but the pharmacogenetics of aromatase inhibitors are less established. In contrast to the protective effect of tamoxifen, aromatase inhibitors are linked with an increased risk for bone loss and fractures.

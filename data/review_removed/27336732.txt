@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Dec'}
+PTGFR and SLCO2A1 Gene Polymorphisms Determine Intraocular Pressure Response to Latanoprost in Han Chinese Patients with Glaucoma.
+To determine the relationship between the polymorphisms of the prostaglandin F2α receptor (PTGFR) and solute carrier organic anion transporter family 2A1 (SLCO2A1) genes and response to latanoprost treatment in Han Chinese patients with glaucoma.

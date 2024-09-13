@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jul'}
+Genome-wide association analysis identifies ancestry-specific genetic variation associated with acute response to metformin and glipizide in SUGAR-MGH.
+Characterisation of genetic variation that influences the response to glucose-lowering medications is instrumental to precision medicine for treatment of type 2 diabetes. The Study to Understand the Genetics of the Acute Response to Metformin and Glipizide in Humans (SUGAR-MGH) examined the acute response to metformin and glipizide in order to identify new pharmacogenetic associations for the response to common glucose-lowering medications in individuals at risk of type 2 diabetes.

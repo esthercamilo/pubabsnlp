@@ -1,0 +1,3 @@
+{'Year': '2016'}
+Understanding New Types of Evidence Ready for Translation into Nursing Informatics.
+Nurses are the primary deliverers of patient care and observers of patient side effects to medications. The primary objective of this tutorial is to bring the participants up to date in genomic applications for nursing from birth until death. A secondary objective is to define at least 17 pharmacogenomics evidence guidelines ready for implementation into the Electronic Health Record. The target audience are nurses in practice, implementers of EHRs, nursing in leadership and policy-making positions, those focused on defining new areas for nursing research, and educators who are in need of defining criteria for integrating genomics into nursing education.

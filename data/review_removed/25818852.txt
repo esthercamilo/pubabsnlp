@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'May'}
+Genetic and immunologic susceptibility to statin-related myopathy.
+Statin-related myopathy (SRM) undermines drug adherence that is critical for achieving the benefits of lipid-lowering therapy. While the exact mechanism of SRM remains largely unknown, recent evidence supports specific genetic and immunologic influence on the development of intolerance. Genes of interest include those involved in the pharmacokinetics of statin response (i.e. drug metabolism, uptake transporters, and efflux transporters), pharmacodynamics (i.e. drug toxicity and immune-mediated myopathy), and gene expression. We examine the influence of genetic and immunologic variation on the pharmacokinetics, pharmacodynamics, and gene expression of SRM.

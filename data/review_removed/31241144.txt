@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'May', 'Day': '26'}
+Pharmacogenomics of Nicotine Metabolism: Novel CYP2A6 and CYP2B6 Genetic Variation Patterns in Alaska Native and American Indian Populations.
+Alaska Native and American Indian (AN/AI) populations have higher tobacco use prevalence than other ethnic/racial groups. Pharmacogenetic testing to tailor tobacco cessation treatment may improve cessation rates. This study characterized polymorphic variations among AN/AI people in genes associated with metabolism of nicotine and drugs used for tobacco cessation.

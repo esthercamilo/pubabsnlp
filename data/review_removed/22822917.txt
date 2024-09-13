@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Feb'}
+Gene expression profiling to identify druggable targets in prion diseases.
+Despite many recent advances in prion research, the molecular mechanisms by which prions cause neurodegeneration have not been established. In fact, the complexity and the novelty characterizing this class of disorders pose a huge challenge to drug discovery. Pharmacogenomics has recently adopted high-throughput transcriptome analyses to predict potential drug target candidates, with promising results in various fields of medicine.

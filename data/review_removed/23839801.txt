@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Dec'}
+Validation of a proposed warfarin dosing algorithm based on the genetic make-up of Egyptian patients.
+Warfarin is the most frequently prescribed oral anticoagulant worldwide. Due to its narrow therapeutic index and inter-patient variability in dose requirement, this drug has been considered an ideal target for personalised medicine. Several warfarin dosing algorithms have been proposed to tailor the warfarin dosage in the European, Asian and African-American populations. However, minimal interest was directed towards Middle East countries. The factors affecting warfarin dose requirement could be different in patients from different geographical and ethnic groups, limiting the value of published dosing algorithms.

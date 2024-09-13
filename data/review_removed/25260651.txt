@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Nov'}
+Effect of drug transporter pharmacogenetics on cholestasis.
+The liver is the central place for the metabolism of drugs and other xenobiotics. In the liver cell, oxidation and conjugation of compounds take place, and at the same time, bile formation helps in extrusion of these compounds via the biliary route. A large number of transporters are responsible for drug uptake into the liver cell and excretion into bile or efflux to the sinusoidal blood.

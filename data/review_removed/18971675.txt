@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Dec'}
+Pharmacogenetics of osteoporosis and the prospect of individualized prognosis and individualized therapy.
+Description of recent progress in genetics and pharmacogenetics of osteoporosis.

@@ -1,0 +1,3 @@
+{'Year': '2024'}
+Efficacy of bupropion and varenicline genetic markers in choosing pharmacological treatment for smoking cessation, and implications for combining drugs: A randomized controlled trial - GENTSMOKING.
+Smoking cessation is the best strategy for reducing tobacco-related morbimortality. The goal of this randomized controlled trial was to test whether using the genetically favorable markers to choose a smoking cessation drug treatment (precision medicine) was superior to using the most effective drug (varenicline) in terms of abstinence rates. Additionally, combination therapy was tested when monotherapy failed.

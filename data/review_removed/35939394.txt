@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jan'}
+Nongenetic and genetic predictors of haemodynamic instability induced by propofol and opioids: A retrospective clinical study.
+Propofol and opioids are commonly used in anaesthesia, but are highly susceptible to haemodynamic instability, thereby threatening the patient's surgical safety and prognosis. The purpose of this study was to investigate the predictors of haemodynamic instability and establish its predictive model.

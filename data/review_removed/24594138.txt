@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Apr'}
+Pharmacogenomics of 17-alpha hydroxyprogesterone caproate for recurrent preterm birth prevention.
+We hypothesized that genetic variation affects responsiveness to 17-alpha hydroxyprogesterone caproate (17P) for recurrent preterm birth prevention.

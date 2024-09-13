@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Nov'}
+An integrative pharmacogenomics analysis identifies therapeutic targets in KRAS-mutant lung cancer.
+KRAS mutations are the most frequent oncogenic aberration in lung adenocarcinoma. KRAS mutant isoforms differentially shape tumour biology and influence drug responses. This heterogeneity challenges the development of effective therapies for patients with KRAS-driven non-small cell lung cancer (NSCLC).

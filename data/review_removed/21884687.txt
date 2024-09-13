@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Nov', 'Day': '20'}
+Rapid allele-specific PCR method for CDA 79A>C (K27Q) genotyping: a useful pharmacogenetic tool and world-wide polymorphism distribution.
+The CDA 79A>C (K27Q, rs2072671) functional SNP has recently shown a crucial role in the pharmacogenetics of cytidine-based anticancer drugs widely administered to different subsets of patients. Current gold standard in screening for the CDA rs2072671 is the sequence-based genotyping method. Here we developed a novel, rapid Allele-Specific PCR method for CDA rs2072671 genotyping.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Nov'}
+Rational selection of predictive pharmacogenomics test for the Fluoropyrimidine/Oxaliplatin based therapy.
+Both Fluoropyrimidine and Oxaliplatin (FluOx) are the most common anticancer drugs used to treat colorectal, ovarian, and gastrointestinal cancers. Nevertheless, the efficacy of FluOx-based therapy is often compromised by the severe risk of neurotoxicity, cardiotoxicity, and gastrointestinal toxicity. Stratification of patients for their individual response to drugs is a promising approach for cancer treatment and cost-effectiveness. Here we evaluate the most recent findings on the most appropriate gene variants related to the toxicity in patients receiving FluOx chemotherapy.

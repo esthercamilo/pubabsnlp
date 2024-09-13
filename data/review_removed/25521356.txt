@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Dec'}
+Genotype and risk of major bleeding during warfarin treatment.
+To determine whether genetic variants associated with warfarin dose variability were associated with increased risk of major bleeding during warfarin therapy.

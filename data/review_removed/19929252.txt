@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jan'}
+Pharmacogenetics of D2 dopamine receptor gene in prolactin-secreting pituitary adenomas.
+Dopamine-agonists are the treatment of choice of prolactin-secreting pituitary adenomas (PRL-omas). Their actions on D2 dopamine receptor (DRD2) and the clinical outcome may be affected by polymorphisms.

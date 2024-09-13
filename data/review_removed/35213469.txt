@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '01'}
+Pilot Findings of Pharmacogenomics in Perioperative Care: Initial Results From the First Phase of the ImPreSS Trial.
+Pharmacogenomics, which offers a potential means by which to inform prescribing and avoid adverse drug reactions, has gained increasing consideration in other medical settings but has not been broadly evaluated during perioperative care.

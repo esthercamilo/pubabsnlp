@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Nov'}
+Dosage optimization of tacrolimus based on the glucocorticoid dose and pharmacogenetics in adult patients with systemic lupus erythematosus.
+The purpose of the study was to develop a genotype-incorporated population pharmacokinetic (PPK) model of tacrolimus (TAC) in adults with systemic lupus erythematosus (SLE) to investigate the factors influencing TAC pharmacokinetics and to develop an individualized dosing regimen based on the model. In addition, a non-genotype-incorporated model was also established to assess its predictive performance compared to the genotype-incorporated model.

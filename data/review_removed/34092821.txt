@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Mar', 'Day': '16'}
+Impact of the Omics-Based Biomarkers on the Mirtazapine's Steady-State Concentration, Efficacy and Safety in Patients with Affective Disorders Comorbid with Alcohol Use Disorder.
+Mirtazapine is commonly administered to patients with recurrent depressive disorder. Some of these patients do not show adequate response to the therapy with mirtazapine, whereas many of them experience dose-dependent adverse drug reactions. Previous research revealed that CYP2D6 is involved in the metabolism of mirtazapine, the activity of which is highly dependent on the polymorphism of the gene encoding it.

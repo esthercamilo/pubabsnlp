@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'May'}
+Direct-to-consumer genome testing: opportunities for pharmacogenomics research?
+This commentary examines the role that commercial providers of SNP-based genome-wide personalized risk profiles play in facilitating pharmacogenomics research. We first take a look at how personal genomics services, exemplified by the company 23andMe, communicate information on drug response to customers. We then discuss the most important benefits and issues we see arising with the idea of 'crowdsourcing' pharmacogenomics research via commercial genome-scan providers. We conclude with a brief vision for the future.

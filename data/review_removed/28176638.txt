@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Personalized Medicine and Adverse Drug Reactions: The Experience of An Italian Teaching Hospital.
+The personalized medicine is a model of medicine based on inherent difference given by the genetic heritage that characterizes us, diversity that can affect also our response to administered therapy. Nowadays, the term "adverse drug reaction" is identified with any harmful effect involuntary resulting from the use of a medicinal product; pharmacogenomics, in this field, has the aim to improve the drug response and to reduce the adverse reaction.

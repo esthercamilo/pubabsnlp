@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Nov'}
+Economic Outcomes Following Combinatorial Pharmacogenomic Testing for Elderly Psychiatric Patients.
+We compared economic outcomes when elderly patients with neuropsychiatric disorders received psychotropic medications guided by a combinatorial pharmacogenomic (PGx) test.

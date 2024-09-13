@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Apr'}
+Post-mortem analysis of suicide victims shows ABCB1 haplotype 1236T-2677T-3435T as a candidate predisposing factor behind adverse drug reactions in females.
+Genetic variation in efflux transporter, permeability glycoprotein (P-gp), has recently been associated with completed violent suicides and also violent suicide attempts. As depression is known to be a risk factor for suicide and many antidepressants are P-gp substrates, it has been speculated that inadequate antidepressant treatment response or adverse side effects could be involved.

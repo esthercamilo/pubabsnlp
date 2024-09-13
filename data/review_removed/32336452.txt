@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'May'}
+A student initiative to implement peer-led study groups for a pharmacogenomics course: Evaluation of student performance and perceptions.
+To better elucidate the impact of cooperative learning outside the classroom, a student-initiated research project was conducted to explore the effects of participating in peer-led study groups (PLSGs) on student examination scores and perceptions.

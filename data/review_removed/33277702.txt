@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jun'}
+Statin-induced rhabdomyolysis from azithromycin interaction in a patient with heterozygous SLCO1B1 polymorphism.
+Unlike other macrolide antibiotics, azithromycin is considered safe to co-prescribe with simvastatin. We aim to elucidate the mechanism of a rare azithromycin-simvastatin interaction.

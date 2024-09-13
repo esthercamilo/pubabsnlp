@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Dec'}
+Longitudinal exposure of English primary care patients to pharmacogenomic drugs: An analysis to inform design of pre-emptive pharmacogenomic testing.
+To investigate the longitudinal exposure of English primary care patients to pharmacogenomic drugs to inform design of pre-emptive testing.

@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Feb', 'Day': '15'}
+Nutraceuticals for major depressive disorder- more is not merrier: An 8-week double-blind, randomised, controlled trial.
+One of the most pressing questions in "Nutritional Psychiatry" is whether using combinations of different nutraceuticals with putative antidepressant activity may provide an enhanced synergistic antidepressant effect.

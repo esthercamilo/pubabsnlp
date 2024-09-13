@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Nov'}
+Pharmacogenetics and healthcare outcomes in patients with chronic heart failure.
+To test for associations between genetic polymorphisms of adrenergic receptors (AR) and other candidate genes and healthcare utilization in heart failure patients, taking into account other important factors, such as medication adherence.

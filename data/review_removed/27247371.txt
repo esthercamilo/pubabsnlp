@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'May'}
+Warfarin Pharmacogenetics Reevaluated:  Subgroup Analysis Reveals a Likely Underestimation of the Maximum Pharmacogenetic Benefit by Clinical Trials.
+Various patient subgroups were examined to determine which ones obtain the largest pharmacogenetic improvements in warfarin dose accuracy. Subgrouping schemes of recent clinical trials were analyzed for comparison.

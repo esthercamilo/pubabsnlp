@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Mar'}
+Genome-wide association study of a nicotine metabolism biomarker in African American smokers: impact of chromosome 19 genetic influences.
+The activity of CYP2A6, the major nicotine-inactivating enzyme, is measurable in smokers using the nicotine metabolite ratio (NMR; 3'hydroxycotinine/cotinine). Due to its role in nicotine clearance, the NMR is associated with smoking behaviours and response to pharmacotherapies. The NMR is highly heritable (~80%), and on average lower in African Americans (AA) versus whites. We previously identified several reduce and loss-of-function CYP2A6 variants common in individuals of African descent. Our current aim was to identify novel genetic influences on the NMR in AA smokers using genome-wide approaches.

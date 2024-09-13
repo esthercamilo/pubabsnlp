@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Nov'}
+Higher than expected clozapine serum level and clozapine/norclozapine ratio due to CYP450 gene polymorphisms.
+We investigated a case of the unexpectedly high clozapine/norclozapine serum levels in a non-smoker, female patient.

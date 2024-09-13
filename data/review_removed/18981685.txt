@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Nov'}
+[In-silico drug discovery science--research and education].
+Following the completion of Human Genome Project, new discipline of drug discovery has emerged, namely Novel Drug Discovery based on IT. Novel Drug Discovery based on IT would be of importance in performing "Personalized Medicine" based on pharmacogenomics. Also, this must be critical for Japan to keep the leadership in drug discovery science.

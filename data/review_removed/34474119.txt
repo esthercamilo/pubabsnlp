@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Dec', 'Day': '01'}
+Effect of albumin and CYP2B6 polymorphisms on exposure of efavirenz: A population pharmacokinetic analysis in Chinese HIV-infected adults.
+Efavirenz is a vital component used to treat HIV-1 infection. Nevertheless, it shows large between-subject variability, which affects both its therapeutic response and adverse effects.

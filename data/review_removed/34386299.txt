@@ -1,0 +1,3 @@
+{'Year': '2021'}
+Inter-ethnic genetic variations and novel variant identification in the partial sequences of <i>CYP2B6</i> gene in Pakistani population.
+Some single nucleotide polymorphisms (SNPs) in the cytochrome P450 <i>(CYP)2B6</i> gene lead to decreased enzyme activity and have an impact on drug metabolism. The present study was designed to investigate the patterns of genetic distinction across a hypervariable region of the <i>CYP2B6</i> gene, known to contain important SNPs, i.e. rs4803419 and rs3745274, among five major ethnic groups of the Pakistani population.

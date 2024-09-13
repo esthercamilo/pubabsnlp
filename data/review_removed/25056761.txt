@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Apr'}
+Relationship between SLCO1B3 and ABCA3 polymorphisms and imatinib response in chronic myeloid leukemia patients.
+Genetic variations in membrane transporters may contribute to imatinib mesylate (IM) resistance in chronic myeloid leukemia (CML). Objective To investigate the relationship between SLCO1B3, SLCO1A2, and ABCA3 polymorphisms and IM response in CML patients.

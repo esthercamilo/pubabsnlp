@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Aug', 'Day': '31'}
+Genetic variants associated with warfarin dose in African-American individuals: a genome-wide association study.
+VKORC1 and CYP2C9 are important contributors to warfarin dose variability, but explain less variability for individuals of African descent than for those of European or Asian descent. We aimed to identify additional variants contributing to warfarin dose requirements in African Americans.

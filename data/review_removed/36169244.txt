@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '01'}
+<i>SLCO1B1</i> c.521T>C gene polymorphism decreases hypoglycemia risk in sulfonylurea-treated type 2 diabetic patients.
+Pharmacogenomics can explain some of the heterogeneity of sulfonylurea (SU)-related hypoglycemia risk. Recently, a role of OATP1B1, encoded by <i>SLCO1B1</i> gene, on SU liver transport prior of metabolism has been uncovered. The aim of the present study was to explore the potential association of <i>SLCO1B1</i> c.521T>C polymorphism, leading to reduced OATP1B1 function, with SU-related hypoglycemia risk.

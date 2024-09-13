@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Oct'}
+Population pharmacokinetics, pharmacodynamics and pharmacogenetics modelling of oxypurinol in Hmong adults with gout and/or hyperuricemia.
+The aim of this study was to quantify identifiable sources of variability, including key pharmacogenetic variants in oxypurinol pharmacokinetics and their pharmacodynamic effect on serum urate (SU).

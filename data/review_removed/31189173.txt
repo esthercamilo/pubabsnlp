@@ -1,0 +1,3 @@
+{'Year': '2018'}
+Generic Cost-Effectiveness Models: A Proof of Concept of a Tool for Informed Decision-Making for Public Health Precision Medicine.
+Economic evaluation is integral to informed public health decision-making in the rapidly growing field of precision and personalized medicine (PM); however, this research requires specialized expertise and significant resources. Generic models are a novel innovation to efficiently address a critical PM evidence shortage and implementation barrier by enabling use of population-specific input values. This is a generic PM economic evaluation model proof-of-concept study for a pharmacogenomic use case.

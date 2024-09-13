@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'May'}
+Pharmacokinetics and pharmacogenetics of high-dose methotrexate in Chinese adult patients with non-Hodgkin lymphoma: a population analysis.
+High-dose methotrexate (HD-MTX) is widely used in the treatment of non-Hodgkin lymphoma (NHL), but the pharmacokinetic properties of HD-MTX in Chinese adult patients with NHL have not yet been established through an approach that integrates genetic covariates. The purposes of this study were to identify both physiological and pharmacogenomic covariates that can explain the inter- and intraindividual pharmacokinetic variability of MTX in Chinese adult patients with NHL and to explore a new sampling strategy for predicting delayed MTX elimination.

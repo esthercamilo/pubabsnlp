@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jul'}
+Celecoxib pharmacogenetics and pediatric adenotonsillectomy: a double-blinded randomized controlled study.
+Pediatric adenotonsillectomy (A&T) is associated with prolonged pain and functional limitation. Celecoxib is an effective analgesic in adult surgery patients; however, its analgesic efficacy on pain and functional recovery in pediatric A&T patients is unknown.

@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Nov', 'Day': '14'}
+Increased risk of aspirin-induced gastric mucosal erosion in elderly Chinese men harboring SLCO1B1*1b/*1b while using aspirin and an ACEI or ARB concomitantly.
+It is well established that long-term use of aspirin can cause gastric mucosal injury. ACEIs and ARBs are inversely related to gastric ulcer development. This study aimed to evaluate the relationship between SLCO1B1 polymorphisms, which can affect ACEI and ARB transport, and gastric mucosal erosion in elderly male Chinese patients with cardiovascular disease who use aspirin.

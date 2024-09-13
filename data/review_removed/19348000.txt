@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Apr'}
+Pharmacogenomics in dermatology: from susceptibility genes to personalized therapy.
+A significant proportion of patients with skin disease do not respond to treatment and adverse drug reactions are a common problem. Genetic factors are important determinants for both drug efficacy and toxicity. The fields of pharmacogenetics and pharmacogenomics examine inter-individual variations in the DNA sequence that are related to drug efficacy and toxicity. Here, we present pharmacogenomic data relevant to dermatology and explore the role of dermatologists in identifying patients who may respond to treatment or experience adverse drug reactions.

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jul'}
+Clinical Utilization of Pharmacogenetics in Psychiatry - Perspectives of Pharmacists, Genetic Counselors, Implementation Science, Clinicians, and Industry.
+The use of pharmacogenomic (PGx) testing to guide decisions and improve patient outcomes has increased in recent years. PGx testing represents a decision support tool that may inform dosing, increase the likelihood of treatment response, and identify patients at risk for medication side effects.

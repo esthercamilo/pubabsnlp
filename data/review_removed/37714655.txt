@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Sep'}
+A Genetics-Focused Lens on Social Constructs in Pharmacy Education.
+Incorporating diversity, equity, inclusion, and anti-racism principles into clinical and didactic education is essential because each influence cognitive and affective attitudes in pharmacy practice. Educators must learn from the past to enlighten the future. For example, race is a social construct, not a biological construct. However, it persistently acts as a surrogate for determining medical diagnoses and treatment.

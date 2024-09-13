@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Aug', 'Day': '01'}
+Pharmacogenomic Effects of β-Blocker Use on Femoral Neck Bone Mineral Density.
+Recent studies have shown that β-blocker (BB) users have a decreased risk of fracture and higher bone mineral density (BMD) compared to nonusers, likely due to the suppression of adrenergic signaling in osteoblasts, leading to increased BMD. There is also variability in the effect size of BB use on BMD in humans, which may be due to pharmacogenomic effects.

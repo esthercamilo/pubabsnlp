@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jul'}
+Neurogenetics and gene therapy for reward deficiency syndrome: are we going to the Promised Land?
+Addiction is a substantial health issue with limited treatment options approved by the FDA and as such currently available. The advent of neuroimaging techniques that link neurochemical and neurogenetic mechanisms to the reward circuitry brain function provides a framework for potential genomic-based therapies.

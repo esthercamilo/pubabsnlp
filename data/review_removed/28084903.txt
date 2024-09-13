@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Feb'}
+Genetic variants associated with angiotensin-converting enzyme inhibitor-induced cough: a genome-wide association study in a Swedish population.
+We conducted a genome-wide association study on angiotensin-converting enzyme inhibitor-induced cough and used our dataset to replicate candidate genes identified in previous studies.

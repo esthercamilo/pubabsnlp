@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Mar'}
+Pharmacogenetic profiling via genome sequencing in children with medical complexity.
+Children with medical complexity (CMC) are a priority pediatric population, with high resource use and associated costs. Genome-wide sequencing is increasingly organized for CMC early in life as a diagnostic test. Polypharmacy becomes common as CMC age. Clinically relevant pharmacogenetic (PGx) information can be extracted from existing genome sequencing (GS) data via GS-PGx profiling. The role of GS-PGx profiling in the CMC population is unclear.

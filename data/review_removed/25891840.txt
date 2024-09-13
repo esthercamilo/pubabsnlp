@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jun'}
+Impact of esomeprazole on platelet reactivity and clinical outcome according to CYP2C19 genotype in coronary heart disease patients during dual antiplatelet therapy.
+The aim of this study was to investigate the effect of CYP2C19 polymorphism and co-therapy with esomeprazole on the antiplatelet efficacy of clopidogrel.

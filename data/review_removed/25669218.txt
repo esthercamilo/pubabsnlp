@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Nov'}
+Biobank research, informed consent and society. Towards a new alliance?
+With the rise of -omics disciplines and biobank research, personal data and biosamples crossing national borders pose new ethical questions. In this article, informed consent, as originally conceived, is shown as not being sufficient to address aims of research and interests of patients any more. Therefore the author has, after having scrutinised issues in biobanking, sketched a model of dynamic consent and a manner of scrutinising ethical issues through empirical data.

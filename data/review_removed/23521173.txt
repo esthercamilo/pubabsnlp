@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jul'}
+Pharmacogenetics of drugs used in the treatment of ocular inflammatory diseases.
+Ocular inflammatory diseases comprise uveitis, scleritis, and inflammation of adjacent structures of the eye. Therapy may be challenging and often involves corticosteroids and immunomodulatory agents.

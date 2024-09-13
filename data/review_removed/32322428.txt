@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Extensive <i>In Silico</i> Analysis of <i>ATL1</i> Gene : Discovered Five Mutations That May Cause Hereditary Spastic Paraplegia Type 3A.
+Hereditary spastic paraplegia type 3A (SPG3A) is a neurodegenerative disease inherited type of Hereditary spastic paraplegia (HSP). It is the second most frequent type of HSP which is characterized by progressive bilateral and mostly symmetric spasticity and weakness of the legs. SPG3A gene mutations and the phenotype-genotype correlations have not yet been recognized. The aim of this work was to categorize the most damaging SNPs in <i>ATL1</i> gene and to predict their impact on the functional and structural levels by several computational analysis tools.

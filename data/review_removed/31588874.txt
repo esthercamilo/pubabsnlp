@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Oct'}
+Letter to the editor: reply to Bousman <i>et al</i>.
+Letter regarding: Bousman CA, Arandjelovic K, Mancuso SG, Eyre HA, Dunlop BW. Pharmacogenetic tests and depressive symptom remission: a meta-analysis of randomized controlled trials. <i>Pharmacogenomics</i> 20(1), 37-47 (2019).

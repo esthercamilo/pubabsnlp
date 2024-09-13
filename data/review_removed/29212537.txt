@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Dec', 'Day': '07'}
+Association of ARMS2 genotype with response to anti-vascular endothelial growth factor treatment in polypoidal choroidal vasculopathy.
+To investigate whether genetic risk variants for age-related macular degeneration (AMD) are associated with response to intravitreal anti-vascular endothelial growth factor (VEGF) in polypoidal choroidal vasculopathy (PCV) patients.

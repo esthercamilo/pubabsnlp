@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'May'}
+Interindividual variability in oral antidiabetic drug disposition and response: the role of drug transporter polymorphisms.
+Numerous effective oral pharmacologic therapies are available to treat type 2 diabetes. However, a substantial number of patients do not achieve the expected glucose-lowering response, or may be predisposed to adverse effects, from these agents. The application of pharmacogenetics to the field of type 2 diabetes is one step towards the goal of improved pharmacotherapeutic management of this progressive disease.

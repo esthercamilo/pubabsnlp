@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Dec'}
+Conference Scene: Systems biology and personalized health science and translation.
+After a 1-day advanced course on systems biology, the main themes of this 3-day colloquium were developed: from systems biology to systems medicine with special applications to cancer; pharmacogenomics in drug discovery and clinical application; and epigenomics and genome-wide association studies in cardiovascular diseases. In two roundtable discussions on pharmacogenomics and genome-wide association studies, the progress and the difficulties in the implementation of omics technologies in clinical practice were discussed. Three workshops were also organized on technical tools linked to the meeting themes.

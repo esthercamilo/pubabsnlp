@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Oct'}
+Development of a population pharmacokinetic model for atorvastatin acid and its lactone metabolite.
+Atorvastatin lactone, a metabolite of the HMG-CoA reductase inhibitor (statin) atorvastatin acid, is believed to be myotoxic. Our objectives were to develop a population pharmacokinetic model for atorvastatin acid and its lactone metabolite and to identify patient characteristics that are predictive of variability in the pharmacokinetic parameters of the parent drug and its lactone metabolite.

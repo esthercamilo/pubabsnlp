@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Aug'}
+Influence of CYP2C9 polymorphism on the fall in International Normalized Ratio in patients interrupting warfarin therapy before elective surgery.
+Patients on warfarin are normally required to stop treatment for a fixed number of days prior to an invasive procedure. However, the anticoagulant activity of warfarin subsides at different rates among different patients.

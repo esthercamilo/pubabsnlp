@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Sep'}
+Pharmacogenomics: the key to improved drug therapy in transplant patients.
+The current success in organ transplantation has been brought about by immunosuppressive therapy. Improvements in transplant outcome using these drugs have stalled, and an understanding of the pharmacogenomics of immunosuppressive dosing and response holds the greatest promise for advancing the use of these agents.

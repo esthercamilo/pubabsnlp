@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Dec'}
+The combined impact of CYP2C19 and CYP2B6 pharmacogenetics on cyclophosphamide bioactivation.
+The role of CYP pharmacogenetics in the bioactivation of cyclophosphamide is still controversial. Recent clinical studies have suggested a role for either CYP2C19 or CYP2B6. The aim of this study was to clarify the role of these pharmacogenes.

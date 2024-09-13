@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Sep'}
+The Influence of ABCB1 (rs1045642 and rs4148738) Gene Polymorphisms on Rivaroxaban Pharmacokinetics in Patients Aged 80 Years and Older with Nonvalvular Atrial Fibrillation.
+ABCB1 gene polymorphisms are associated with rivaroxaban distribution changes and adverse reactions but the data are controversial.

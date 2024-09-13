@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Apr'}
+Documentation of results and medication prescribing after combinatorial psychiatric pharmacogenetic testing: A case for discrete results.
+Combinatorial pharmacogenetic (PGx) panels intended to aid psychiatric prescribing are available to clinicians. Here, we evaluated the documentation of PGx panel results and subsequent prescribing patterns within a tertiary health care system.

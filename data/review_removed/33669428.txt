@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Feb', 'Day': '16'}
+Pharmacogenomic Profile and Adverse Drug Reactions in a Prospective Therapeutic Cohort of Chagas Disease Patients Treated with Benznidazole.
+Chagas disease remains a major social and public health problem in Latin America. Benznidazole (BZN) is the main drug with activity against <i>Trypanosoma cruzi</i>. Due to the high number of adverse drug reactions (ADRs), BZN is underprescribed. The goal of this study was to evaluate the genetic and transcriptional basis of BZN adverse reactions.

@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jun'}
+A first-in-human phase I study of TAS-117, an allosteric AKT inhibitor, in patients with advanced solid tumors.
+TAS-117 is a highly potent and selective, oral, allosteric pan-AKT inhibitor under development for advanced/metastatic solid tumors. The safety, clinical pharmacology, pharmacogenomics and efficacy were investigated.

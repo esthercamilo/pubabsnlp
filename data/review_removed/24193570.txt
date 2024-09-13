@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Feb'}
+Pharmacogenetic effects of regulatory nuclear receptors (PXR, CAR, RXRα and HNF4α) on docetaxel disposition in Chinese nasopharyngeal cancer patients.
+This exploratory study was aimed at elucidating the pharmacogenetics of regulatory nuclear receptors (PXR, CAR, RXRα and HNF4α) and their implications on docetaxel pharmacokinetics and pharmacodynamics in local Chinese nasopharyngeal cancer patients.

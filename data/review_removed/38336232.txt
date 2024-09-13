@@ -1,0 +1,3 @@
+{'Year': '2024', 'Season': 'May-Jun'}
+Implementation of depression management by ambulatory care pharmacists in the primary care setting.
+In the United States, depression is one of the most common mental health disorders. Ambulatory care pharmacists play a critical role in assisting with medication and dosage selection, identifying and managing drug interactions and adverse effects, and increasing medication adherence. Existing data on depression management by ambulatory care pharmacists trained in primary care is limited and outdated.

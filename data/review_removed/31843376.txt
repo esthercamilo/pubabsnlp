@@ -1,0 +1,3 @@
+{'Year': '2020', 'Season': 'Mar-Apr'}
+Coverage of pharmacogenetic tests by private health insurance companies.
+To assess the coverage of clinically relevant pharmacogenetic tests by the top 41 private insurance companies in the United States.

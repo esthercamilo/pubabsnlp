@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Sep'}
+How to assess pharmacogenomic tests for implementation in the NHS in England.
+Pharmacogenomic testing has the potential to target medicines more effectively towards those who will benefit and avoid use in individuals at risk of harm. Health economies are actively considering how pharmacogenomic tests can be integrated into health care systems to improve use of medicines. However, one of the barriers to effective implementation is evaluation of the evidence including clinical usefulness, cost-effectiveness, and operational requirements. We sought to develop a framework that could aid the implementation of pharmacogenomic testing. We take the view from the National Health Service (NHS) in England.

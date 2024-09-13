@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Apr'}
+Pre-examination factors affecting molecular diagnostic test results and interpretation: A case-based approach.
+Multiple organizations produce guidance documents that provide opportunities to harmonize quality practices for diagnostic testing. The International Organization for Standardization ISO 15189 standard addresses requirements for quality in management and technical aspects of the clinical laboratory. One technical aspect addresses the complexities of the pre-examination phase prior to diagnostic testing.

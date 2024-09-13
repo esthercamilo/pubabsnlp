@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Dec', 'Day': '13'}
+VKORC1 pharmacogenetics and pharmacoproteomics in patients on warfarin anticoagulant therapy: transthyretin precursor as a potential biomarker.
+Recognizing specific protein changes in response to drug administration in humans has the potential for the development of personalized medicine. Such changes can be identified by pharmacoproteomics approach based on proteomic technologies. It can also be helpful in matching a particular target-based therapy to a particular marker in a subgroup of patients, in addition to the profile of genetic polymorphism. Warfarin is a commonly prescribed oral anticoagulant in patients with prosthetic valve disease, venous thromboembolism and stroke.

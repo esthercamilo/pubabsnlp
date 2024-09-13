@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jun'}
+Considerations for rare variants in drug metabolism genes and the clinical implications.
+Large-scale whole genome and exome resequencing studies have revealed that humans have a high level of deleterious rare variation, which has important implications for the design of future pharmacogenetics studies.

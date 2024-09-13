@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jan'}
+Genotype-guided model significantly improves accuracy of tacrolimus initial dosing after liver transplantation.
+The initial dose of tacrolimus after liver transplantation (LT) is critical for rapidly achieving the steady state of the drug concentration, minimizing the potential adverse reactions and warranting long-term patient prognosis. We aimed to develop and validate a genotype-guided model for determining personalized initial dose of tacrolimus.

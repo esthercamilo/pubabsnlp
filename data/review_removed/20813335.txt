@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Sep'}
+Consumers' views of pharmacogenetics--A qualitative study.
+Adverse drug reactions are recognized as a significant public health issue. Pharmacogenetics (PGx) provides a potential means of preventing some adverse drug reactions by predicting the optimal medication dose for an individual; however, PGx is rarely used in clinical practice. Thus far, there have been few studies investigating consumers' perceptions of the barriers to the implementation of PGx in clinical practice.

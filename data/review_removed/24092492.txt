@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jan'}
+Cross-sectional and longitudinal studies suggest pharmacological treatment used in patients with glucokinase mutations does not alter glycaemia.
+Heterozygous glucokinase (GCK) mutations cause mild, fasting hyperglycaemia from birth. Although patients are usually asymptomatic and have glycaemia within target ranges, some are put on pharmacological treatment. We aimed to investigate how many patients are on pharmacological treatment and the impact of treatment on glycaemic control.

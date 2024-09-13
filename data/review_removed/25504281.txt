@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jan'}
+Using HLA typing to support patients with cancer.
+The human leukocyte antigen (HLA) system plays a crucial role in immune function, and HLA testing is often needed in the support of patients with cancer.

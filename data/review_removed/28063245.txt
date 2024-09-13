@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar'}
+Dosing algorithms for vitamin K antagonists across VKORC1 and CYP2C9 genotypes.
+Essentials Prospective studies of pharmacogenetic-guided (PG) coumarin dosing produced varying results. EU-PACT acenocoumarol and phenprocoumon trials compared PG and non-PG dosing algorithms. Sub-analysis of EU-PACT identified differences between trial arms across VKORC1-CYP2C9 groups. Adjustment of the PG algorithm might lead to a higher benefit of genotyping.

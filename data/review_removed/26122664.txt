@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Nov'}
+Extrapolation of acenocoumarol pharmacogenetic algorithms.
+Acenocoumarol (ACN) has a narrow therapeutic range that is especially difficult to control at the start of its administration. Various dosing pharmacogenetic-guided dosing algorithms have been developed, but further work on their external validation is required. The aim of this study was to evaluate the extrapolation of pharmacogenetic algorithms for ACN as an alternative to the development of a specific algorithm for a given population.

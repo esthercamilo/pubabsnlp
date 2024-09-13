@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Feb'}
+Poor warfarin dose prediction with pharmacogenetic algorithms that exclude genotypes important for African Americans.
+Recent clinical trial data cast doubt on the utility of genotype-guided warfarin dosing, specifically showing worse dosing with a pharmacogenetic versus clinical dosing algorithm in African Americans. However, many genotypes important in African Americans were not accounted for. We aimed to determine whether omission of the CYP2C9*5, CYP2C9*6, CYP2C9*8, CYP2C9*11 alleles and rs12777823 G > A genotype affects performance of dosing algorithms in African Americans.

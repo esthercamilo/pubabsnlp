@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jun'}
+[Pharmacogenetics, therapeutic drug monitoring and non compliance].
+To attain optimal therapeutic effects, a drug must reach its target structure in sufficiently high concentrations for a sufficiently long time. Lacking or insufficient response may be due to insufficient drug concentrations. It may be caused either by non compliance of the patient or by reduced absorption or ultra rapid metabolism of the drug. To identify reasons underlying suboptimal plasma concentrations, therapeutic drug monitoring (TDM) and, in special cases, genotyping are most helpful. When applied appropriately, they accelerate the response to acute drug treatment and prevent relapses under chronic treatment.

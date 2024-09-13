@@ -1,0 +1,3 @@
+{'Year': '2021', 'Season': 'Mar-Apr'}
+Pharmacogenetics of advanced lung cancer: Predictive value of functional genetic polymorphism AGXT Pro11Leu in clinical outcome?
+AGXT gene codes for the enzyme alanine glyoxylate aminotransferase, which is involved in hepatic peroxisomal metabolism of platinum-based chemotherapeutic agents. The association of genetic variant AGXT rs34116584 on the clinical outcome and response to chemotherapy of patients with non-small cell lung cancer (NSCLC) remains to be established. Our aim was to evaluate the association of functional AGXT gene polymorphism in NSCLC progression, considering as primary and secondary endpoint, progression free survival (PFS) and overall survival (OS), respectively.

@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Dec'}
+[Factors responsible for inter-individual variations in dosage/concentration of tacrolimus in renal transplant recipients].
+To identify the factors responsible for the inter-individual variations in the dosage/concentration of tacrolimus in renal transplant recipients.

@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Nov'}
+Pharmacogenomics education and research at the Department of Pharmacy, University of Patras, Greece.
+The Pharmacogenomics and Personalized Medicine group belongs to the Laboratory of Molecular Biology and Immunology, Department of Pharmacy and is active since 2009 mainly in the field of pharmacogenomics and personalized medicine. Herein, we describe the research interests, collaborations and accomplishments of the Pharmacogenomics and Personalized Medicine group together with the teaching activities of the group that greatly enhance the pharmacogenomics knowledge of graduate/postgraduate students and healthcare professionals.

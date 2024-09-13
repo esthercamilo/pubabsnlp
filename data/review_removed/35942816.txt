@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jan'}
+A comprehensive pharmacogenomic study indicates roles for SLCO1B1, ABCG2 and SLCO2B1 in rosuvastatin pharmacokinetics.
+The aim was to comprehensively investigate the effects of genetic variability on the pharmacokinetics of rosuvastatin.

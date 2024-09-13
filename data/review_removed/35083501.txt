@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Apr'}
+Effects of cyclophosphamide related genetic variants on clinical outcomes of adult hematopoietic cell transplant patients.
+Genetic variants may influence the pharmacokinetics and pharmacodynamics (PKPD) of cyclophosphamide (CY). CY plays a critical role in conditioning chemotherapy for hematopoietic cell transplantation (HCT), but its use is limited by toxicity. We explored the effect of genetic variants, potentially affecting PKPD of CY, and outcomes after HCT.

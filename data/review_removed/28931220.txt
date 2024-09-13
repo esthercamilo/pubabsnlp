@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Sep', 'Day': '01'}
+Race/Ethnicity and the Pharmacogenetics of Reported Suicidality With Efavirenz Among Clinical Trials Participants.
+We examined associations between suicidality and genotypes that predict plasma efavirenz exposure among AIDS Clinical Trials Group study participants in the United States.

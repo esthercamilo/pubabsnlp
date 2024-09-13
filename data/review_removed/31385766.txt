@@ -1,0 +1,3 @@
+{'Year': '2019'}
+Association Between CYP3A4 and CYP3A5 Genotypes and Cyclosporine's Blood Levels and Doses among Jordanian Kidney Transplanted Patients.
+Cyclosporine is used as an immunosuppressive agent in kidney transplantation. It has a narrow therapeutic window. Cyclosporine is predominantly metabolized by CYP3A4 and CYP3A5. The most common Single Nucleotide Polymorphisms (SNPs) affecting cyclosporine metabolism (CYP3A4*1B, CYP3A4*1G, CYP3A4*22 and CYP3A5*3) were investigated among Jordanian kidney transplanted patients to find out the genotypes and allele frequencies of these SNPs. Additionally, this study investigated whether genotypes of CYP3A4 and CYP3A5 affect C2 blood levels, dosing of cyclosporine and the prevalence of acute rejection.

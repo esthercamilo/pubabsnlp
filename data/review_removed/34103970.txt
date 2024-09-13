@@ -1,0 +1,3 @@
+{'Year': '2021'}
+Physicians' Knowledge and Attitudes Regarding Point-of-Care Pharmacogenetic Testing: A Hospital-Based Cross-Sectional Study.
+Pharmacogenetic testing (PGx) is a diagnostic technique used by physicians to determine the possible reactions of patients to drug treatment on the basis of their genetic makeup. The aim of this study was to determine the impact of physicians' awareness, attitudes, and sociodemographics on the adoption of point-of-care (POC) PGx testing as a diagnostic method, as well as the impact of their knowledge, attitudes, and sociodemographics on its adoption.

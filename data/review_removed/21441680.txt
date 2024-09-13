@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Mar'}
+Profiling single nucleotide polymorphisms (SNPs) across intracellular folate metabolic pathway in healthy Indians.
+Many pharmacologically-relevant polymorphisms show variability among different populations. Though limited, data from Caucasian subjects have reported several single nucleotide polymorphism (SNPs) in folate biosynthetic pathway. These SNPs may be subjected to racial and ethnic differences. We carried out a study to determine the allelic frequencies of these SNPs in an Indian ethnic population.

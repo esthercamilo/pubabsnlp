@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '15'}
+Genomic Stratification of Clozapine Prescription Patterns Using Schizophrenia Polygenic Scores.
+Treatment-resistant schizophrenia affects approximately 30% of individuals with the disorder. Clozapine is the medication of choice in treatment-resistant schizophrenia, but optimizing administration and dose titration is complex. The identification of factors influencing clozapine prescription and response, including genetics, is of interest in a precision psychiatry framework.

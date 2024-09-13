@@ -1,0 +1,3 @@
+{'Year': '2011', 'Season': 'Jan-Feb'}
+The role of CYP3A5 genotypes in dose requirements of tacrolimus and everolimus after heart transplantation.
+tacrolimus and everolimus are immunosuppressive drugs metabolized by enzymes of the CYP3A subfamily. A common variant of the CYP3A5 gene, CYP3A5*3, results in strongly decreased CYP3A5 activity and has been shown to influence Tacrolimus blood concentrations, but its role for the pharmacogenetics of Everolimus remains unclear. Aim of the study was to examine the role of CYP3A5*3 variant in tacrolimus and everolimus dose and drug levels after heart transplantation.

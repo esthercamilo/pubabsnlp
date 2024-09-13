@@ -1,0 +1,3 @@
+{'Year': '2020'}
+IL-6 -572C>G and CARD8 304T>A Genetic Polymorphisms are Associated with the Absolute Neutrophil Count in Patients with Hematological Malignancies Under Chemotherapy: An Application of Multilevel Models to a Preliminary Pharmacogenetic Study.
+Neutropenia is a common event in patients undergoing cytotoxic chemotherapy for the treatment of a hematological malignancy. Some polymorphisms, as <i>IL-6</i> -572C>G (rs1800796), <i>IL-1β</i> -31 G>A (rs1143627), and <i>CARD8</i> 304T>A (rs2043211), in genes related to the inflammatory process, could affect the level of absolute neutrophil count (ANC) after chemotherapy. Since an efficient inflammatory process enhances neutrophil survival, we hypothesize that these polymorphisms are associated with ANC.

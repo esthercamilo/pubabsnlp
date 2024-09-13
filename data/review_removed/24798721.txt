@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Apr'}
+Pharmacogenetic landscape of clopidogrel in north Indians suggest distinct interpopulation differences in allele frequencies.
+Clopidogrel, a widely used antiplatelet drug, exhibits high interindividual variability; more than 80% of which could be explained by genetic polymorphisms. We built an allele frequency map of variants affecting clopidogrel response in north Indians.

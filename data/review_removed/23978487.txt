@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Feb'}
+Development and use of active clinical decision support for preemptive pharmacogenomics.
+Active clinical decision support (CDS) delivered through an electronic health record (EHR) facilitates gene-based drug prescribing and other applications of genomics to patient care.

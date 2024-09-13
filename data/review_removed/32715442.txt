@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Oct'}
+Variation in the UGT2B17 genotype, exemestane metabolism and menopause-related toxicities in the CCTG MAP.3 trial.
+To examine associations between the UGT2B17 gene deletion and exemestane metabolites, and commonly reported side effects (fatigue, hot flashes, and joint pain) among postmenopausal women participating in the MAP.3 chemoprevention trial.

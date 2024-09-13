@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Feb'}
+Clinical applications of pharmacogenomics guided warfarin dosing.
+To assess the state of the literature concerning pharmacogenomic testing in patients requiring vitamin K antagonists, specifically warfarin.

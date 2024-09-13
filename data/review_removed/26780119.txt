@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Mar'}
+Photodynamic therapy in VEGF inhibition non-responders-Pharmacogenetic study in age-related macular degeneration assessed with swept-source optical coherence tomography.
+Treatment of neovascular age-related macular degeneration (nAMD) remains a major challenge in ophthalmology. It is essential to determine which of VEGF inhibition non-responders can benefit from photodynamic therapy (PDT). As AMD is strongly related to gene polymorphisms, genetic factors can modify efficacy of treatment. Swept-source optical coherence tomography (SS-OCT) gives exceptional insight into the retina and choroid. SS-OCT usefulness needs to be evaluated in nAMD patients.

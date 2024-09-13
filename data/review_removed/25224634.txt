@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Genetic variation in key genes associated with statin therapy in the Azores Islands (Portugal) healthy population.
+Inter-individual variation in response to statins (efficacy and toxicity) has been described and may be due to polymorphisms implicated in drug pharmacokinetics or pharmacodynamics.

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jan'}
+Frequency and clinical outcomes of CYP2C19 genotype-guided escalation and de-escalation of antiplatelet therapy in a real-world clinical setting.
+To evaluate the frequency and clinical impact of switches in antiplatelet therapy following implementation of CYP2C19 genotyping after percutaneous coronary intervention (PCI).

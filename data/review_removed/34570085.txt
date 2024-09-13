@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Apr', 'Day': '01'}
+Anesthesia providers as stakeholders to adoption of pharmacogenomic information in perioperative care.
+Integration of pharmacogenomics into clinical care is being studied in multiple disciplines. We hypothesized that understanding attitudes and perceptions of anesthesiologists, critical care and pain medicine providers would uncover unique considerations for future implementation within perioperative care.

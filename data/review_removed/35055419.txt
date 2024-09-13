@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '14'}
+Demand for Pharmacogenomics and Personalized Medicine in the United Arab Emirates.
+The application of personalized medicine (PM) is rapidly evolving [...].

@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Nov'}
+The Future of Precision Medicine.
+Precision medicine is an emerging framework to maximize therapeutic benefit by modifying the treatment for individual patients based on their variations in demographic, genomic, and environmental factors. In particular, "Pharmacogenomics" and "Therapeutic Drug Monitoring" are key elements of individualized drug treatment, staging Clinical Pharmacology at the forefront of precision medicine.

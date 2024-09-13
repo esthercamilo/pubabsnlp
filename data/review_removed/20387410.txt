@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Feb'}
+[A rational drug prescription based upon the therapeutic process].
+The main goal of the pharmacology is to benefit to the patient through a rational process of drug selection similar to that is carried out for the diagnosis procedure of diseases. Pharmacology is a complex discipline that comprises different sections, pharmacokinetics, pharmacodynamics, pharmacometrics, clinical pharmacology, therapeutics, toxicology and pharmacogenetics. The therapeutic process has four different stages, pharmaceutical, pharmacokinetics, pharmacodynamics and therapeutics, whose right knowledge is the basis for the development and prescription of more effective and safer drugs to the patients.

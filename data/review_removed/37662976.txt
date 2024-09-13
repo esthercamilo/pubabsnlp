@@ -1,0 +1,3 @@
+{'Year': '2023'}
+Identification of an Immune-Related Gene Diagnostic Model and Potential Drugs in Sepsis Using Bioinformatics and Pharmacogenomics Approaches.
+Sepsis is an organ dysfunction with high mortality. Early identification, diagnosis, and effective treatment of sepsis are beneficial to the survival of patients. This study aimed to find potential diagnosis and immune-related genes, and drug targets, which could provide novel diagnostic and therapeutic markers for sepsis.

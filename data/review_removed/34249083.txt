@@ -1,0 +1,3 @@
+{'Year': '2021'}
+Polymorphism in <i>INSR</i> Locus Modifies Risk of Atrial Fibrillation in Patients on Thyroid Hormone Replacement Therapy.
+Atrial fibrillation (AF) is a risk for patients receiving thyroid hormone replacement therapy. No published work has focused on pharmacogenetics relevant to thyroid dysfunction and AF risk. We aimed to assess the effect of L-thyroxine on AF risk stratified by a variation in a candidate gene.

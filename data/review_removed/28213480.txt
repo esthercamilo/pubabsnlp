@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Apr', 'Day': '04'}
+Common Genetic Variant Risk Score Is Associated With Drug-Induced QT Prolongation and Torsade de Pointes Risk: A Pilot Study.
+Drug-induced QT interval prolongation, a risk factor for life-threatening ventricular arrhythmias, is a potential side effect of many marketed and withdrawn medications. The contribution of common genetic variants previously associated with baseline QT interval to drug-induced QT prolongation and arrhythmias is not known.

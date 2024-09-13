@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Nov'}
+Genetic variability of CYP2C9*2 and CYP2C9*3 in seven indigenous groups from Mexico.
+CYP2C9 is one of the major drug metabolizing enzymes, however, little is known about polymorphisms in CYP2C9 gene and pharmacological implications in Mexican indigenous populations. Thus, frequencies of CYP2C9*2 and CYP2C9*3 alleles were evaluated in indigenous groups located in northwest (Cora), center (Mazahua and Teenek), south (Chatino and Mixteco) and southeast (Chontal and Maya) regions Mexico.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Aug'}
+Interpreting the CYP2D6 results from the International Tamoxifen Pharmacogenetics Consortium.
+Meta-analysis of the entire analyzable cohort of 4,935 tamoxifen-treated breast cancer patients by the International Tamoxifen Pharmacogenetics Consortium (ITPC) (criterion 3) revealed no CYP2D6 effect on outcomes but strong heterogeneity across sites. However, a <i>post hoc</i>–defined subgroup (criterion 1: postmenopausal, estrogen receptor positive, receiving 20 mg/day tamoxifen for 5 years; <i>n</i> = 1,996) did find statistically significant effect of CYP2D6 on both invasive disease–free survival as well as breast cancer–free interval, with little site heterogeneity. How should we interpret these discrepant findings?

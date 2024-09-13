@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Dec'}
+Ethnic variability in the allelic distribution of pharmacogenes between Korean and other populations.
+We examined the differences in allele frequencies for pharmacogenes among the Korean (KOR), Chinese (CHB), Japanese (JPT), Caucasian (CEU), and Nigerian (YRI) populations.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Aug', 'Day': '15'}
+Surveying Recent Themes in Translational Bioinformatics: Big Data in EHRs, Omics for Drugs, and Personal Genomics.
+To provide a survey of recent progress in the use of large-scale biologic data to impact clinical care, and the impact the reuse of electronic health record data has made in genomic discovery.

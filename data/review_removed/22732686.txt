@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Sep'}
+Pharmacogenomics in pediatric rheumatology.
+Despite major advancements in therapeutics, variability in drug response remains a challenge in both adults and children diagnosed with rheumatic disease. The genetic contribution to interindividual variability has emerged as a promising avenue of exploration; however, challenges remain in making this knowledge relevant in the clinical realm.

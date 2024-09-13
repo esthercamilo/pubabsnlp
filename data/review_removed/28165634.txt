@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar'}
+Pharmacogenetics of antiepileptic drug efficacy in childhood absence epilepsy.
+To determine whether common polymorphisms in CACNA1G, CACNA1H, CACNA1I, and ABCB1 are associated with differential short-term seizure outcome in childhood absence epilepsy (CAE).

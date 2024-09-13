@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'May'}
+Pharmacogenomics of fluorouracil -based chemotherapy toxicity.
+5- fluorouracil (5-FU), alone or in combination, is the most prevalent and effective chemotherapeutic agent for the treatment of cancers of the head and neck, breast, pancreas and gastrointestinal tract.

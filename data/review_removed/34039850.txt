@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Aug', 'Day': '01'}
+Role of pharmacogenomics in T-cell hypersensitivity drug reactions.
+An update of the pharmacogenetic risk factors associated with T-cell-mediated delayed hypersensitivity reactions.

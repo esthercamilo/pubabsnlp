@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Mar'}
+A candidate gene approach of the calcineurin pathway to identify variants associated with clinical outcomes in renal transplantation.
+To investigate the potential influence of variants in genes involved in the calcineurin pathway on the efficacy and toxicity of calcineurin inhibitors in renal transplantation.

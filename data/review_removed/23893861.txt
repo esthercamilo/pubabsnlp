@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Oct', 'Day': '15'}
+Pharmacogenetic testing in the face of unclear clinical efficacy: lessons from cytochrome P450 2D6 for tamoxifen.
+This study evaluated self-reported knowledge, practice, and attitudes toward commercially available cytochrome P450 2D6 (CYP2D6) pharmacogenomic testing for patients on tamoxifen for breast cancer (CYPT) among US oncologists while evidence for the use of the test was evolving.

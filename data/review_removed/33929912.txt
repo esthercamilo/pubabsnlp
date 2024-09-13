@@ -1,0 +1,3 @@
+{'Year': '2021', 'Season': 'Jan-Dec'}
+A pilot study of oral treprostinil pharmacogenomics and treatment persistence in patients with pulmonary arterial hypertension.
+Treprostinil is a prostacyclin analog used to treat pulmonary arterial hypertension. Dosing is empiric and based on tolerability. Adverse effects are common and can affect treatment persistence. Pharmacogenomic variants that may affect treprostinil metabolism and transport have not been well-characterized. We aimed to investigate the pharmacogenomic sources of variability in treatment persistence and dosing.

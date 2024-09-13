@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Aug'}
+Generating evidence for precision medicine: considerations made by the Ubiquitous Pharmacogenomics Consortium when designing and operationalizing the PREPARE study.
+Pharmacogenetic panel-based testing represents a new model for precision medicine. A sufficiently powered prospective study assessing the (cost-)effectiveness of a panel-based pharmacogenomics approach to guide pharmacotherapy is lacking. Therefore, the Ubiquitous Pharmacogenomics Consortium initiated the PREemptive Pharmacogenomic testing for prevention of Adverse drug Reactions (PREPARE) study. Here, we provide an overview of considerations made to mitigate multiple methodological challenges that emerged during the design.

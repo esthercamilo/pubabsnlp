@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jul'}
+Fibrates as drugs with senolytic and autophagic activity for osteoarthritis therapy.
+Ageing-related failure of homeostasis mechanisms contributes to articular cartilage degeneration and osteoarthritis (OA), for which disease-modifying treatments are not available. Our objective was to identify molecules to prevent OA by regulating chondrocyte senescence and autophagy.

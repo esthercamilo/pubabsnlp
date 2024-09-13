@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jan'}
+Analysis of Lithuanian CYP2D6 polymorphism and its relevance to psychiatric care of the local population.
+CYP450 system gene CYP2D6 polymorphisms have been associated with an altered response to psychotropic drugs. While there exists interindividual and interethnic differences of clinical significance, there is no data concerning the Lithuanian population.

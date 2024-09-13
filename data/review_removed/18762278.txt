@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Oct'}
+Pharmacogenetics: improving drug and dose selection.
+Considerable interindividual variability exists in patient responses to drug therapy. Differences in DNA sequence can affect the disposition, efficacy, and safety of a drug. Knowledge of pharmacogenetics may be applied toward understanding and managing such interindividual variability. Increasingly, pharmacogenetic language is being added to drug labels, and genotyping is performed either to select the drug or adjust the dose to an individual. In this article we discuss the current uses of genotyping for managing drug therapy, and issues related to the clinical uptake of pharmacogenetics.

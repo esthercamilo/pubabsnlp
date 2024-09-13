@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'May', 'Day': '30'}
+Regulatory sciences and translational pharmacogenetics: amitriptyline as a case in point.
+Regulatory developments and clinical implementation, or the lack thereof, are primary clinchers, in the enduring endeavors to realize the translational quality of pharmacogenetics. Here, we present the case of amitriptyline, an established drug with pharmacogenetic implications. The integration of pharmacogenetic information in the official product literature and throughout the evaluation of safety concerns is considered. In our opinion, apart from emboldening genomic research in drug development and the valid pursuit towards global harmonization in the field, it is rational to look into the applicability of the data we have today.

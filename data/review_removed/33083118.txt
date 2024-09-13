@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Plasma miRNA profiles associated with stable warfarin dosage in Chinese patients.
+We used bioinformatic analysis and quantitative reverse transcription polymerase chain reaction (RT-qPCR) assays to investigate the association between plasma microRNAs (miRNAs) and stable warfarin dosage in a Chinese Han population.

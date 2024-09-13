@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jul'}
+Quality of life in patients with venous thromboembolism and atrial fibrillation treated with coumarin anticoagulants.
+Little is known about the overall quality of life (QOL) in patients newly diagnosed with venous thromboembolism (VTE) and atrial fibrillation (AF). We studied QOL in patients with VTE and AF immediately after the start of anticoagulant therapy, and after three months of treatment. Furthermore we identified whether QOL was affected by age, gender and nationality.

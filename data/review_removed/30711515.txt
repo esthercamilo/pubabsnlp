@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Feb'}
+Pandemrix-induced narcolepsy is associated with genes related to immunity and neuronal survival.
+The incidence of narcolepsy rose sharply after the swine influenza A (H1N1) vaccination campaign with Pandemrix. Narcolepsy is an immune-related disorder with excessive daytime sleepiness. The most frequent form is strongly associated with HLA-DQB1*06:02, but only a minority of carriers develop narcolepsy. We aimed to identify genetic markers that predispose to Pandemrix-induced narcolepsy.

@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar'}
+Sex-specific effects of serum sulfate level and <i>SLC13A1</i> nonsense variants on DHEA homeostasis.
+Sulfate is critical in the biotransformation of multiple compounds via sulfation. These compounds include neurotransmitters, proteoglycans, xenobiotics, and hormones such as dehydroepiandrosterone (DHEA). Sulfation reactions are thought to be rate-limited by endogenous sulfate concentrations. The gene, <i>SLC13A1</i>, encodes the sodium-sulfate cotransporter NaS1, responsible for sulfate (re)absorption in the intestines and kidneys. We previously reported two rare, non-linked, nonsense variants in <i>SLC13A1</i> (R12X and W48X) associated with hyposulfatemia (<i>P</i> = 9 × 10<sup>- 20</sup>).

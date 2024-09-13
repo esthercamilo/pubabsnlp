@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Sep'}
+Considering CYP1A2 phenotype and genotype for optimizing the dose of olanzapine in the management of schizophrenia.
+Schizophrenia, a mental disorder, is a debilitating condition which typically strikes young people in their early 20's. Antipsychotic medications are widely prescribed for the treatment of schizophrenia however a balancing act is necessary to provide the correct dose to each patient. It is suggested that a large number of patients discontinue antipsychotic pharmacotherapy because the treatments provided do not always reduce the positive symptoms of the disease, while many have adverse effects on the patients. This implies that neither the incorrect drug nor the optimal dosage for that patient is achieved.

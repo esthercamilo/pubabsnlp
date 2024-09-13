@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Genetic variants in 6-mercaptopurine pathway as potential factors of hematological toxicity in acute lymphoblastic leukemia patients.
+We investigated the associations between variants in genes coding for enzymes and transporters related to the 6-mercaptopurine pathway and clinical outcomes in pediatric patients with acute lymphoblastic leukemia.

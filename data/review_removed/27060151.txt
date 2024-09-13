@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Sep', 'Day': '01'}
+A Genome-Wide Association Study Identifies a Novel Locus for Bortezomib-Induced Peripheral Neuropathy in European Patients with Multiple Myeloma.
+Painful peripheral neuropathy is a frequent toxicity associated with bortezomib therapy. This study aimed to identify loci that affect susceptibility to this toxicity.

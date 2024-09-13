@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Pharmacogenomics of long-acting β2-agonists.
+Long-acting β2-agonists are an effective class of drugs, when combined with inhaled corticosteroids, for reducing symptoms and exacerbations in patients with asthma that is not adequately controlled by inhaled corticosteroids alone. However, because this class of drugs has been associated with severe adverse events, including hospitalization and death in small numbers of patients, efforts to identify a pharmacogenetic profile for patients at risk has been diligently investigated.

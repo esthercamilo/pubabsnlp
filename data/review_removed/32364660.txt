@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jun'}
+The role of NAT2 polymorphism and methylation in anti-tuberculosis drug-induced liver injury in Mongolian tuberculosis patients.
+Anti-tuberculosis drug-induced liver injury (ATLI) is one of the most significant adverse reactions for this line of therapy. N-acetyltransferase 2 (NAT2) is an important metabolic enzyme involved in drug metabolism and detoxification. Genetic polymorphism and DNA methylation have been proven to be key factors that affect the expression of NAT2. Therefore, the objective of the study was to investigate the relationship between NAT2 gene polymorphism and DNA methylation in the promoter region with ATLI risk in Mongolian tuberculosis patients.

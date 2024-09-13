@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Sep'}
+Clinical Trial Designs to Support Clinical Utility of Pharmacogenomic Testing.
+Advancing the use of biomarkers and pharmacogenomics has been a key priority area for the U.S. Food and Drug Administration (FDA). The FDA offers prescribing recommendations to manage ~100 gene-drug interactions, and multiple institutions around the United States and abroad have incorporated genomic testing into patient care. However, the penetration of pharmacogenomic testing remains incomplete. In this perspective, we summarize the evidence streams to support the clinical utility of pharmacogenomic testing and its transition into clinical practice.

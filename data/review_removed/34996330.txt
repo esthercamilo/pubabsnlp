@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Dec'}
+Optimizing therapeutic drug monitoring in inflammatory bowel disease: a focus on therapeutic monoclonal antibodies.
+Therapeutic drug monitoring (TDM) is useful for optimizing monoclonal antibodies (mAbs) for the treatment of immune-mediated inflammatory disorders including inflammatory bowel disease (IBD). However, TDM in clinical practice is still restricted by long turnaround times between sampling and results and the fact that dosing of mAbs to a target drug concentration is challenging due to high pharmacokinetic (PK) variability at both a population and patient level. Overcoming these barriers may be addressed by point-of-care (POC) assays, model-informed precision dosing (MIPD), and pharmacogenetics/pharmacogenomics.

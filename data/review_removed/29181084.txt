@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Sep'}
+Clinical pharmacogenomics: patient perspectives of pharmacogenomic testing and the incidence of actionable test results in a chronic disease cohort.
+This study aimed to examine pharmacogenomic test results and patient perspectives at an academic cardiovascular medicine clinic.

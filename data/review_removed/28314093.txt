@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar', 'Day': '16'}
+Clinical Impact of Pharmacogenetic-Guided Treatment for Patients Exhibiting Neuropsychiatric Disorders: A Randomized Controlled Trial.
+Pharmacogenetic testing holds promise as a personalized medicine tool by permitting individualization of pharmacotherapy in accordance with genes influencing therapeutic response, side effects, and adverse events. The authors evaluated the effect on outcomes for patients diagnosed with neuropsychiatric disorders of pharmacogenetics (PGx)-guided treatment compared to usual standard of care.

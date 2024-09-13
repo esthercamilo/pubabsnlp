@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Mar'}
+Kava for generalised anxiety disorder: A 16-week double-blind, randomised, placebo-controlled study.
+Previous randomised, double-blind, placebo-controlled studies have shown that Kava (a South Pacific medicinal plant) reduced anxiety during short-term administration. The objective of this randomised, double-blind, placebo-controlled study was to perform a larger, longer-term trial assessing the efficacy and safety of Kava in the treatment of generalised anxiety disorder and to determine whether gamma-aminobutyric acid transporter (SLC6A1) single-nucleotide polymorphisms were moderators of response.

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Sep'}
+Combinatorial Pharmacogenomic Testing Improves Outcomes for Older Adults With Depression.
+Evaluate the clinical utility of combinatorial pharmacogenomic testing for informing medication selection among older adults who have experienced antidepressant medication failure for major depressive disorder (MDD).

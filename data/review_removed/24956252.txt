@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'May'}
+Effect of VKORC1, CYP2C9 and CYP4F2 genetic variants in early outcomes during acenocoumarol treatment.
+To analyze VKORC1, CYP2C9 and CYP4F2 polymorphisms in relation to the main outcomes in the first stages of acenocoumarol therapy.

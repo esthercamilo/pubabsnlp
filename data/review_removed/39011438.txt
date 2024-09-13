@@ -1,0 +1,3 @@
+{'Year': '2024', 'Season': 'Summer'}
+Genetic variants of <i>ABCB1</i> and <i>CES1</i> genes on dabigatran metabolism in the Kazakh population.
+Allelic variants of genes encoding enzymes of the esterase system (<i>CES1</i>) and P-glycoprotein (<i>ABCB1</i>) can change the metabolism and pharmacokinetics of dabigatran. Therefore, they act as determining factors in the development of side effects, especially bleeding. We analyzed the genotype-phenotype relationship of <i>ABCB1</i> (rs1045642, rs4148738, rs2032582, and rs1128503) and <i>CES1</i> (rs8192935, rs71647871, and rs2244613) polymorphisms in patients with atrial fibrillation who had been treated with dabigatran.

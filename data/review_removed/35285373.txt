@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jan'}
+An update on pharmacogenetic factors influencing the metabolism and toxicity of artemisinin-based combination therapy in the treatment of malaria.
+Artemisinin-based combination therapies (ACTs) are recommended first-line antimalarials for uncomplicated <i>Plasmodium falciparum</i> malaria. Pharmacokinetic/pharmacodynamic variation associated with ACT drugs and their effect is documented. It is accepted to an extent that inter-individual variation is genetically driven, and should be explored for optimized antimalarial use.

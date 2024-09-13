@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Apr'}
+Pharmacokinetics and pharmacogenomics of β-lactam-induced neutropenia.
+Determine if individuals with β-lactam induced neutropenia have polymorphisms that impair function of MRP4 or OAT1/OAT3.

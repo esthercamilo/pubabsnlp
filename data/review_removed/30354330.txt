@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Sep'}
+Effects of Delivering SLCO1B1 Pharmacogenetic Information in Randomized Trial and Observational Settings.
+Outcomes of tailoring statin-type based on solute carrier organic anion transporterfamily member 1B1 ( SLCO1B1)pharmacogenetic toxicity information on patient, provider, and pharmacological outcomes are unknown.

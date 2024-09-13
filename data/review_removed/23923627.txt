@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jul'}
+Advances in personalized medicine - medicinal chemistry and pharmacology of vemurafenib and ivacaftor.
+Pharmacogenomics offers an entrance in the field of personalized medicine. This form of adapted therapy is going to be the future concerning the reduction of side effects and efficacy of the treatment of severe diseases. Vemurafenib and Ivacaftor are the first FDA approved drugs specially addressing mutated proteins. Both substances showed promising results in all clinical trials combined with relatively mild side effects by vemurafenib and placebo-like side effects by ivacaftor. The efficacy in addressing the specific mutation of each compound was confirmed in preclinical and clinical development.

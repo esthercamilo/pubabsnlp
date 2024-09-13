@@ -1,0 +1,3 @@
+{'Year': '2019', 'Season': 'Jul-Aug'}
+Precision medicine and health disparities: The case of pediatric acute lymphoblastic leukemia.
+Precision medicine has uncertain potential to address population health disparities.

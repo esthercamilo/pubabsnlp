@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Apr', 'Day': '01'}
+Has the revolution arrived?
+Looking back over the past decade of human genomics, <b>Francis Collins</b> finds five key lessons for the future of personalized medicine — for technology, policy, partnerships and pharmacogenomics.

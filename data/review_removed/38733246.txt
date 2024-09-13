@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Aug'}
+Health care utilization and behavior changes after workplace genetic testing at a large US health care system.
+This study explored employee health behavior changes and health care utilization after workplace genetic testing (wGT). Wellness-program-associated wGT seeks to improve employee health, but the related health implications are unknown.

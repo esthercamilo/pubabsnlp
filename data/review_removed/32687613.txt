@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Mar'}
+Developmental population pharmacokinetics of caffeine in Chinese premature infants with apnoea of prematurity: A post-marketing study to support paediatric labelling in China.
+The aim of the study was to evaluate the suitability of the current caffeine dosing regimen for the Chinese population using modelling and simulation approach.

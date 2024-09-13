@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jun'}
+The promise of digital health in healthcare equity and medication adherence in the disadvantaged dementia population.
+Tweetable abstract Pharmacogenomics cascade testing in a digital health solution can improve medication adherence in dementia care for disadvantaged populations.

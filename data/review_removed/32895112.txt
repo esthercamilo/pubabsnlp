@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Aug', 'Day': '30'}
+[Pharmacogenomic Research in Direct Oral Anticoagulants].
+Oral anticoagulants play an important role in the prevention and treatment of thromboembolic diseases.Warfarin,a traditional oral anticoagulant,is limited in clinical use due to its limitations such as narrow therapeutic window and requirements on frequent monitoring and dose adjustment.Direct oral anticoagulants(DOACs)such as dabigatran,rivaroxaban,apixaban,and edoxaban are increasingly used to prevent and treat venous thrombosis or thrombus formation.However,recent studies have documented inter-individual variability in plasma drug levels of DOACs.This article summarizes the recent advances in the pharmacogenomics of DOACs.

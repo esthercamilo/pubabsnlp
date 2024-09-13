@@ -1,0 +1,3 @@
+{'Year': '2021'}
+The Role of Pharmacogenetics in Antithrombotic Therapy Management: New Achievements and Barriers Yet to Overcome.
+Pharmacogenetics investigates the response to pharmacological treatments based on individual genetic background. Actually, numerous pharmacogenetic tests help to predict the response to drugs used in different medical areas, contributing to the so-called personalized medicine.

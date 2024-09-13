@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Dec', 'Day': '01'}
+Integrating pharmacogenomics into electronic health records with clinical decision support.
+Existing pharmacogenomic informatics models, key implementation steps, and emerging resources to facilitate the development of pharmacogenomic clinical decision support (CDS) are described.

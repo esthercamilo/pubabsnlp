@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Supporting Molecular Tumor Boards in Molecular-Guided Decision-Making - The Current Status of Five German University Hospitals.
+German university hospitals have started to establish molecular tumor boards in order to enable physicians to make molecular-guided decisions.

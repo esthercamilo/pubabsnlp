@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Oct', 'Day': '21'}
+Pharmacogenomics of anti-platelet therapy focused on peripheral blood cells of coronary arterial disease patients.
+To investigate genes differentially expressed in peripheral blood cells (PBCs) from patients with coronary arterial disease (CAD) under double anti-platelet therapy.

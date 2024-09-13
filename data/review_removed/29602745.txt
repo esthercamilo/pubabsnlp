@@ -1,0 +1,3 @@
+{'Year': '2018', 'Season': 'May-Jun'}
+Implementation of a pharmacist-led pharmacogenomics service for the Program of All-Inclusive Care for the Elderly (PHARM-GENOME-PACE).
+To determine the feasibility of implementing a pharmacist-led pharmacogenomics (PGx) service for the Program of All-Inclusive Care for the Elderly (PACE).

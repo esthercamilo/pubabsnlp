@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Oct', 'Day': '10'}
+Impact of CYP2C19 gene polymorphism on warfarin maintenance doses in patients with non-valvular atrial fibrillation.
+Pharmacogenetics has provided compelling evidence towards the influence of gene polymorphisms on warfarin therapies. This study aimed to determine the impact of CYP2C19 gene polymorphism on warfarin maintenance doses in patients with non-valvular atrial fibrillation for the progress in overcoming obstacles facing warfarin pharmacogenetics.

@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Jul'}
+Global pharmacogenetics: genetic substructure of Eurasian populations and its effect on variants of drug-metabolizing enzymes.
+To study the frequency distribution of cytochrome P450 (CYP) functional genetic variants in five Eurasian populations from the territory of Siberia in Russia.

@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Sep'}
+Current Challenges and Potential Opportunities for the Pharmaceutical Sciences to Make Global Impact: An FIP Perspective.
+The chairs of each of the 8 Special Interest Groups of the Board of Pharmaceutical Sciences of the International Pharmaceutical Federation have compiled opinions with regard to major challenges for the pharmaceutical sciences over the next 5-10 years. Areas covered are drug design and discovery, natural products, formulation design and pharmaceutical technology, pharmacokinetics/pharmacodynamics and systems pharmacology, translational and personalized medicine, biotechnology, analytical sciences and quality control, and regulatory science.

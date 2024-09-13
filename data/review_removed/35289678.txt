@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Mar'}
+Exploring the Kinh Vietnamese genomic database for the polymorphisms of the P450 genes towards precision public health.
+Human cytochrome P450 (<i>CYP</i>s) genes are essential in metabolising drugs. Due to their high polymorphism, population-specific studies are of great interest.

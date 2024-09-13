@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Dec'}
+Novel Disease-Drug Database Demonstrating Applicability for Pharmacogenomic-Based Prescribing.
+Significant advances have been made in the clinical implementation of pharmacogenomics in recent years with tools for clinical decision support (CDS) being developed and integrated in the electronic health record (EHR). In this issue, the article by Hussain et al. describes the creation of a disease-drug association tool that enables providers to search by disease indications to receive a list of treatment options marked with pharmacogenomics annotations at the point of prescribing.

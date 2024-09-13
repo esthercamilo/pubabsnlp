@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Dec'}
+Effects of aging on clinical outcomes in patients receiving genotype-guided P2Y12 inhibitor selection after percutaneous coronary intervention.
+To compare the clinical effectiveness of genotype-guided P2Y12 inhibitor selection following PCI in older patients (≥70 years) and younger patients (<70 years).

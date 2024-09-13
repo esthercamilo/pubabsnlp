@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Jan', 'Day': '31'}
+Pharmacogenomic biomarkers do not predict response to drotrecogin alfa in patients with severe sepsis.
+To explore potential design for pharmacogenomics trials in sepsis, we investigate the interaction between pharmacogenomic biomarkers and response to drotrecogin alfa (activated) (DrotAA). This trial was designed to validate whether previously identified improved response polymorphisms (IRPs A and B) were associated with an improved response to DrotAA in severe sepsis.

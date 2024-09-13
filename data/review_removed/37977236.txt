@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Feb'}
+Population pharmacokinetic model of rifampicin for personalized tuberculosis pharmacotherapy: Effects of SLCO1B1 polymorphisms on drug exposure.
+Rifampicin (RIF) exhibits high pharmacokinetic (PK) variability among individuals; a low plasma concentration might result in unfavorable treatment outcomes and drug resistance. This study evaluated the contributions of non- and genetic factors to the interindividual variability of RIF exposure, then suggested initial doses for patients with different weight bands.

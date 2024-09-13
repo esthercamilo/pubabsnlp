@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jan'}
+A piece in the puzzle of personalized medicine.
+Predicting individual drug response based on inherited factors remains a major challenge. Some examples of significant contributions of single genetic variants to overall therapeutic success of drugs in complex diseases are currently emerging. For most compounds, however, multiple genetic and nongenetic factors will modify drug action. Comprehensive integration of these factors will determine the role of pharmacogenomics for personalized medicine.

@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Jun', 'Day': '14'}
+Evaluation of buccal swabs for pharmacogenetics.
+A simple, non-invasive sample collection method is key for the integration of pharmacogenetics into clinical practice. The aim of this study was to gain samples for pharmacogenetic testing and evaluate the variation between dry-flocked and sponge-tipped buccal swabs in yield and quality of DNA isolated.

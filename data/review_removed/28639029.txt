@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Sep'}
+COX2 induction: a mechanism of endocrine breast cancer resistance?
+Urine prostaglandin E2 (PGE2) levels have shown to be a risk factor of breast cancer, and the use of nonsteroidal anti-inflammatory drugs (NSAIDs) is known to be beneficial in preventing breast cancer risk and/or recurrence with or without aromatase inhibitors. We hypothesized that the use of an aromatase inhibitor triggers the activation of the inflammatory pathway via release of PGE2.

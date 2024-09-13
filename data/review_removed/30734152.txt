@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Sep'}
+Pharmacogenomic-pharmacokinetic study of selective estrogen-receptor modulators with intra-patient dose escalation in breast cancer.
+An association between CYP2D6 polymorphisms and tamoxifen (TAM) efficacy has not been confirmed, partly due to unreliable prediction of active metabolite exposure solely by CYP2D6 activity. The efficacy of TAM dose escalation appears limited in poor TAM metabolizers. Since the chlorine atom on the side chain of toremifene (TOR) prevents 4-hydroxylation by CYP2D6, its contribution to active conversion of TOR is minor. We examined the role of TOR and its dose escalation among poor TAM metabolizers.

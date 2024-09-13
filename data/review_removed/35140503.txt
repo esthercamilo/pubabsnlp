@@ -1,0 +1,3 @@
+{'Year': '2022'}
+Clopidogrel Use and CYP2C19 Genotypes in Patients Undergoing Vascular Intervention Procedure: A Hospital-Based Study.
+Clopidogrel is widely used in coronary artery, peripheral arterial, and cerebrovascular disease. We aimed to study the association of the CYP2C19 phenotype with cardiovascular outcomes and interventional procedures in a hospital-based population.

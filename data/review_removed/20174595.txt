@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jan'}
+Personalized healthcare in clotting disorders.
+In terms of managing thrombotic disorders, genotype-based individualized patient care emerged as early as 1994 when the association of factor V Leiden (G1691A), and later, prothrombin (G20210A), with thrombotic phenotypes were discovered. Since then, genetic tests for specific thrombophilic SNPs have been routinely incorporated into daily practices in both thrombotic risk assessment and clinical decision-making with respect to prophylactic anti-thrombotic therapy. Recently, the area of pharmacogenomics in major anti-thrombotic drugs, such as warfarin and clopidogrel, has been the principal driver for personalized therapy based on one's own individual characteristics.

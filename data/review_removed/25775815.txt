@@ -1,0 +1,3 @@
+{'Year': '2013'}
+[Clinical significance of pharmacogenetics in psychiatry].
+One of the problems in the pharmacotherapy of mental disorders is among others a lack of appropriate response to treatment, which may be associated with ineffective therapy, adverse drug reactions and self medication. Participation of cytochrome P-450 isoenzymes (including CYP1A2, CYP2C19, CYP2D6, CYP3A4) in the metabolism of psychotropic drugs contributes to risk of adverse interactions, both in pharmacokinetic and pharmacodynamic phase. Pharmacogenetic studies may have an increasing importance in the field of improving both therapeutic effectiveness and safety of psychotropic drugs in treatment of mental disorders.

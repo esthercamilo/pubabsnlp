@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jul'}
+Estimating the potential impact of implementing pre-emptive pharmacogenetic testing in primary care across the UK.
+Pharmacogenetics (PGx) in the UK is currently implemented in secondary care for a small group of high-risk medicines. However, most prescribing takes place in primary care, with a large group of medicines influenced by commonly occurring genetic variations. The goal of this study is to quantitatively estimate the volumes of medicines impacted by implementation of a population-level, pre-emptive pharmacogenetic screening programme for nine genes related to medicines frequently dispensed in primary care in 2019.

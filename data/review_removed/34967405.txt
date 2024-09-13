@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Dec', 'Day': '30'}
+Prescription Patterns and Relationship to Pharmacogenomics Testing in the Military Health System.
+Clinical utilization of pharmacogenomics (PGx) testing is highly institutionally dependent, and little information is known about provider practices of PGx testing in the Military Health System (MHS). In this study, we aimed to characterize Clinical Pharmacogenetics Implementation Consortium (CPIC) actionable prescription (Rx) patterns and their temporal relationship with PGx testing in the MHS.

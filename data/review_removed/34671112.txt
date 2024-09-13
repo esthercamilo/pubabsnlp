@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Feb'}
+Nine-gene pharmacogenomics profile service: The Mayo Clinic experience.
+The Pharmacogenomics (PGx) Profile Service was a proof-of-concept project to implement PGx in patient care at Mayo Clinic.

@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jan'}
+The pharmacogenomics of membrane transporters project: research at the interface of genomics and transporter pharmacology.
+Since the cloning of the first membrane transporter, our understanding of the role of transporters in clinical drug disposition and response has grown enormously. In parallel, large-scale genome-wide variation studies and the emerging field of pharmacogenomics have ushered in a new understanding of variations in drug response. At the crossroads of pharmacogenomics and transporter biology is the National Institutes of Health-funded Pharmacogenomics of Membrane Transporters (PMT) project, centered at the University of California, San Francisco.

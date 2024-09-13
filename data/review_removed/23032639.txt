@@ -1,0 +1,3 @@
+{'Year': '2012'}
+Predictors of relapse in a bupropion trial for smoking cessation in recently-abstinent alcoholics: preliminary results using an aggregate genetic risk score.
+Rates of smoking in the US population have decreased overall, but rates in some groups, including alcoholic smokers, remain high. Many newly sober alcoholics are concerned about their smoking and some attempt to quit. However, quit rates in this population are low. Prior studies suggest risk for relapse in this population may be genetically influenced and that genetic factors may moderate response to treatment.

@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Sep'}
+Association of NR1I2, CYP3A5 and ABCB1 genetic polymorphisms with variability of temsirolimus pharmacokinetics and toxicity in patients with metastatic bladder cancer.
+Temsirolimus is a mammalian target of rapamycin (mTOR) inhibitor that exhibits antitumor activity in renal cell carcinoma and mantle cell lymphoma. The metabolism of temsirolimus and its active metabolite sirolimus mainly depends on cytochrome P450 3A4/5 (CYP3A4/A5) and the ABCB1 transporter. Differently from sirolimus, no pharmacogenetic study on temsirolimus has been conducted. Therefore, the aim of this pilot study was to identify genetic determinants of the inter-individual variability in temsirolimus pharmacokinetics and toxicity.

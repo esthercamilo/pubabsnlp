@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Personalised Healthcare: The DiMA Clinical Model.
+Large-scale application of Personalized Medicine requires a multi-disciplinal environment allowing synergic cooperation among different competences. Strict collaboration between medical and medical sciences, as informatics, ethics, politics, are needed to face the challenges of one-sized healthcare. In spite of the increasing interest, how this system can be globally realized remains tentative. Yet, a relatively small, Personalised Healthcare Service is providing a proof-of principle organizational model to guide implementation into clinical practice.

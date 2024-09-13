@@ -1,0 +1,3 @@
+{'Year': '2021'}
+Genetic Polymorphisms Affecting Tacrolimus Metabolism and the Relationship to Post-Transplant Outcomes in Kidney Transplant Recipients.
+Tacrolimus is a key drug in kidney transplantation with a narrow therapeutic index. However, whether tacrolimus exposure variability affects clinical outcomes and adverse reactions remains unknown.

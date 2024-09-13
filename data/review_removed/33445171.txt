@@ -1,0 +1,3 @@
+{'Year': '2021'}
+Impact of Previous Genetic Counseling and Objective Numeracy on Accurate Interpretation of a Pharmacogenetics Test Report.
+Pharmacogenetic (PGx) testing can be useful for providing information about a patient's drug response by increasing drug efficacy and decreasing the incidence of adverse drug events. While PGx tests were previously only offered to patients under healthcare provider supervision, they are now available as direct to consumer (DTC) tests. This study aimed to assess how accurately individuals from the general population were able to interpret a sample PGx test report and if accuracy differed based on individuals' numeracy or prior genetic counseling (GC).

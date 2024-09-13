@@ -1,0 +1,3 @@
+{'Year': '2015'}
+HLADR: a database system for enhancing the discovery of biomarkers for predicting human leukocyte antigen-mediated idiosyncratic adverse drug reactions.
+To establish a database for the associations between idiosyncratic drug reactions (IDRs) and human leukocyte antigens (HLAs) and to systematically assess the characteristics of the drug-HLA associations.

@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Feb', 'Day': '01'}
+Validation of a rapid and inexpensive allele-specific amplification (ASA)-PCR genotyping assay for vitamin K antagonist pharmacogenomics.
+Variant alleles of vitamin K epoxide reductase complex subunit 1 gene (VKORC1), the target molecule of vitamin K antagonists, and of cytochrome P450 (CYP) 2C9, an enzyme involved in coumarin metabolism, affect the anticoagulant response of coumarins, which have a narrow therapeutic window. Genotyping for these variants allows for prediction of therapeutic drug doses. The discussion of the clinical role of genotype-guided coumarin dosing is ongoing. For pharmacogenetic information to be useful, results must be available quickly.

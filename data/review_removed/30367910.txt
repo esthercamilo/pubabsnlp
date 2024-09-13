@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'May'}
+Integrative approach identifies corticosteroid response variant in diverse populations with asthma.
+Although inhaled corticosteroid (ICS) medication is considered the cornerstone treatment for patients with persistent asthma, few ICS pharmacogenomic studies have involved nonwhite populations.

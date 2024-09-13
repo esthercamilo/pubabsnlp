@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jan', 'Day': '25'}
+The association of ABCB1 gene polymorphism with clinical response to carbamazepine monotherapy in patients with epilepsy.
+Epilepsy is a common neurological disease but around 30% of patients fail to respond to antiepileptic drug (AED) treatment. Genetic variation of the ATP-binding cassette subfamily B, member 1 (ABCB1) gene, a drug efflux transporter may infer treatment resistance by decreasing gastrointestinal absorption and preventing AED entry into the brain. This study examined the impact of ABCB1 genetic variants on carbamazepine responsiveness.

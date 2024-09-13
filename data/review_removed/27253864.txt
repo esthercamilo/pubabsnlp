@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Aug'}
+The implications of genetic variation for the pharmacokinetics and pharmacodynamics of aromatase inhibitors.
+Breast cancer is the most common female cancer and remains a serious public health concern worldwide. Third-generation aromatase inhibitors (AIs) are widely used in postmenopausal women with estrogen receptor positive breast cancer. However, there is marked interindividual variability in terms of the efficacy and incidence of adverse events following treatment with AIs. Pharmacogenetics has the potential to predict clinical outcomes based on patients' genetic information, paving the way towards personalized treatment.

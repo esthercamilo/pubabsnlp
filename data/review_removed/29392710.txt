@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Apr'}
+Clinical Pharmacogenetics Implementation Consortium Guideline for HLA Genotype and Use of Carbamazepine and Oxcarbazepine: 2017 Update.
+The variant allele HLA-B*15:02 is strongly associated with greater risk of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) in patients treated with carbamazepine or oxcarbazepine. The variant allele HLA-A*31:01 is associated with greater risk of maculopapular exanthema, drug reaction with eosinophilia and systemic symptoms, and SJS/TEN in patients treated with carbamazepine. We summarize evidence from the published literature supporting these associations and provide recommendations for carbamazepine and oxcarbazepine use based on HLA genotypes.

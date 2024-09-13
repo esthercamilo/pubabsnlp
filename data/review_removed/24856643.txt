@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jul'}
+Impact of point-of-care testing for CYP2C19 on platelet inhibition in patients with acute coronary syndrome and early dual antiplatelet therapy in the emergency setting.
+Only limited data exist about the role of point of care CYP2C19 testing in the acute setting in the early phase of acute coronary syndromes (ACS). Therefore, the present study was designed to investigate the impact of CYP2C19 loss-of-function point-of-care (POC) genotyping in patients presenting with acute coronary syndromes (ACS) and treated with dual antiplatelet therapy in the emergency setting.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '01'}
+A retrospective examination of adjunctive L-methylfolate in children and adolescents with unipolar depression.
+Adjunctive l-methylfolate is commonly prescribed for children and adolescents with treatment-resistant mood disorders; however, the relationship between l-methylfolate augmentation across methylenetetrahydrofolate reductase (MTHFR) genotypes in youths with depressive symptoms is unclear.

@@ -1,0 +1,3 @@
+{'Year': '2019', 'Season': 'Sep-Oct'}
+Ready or not, here it comes: Direct-to-consumer pharmacogenomic testing and its implications for community pharmacists.
+To explore the implications of direct-to-consumer pharmacogenomic testing for community pharmacy practice.

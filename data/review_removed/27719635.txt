@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Bile Acids as Novel Pharmacological Agents: The Interplay Between Gene Polymorphisms, Epigenetic Factors and Drug Response.
+The field of bile acid research has become tremendously active. Bile acids have been shown to act as signaling molecules that are involved in many metabolic processes, but their role in carcinogenesis is also emerging.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Mar'}
+Using exploratory factor analysis of FFQ data to identify dietary patterns among Yup'ik people.
+An FFQ developed by the Center for Alaska Native Health Research for studies in Yup'ik people includes market foods and subsistence foods such as moose, seal, waterfowl and salmon that may be related to disease risk. Because the FFQ contains >100 food items, we sought to characterize dietary patterns more simply for use in ongoing pharmacogenomics studies.

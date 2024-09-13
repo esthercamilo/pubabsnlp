@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Nov'}
+Pregnancy and pharmacogenomics in the context of drug metabolism and response.
+It is well-known that profound physiological and biochemical changes occur throughout the course of pregnancy. At the same time, the role of pharmacogenomics in modulating the metabolism and response profile to numerous medications has been elucidated. Yet, the clinical impact of pharmacogenomics during pregnancy is less well understood. We present an overview of factors modulating the pharmacokinetics and pharmacodynamics of medications throughout the time span of pregnancy while providing insights on how pharmacogenomics may contribute to interindividual variability in drug metabolism and response amongst pregnant women.

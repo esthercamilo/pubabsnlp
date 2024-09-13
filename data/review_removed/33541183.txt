@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Oct'}
+P<sub>2</sub>Y<sub>12</sub> inhibitors in neuroendovascular surgery: An opportunity for precision medicine.
+Dual antiplatelet therapy (DAPT), primarily the combination of aspirin with a P2Y12 inhibitor, in patients undergoing intravascular stent or flow diverter placement remains the primary strategy to reduce device-related thromboembolic complications. However, selection, timing, and dosing of DAPT is critical and can be challenging given the existing significant inter- and intraindividual response variations to P2Y12 inhibitors.

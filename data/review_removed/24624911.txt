@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Mar'}
+Thiopurine pharmacogenomics: association of SNPs with clinical response and functional validation of candidate genes.
+We investigated candidate genes associated with thiopurine metabolism and clinical response in childhood acute lymphoblastic leukemia.

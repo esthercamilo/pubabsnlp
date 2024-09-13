@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Sep'}
+Systematic analysis of transcriptome signature for improving outcomes in lung adenocarcinoma.
+The updated guidelines highlight gene expression-based multigene panel as a critical tool to assess overall survival (OS) and improve treatment for lung adenocarcinoma (LUAD) patients. Nevertheless, genome-wide expression signatures are still limited in real clinical utility because of insufficient data utilization, a lack of critical validation, and inapposite machine learning algorithms.

@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Aug'}
+Pharmacogenetics and pharmacogenomics in psoriasis treatment: current challenges and future prospects.
+Topical, systemic, oral disease modifying, and biologic agents are part of the armamentarium to manage psoriatic disease. The choice of therapy depends upon disease severity, relevant co-morbidities and patient preference. There is great variability in patient response with these agents, and there is still no clear method of selecting the preferred therapeutic agent for efficacy or lack of adverse events.

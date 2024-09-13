@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Mar'}
+Medical student preparedness for an era of personalized medicine: findings from one US medical school.
+The objective of this research was to assess medical student preparedness for the use of personalized medicine.

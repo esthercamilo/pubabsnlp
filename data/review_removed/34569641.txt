@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Dec'}
+NR3C2 genotype is associated with response to spironolactone in diastolic heart failure patients from the Aldo-DHF trial.
+This study aimed to determine if variants in NR3C2, which codes the target protein of spironolactone, or CYP11B2, which is involved in aldosterone synthesis, were associated with spironolactone response, focused on the primary end point of diastolic function (E/e'), in Aldosterone Receptor Blockade in Diastolic Heart Failure (Aldo-DHF) participants.

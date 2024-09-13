@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Sep'}
+An exploratory analysis on the influence of genetic variants on weight gain among etonogestrel contraceptive implant users.
+To identify genetic variants associated with weight gain related to etonogestrel contraceptive implant use.

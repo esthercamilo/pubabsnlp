@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Aug'}
+Validation of the acenocoumarol EU-PACT algorithms: similar performance in the Rotterdam Study cohort as in the original study.
+To evaluate the performance of the European Pharmacogenetics of Anticoagulant Therapy (EU-PACT) acenocoumarol dose algorithms in an independent data set. The EU-PACT trial investigates the added value of pretreatment genotyping for use of warfarin, phenprocoumon and acenocoumarol.

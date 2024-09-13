@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jan'}
+The missing linkage: what pharmacogenetic associations are left to find in CYP3A?
+An enormous amount of drugs and endogenous substrates are metabolized by the enzymes encoded in the CYP3A gene cluster, making variation at this locus of utmost importance in the field of pharmacogenetics. However, the identification of genetic variation that contributes to the wide phenotypic variability at this locus has been elusive. While dozens of studies have investigated the effects of coding variants, none have found the definitive answer to what variant or variants explain the distribution of enzyme activity and clinical effects seen with the drug metabolized by these genes.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Apr', 'Day': '01'}
+Psychotropic prescribing rates and pharmacogenomic testing implications for autism in the Canadian primary care sentinel surveillance network.
+To estimate prescribing rates of psychotropic drugs to individuals with autism and the proportion of these individuals who could benefit from pharmacogenetic testing.

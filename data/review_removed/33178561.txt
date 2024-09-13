@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Oct'}
+Diagnostic procedures & practices in drug allergy/hypersensitivity: a survey of 13 Asian countries.
+The issues and challenges in the diagnosis of drug allergy/hypersensitivity among children and adults in Asia are likely to be different from non-Asian countries.

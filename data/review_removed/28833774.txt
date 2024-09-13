@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Dec'}
+Corticosteroid and long-acting ß-agonist therapy reduces epithelial goblet cell metaplasia.
+Bronchial epithelial goblet cell metaplasia (GCM) with hyperplasia is a prominent feature of asthma, but the effects of treatment with corticosteroids alone or in combination with a long-acting β<sub>2</sub> -adrenergic receptor agonist (LABA) on GCM in the bronchial epithelium are unknown.

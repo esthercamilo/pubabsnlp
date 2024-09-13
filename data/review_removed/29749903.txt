@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Mar'}
+An evaluation of the knowledge, opinions, expectations and concerns toward pharmacogenomics among Jordanian pharmacists.
+To assess the knowledge of Jordanian pharmacists in pharmacogenomics, in addition to their attitudes, concerns, expectations and willingness to take further training.

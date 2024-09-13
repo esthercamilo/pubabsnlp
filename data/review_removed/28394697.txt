@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jan'}
+Genetic study of neuregulin 1 and receptor tyrosine-protein kinase erbB-4 in tardive dyskinesia.
+Tardive dyskinesia (TD) is a movement disorder that may develop as a side effect of antipsychotic medication. The aetiology underlying TD is unclear, but a number of mechanisms have been proposed.

@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jun'}
+XBP1 promoter polymorphism modulates platinum-based chemotherapy gastrointestinal toxicity for advanced non-small cell lung cancer patients.
+The X-box binding protein 1 (XBP1) is a critical transcription factor in the endoplasmic reticulum stress response, which is essential for the maintenance of cellular homeostasis. Here, we investigated whether the regulatory variant rs2269577 of the XBP1 gene influences clinical outcome in advanced non-small cell lung cancer (NSCLC) patients undergoing platinum-based chemotherapy.

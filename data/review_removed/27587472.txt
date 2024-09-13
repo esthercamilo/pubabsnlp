@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Dec'}
+Meta-analysis of genome-wide association studies of HDL cholesterol response to statins.
+In addition to lowering low density lipoprotein cholesterol (LDL-C), statin therapy also raises high density lipoprotein cholesterol (HDL-C) levels. Inter-individual variation in HDL-C response to statins may be partially explained by genetic variation.

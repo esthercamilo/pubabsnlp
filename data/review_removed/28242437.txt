@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Apr'}
+Congenital hyperinsulinism and glycogenosis-like phenotype due to a novel HNF4A mutation.
+Congenital hyperinsulinism (CHI) and glycogen storage disease (glycogenosis) are both causing hypoglycemia during infancy, but with different additional clinical features and therapeutic approach. We aimed to identify a genetic cause in a child with an ambiguous phenotype.

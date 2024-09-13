@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Aug', 'Day': '24'}
+Cost-effectiveness of pharmacogenetic screening in the management of major depressive disorder in the Spanish Healthcare System.
+Major depressive disorder (MDD) represents a sizable economic burden in Spain. Pharmacogenetic (PGx) screening to guide the choice of antidepressant medication (ADM) in MDD patients yields higher response and remission rates, which could reduce both healthcare and indirect costs.

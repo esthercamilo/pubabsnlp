@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Dec'}
+Additive effect of GHRd3 and COLIA1 polymorphisms on the GH-substitution dose in GH-deficient adults.
+The exon 3-deleted/full-length growth hormone receptor (GHRd3) polymorphism and the collagen type Iα 1-specific protein 1 (COLIA1) polymorphism have each recently been linked to the responsiveness to recombinant growth hormone (GH) treatment in GH-deficient adults. In this context, one or two GHRd3 alleles and the homozygous COLIA1 TT genotype were each associated with a significantly lower GH dose.

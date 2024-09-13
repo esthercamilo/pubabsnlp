@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Jun'}
+Pain management in the 21st century: utilization of pharmacogenomics and therapeutic drug monitoring.
+Anesthesiologists and pain management physicians recognize that the key to clinical success is the ability to effectively control pain and related symptoms in patients without causing excess side effects from prescribed medications. The use of opioids for pain management is broadly accepted by regulatory bodies, professional organizations (i.e., the WHO) and physicians, as is the wide range of patient responses to these medications. Pharmacogenomics and therapeutic drug monitoring are two underutilized tools which can be implemented to best predict and monitor which opioid and dose may be the most appropriate for an individual patient.

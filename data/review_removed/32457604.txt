@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Possible Genetic Determinants of Response to Phenytoin in a Group of Colombian Patients With Epilepsy.
+Epilepsy is a serious health problem worldwide. Despite the introduction of new antiepileptic drugs (AEDs) almost 30% of these patients have drug-resistant forms of the disease (DRE), with a significant increase in morbi-mortality.

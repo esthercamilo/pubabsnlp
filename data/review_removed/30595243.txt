@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Dec'}
+Impact of pharmacogenetics on statin-induced myopathy in South-Indian subjects.
+Statins are the most commonly prescribed medications for the treatment of atherosclerotic cardiovascular disease. Statin-associated adverse effects occur in ∼10% of patients and are associated with polymorphisms in several key genes coding for transporters and metabolizing enzymes that affect statin pharmacokinetics. In the present study, we examine the association between cytochrome P450 3A5*3 (CYP3A5*3) T>C (rs776746), COQ G>C (rs4693075), and SLCO1B1 T>C (rs4149056) genetic variants with the risk of myopathy in South Indian patients on statin therapy.

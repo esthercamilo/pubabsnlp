@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jun'}
+Pharmacogenomics in Anesthesia.
+A significant number of commonly administered medications in anesthesia show wide clinical interpatient variability. Some of these include neuromuscular blockers, opioids, local anesthetics, and inhalation anesthetics. Individual genetic makeup may account for and predict cardiovascular outcomes after cardiac surgery. These interactions can manifest at any point in the perioperative period and may also only affect a specific system. A better understanding of pharmacogenomics will allow for more individually tailored anesthetics and may ultimately lead to better outcomes, decreased hospital stays, and improved patient satisfaction.

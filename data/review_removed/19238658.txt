@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Oct'}
+The Pharm.D. investigator in clinical pharmacology: supply and demand.
+The field of clinical pharmacology is the discipline engaged in optimal drug discovery, development, and use, based on an in-depth knowledge of human pharmacology and therapeutics. Although many think clinical pharmacology is simply the study of pharmacokinetics, pharmacodynamics, and pharmacogenetics, the role of the clinical pharmacologists covers all avenues of drug discovery, development, therapeutics, optimal drug therapy, and education. This expanded understanding is important as we start to address the overwhelming mandate and the unfortunate shortage of qualified investigators in the field (both physicians and non-physicians).

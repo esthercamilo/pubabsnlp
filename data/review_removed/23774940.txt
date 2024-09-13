@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Nov'}
+Association between CYP2B6 polymorphisms and Nevirapine-induced SJS/TEN: a pharmacogenetics study.
+Nevirapine (NVP) is a non-nucleoside reverse transcriptase inhibitor, widely prescribed for type 1 human immunodeficiency virus infection. A small proportion of individuals treated with NVP experience severe cutaneous adverse events, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN). Our aim was to verify whether genetic variability in NVP-metabolizing cytochromes or in transporter genes could be involved in susceptibility to SJS/TEN.

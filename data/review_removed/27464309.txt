@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Aug'}
+Genetic polymorphisms influence on the response to clopidogrel in peripheral artery disease patients following percutaneous transluminal angioplasty.
+To study the association of ABCB1 and CYP2C19 polymorphisms and the clopidogrel response in Spanish peripheral artery disease patients following percutaneous transluminal angioplasty (PTA) and to perform a meta-analysis.

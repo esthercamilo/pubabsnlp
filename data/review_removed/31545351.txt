@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Nov', 'Day': '15'}
+Genome-Wide Association Study of Apparent Treatment-Resistant Hypertension in the CHARGE Consortium: The CHARGE Pharmacogenetics Working Group.
+Only a handful of genetic discovery efforts in apparent treatment-resistant hypertension (aTRH) have been described.

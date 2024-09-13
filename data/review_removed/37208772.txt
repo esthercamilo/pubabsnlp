@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'May', 'Day': '19'}
+The PRESIDE (PhaRmacogEnomicS In DEpression) Trial: a double-blind randomised controlled trial of pharmacogenomic-informed prescribing of antidepressants on depression outcomes in patients with major depressive disorder in primary care.
+The evidence for the clinical utility of pharmacogenomic (PGx) testing is growing, and guidelines exist for the use of PGx testing to inform prescribing of 13 antidepressants. Although previous randomised controlled trials of PGx testing for antidepressant prescribing have shown an association with remission of depression in clinical psychiatric settings, few trials have focused on the primary care setting, where most antidepressant prescribing occurs.

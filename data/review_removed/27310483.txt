@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Oct'}
+Progress and prospects in pharmacogenetics of antidepressant drugs.
+Depression is responsible for the most part of the personal and socio-economic burden due to psychiatric disorders. Since antidepressant response clusters in families, pharmacogenetics represents a meaningful tool to provide tailored treatments and improve the prognosis of depression.

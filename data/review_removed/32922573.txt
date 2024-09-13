@@ -1,0 +1,3 @@
+{'Year': '2020', 'Season': 'Jul-Sep'}
+Pharmacist's attitudes and knowledge of pharmacogenomics and the factors that may predict future engagement.
+While pharmacists are well positioned to implement pharmacogenomic testing in healthcare systems, uptake has been limited.

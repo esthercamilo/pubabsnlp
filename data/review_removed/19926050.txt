@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Nov'}
+Pharmacogenetic testing for clopidogrel using the rapid INFINITI analyzer: a dose-escalation study.
+Our aim was to assess whether a higher clopidogrel maintenance dose has a greater antiplatelet effect in CYP2C19*2 allele carriers compared with noncarriers.

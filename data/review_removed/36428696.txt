@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Nov', 'Day': '15'}
+Multi-Omics Alleviates the Limitations of Panel Sequencing for Cancer Drug Response Prediction.
+Comprehensive genomic profiling using cancer gene panels has been shown to improve treatment options for a variety of cancer types. However, genomic aberrations detected via such gene panels do not necessarily serve as strong predictors of drug sensitivity. In this study, using pharmacogenomics datasets of cell lines, patient-derived xenografts, and ex vivo treated fresh tumor specimens, we demonstrate that utilizing the transcriptome on top of gene panel features substantially improves drug response prediction performance in cancer.

@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Nov'}
+Pharmacogenomics: Prescribing Precisely.
+Pharmacogenomics (PGx) is a powerful tool that can predict increased risks of adverse effects and sub-therapeutic response to medications. This article establishes the core principles necessary for a primary care provider to meaningfully and prudently use PGx testing. Key topics include in which patients PGx testing should be considered, how PGx tests are ordered, how the results are translated into clinical recommendations, and what further advancements are likely in the near future. This will provide clinicians with a foundational knowledge of PGx that can allow incorporation of this tool into their practice or support further personal investigation.

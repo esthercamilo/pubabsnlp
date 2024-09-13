@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Aug'}
+Blood-direct InvaderPlus<sup>®</sup> as a new method for genetic testing.
+This study compared the efficiency of Blood-direct InvaderPlus<sup>®</sup> with existing methods for detecting genetic polymorphisms by using clinical samples, and to determine whether this new method can be used for future clinical studies.

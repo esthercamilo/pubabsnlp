@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jan'}
+Pharmacogenomics primer course for first professional year pharmacy students.
+The importance of pharmacogenomics (PGx) is widely recognized in healthcare; however, PGx knowledge and confidence is lacking among many healthcare professionals. Pharmacists are the most logical PGx experts, yet most pharmacy schools do not require the basic science foundations of PGx as admission prerequisites.

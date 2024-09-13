@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Dec'}
+Effects of pharmacogenetic profiles on pediatric pain relief and adverse events with ibuprofen and oxycodone.
+Individual genetic variation may influence clinical effects for pain medications. Effects of CYP2C9, CYP3A4, and CYP2D6 polymorphisms on clinical effectiveness and safety for ibuprofen and oxycodone were studied.

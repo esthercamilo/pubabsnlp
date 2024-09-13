@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Pharmacotherapy options for labor induction.
+Induction of labor remains one of the most commonly performed procedures in the US and in other developed countries around the world. Various agents for cervical ripening are used prior to induction; the most commonly used are prostaglandins and oxytocin. The ideal agent is one that decreases time to vaginal delivery without compromising maternal and/or fetal safety.

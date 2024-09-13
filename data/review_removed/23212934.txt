@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Dec'}
+Avoiding serotonin syndrome: the nature of the interaction between tramadol and selective serotonin reuptake inhibitors.
+To investigate the nature of the interaction between selective serotonin reuptake inhibitors (SSRIs) and tramadol to mitigate or avoid serotonin syndrome.

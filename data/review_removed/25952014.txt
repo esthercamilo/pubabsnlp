@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Evolutionary Diagnosis of non-synonymous variants involved in differential drug response.
+Many pharmaceutical drugs are known to be ineffective or have negative side effects in a substantial proportion of patients. Genomic advances are revealing that some non-synonymous single nucleotide variants (nsSNVs) may cause differences in drug efficacy and side effects. Therefore, it is desirable to evaluate nsSNVs of interest in their ability to modulate the drug response.

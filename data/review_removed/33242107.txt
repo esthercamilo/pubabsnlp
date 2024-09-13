@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'May'}
+Implementation and management outcomes of pharmacogenetic CYP2C19 testing for clopidogrel therapy in clinical practice.
+The antiplatelet prodrug clopidogrel is bioactivated by the polymorphic enzyme CYP2C19. Prospective clinical studies demonstrated an association between CYP2C19 loss of function (LoF) variants and an increased risk of thrombotic events under clopidogrel, but pharmacogenetic (PGx) testing is not frequently implemented in clinical practice. We report our experience with PGx-guided clopidogrel therapy with particular regard to clinically relevant patient management changes.

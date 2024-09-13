@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Jul'}
+[Validation and comparison of pharmacogenetics-based warfarin dosing algorithms in Han Chinese patients].
+To assess whether the existing three types of pharmacogenetics-based Warfarin dosing algorithms appropriately predict the actual maintenance dose in Han Chinese mechanical heart valve replacement patients (n = 130).

@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Feb'}
+Pharmacogenetic landscape of DPYD variants in south Asian populations by integration of genome-scale data.
+Adverse drug reactions to 5-Fluorouracil(5-FU) is frequent and largely attributable to genetic variations in the DPYD gene, a rate limiting enzyme that clears 5-FU. The study aims at understanding the pharmacogenetic landscape of DPYD variants in south Asian populations.

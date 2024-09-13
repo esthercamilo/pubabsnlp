@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Dec'}
+[SNPs discovery and linkage disequilibrium analysis of BSG in Chinese Han population].
+To identify BSG single nucleotide polymorphisms (SNPs) in Chinese Han population.

@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'May'}
+The Prevalence and Features of Medications With Actionable Pharmacogenomic Biomarkers Prescribed to Kidney Transplant Recipients.
+Genetic variants are associated with pharmacokinetic and pharmacodynamic changes, leading to variability in drug effects and safety profiles in the clinical response. The role of genetic variants in kidney transplant recipients (KTRs) has not been extensively studied. Here, we explored the potential of incorporating pharmacogenomic (PGx) gene biomarkers into prescription practices for KTRs.

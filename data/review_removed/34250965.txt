@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Aug', 'Day': '01'}
+Performance Evaluation of Warfarin Dose Prediction Algorithms and Effects of Clinical Factors on Warfarin Dose in Chinese Patients.
+The clinical utility of warfarin dose prediction algorithms remains controversial, our purpose is to evaluate the performance of warfarin dose prediction algorithms and the effects of clinical factors on warfarin dose in Chinese patients.

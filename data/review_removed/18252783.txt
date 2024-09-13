@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Apr'}
+Akt phosphorylation in lymphocytes provides an index of in vitro insulin-like growth factor I sensitivity associated with growth hormone-induced growth.
+Because IGF-I is the main mediator of GH action on osteogenic cells, individual differences in IGF-I sensitivity are expected to contribute to the variations of GH effects on growth. In GH-treated children, the variable responses in growth rates at a specific IGF-I target level indicate heterogeneity of responses to serum IGF-I exposures.

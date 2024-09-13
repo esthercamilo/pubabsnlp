@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Mar'}
+The Frequencies distribution of CYP3A5 rs776746 and ABCB1 rs1045642 polymorphisms in the west Algerian population and relationships with pharmacogenetics.
+Pharmacogenetic markers, such as the ATP Binding Cassette (ABCB1) and cytochrome P450 (CYP) 3A5 enzymes, play a crucial role in personalized medicine by influencing drug efficacy and toxicity based on individuals' or populations' genetic variations.This study aims to investigate the genetic polymorphisms of CYP3A5 (rs776746) and ABCB1 (rs1045642) in the West Algerian population and compare the genotypes and allelic distributions with those of various ethnic groups.

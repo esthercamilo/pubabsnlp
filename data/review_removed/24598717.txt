@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jun'}
+Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for ivacaftor therapy in the context of CFTR genotype.
+Cystic fibrosis (CF) is a life-shortening disease arising as a consequence of mutations within the CFTR gene. Novel therapeutics for CF are emerging that target CF transmembrane conductance regulator protein (CFTR) defects resulting from specific CFTR variants. Ivacaftor is a drug that potentiates CFTR gating function and is specifically indicated for CF patients with a particular CFTR variant, G551D-CFTR (rs75527207). Here, we provide therapeutic recommendations for ivacaftor based on preemptive CFTR genotype results.

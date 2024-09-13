@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'May', 'Day': '01'}
+Pharmacogenomics, Race, and Treatment Outcome in Pediatric Acute Myeloid Leukemia.
+Disparities in outcomes exist between Black and White patients with acute myeloid leukemia (AML), with Black patients experiencing poorer prognosis compared with their White counterparts.

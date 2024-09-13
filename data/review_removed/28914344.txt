@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Dec'}
+Influence of genetic co-factors on the population pharmacokinetic model for clopidogrel and its active thiol metabolite.
+A high interindividual variability is observed in the pharmacokinetics of clopidogrel, a widely used antiplatelet drug. In the present study, a joint parent-metabolite population pharmacokinetic model was developed to adequately describe observed concentrations of clopidogrel and its active thiol metabolite (H4).

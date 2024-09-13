@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jan'}
+Osteonecrosis of the jaw risk factors in bisphosphonate-treated patients with metastatic cancer.
+A case-control study was performed to define clinical and genetic risk factors associated with osteonecrosis of the jaw in patients with metastatic cancer treated with bisphosphonates.

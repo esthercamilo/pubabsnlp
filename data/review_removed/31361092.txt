@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Sep'}
+Genetic polymorphisms analysis of pharmacogenomic VIP variants in Bai ethnic group from China.
+The pharmacogenomics study has been widely used for the study of very important pharmacogenetic (VIP) variants among different ethnic groups. However, there is little known about the pharmacogenomics information regarding Bai family. Our study aimed to screen the polymorphism of the VIP gene in Bai nationality.

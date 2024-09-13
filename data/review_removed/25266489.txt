@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Sep', 'Day': '30'}
+Genetic polymorphisms of VIP variants in the Tajik ethnic group of northwest China.
+Individual response to medications varies significantly among different populations, and great progress in understanding the molecular basis of drug action has been made in the past 50 years. The field of pharmacogenomics seeks to elucidate inherited differences in drug disposition and effects. While we know that different populations and ethnic groups are genetically heterogeneous, we have not found any pharmacogenomics information regarding minority groups, such as the Tajik ethnic group in northwest China.

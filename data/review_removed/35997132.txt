@@ -1,0 +1,3 @@
+{'Year': '2022', 'Season': 'Jul-Aug'}
+Cardiomyocyte-specific CYP2J2 and its therapeutic implications.
+Cytochrome P450s (CYPs) are a superfamily of monooxygenases with diverse biological roles. CYP2J2 is an isozyme highly expressed in the heart where it metabolizes endogenous substrates such as N-3/N-6 polyunsaturated fatty acids (PUFA) to produce lipid mediators involved in homeostasis and cardioprotective responses. Expanding our knowledge of the role CYP2J2 has within the heart is important for understanding its impact on cardiac health and disease.

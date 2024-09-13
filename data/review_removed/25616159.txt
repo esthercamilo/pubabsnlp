@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jun'}
+ST13 polymorphisms and their effect on exacerbations in steroid-treated asthmatic children and young adults.
+The clinical response to inhaled corticosteroids (ICS) is associated with single nucleotide polymorphisms (SNPs) in various genes. This study aimed to relate variations in genes in the steroid pathway and asthma susceptibility genes to exacerbations in children and young adults treated with ICS.

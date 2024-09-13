@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Apr'}
+Analysis of the CYP2C19 genotype associated with bleeding in Serbian STEMI patients who have undergone primary PCI and treatment with clopidogrel.
+Bleeding is one of the possible adverse events during clopidogrel therapy. The CYP2C19 gene is the most significant genetic factor which influences response to clopidogrel treatment. We aimed to examine the contribution of the CYP2C19 gene to bleeding occurrence during clopidogrel therapy in Serbian patients with ST segment elevation myocardial infarction (STEMI) undergoing primary percutaneous coronary intervention (PCI).

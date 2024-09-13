@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Dec'}
+Phase I dose escalation and pharmacokinetic evaluation of two different schedules of LY2334737, an oral gemcitabine prodrug, in patients with advanced solid tumors.
+This Phase-I-study aimed to determine the recommended Phase-II-dosing-schedule of LY2334737, an oral gemcitabine prodrug, in patients with advanced/metastatic solid tumors. Pharmacokinetics, cytokeratin-18 (CK18) levels, genetic polymorphisms, and antitumor activity were additionally evaluated.

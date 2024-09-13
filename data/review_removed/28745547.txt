@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Aug'}
+Pharmacogenetics may influence the impact of inflammation on voriconazole trough concentrations.
+How pharmacogenetics modulates the inhibitory effects of inflammation on voriconazole trough concentration (Cmin) remains unknown. In 29 recipients of allogeneic hematopoietic stem cell transplantation retrospectively studied, both a genetic score (which aggregated CYP2C19 and CYP3A genotypes) and inflammation significantly influenced voriconazole Cmin (n = 260). A trend toward (p = 0.03) a greater impact of inflammation in patients with the highest genetic score (corresponding to ultra-rapid metabolizers) was observed. Further researches are needed to confirm these data.

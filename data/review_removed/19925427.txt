@@ -1,0 +1,3 @@
+{'Year': '2009'}
+Genome-wide association studies of family data in pharmacogenetics: a case study.
+Genome-wide associations studies (GWAS) have become routine in human genetics research; however the application of GWAS to pharmacogenomics research is just beginning. As these studies make their way into pharmacogenetics, there are several considerations specific to pharmacogenetics that should be made. In this manuscript, we discuss these considerations and provide concrete examples with GWAS data for an asthma clinical trial using parent-offspring trios.

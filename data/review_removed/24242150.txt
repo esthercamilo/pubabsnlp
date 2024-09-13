@@ -1,0 +1,3 @@
+{'Year': '2013'}
+[Pharmacogenetics in the treatment of tobacco addiction].
+Smokers vary in their genetic susceptibility to become addicted to smoking and probably also in their reaction to smoking cessation pharmacotherapies.

@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jun'}
+Pharmacogenetic-based strategy using de novo tacrolimus once daily after kidney transplantation: prospective pilot study.
+The once daily tacrolimus formulation (Tac-OD) has been associated with better patient adherence and low variability in exposure. Patients carrying the CYP3A5*1 allele show accelerated clearance of Tac. Authors prospectively evaluate a simplified strategy for Tac-OD administration.

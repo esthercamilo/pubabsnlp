@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Dec'}
+Genomics education in nursing in Hong Kong, Taiwan and Mainland China.
+To identify issues and challenges of genomics education in Hong Kong, Taiwan and Mainland China.

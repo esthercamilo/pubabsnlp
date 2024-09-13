@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Apr'}
+Associations of antidepressants and antipsychotics with lipid parameters: Do <i>CYP2C19</i>/<i>CYP2D6</i> genes play a role? A UK population-based study.
+Dyslipidaemia is an important cardiovascular risk factor for people with severe mental illness, contributing to premature mortality. The link between antipsychotics and dyslipidaemia is well established, while evidence on antidepressants is mixed.

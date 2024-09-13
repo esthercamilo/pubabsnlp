@@ -1,0 +1,3 @@
+{'Year': '2014'}
+Imputation of TPMT defective alleles for the identification of patients with high-risk phenotypes.
+The activity of thiopurine methyltransferase (TPMT) is subject to genetic variation. Loss-of-function alleles are associated with various degrees of myelosuppression after treatment with thiopurine drugs, thus genotype-based dosing recommendations currently exist. The aim of this study was to evaluate the potential utility of leveraging genomic data from large biorepositories in the identification of individuals with TPMT defective alleles.

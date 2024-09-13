@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Dec'}
+[Pharmacogenetic criteria of drug-resistant epilepsy].
+Pharmacogenetics, allows to improve our understanding of the mechanisms of action of AEDs and causes drug-resistence epilepsy. We found an association between farmakorezestentnistyu patient with epilepsy and the presence of a CC allele polymorphisms S3534T (rs1045642), S 1236T (rs 1128503) gene ABCB1 that encodes P-glycoprotein (hereafter P - glycoprotein rs1045642, P - glycoprotein rs1128503) and TT allelic polymorphism rs3812718 gene SCN1A, encoding a voltage-dependent sodium channels.

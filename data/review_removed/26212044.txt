@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Dual antiviral therapy for HIV and hepatitis C - drug interactions and side effects.
+Roughly 20% of HIV-positive persons worldwide are coinfected with hepatitis C virus (HCV). The recent advent of direct-acting antivirals (DAA) that cure most hepatitis C patients has attracted much attention. Knowledge on drug interactions between DAA and antiretrovirals (ARV) may allow maximizing antiviral efficacy while minimizing drug-related toxicities.

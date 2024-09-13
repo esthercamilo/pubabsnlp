@@ -1,0 +1,3 @@
+{'Year': '2013'}
+The Coriell personalized medicine collaborative pharmacogenomics appraisal, evidence scoring and interpretation system.
+Implementation of pharmacogenomics (PGx) in clinical care can lead to improved drug efficacy and reduced adverse drug reactions. However, there has been a lag in adoption of PGx tests in clinical practice. This is due in part to a paucity of rigorous systems for translating published clinical and scientific data into standardized diagnostic tests with clear therapeutic recommendations. Here we describe the Pharmacogenomics Appraisal, Evidence Scoring and Interpretation System (PhAESIS), developed as part of the Coriell Personalized Medicine Collaborative research study, and its application to seven commonly prescribed drugs.

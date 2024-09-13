@@ -1,0 +1,3 @@
+{'Year': '2022', 'Season': 'Jul-Sep'}
+Validation and comparison between two warfarin dosing clinical algorithms and warfarin fixed dosing in specialized heart center: cross-sectional study.
+Warfarin is well known as a narrow therapeutic index that has prodigious variability in response which challenges dosing adjustment for the maintenance of therapeutic international normalized ratio. However, an appreciated population not on new oral anticoagulants may still need to be stabilized with warfarin dosing.

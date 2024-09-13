@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jan', 'Day': '12'}
+A noval prognostic signature of the N7-methylguanosine (m7G)-related miRNA in lung adenocarcinoma.
+Lung adenocarcinoma (LUAD) is characterized by high morbidity and mortality rates and poor prognosis. N7-methylguanosine play an increasingly vital role in lung adenocarcinoma. However, the prognostic value of N7-methylguanosine related-miRNAs in lung adenocarcinoma remains unclear.

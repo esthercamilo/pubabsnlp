@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Nov'}
+Interethnic variability of CYP2D6 alleles and of predicted and measured metabolic phenotypes across world populations.
+The frequency of CYP2D6 alleles, related to either a lack of or increased enzymatic activity, which may lead to poor metabolism (PM) or ultrarapid metabolism (UM), can vary across ethnic groups and hence across geographic regions.

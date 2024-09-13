@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Apr'}
+Immunomodulatory effects and clinical benefits of intravenous immunoglobulin in myasthenia gravis.
+Myasthenia gravis (MG) is an antibody-mediated disease that develops in the majority of patients mainly as a result of acetylcholine receptor (AChR) autoantibodies. This process is mediated by a series of immunoregulatory events. Therapeutic targets for MG include suppression of circulating antibodies or antibody production, suppression of complement activation, and immunomodulation of cytokines or T cells. Intravenous immunoglobulin (IVIg) has an effect on all of these mechanisms.

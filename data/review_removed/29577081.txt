@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Pharmacogenetic Associations with ADME Variants and Virologic Response to an Initial HAART Regimen in HIV-Infected Women.
+Clinical response to highly active antiretroviral therapy (HAART) varies among different populations. A portion of this variability may be due to variation in genes involved in the absorption, distribution, metabolism, and excretion (ADME) of HAART.

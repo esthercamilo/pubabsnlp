@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Sep'}
+Extremely low warfarin dose in patients with genotypes of CYP2C9*3/*3 and VKORC1-1639A/A.
+Patients with the genotypes of both CYP2C9*3/*3 and VKORC1-1639 A/A are expected to require the lowest dose of warfarin, and to have a greatly increased risk of bleeding. The experience for the dosing of warfarin in such extremely rare cases has been seldom reported.

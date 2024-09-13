@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Jan'}
+Prospective use of CYP pharmacogenetics and medication analysis to facilitate improved therapy - a pilot study.
+To assess the efficacy of cytochrome P450 (CYP) pharmacogenetic testing and medication interaction analysis in a controlled environment for reduction of events, stays in hospital, extra care and required extra doctors visits to the patients.

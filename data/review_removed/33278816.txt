@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Mar'}
+Pitfalls and challenges associated with phenoconversion in forensic toxcicology.
+In recent years, several publications have demonstrated the interest and the usefulness of pharmacogenetics in forensic toxicology. However, this approach remains namely focused on DNA-based phenotype, which may potentially lead to misinterpretation. Other determinants such as co-medication or physiological parameters may also impact the phenotype. This article aims to highlight the importance of considering such determinants in forensic toxicology, through the original case of a heroin-related fatality.

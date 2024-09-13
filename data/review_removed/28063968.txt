@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar', 'Day': '01'}
+Lack of genetic association between OCT1, ABCB1, and UGT2B7 variants and morphine pharmacokinetics.
+A high inter-individual variation in the pharmacokinetics and pharmacodynamics of morphine has been observed. Genetic polymorphisms in genes encoding the organic cation transporter isoform 1 (OCT1), the efflux transporter p-glycoprotein (ABCB1), and the UDP-glucuronosyltransferase-2B7 (UGT2B7) may influence morphine pharmacokinetics and thus, also pharmacodynamics. The aim of this study was to evaluate the association between OCT1, ABCB1, and UGT2B7 variants, and morphine pharmacokinetics and -dynamics in healthy volunteers.

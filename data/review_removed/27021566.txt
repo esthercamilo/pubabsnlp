@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Mar', 'Day': '28'}
+Individualized Angiotensin-Converting Enzyme (ACE)-Inhibitor Therapy in Stable Coronary Artery Disease Based on Clinical and Pharmacogenetic Determinants: The PERindopril GENEtic (PERGENE) Risk Model.
+Patients with stable coronary artery disease (CAD) constitute a heterogeneous group in which the treatment benefits by angiotensin-converting enzyme (ACE)-inhibitor therapy vary between individuals. Our objective was to integrate clinical and pharmacogenetic determinants in an ultimate combined risk prediction model.

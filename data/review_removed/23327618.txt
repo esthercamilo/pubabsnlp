@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Mar'}
+Nuclear receptors PXR and CAR: implications for drug metabolism regulation, pharmacogenomics and beyond.
+'Orphan' nuclear receptors belong to the nuclear receptor (NR) superfamily of transcriptional factors. Binding of ligands to these receptors results in the recruitment of the co-activators, thereby regulating the expression of cognate target genes.

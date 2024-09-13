@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jul'}
+Insulin resistance is associated with increased cholesterol synthesis, decreased cholesterol absorption and enhanced lipid response to statin therapy.
+Increasing insulin resistance is associated with a shift in cholesterol metabolism to increased synthesis and decreased absorption. Since statins inhibit cholesterol synthesis, we hypothesized that insulin-resistant patients will have greater LDL cholesterol (LDL-C) response to statins than insulin-sensitive patients.

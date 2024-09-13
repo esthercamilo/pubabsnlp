@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Sep'}
+A question-based approach to adopting pharmacogenetics to understand risk for clinical variability in pharmacokinetics in early drug development.
+Understanding genetic variations that influence pharmacokinetics (PK) in humans is important for optimal clinical use of drugs. Guidances for making decisions on when to conduct pharmacogenetic research during drug development have been proposed by regulatory agencies, but their uniform adoption presents problems due to an inherent lack of flexibility. A questions-based approach (QBA) was developed to enable drug development teams at Merck to iteratively and flexibly evaluate the potential impact of pharmacogenetics (PGx) on clinical pharmacokinetic variability.

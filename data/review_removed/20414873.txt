@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Apr', 'Day': '16'}
+[Biomarkers of depression].
+The delay in the actions of antidepressants as well as the percentage of patients that do not respond to antidepressant treatment, give rise to a keen interest in the development of biomarkers of therapeutic efficacy in depression, but it is also of importance to work towards the development of biomarkers of vulnerability, diagnosis and prognosis of this disorder.

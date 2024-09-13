@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Feb', 'Day': '15'}
+Cryptotanshinone deregulates unfolded protein response and eukaryotic initiation factor signaling in acute lymphoblastic leukemia cells.
+Unfolded protein responses (UPR) determine cell fate and are recognized as anticancer targets. In a previous research, we reported that cryptotanshinone (CPT) exerted cytotoxic effects toward acute lymphoblastic leukemia cells through mitochondria-mediated apoptosis.

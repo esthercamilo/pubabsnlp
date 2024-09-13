@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jul'}
+Pharmacogenetics of tomorrow: the 1 + 1 = 3 principle.
+Disappointing results from replicating pharmacogenetic association studies have prompted the search for novel statistical techniques to analyze the data, while taking into account the biological complexity underlying drug response. Two of these techniques--multifactor dimensionality reduction and classification and regression tree analysis--will probably be applied in increasing numbers of future pharmacogenetic studies. In this article, we describe the concepts underlying both techniques and illustrate their application in a recent pharmacogenetic study.

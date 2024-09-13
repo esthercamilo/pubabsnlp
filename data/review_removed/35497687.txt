@@ -1,0 +1,3 @@
+{'Year': '2022'}
+The Prevalence of Pharmacogenomics Variants and Their Clinical Relevance Among the Pakistani Population.
+Pharmacogenomics (PGx), forming the basis of precision medicine, has revolutionized traditional medical practice. Currently, drug responses such as drug efficacy, drug dosage, and drug adverse reactions can be anticipated based on the genetic makeup of the patients. The pharmacogenomic data of Pakistani populations are limited. This study investigates the frequencies of pharmacogenetic variants and their clinical relevance among ethnic groups in Pakistan.

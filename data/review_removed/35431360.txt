@@ -1,0 +1,3 @@
+{'Year': '2021', 'Season': 'Jul-Sep'}
+Susceptibility to thiopurine toxicity by <i>TPMT</i> and <i>NUDT15</i> variants in Colombian children with acute lymphoblastic leukemia.
+This study aimed to correlate the genetic profile of the <i>NUDT15</i> and <i>TPMT</i> genes with the side effects of the treatment of pediatric patients with acute lymphoid leukemia who were undergoing maintenance therapy at a tertiary care hospital in 2017.

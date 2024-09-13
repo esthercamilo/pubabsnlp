@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Nov'}
+BDNF gene: functional Val66Met polymorphism in mood disorders and schizophrenia.
+The brain-derived neurotrophic factor (BDNF) gene has become a candidate gene for molecular-genetic studies of mood disorders and schizophrenia, and also for pharmacogenomics of drugs used in the treatment of these conditions, such as mood-stabilizers in bipolar mood disorder, antidepressants in depression, and antipsychotics in schizophrenia. It has been demonstrated that the functional Val66Met polymorphism of the gene can be associated with a number of clinical and pharmacological phenomena in these illnesses.

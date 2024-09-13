@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Jul'}
+Pharmacogenomics: mapping monogenic mutations to direct therapy.
+The molecular mapping of mutations that underlie congenital disorders of monogenic origin can result in both a broader understanding of the molecular basis of the disorder and novel therapeutic insights. Indeed, genotyping patients and then replicating the behavior of the mutant gene products in well-defined biochemical or electrophysiological systems will allow tailoring of therapy to be mutation- and protein sequence-dependent. In this issue of the JCI, Shen and colleagues describe such an approach that identified novel mutations in the α subunit of the nicotinic receptor linked to myasthenia gravis.

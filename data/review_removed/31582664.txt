@@ -1,0 +1,3 @@
+{'Year': '2019'}
+Development of an Inexpensive and Rapid Operation Device for High-Throughput Real-Time Quantitative PCR-Based CYP2D6 CNV Genotyping.
+The CYP2D6 gene is the most well characterized gene involved in drug metabolism and is known to have both gene duplication and deletion variants. We report an optimized method for the determination of copy number variation (CNV) in the CYP2D6 gene by a novel purification process for a real-time quantitative PCR. This high-throughput low-cost method accurately determines CNV in the CYP2D6 gene enabling reliable estimates of disease prediction in large epidemiological samples.

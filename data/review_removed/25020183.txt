@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Sep'}
+A Bayesian Estimation Framework for Pharmacogenomics Driven Warfarin Dosing: A Comparative Study.
+The incorporation of pharmacogenomics information into the drug dosing estimation formulations has been shown to increase the accuracy in drug dosing and decrease the frequency of adverse drug effects in many studies in the literature. In this paper, an estimation framework based on the Bayesian structural equation modeling, which is driven by pharmacogenomics, is proposed. The results show that the model compares favorably with the linear models in terms of prediction and explaining the variations in warfarin dosing.

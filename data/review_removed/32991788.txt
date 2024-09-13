@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jan'}
+Safety and cardiovascular effects of multiple-dose administration of aripiprazole and olanzapine in a randomised clinical trial.
+To assess adverse events (AEs) and safety of aripiprazole (ARI) and olanzapine (OLA) treatment.

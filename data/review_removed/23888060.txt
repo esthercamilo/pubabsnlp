@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Nov'}
+Pharmacometabonomics and personalized medicine.
+Pharmacometabonomics is a new branch of science, first described in 2006 and defined as 'the prediction of the effects of a drug on the basis of a mathematical model of pre-dose metabolite profiles'. Pharmacometabonomics has been used to predict drug metabolism, pharmacokinetics (PK), drug safety and drug efficacy in both animals and humans and is complementary to both pharmacogenomics (PGx) and pharmacoproteomics.

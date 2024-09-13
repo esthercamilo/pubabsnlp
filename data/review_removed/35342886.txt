@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Feb'}
+Pharmacogenomics of Hypertension in CKD: The CKD-PGX Study.
+Patients with CKD often have uncontrolled hypertension despite polypharmacy. Pharmacogenomic drug-gene interactions (DGIs) may affect the metabolism or efficacy of antihypertensive agents. We report changes in hypertension control after providing a panel of 11 pharmacogenomic predictors of antihypertensive response.

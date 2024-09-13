@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'May'}
+Precise prescriptions Mayo uses pharmacogenomics to help match medications to patients' genetic makeup.
+Mayo uses pharmacogenomics to help match medications to patients' genetic makeup.

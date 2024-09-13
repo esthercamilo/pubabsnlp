@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'May', 'Day': '29'}
+Transporter Genes and statin-induced Hepatotoxicity.
+Hepatotoxicity has emerged as a major cause of statin treatment interruption. Although organic anion-transporting polypeptide 1B1 (SLCO1B1), multidrug resistance protein 1 (ABCB1), and breast cancer resistance protein (ABCG2) have been identified as transporters of statins, knowledge of their role in statin-associated hepatotoxicity remains limited. Therefore, we aimed to conduct a comprehensive analysis to elucidate the association between hepatotoxicity and SLCO1B1, ABCB1, and ABCG2 polymorphisms.

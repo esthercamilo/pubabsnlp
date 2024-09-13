@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Using EHR-Linked Biobank Data to Study Metformin Pharmacogenomics.
+Metformin is a commonly prescribed diabetes medication whose mechanism of action is poorly understood. In this study we utilized EHR-linked biobank data to elucidate the impact of genomic variation on glycemic response to metformin. Our study found significant gene- and SNP-level associations within the beta-2 subunit of the heterotrimeric adenosine monophosphate-activated protein kinase complex. Using EHR phenotypes where were able to add additional clarity to ongoing metformin pharmacogenomic dialogue.

@@ -1,0 +1,3 @@
+{'Year': '2008'}
+Pharmacogenomics and personalized use of drugs.
+As the development of the Human Genome Project (HGP), the sequencing of whole human genome has been completed, and a series of human genes have been detected, both of which result in the naissance of pharmacogenomics. Pharmacogenomics is the study of how an individual's genetic inheritance affects the body's response to drugs using the information of human genomics and bioinformatics approaches. It is not only propitious to the rational use of drugs, but also in favor for the personalized drug design.

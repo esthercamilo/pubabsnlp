@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Oct'}
+Genome-wide meta-analysis of SNP and antihypertensive medication interactions on left ventricular traits in African Americans.
+Left ventricular (LV) hypertrophy affects up to 43% of African Americans (AAs). Antihypertensive treatment reduces LV mass (LVM). However, interindividual variation in LV traits in response to antihypertensive treatments exists. We hypothesized that genetic variants may modify the association of antihypertensive treatment class with LV traits measured by echocardiography.

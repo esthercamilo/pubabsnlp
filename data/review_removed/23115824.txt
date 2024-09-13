@@ -1,0 +1,3 @@
+{'Year': '2012', 'Season': 'Jan-Jun'}
+[Information sheet and informed consent in biomedical research with samples].
+This paper examines from a practical perspective, the content of the information sheet to the participant in a clinical trial in which pharmacogenetic studies are conducted and/or pharmacogenomics, and scope of informed consent. The text is accompanied by a guide of questions to assess the fit of a participant information sheet on the regulation of clinical trials, biological samples and protection of personal data.

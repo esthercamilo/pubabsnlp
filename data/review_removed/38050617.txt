@@ -1,0 +1,3 @@
+{'Year': '2023'}
+Population-Specific Distribution of <i>TPMT</i> Deficiency Variants and Ancestry Proportions in Ecuadorian Ethnic Groups: Towards Personalized Medicine.
+Thiopurine S-methyltransferase (TPMT) is an enzyme that metabolizes purine analogs, agents used in the treatment of acute lymphoblastic leukemia. Improper drug metabolism leads to toxicity in chemotherapy patients and reduces treatment effectiveness. <i>TPMT</i> variants associated with reduced enzymatic activity vary across populations. Therefore, studying these variants in heterogeneous populations, such as Ecuadorians, can help identify molecular causes of deficiency for this enzyme.

@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Genetic Association of Epilepsy and Anti-Epileptic Drugs Treatment in Jordanian Patients.
+The aim of this study was to investigate the possible effects of single-nucleotide polymorphisms (SNPs) within SLC1A1, SLC6A1, FAM131B, GPLD1, F2, GABRG2, GABRA1, and CACNG5 genes on response to anti-epileptic drugs (AEDs) and the genetic predisposition of epilepsy in Jordanian patients.

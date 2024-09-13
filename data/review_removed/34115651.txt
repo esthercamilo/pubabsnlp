@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Oct', 'Day': '01'}
+Associations between efavirenz concentrations, pharmacogenetics and neurocognitive performance in people living with HIV in Nigeria.
+Efavirenz (EFV) use is associated with neuropsychiatric side effects, which may include poor neurocognitive performance. We evaluated single nucleotide polymorphisms in genes that contribute to EFV pharmacokinetics and examined them in association with EFV concentrations in plasma and hair, as well as neurocognitive performance.

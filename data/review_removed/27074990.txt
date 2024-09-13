@@ -1,0 +1,3 @@
+{'Year': '2016', 'Season': 'May-Jun'}
+Pharmacogenomics: Overview of Applications and Relation to Infusion Therapy.
+Pharmacogenomics (PGx) describes the relationship between an individual's genes and his or her response to drug therapy. Data are accumulating that indicate that PGx has application in the clinical setting for drugs across therapeutic categories, including drugs that are administered intravenously and are of greater familiarity to infusion nurses. This article provides an overview of the science and presents common examples of PGx as it relates to drug and/or drug dose selection. Additionally, there are brief summaries of the role infusion nurses can play relative to toxicity monitoring, patient education, and other aspects of PGx.

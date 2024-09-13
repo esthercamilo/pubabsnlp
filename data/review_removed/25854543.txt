@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Apr', 'Day': '03'}
+Perspectives on genetic and genomic technologies in an academic medical center: the duke experience.
+In this age of personalized medicine, genetic and genomic testing is expected to become instrumental in health care delivery, but little is known about its actual implementation in clinical practice.

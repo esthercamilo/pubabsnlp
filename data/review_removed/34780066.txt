@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'May'}
+DPYD polymorphisms c.496A>G, c.2194G>A and c.85T>C and risk of severe adverse drug reactions in patients treated with fluoropyrimidine-based protocols.
+Cancer patients with reduced dihydropyrimidine dehydrogenase (DPD) activity are at increased risk of severe fluoropyrimidine (FP)-related adverse events (AE). Guidelines recommend FP dosing adjusted to genotype-predicted DPD activity based on four DPYD variants (rs3918290, rs55886062, rs67376798 and rs56038477). We evaluated the relationship between three further DPYD polymorphisms: c.496A>G (rs2297595), *6 c.2194G>A (rs1801160) and *9A c.85T>C (rs1801265) and the risk of severe AEs.

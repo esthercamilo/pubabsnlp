@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Aug'}
+Zinc transporter 8 autoantibody testing requires age-related cut-offs.
+Zinc transporter 8 autoantibodies (ZnT8A) are biomarkers of beta cell autoimmunity in type 1 diabetes that have become more widely available to clinicians in recent years. Robust control population-defined thresholds are essential to ensure high clinical specificity in islet autoantibody testing. We aimed to determine the optimal cut-offs for ZnT8A testing.

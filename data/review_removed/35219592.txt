@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'May'}
+Trio genome sequencing for developmental delay and pediatric heart conditions: A comparative microcost analysis.
+Genome sequencing (GS) can aid clinical management of multiple pediatric conditions. Insurers require accurate cost information to inform funding and implementation decisions. The objective was to compare the laboratory workflows and microcosts of trio GS testing in children with developmental delay (DD) and in children with cardiac conditions.

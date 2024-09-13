@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Sep'}
+Predictors of tacrolimus pharmacokinetic variability: current evidences and future perspectives.
+In kidney transplantation, tacrolimus (TAC) is at the cornerstone of current immunosuppressive strategies. Though because of its narrow therapeutic index, it is critical to ensure that TAC levels are maintained within this sharp window through reactive adjustments. This would allow maximizing efficiency while limiting drug-associated toxicity. However, TAC high intra- and inter-patient pharmacokinetic (PK) variability makes it more laborious to accurately predict the appropriate dosage required for a given patient.

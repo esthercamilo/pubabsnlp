@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Dec'}
+Genomic and clinical predictors of lacosamide response in refractory epilepsies.
+Clinical and genetic predictors of response to antiepileptic drugs (AEDs) are largely unknown. We examined predictors of lacosamide response in a real-world clinical setting.

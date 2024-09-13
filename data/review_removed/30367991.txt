@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Dec'}
+The Integrating Pharmacogenetics in Clinical Care (I-PICC) Study: Protocol for a point-of-care randomized controlled trial of statin pharmacogenetics in primary care.
+The association between the SLCO1B1 rs4149056 variant and statin-associated muscle symptoms (SAMS) is well validated, but the clinical utility of its implementation in patient care is unknown.

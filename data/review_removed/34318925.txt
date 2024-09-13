@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Sep'}
+Advancing Precision Medicine Through the New Pharmacogenomics Global Research Network.
+The new Pharmacogenomics Global Research Network (PGRN) is an independent society that builds on the National Institutes of Health (NIH)–funded Pharmacogenomics Research Network that was established in 2000. Leveraging the original PGRN’s previous success, the new network continues to be a leader in the field of personalized medicine focusing on research, discovery, and translation of genomic variation influencing drug efficacy and adverse events, while simultaneously increasing inclusion in the field and expanding globally.

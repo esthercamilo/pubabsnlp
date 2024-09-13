@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar'}
+No impact of eight NTRK2 genetic polymorphisms on 6-month antidepressant efficacy in depressed patients.
+NTRK2 is the main receptor of the brain derived neurotrophic factor, which is involved in antidepressant efficacy. We assessed the impact of eight NTRK2 SNPs pertaining to response and remission after antidepressant treatment in depressed patients.

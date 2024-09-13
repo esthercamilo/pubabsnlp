@@ -1,0 +1,3 @@
+{'Year': '2020'}
+A Pharmacogenetically Guided Acenocoumarol Dosing Algorithm for Chilean Patients: A Discovery Cohort Study.
+Vitamin K antagonists (VKA) are used as prophylaxis for thromboembolic events in patients with cardiovascular diseases. The most common VKA are warfarin and acenocoumarol. These drugs have a narrow therapeutic margin and high inter-individual response variability due to clinical and pharmacogenetic variables.

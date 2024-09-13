@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Nov'}
+Effects of CYP2C19 genetic polymorphisms on the pharmacokinetics of lacosamide in Korean patients with epilepsy.
+Many pharmacokinetic studies of lacosamide (LCM) have been reported, but no large-scale clinical study has been conducted on genetic polymorphisms that affect the metabolism of LCM. Therefore, we designed a pharmacogenetic study of LCM to explore the effect of genetic polymorphisms on serum LCM concentration. We evaluated the pharmacodynamic characteristics of LCM, including clinical efficacy and toxicity.

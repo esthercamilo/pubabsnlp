@@ -1,0 +1,3 @@
+{'Year': '2014'}
+Evaluation of the relationship between polymorphisms in CYP2C19 and the pharmacokinetics of omeprazole, pantoprazole and rabeprazole.
+To evaluate the possible association between polymorphisms in CYP2C19 and the pharmacokinetics of omeprazole, rabeprazole and pantoprazole.

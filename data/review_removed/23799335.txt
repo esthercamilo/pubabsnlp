@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Aug'}
+Asthma pharmacogenetics: responding to the call for a personalized approach.
+Asthma is a chronic, complex disease that is treated with a combination of different therapies. However, interindividual variability in clinical responses to different therapies complicates asthma management. A personalized approach to asthma management could identify appropriate responders to specific agents or those that might be at an increased risk for adverse responses.

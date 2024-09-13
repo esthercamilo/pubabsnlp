@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Computational and Pharmacogenomic Insights on Hypertension Treatment: Rational Drug Design and Optimization Strategies.
+Hypertension is a prevalent cardiovascular complication caused by genetic and nongenetic factors. Blood pressure (BP) management is difficult because most patients become resistant to monotherapy soon after treatment initiation. Although many antihypertensive drugs are available, some patients do not respond to multiple drugs. Identification of personalized antihypertensive treatments is a key for better BP management.

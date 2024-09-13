@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Oct'}
+An in silico analysis of the impact of POLE mutations on cladribine docking.
+Polymerase ε exonuclease (POLE) is an enzyme involved in DNA replication and may be an attractive therapeutic target in various cancers. Here we sought to model the impact of specific POLE mutations on protein function. Due to the lack of a crystal structure, the tertiary structures of the wild type and four common mutants were modeled using I-Tasser server.

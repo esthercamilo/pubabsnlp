@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jun'}
+Lowering fasting blood glucose with non-dialyzable material of cranberry extract is dependent on host genetic background, sex and diet.
+Type 2 diabetes (T2D) is a polygenic metabolic disease, characterized by high fasting blood glucose (FBG). The ability of cranberry (CRN) fruit to regulate glycemia in T2D patients is well known. Here, a cohort of 13 lines of the genetically diverse Collaborative Cross (CC) mouse model was assessed for the effect of non-dialyzable material (NDM) of cranberry extract in lowering fasting blood glucose.

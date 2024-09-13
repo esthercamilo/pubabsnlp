@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jun'}
+Genomic research delivering on promises: From rejuvenation to vaccines and pharmacogenetics.
+There has been astounding progress made in the treatment of disease over recent years. This progress is particularly marked in cell therapy and in the personalization of therapy based on genetic insight, an approach known as genomic medicine. Our objective is to comment on the progress made in cell and genomic medicine against an historical backcloth of the search for rejuvenation.

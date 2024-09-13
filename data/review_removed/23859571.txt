@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jul'}
+Impact of pharmacogenetics on CNS side effects related to efavirenz.
+This article evaluates which genetic factors are involved in CNS toxicity related to long-term treatment with efavirenz (EFV) standard doses and their relationship with plasma concentrations.

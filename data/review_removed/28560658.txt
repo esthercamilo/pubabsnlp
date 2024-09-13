@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jul'}
+Safety, pharmacokinetics and pharmacogenetics of a single ascending dose of pradefovir, a novel liver-targeting, anti-hepatitis B virus drug, in healthy Chinese subjects.
+Pradefovir is efficiently converted to adefovir [9-(2-phosphonylmethoxyethyl) adenine (PMEA)], producing high hepatic PMEA concentration but low levels in the systemic circulation and kidney. The aim of this study is to evaluate the tolerability, adverse effect (AEs), pharmacokinetics and pharmacogenetics of a single ascending dose of pradefovir.

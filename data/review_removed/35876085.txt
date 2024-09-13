@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '22'}
+A clinician's guide for counseling patients on results of a multigene pharmacogenomic panel.
+This article explores approaches to pharmacogenomic counseling for patients who have undergone multigene panel testing by describing the collective experience of 5 institutions.

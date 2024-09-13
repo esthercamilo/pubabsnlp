@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Aug'}
+Using the CYP3A Activity Evaluation to Predict the Efficacy and Safety of Diazepam in Patients With Alcohol Withdrawal Syndrome.
+Diazepam is one of the most commonly prescribed tranquilizers for the therapy of alcohol withdrawal syndrome (AWS). Despite its popularity, there is currently no precise information on the effect of genetic polymorphisms on the efficacy and safety of diazepam therapy.

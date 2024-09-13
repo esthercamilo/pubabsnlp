@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'May', 'Day': '07'}
+Pharmacogenomics of in vitro response of the NCI-60 cancer cell line panel to Indian natural products.
+Indian natural products have been anecdotally used for cancer treatment but with limited efficacy. To better understand their mechanism, we examined the publicly available data for the activity of Indian natural products in the NCI-60 cell line panel.

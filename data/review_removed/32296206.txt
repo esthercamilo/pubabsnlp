@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Apr'}
+Pharmacogenetic study of ACE, AGT, CYP11B1, CYP11B2 and eNOS gene variants in hypertensive patients from Faisalabad, Pakistan.
+To investigate the association of genetic variants of renin angiotensin aldosterone system, endothelial nitric oxide synthase and 11-beta-hydroxylase genes, and the drug efficacy of angiotensin-converting enzyme inhibitor and angiotensin receptor blocker.

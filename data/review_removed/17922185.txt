@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Sep'}
+Prospective characterization of musculoskeletal symptoms in early stage breast cancer patients treated with aromatase inhibitors.
+Aromatase inhibitors (AIs) are increasingly used as adjuvant treatment of postmenopausal women with hormone receptor-positive breast cancer. AIs are commonly associated with musculoskeletal symptoms. The primary objective of this study was to describe the musculoskeletal symptoms that developed in the first 100 subjects enrolled who had at least 6 months follow-up.

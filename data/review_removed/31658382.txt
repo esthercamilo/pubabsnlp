@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Jan'}
+A case-control study to assess the ability of the thymine challenge test to predict patients with severe to life threatening fluoropyrimidine-induced gastrointestinal toxicity.
+A previous study suggested that a thymine (THY) challenge dose could detect aberrant pharmacokinetics in known cases of fluoropyrimidine toxicity compared with healthy volunteers. The preliminary data suggested that urine sampling also could detect this aberrant disposition. The aim of this case-control study was to assess the ability of the urinary THY challenge test to discriminate cases of severe gastrointestinal toxicity in a cohort of patients treated with 5-fluorouracil or capecitabine.

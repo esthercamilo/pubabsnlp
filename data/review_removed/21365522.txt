@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Mar'}
+[Pharmacogenomics: hype or hope?].
+Pharmacogenomics follows the concept of individualized medicine via targeted and tailored therapy for each patient. This is aided by current progress in human genome research that provided the basis to link genetic markers with pathogenesis and progression for the definition of new therapy options. To achieve this it will be necessary to show the validity and clinical utility of pharmacogenomic tests prior to release. The implementation of pharmacogenomics into clinical practise is a momentous future challenge that requires the establishment of interdisciplinary networks and professional organizations.

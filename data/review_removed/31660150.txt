@@ -1,0 +1,3 @@
+{'Year': '2019'}
+A yeast phenomic model for the influence of Warburg metabolism on genetic buffering of doxorubicin.
+The influence of the Warburg phenomenon on chemotherapy response is unknown. <i>Saccharomyces cerevisiae</i> mimics the Warburg effect, repressing respiration in the presence of adequate glucose. Yeast phenomic experiments were conducted to assess potential influences of Warburg metabolism on gene-drug interaction underlying the cellular response to doxorubicin. Homologous genes from yeast phenomic and cancer pharmacogenomics data were analyzed to infer evolutionary conservation of gene-drug interaction and predict therapeutic relevance.

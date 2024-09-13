@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Genetic factors affecting drug disposition in Asian cancer patients.
+In the era of genomic medicine, it is increasingly recognized that ethnogeographic differences in drug pharmacology exist between Asian and other populations. This is particularly pertinent to oncology, where drugs forming the backbone of chemotherapy often have narrow therapeutic windows and are frequently dosed close to maximally tolerable levels.

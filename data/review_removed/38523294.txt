@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Mar', 'Day': '25'}
+Large-scale next generation sequencing based analysis of SLCO1B1 pharmacogenetics variants in the Saudi population.
+SLCO1B1 plays an important role in mediating hepatic clearance of many different drugs including statins, angiotensin-converting enzyme inhibitors, chemotherapeutic agents and antibiotics. Several variants in SLCO1B1 have been shown to have a clinically significant impact, in relation to efficacy of these medications. This study provides a comprehensive overview of SLCO1B1 variation in Saudi individuals, one of the largest Arab populations in the Middle East.

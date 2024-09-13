@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jun'}
+Genome-wide association study of osteonecrosis of the jaw in Danish patients receiving antiresorptive therapy for osteoporosis: A case-control study.
+Prior studies of the pharmacogenomics of osteonecrosis of the jaw (ONJ) have had various methodological limitations, including using candidate gene selection as their sole strategy, a small number of ONJ cases, or a study population based on an oncology setting.

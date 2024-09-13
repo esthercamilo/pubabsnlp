@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jan'}
+Pharmacogenetics of ustekinumab in patients with moderate-to-severe plaque psoriasis.
+Aim/Materials & methods: Few studies have evaluated the influence of pharmacogenetics in psoriatic patients treated with ustekinumab. We evaluated 121 polymorphisms to study a possible association between these SNPs and the response to ustekinumab (PASI75 at 4 months; n = 69).

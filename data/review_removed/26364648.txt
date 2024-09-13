@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Pharmacogenetics of clozapine treatment response and side-effects in schizophrenia: an update.
+Clozapine (CLZ) is the most effective treatment for treatment-resistant schizophrenia (SCZ) patients, with potential added benefits of reduction in suicide risk and aggression. However, CLZ is also mainly underused due to its high risk for the potentially lethal side-effect of agranulocytosis as well as weight gain and related metabolic dysregulation. Pharmacogenetics promises to enable the prediction of patient treatment response and risk of adverse effects based on patients' genetics, paving the way toward individualized treatment.

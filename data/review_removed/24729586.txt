@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Aug'}
+Secondary metabolism pathway polymorphisms and plasma efavirenz concentrations in HIV-infected adults with CYP2B6 slow metabolizer genotypes.
+Efavirenz is widely prescribed for HIV-1 infection, and CYP2B6 polymorphisms 516G→T and 983T→C define efavirenz slow metabolizer genotypes. To identify genetic predictors of higher plasma efavirenz concentrations beyond these two common functional alleles, we characterized associations with mid-dosing interval efavirenz concentrations in 84 HIV-infected adults, all carrying two copies of these major loss-of-function CYP2B6 alleles.

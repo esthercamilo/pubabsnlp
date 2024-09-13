@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Aug'}
+Association study of polymorphisms within inflammatory genes and methylation status in treatment response in major depression.
+Although pharmacogenetics for major depressive disorder (MDD) is gaining momentum, the role of genetics in differences in response to antidepressant treatment is controversial, as they depend on multifactorial and polygenic phenotypes. Previous studies focused on the genes of the serotonergic system, leaving apart other pathological factors such as the inflammatory pathway. The main objective of the study was to assess whether treatment response might be associated with specific inflammation-related genetic variants or their methylation status.

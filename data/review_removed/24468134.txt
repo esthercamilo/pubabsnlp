@@ -1,0 +1,3 @@
+{'Year': '2014'}
+Genomics for clinical utility: the future is near.
+Personal Genomes and Pharmacogenomics meeting, Cold Spring Harbor Laboratory, USA, November 13-16, 2013.

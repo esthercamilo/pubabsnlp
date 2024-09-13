@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Aug'}
+Association study of 27 annotated genes for clozapine pharmacogenetics: validation of preexisting studies and identification of a new candidate gene, ABCB1, for treatment response.
+Pharmacogenetic studies on clozapine (CLZ) have provided meaningful insights but have shown redundancies owing to wide interindividual variability and insufficient replication. The present study was designed to validate hitherto suggested candidate genes on CLZ pharmacokinetics and pharmacodynamics and explore new markers through an integrative study.

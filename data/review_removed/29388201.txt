@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'May'}
+Benefits of and Barriers to Pharmacogenomics-Guided Treatment for Major Depressive Disorder.
+Antidepressants have reduced the symptom burden for many Major Depressive Disorder (MDD) patients, but drug-related side effects and treatment resistance continue to present major challenges. Pharmacogenomics represents one approach to enhance antidepressant efficacy and avoid adverse reactions, but concerns remain with regard to the overall "value equation," and several barriers must be overcome to achieve the full potential of MDD pharmacogenomics.

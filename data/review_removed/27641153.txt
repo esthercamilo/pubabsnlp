@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Apr'}
+Genetic Polymorphisms Affecting the Pharmacokinetics of Antiretroviral Drugs.
+Antiretroviral treatment is highly effective in enhancing HIV-positive patients' survival and quality of life. Despite an increased tolerability in recent years, a substantial amount of patients experience side effects. Antiretrovirals' efficacy and tolerability have been associated with plasma concentrations and single nucleotide polymorphisms in selected genes involved in drug disposition.

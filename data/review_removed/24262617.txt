@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Nov'}
+Routine assessment of on-clopidogrel platelet reactivity and gene polymorphisms in predicting clinical outcome following drug-eluting stent implantation in patients with stable coronary artery disease.
+This study sought to assess the usefulness of clopidogrel-pathway genotyping and on-treatment platelet reactivity (OTR) testing in predicting major adverse cardiac events (MACE) in stable coronary artery disease (CAD) patients receiving drug-eluting stents (DES) under dual antiplatelet (clopidogrel plus aspirin) therapy.

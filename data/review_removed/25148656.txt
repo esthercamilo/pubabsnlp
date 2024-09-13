@@ -1,0 +1,3 @@
+{'Year': '2014', 'Season': 'Sep-Oct'}
+Implementation of personalized medicine services in community pharmacies: perceptions of independent community pharmacists.
+To evaluate the perceptions of independent community pharmacists within a regional independent community pharmacy cooperative on implementing personalized medicine services at their pharmacies and to gauge the pharmacists' self-reported knowledge of pharmacogenomic principles.

@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Dec'}
+Pharmacogenomics in kidney transplant recipients and potential for integration into practice.
+Pharmacogenomic biomarkers are now used in many clinical care settings and represent one of the successes of precision medicine. Genetic variants are associated with pharmacokinetic and pharmacodynamic changes leading to medication adverse effects and changes in clinical response. Actionable pharmacogenomic variants are common in transplant recipients and have implications for medications used in transplant, but yet are not broadly incorporated into practice.

@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jul'}
+High Resectability Rate of Initially Unresectable Colorectal Liver Metastases After UGT1A1-Adapted High-Dose Irinotecan Combined with LV5FU2 and Cetuximab: A Multicenter Phase II Study (ERBIFORT).
+The purpose of this study was to assess the efficacy and tolerance of induction chemotherapy combining LV5FU2 with increased doses of irinotecan adapted to UGT1A1 genotyping and cetuximab in untreated potentially resectable liver metastases of colorectal cancer.

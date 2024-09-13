@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Nov'}
+Addressing ethical challenges at the intersection of pharmacogenomics and primary care using deliberative consultations.
+Primary care physicians will play a central role in the successful implementation of pharmacogenomics (PGx); however, important challenges remain. We explored the perspectives of stakeholders on key challenges of the PGx translation process in primary care using deliberative consultations.

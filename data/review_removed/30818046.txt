@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'May'}
+Cytochrome P450 CYP2B6*6 distribution among Congolese individuals with HIV, Tuberculosis and Malaria infection.
+The cytochrome P450 CYP2B6*6 (CYP2B6 c.516G>T; rs3745274) is one of the genetic factors that alters the drug metabolism in antimalarial, antiretroviral and TB first-line drugs. In Central African populations, the distribution of the CYP2B6*6 variant is poorly documented. This study investigated the distribution of CYP2B6 c.516G>T variant among Congolese individuals.

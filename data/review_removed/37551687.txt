@@ -1,0 +1,3 @@
+{'Year': '2023', 'Season': 'Jul-Dec'}
+Genotype-guided dual antiplatelet therapy in cerebrovascular disease: assessing the risk and benefits for ethnic populations.
+Cerebrovascular disease is a leading cause of morbidity and mortality in the world and antiplatelet therapy is a main pharmacologic means of secondary prevention. Clinical information has accumulated about benefit of dual antiplatelet therapy in certain clinical scenarios, genetic causes of antiplatelet resistance and its effect on clinical outcomes, and ethnic and geographic distributions of genetic polymorphisms.

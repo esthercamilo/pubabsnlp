@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'May', 'Day': '22'}
+Challenges and strategies for implementing genomic services in diverse settings: experiences from the Implementing GeNomics In pracTicE (IGNITE) network.
+To realize potential public health benefits from genetic and genomic innovations, understanding how best to implement the innovations into clinical care is important. The objective of this study was to synthesize data on challenges identified by six diverse projects that are part of a National Human Genome Research Institute (NHGRI)-funded network focused on implementing genomics into practice and strategies to overcome these challenges.

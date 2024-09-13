@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Nov'}
+Exploring Variation in Known Pharmacogenetic Variants and its Association with Drug Response in Different Mexican Populations.
+Information on genetic variants that affect the pharmacokinetics and pharmacodynamics (PK/PD) of drugs in different populations from Mexico is still an ongoing endeavor. Here, we investigate allele frequencies on pharmacogenetic targets in Mexican Mestizos and Natives from three different States and its association with drug efficacy in individuals receiving either anticoagulants or antipsychotic drugs.

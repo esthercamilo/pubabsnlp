@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Mar'}
+HIV Integrase Inhibitor Pharmacogenetics: An Exploratory Study.
+Integrase strand transfer inhibitors (INSTIs), dolutegravir, elvitegravir, and raltegravir, have become integral in the treatment of HIV, with close monitoring of continued efficacy and tolerability. As side effect occurrence varies among subjects receiving these drugs, we sought to perform an exploratory analysis examining the role of several single-nucleotide polymorphisms (SNPs) on drug concentration changes, selected clinical outcomes, and the occurrence of subject-reported adverse events.

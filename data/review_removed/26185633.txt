@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jun'}
+Prolonged neuropsychiatric effects following management of chloroquine intoxication with psychotropic polypharmacy.
+Susceptibility to quinoline antimalarial intoxication may reflect individual genetic and drug-induced variation in neuropharmacokinetics. In this report, we describe a case of chloroquine intoxication that appeared to be prolonged by subsequent use of multiple psychotropic medications. This case highlights important new considerations for the management of quinoline antimalarial intoxication.

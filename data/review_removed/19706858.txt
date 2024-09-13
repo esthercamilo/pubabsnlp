@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Aug', 'Day': '26'}
+Association of cytochrome P450 2C19 genotype with the antiplatelet effect and clinical efficacy of clopidogrel therapy.
+Clopidogrel therapy improves cardiovascular outcomes in patients with acute coronary syndromes and following percutaneous coronary intervention by inhibiting adenosine diphosphate (ADP)-dependent platelet activation. However, nonresponsiveness is widely recognized and is related to recurrent ischemic events.

@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Pharmacogenetics-Based versus Conventional Dosing of Warfarin: A Meta-Analysis of Randomized Controlled Trials.
+Recently, using the patient's genotype to guide warfarin dosing has gained interest; however, whether pharmacogenetics-based dosing (PD) improves clinical outcomes compared to conventional dosing (CD) remains unclear. Thus, we performed a meta-analysis to evaluate these two strategies.

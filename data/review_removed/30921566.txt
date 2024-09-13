@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jun'}
+Collateral sensitivity of drug-resistant ABCB5- and mutation-activated EGFR overexpressing cells towards resveratrol due to modulation of SIRT1 expression.
+In the drug discovery field, natural products deemed a precious source of novel lead compounds. They have the ability to bypass or overcome multidrug resistance (MDR) in cancer cells.

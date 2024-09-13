@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Dec', 'Day': '28'}
+Common variants in glucuronidation enzymes and membrane transporters as potential risk factors for colorectal cancer: a case control study.
+Associations between polymorphisms of UDP-glucuronosyltransferases (UGTs) or efflux transporters (e.g., P-glycoprotein and MRP2) and different types of cancer have been described, whereas the role of influx transporters (e.g. OATP1B1 and OATP2B1) has been seldom explored. The GenColon study investigated potential associations between variant alleles of UGTs, efflux and influx transporters and CRC.

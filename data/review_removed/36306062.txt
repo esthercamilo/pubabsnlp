@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Feb'}
+Evaluation of supervised machine learning algorithms in predicting the poor anticoagulation control and stable weekly doses of warfarin.
+Machine learning algorithms (MLAs) carry a huge potential in identifying predicting factors and are being explored for their utility in the field of personalized medicine.

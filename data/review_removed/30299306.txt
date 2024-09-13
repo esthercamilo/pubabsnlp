@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jan'}
+Towards the integration of pharmacogenetics in psychiatry: a minimum, evidence-based genetic testing panel.
+The implementation of pharmacogenetic testing in psychiatry is underway but is not yet standard protocol. Barriers to pharmacogenetics becoming standard practice are the lack of translation of evidence-based recommendations and standardization of genetic testing panels. As for the latter, there are currently no regulatory standards related to the gene and allele content of testing panels used to derive medication selection and dosing advice. To address these barriers, we summarize the current gene-drug interaction knowledgebase and proposed a minimum gene and allele set for pharmacogenetic testing in psychiatry.

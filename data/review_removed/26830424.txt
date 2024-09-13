@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Mar'}
+[Personalized drug therapy based on genetics. Possibilities and examples from clinical practice].
+Pharmacogenetics are an important component in the individualization of treatment; however, pharmacogenetic diagnostics have so far not been used to any great extent in clinical practice. A consistent consideration of individual patient factors, such as pharmacogenetics may help to improve drug therapy and increase individual safety and efficacy aspects.

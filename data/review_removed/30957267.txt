@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Aug'}
+Risk of myocardial infarction associated with non-steroidal anti-inflammatory drugs: Impact of additional confounding control for variables collected from self-reported data.
+Important risk factors and over-the-counter (OTC) dispensing of non-steroidal anti-inflammatory drugs (NSAIDs) are often not routinely recorded in electronic health records. This study aimed to assess the impact of patient's reports on these factors on the risk of acute myocardial infarction (AMI) for NSAID use.

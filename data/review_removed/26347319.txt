@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Case-control association study of ABCB1 gene and major depressive disorder in a local Chinese Han population.
+Human P-glycoprotein encoded by the ATP-binding cassette sub-family B member 1 (ABCB1) gene is expressed in the blood-brain barrier. ABCB1 protects the brain from many drugs and toxins such as glucocorticoids through the efflux pump. Recent evidence suggests that a specific allele of the ABCB1 gene confers susceptibility to major depressive disorder (MDD) in the Japanese population. The aim of this study was to explore the association of ABCB1 gene polymorphisms with MDD in a local Chinese Han population.

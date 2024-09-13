@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Sep'}
+Pharmacogenetics of chronic pain management.
+The experience of chronic pain is one of the commonest reasons individuals seek medical attention, making the management of chronic pain a major issue in clinical practice. Drug metabolism and responses are affected by many factors, with genetic variations offering only a partial explanation of an individual's response. There is a paucity of evidence for the benefits of pharmacogenetic testing in the context of pain management.

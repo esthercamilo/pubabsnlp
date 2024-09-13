@@ -1,0 +1,3 @@
+{'Year': '2015'}
+'Someday it will be the norm': physician perspectives on the utility of genome sequencing for patient care in the MedSeq Project.
+To describe practicing physicians' perceived clinical utility of genome sequencing.

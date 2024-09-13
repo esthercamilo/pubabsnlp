@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jan'}
+Pharmacogenomics fail to explain proton pump inhibitor refractory esophagitis in pediatric esophageal atresia.
+Esophagitis is prevalent in patients with esophageal dysmotility despite acid suppression, likely related to poor esophageal clearance. Esophageal atresia (EA) is a classic model of dysmotility where this observation holds true. In adult non-dysmotility populations, failure of esophagitis to respond to proton pump inhibitors (PPI) has been linked to variants in CYP2C19 that influence the activity of the encoded enzyme. It is unknown if CYP2C19 metabolizer phenotype contributes to PPI-refractory, non-allergic esophagitis in EA.

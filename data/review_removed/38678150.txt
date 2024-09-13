@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '27'}
+Gene polymorphisms of TACR1 serve as the potential pharmacogenetic predictors of response to the neurokinin-1 receptor antagonist-based antiemetic regimens: a candidate-gene association study in breast cancer patients.
+The current candidate gene association study aims to investigate tag SNPs from the TACR1 gene as pharmacogenetic predictors of response to the antiemetic guidelines-recommended, NK-1 receptor antagonist-based, triple antiemetic regimens.

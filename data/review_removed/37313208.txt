@@ -1,0 +1,3 @@
+{'Year': '2023'}
+The impact of single nucleotide polymorphisms in <i>MTHFR</i> and <i>MTRR</i> genes on disease activity and the presence of methotrexate treatment side effects in children with juvenile idiopathic arthritis.
+To determine the impact of single nucleotide polymorphisms (SNPs) in MTHFR and MTRR genes on disease activity and the presence of MTX therapy adverse events in Polish children with juvenile idiopathic arthritis (JIA).

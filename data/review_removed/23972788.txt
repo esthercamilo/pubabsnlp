@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Dec', 'Day': '30'}
+Genetic polymorphisms in the PACAP and PAC1 receptor genes and treatment response to venlafaxine XR in generalized anxiety disorder.
+The pituitary adenylate cyclase-activating peptide (PACAP) and its receptor (PAC1) are involved in stress response and anxiety. Genotypes for PACAP/PAC1 were examined for effects on treatment response to venlafaxine XR in generalized anxiety disorder. The Asp54Gly (rs2856966) variant in the PACAP gene was associated with better treatment outcome.

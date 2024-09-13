@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Variants of genes implicated in type 1 interferon pathway and B-cell activation modulate the EULAR response to rituximab at 24 weeks in rheumatoid arthritis.
+The type 1 interferon (IFN) pathway has been identified to potentially affect the response to rituximab (RTX) for rheumatoid arthritis (RA), which suggests the contribution of type 1 IFN pathway genes such as IFN regulatory factor 5 and 7 (<i>IRF5</i> and <i>IRF7</i>), tyrosine kinase 2 (<i>TYK2</i>), signal transducer and activator of transcription 4 (<i>STAT4</i>) and osteopontin (<i>SPP1</i>). Our objective was to study functional variants of these IFN pathway genes as predictors of the European League Against Rheumatism (EULAR) response to RTX for RA at week 24 (W24).

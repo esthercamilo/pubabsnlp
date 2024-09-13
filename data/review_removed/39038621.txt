@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Oct', 'Day': '15'}
+Common polygenic variation in the early medication change (EMC) cohort affects disorder risk, but not the antidepressant treatment response.
+Given the great interest in identifying reliable predictors of the response to antidepressant drugs, the present study investigated whether polygenic scores (PGS) for Major Depressive Disorder (MDD) and antidepressant treatment response (ADR) were related to the complex trait of antidepressant response in the Early Medication Change (EMC) cohort.

@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Apr'}
+Utilizing the molecular gateway: the path to personalized cancer management.
+Personalized medicine is the provision of focused prevention, detection, prognostic, and therapeutic efforts according to an individual's genetic composition. The actualization of personalized medicine will require combining a patient's conventional clinical data with bioinformatics-based molecular-assessment profiles. This synergistic approach offers tangible benefits, such as heightened specificity in the molecular classification of cancer subtypes, improved prognostic accuracy, targeted development of new therapies, novel applications for old therapies, and tailored selection and delivery of chemotherapeutics.

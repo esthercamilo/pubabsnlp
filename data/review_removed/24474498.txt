@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jun'}
+VKORC1 and CYP2C9 genotypes are predictors of warfarin-related outcomes in children.
+Despite substantial evidence supporting a pharmacogenetic approach to warfarin therapy in adults, evidence on the importance of genetics in warfarin therapy in children is limited, particularly for clinical outcomes. We assessed the contribution of CYP2C9/VKORC1/CYP4F2 genotypes and variation in other genes involved in vitamin K and coagulation pathways to warfarin dose and related clinical outcomes in children.

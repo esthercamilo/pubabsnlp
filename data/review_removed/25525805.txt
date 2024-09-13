@@ -1,0 +1,3 @@
+{'Year': '2014'}
+Impact of glutathione S-transferase M1 and T1 on anti-tuberculosis drug-induced hepatotoxicity in Chinese pediatric patients.
+Anti-tuberculosis drug induced hepatotoxicity (ATDH) is a major adverse drug reaction associated for anti-tuberculosis therapy. The glutathione S-transferases (GST) plays a crucial role in the detoxification of hepatotoxic metabolites of anti-tuberculosis drugs.An association between GSTM1/GSTT1 null mutations and increased risk of ATDH has been demonstrated in adults. Given the ethnic differences and developmental changes, our study aims to investigate the potential impacts of GSTM1/GSTT1 genotypes on the development of ATDH in Han Chinese children treated with anti-tuberculosis therapy.

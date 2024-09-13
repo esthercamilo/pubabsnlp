@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Aug'}
+Pharmacogenetics in dermatology: a patient-centered update.
+The term pharmacogenetics is used to describe an evolving field that aims to understand the relationship between individual variations in genetic sequence and differences in the therapeutic and toxic response to medications. The promise of pharmacogenetics is empowerment of clinicians with information that will enable them to personalize drug therapy - to prescribe the right medication at the right dose for each patient, while minimizing adverse effects. Despite dramatic advances, wide application of pharmacogenetics to clinical practice has been slow for a number of reasons, including lack of evidence-based therapeutic guidelines as well as ethical concerns and cost.

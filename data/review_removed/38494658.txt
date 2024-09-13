@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Apr'}
+Proportion of Antipsychotics with CYP2D6 Pharmacogenetic (PGx) Associations Prescribed in an Early Intervention in Psychosis (EIP) Cohort: A Cross-Sectional Study.
+Prescribing drugs for psychosis (antipsychotics) is challenging due to high rates of poor treatment outcomes, which are in part explained by an individual's genetics. Pharmacogenomic (PGx) testing can help clinicians tailor the choice or dose of psychosis drugs to an individual's genetics, particularly psychosis drugs with known variable response due to CYP2D6 gene variants ('CYP2D6-PGx antipsychotics').

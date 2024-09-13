@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Feb'}
+Population Pharmacokinetics, Pharmacogenomics, and Adverse Events of Osimertinib and its Two Active Metabolites, AZ5104 and AZ7550, in Japanese Patients with Advanced Non-small Cell Lung Cancer: a Prospective Observational Study.
+Potential novel strategies for adverse event (AE) management of osimertinib therapy, including therapeutic drug monitoring and the use of biomarkers, have not yet been fully investigated. This study aimed to evaluate (1) the relationship between exposure to osimertinib, especially its active metabolites (AZ5104 and AZ7550), and AEs, and (2) the relationship between germline polymorphisms and AEs.

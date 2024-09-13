@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jul', 'Day': '12'}
+Frequency of Participation in External Quality Assessment Programs Focused on Rare Diseases: Belgian Guidelines for Human Genetics Centers.
+Participation in quality controls, also called external quality assessment (EQA) schemes, is required for the ISO15189 accreditation of the Medical Centers of Human Genetics. However, directives on the minimal frequency of participation in genetic quality control schemes are lacking or too heterogeneous, with a possible impact on health care quality.

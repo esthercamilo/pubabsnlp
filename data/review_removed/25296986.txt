@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jan'}
+Individual genetic and genomic variation: a new opportunity for personalized nursing interventions.
+A discussion of the potential for improving nursing interventions through tailoring in consideration of patients' individual genetic/genomic variation.

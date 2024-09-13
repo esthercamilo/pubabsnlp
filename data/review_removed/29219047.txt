@@ -1,0 +1,3 @@
+{'Year': '2018'}
+The Effects of Genetic Polymorphism on Treatment Response of Recombinant Human Growth Hormone.
+Recombinant human growth hormone (rhGH) has been widely used in clinical treatment and technology has achieved a great development in different long-acting formulations. Genetic polymorphisms may play a role in the varies of individual responses in treatment process. This article gives an overview of the genetic polymorphisms research of growth hormone in recent years.

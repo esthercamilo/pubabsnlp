@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Dec'}
+Validation of pharmacogenetic algorithms and warfarin dosing table in Egyptian patients.
+Warfarin remains a difficult drug to use due to the large variability in dose response. Clear understanding of the accuracy of warfarin pharmacogenetic dosing methods might lead to appropriate control of anticoagulation.

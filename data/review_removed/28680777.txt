@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'May', 'Day': '30'}
+Proposal for a Pharmacogenetic Decision Algorithm.
+Personalized medicine is playing an ever-increasing role in patient care. Over the past decade, awareness of the role of pharmacogenetics and its benefits is leading to its growing acceptance among providers. Though providers are using pharmacogenetics in practice, the decision-making process of when to use this tool can be ambiguous. Herein, we propose an algorithm to help guide providers on when to use pharmacogenetics for patient care.

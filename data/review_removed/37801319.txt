@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Oct', 'Day': '02'}
+Multigenetic Pharmacogenomics-Guided Treatment vs Treatment As Usual Among Hospitalized Men With Schizophrenia: A Randomized Clinical Trial.
+Limited evidence supports multigenetic pharmacogenomics-guided treatment (MPGT) in schizophrenia.

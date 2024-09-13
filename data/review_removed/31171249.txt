@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'May'}
+A comparative study of the depth, breadth, and perception of pharmacogenomics instruction in a subgroup of US pharmacy curricula.
+This study was designed to assess the depth, breadth, and perception of pharmacogenomics education in pharmacy curricula in the United States (US).

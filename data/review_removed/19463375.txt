@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Dec'}
+The pharmacogenetics and pharmacodynamics of clopidogrel response: an analysis from the PRINC (Plavix Response in Coronary Intervention) trial.
+This study assessed the effect of pharmacogenetics on the antiplatelet effect of clopidogrel.

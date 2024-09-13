@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '24'}
+Mitochondrial calcium uniporter as biomarker and therapeutic target for breast cancer: Prognostication, immune microenvironment, epigenetic regulation and precision medicine.
+Mitochondrial calcium uniporter (MCU) is a central subunit of MCU complex that regulate the levels of calcium ions within mitochondria. A comprehensive understanding the implications of MCU in clinical prognostication, biological understandings and therapeutic opportunity of breast cancer (BC) is yet to be determined.

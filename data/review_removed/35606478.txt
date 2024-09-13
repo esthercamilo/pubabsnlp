@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Sep'}
+Lack of association of CYP2B6 pharmacogenetics with cyclophosphamide toxicity in patients with cancer.
+Cyclophosphamide is a commonly used cancer agent that is metabolically activated by polymorphic enzymes. This study aims to investigate the association between predicted activity of candidate pharmacogenes with severe toxicity during cyclophosphamide treatment.

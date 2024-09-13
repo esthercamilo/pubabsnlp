@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Mar'}
+Validation of VKORC1 and CYP2C9 genotypes on interindividual warfarin maintenance dose: a prospective study in Chinese patients.
+To develop a warfarin-dosing algorithm that could be combined with pharmacogenomic and demographic factors, and to evaluate its effectiveness in a randomized prospective controlled clinical trial.

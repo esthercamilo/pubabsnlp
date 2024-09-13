@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Mar'}
+Budget Impact of Adaptive Abiraterone Therapy for Castration-Resistant Prostate Cancer.
+The use of a novel strategy known as adaptive abiraterone therapy based on mathematical modeling of evolutionary dynamics of tumor subpopulations was shown in a clinical trial to extend the time to disease progression in patients with metastatic castration-resistant prostate cancer (CRPC) and reduced the use of abiraterone therapy. Although the clinical impact of adaptive abiraterone treatment is clear, the economic impact of this strategy has not been investigated.

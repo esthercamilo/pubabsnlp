@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Apr'}
+Polypharmacy, over-the-counter medications, and aromatase inhibitor adherence in early-stage breast cancer.
+Polypharmacy is associated with negative health outcomes and decreased medication adherence. Polypharmacy is common in cancer populations, but few studies have evaluated the relationship between polypharmacy and aromatase inhibitor (AI) adherence. No studies have evaluated the relationship between over-the-counter (OTC) supplements and AI adherence. Our primary hypothesis was that polypharmacy would be associated with increased risk of premature AI discontinuation.

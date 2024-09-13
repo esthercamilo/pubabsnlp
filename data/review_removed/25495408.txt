@@ -1,0 +1,3 @@
+{'Year': '2014'}
+CYP2D6 genetic polymorphisms in Southern Mexican Mayan Lacandones and Mestizos from Chiapas.
+In previous CYP2D6 genotyping studies in Mexican-Amerindians a very low frequency of poor metabolizers (PMs) has been reported. Moreover, ultrarapid metabolizers (UMs) status has only been analyzed in some groups from Northern Mexico.

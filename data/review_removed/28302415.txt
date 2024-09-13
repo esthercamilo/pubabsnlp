@@ -1,0 +1,3 @@
+{'Year': '2017', 'Season': 'Jan-Mar'}
+A prospective study to assess the association between genotype, phenotype and Prakriti in individuals on phenytoin monotherapy.
+Genetic polymorphisms in drug metabolizing enzymes (DMEs) impart distinct drug metabolizing capacity and a unique phenotype to an individual. Phenytoin has large inter-individual variability in metabolism due to polymorphisms in CYP2C9 and CYP2C19. As per Ayurveda, Prakriti imparts a unique phenotype to an individual.

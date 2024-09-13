@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Sep'}
+Pharmacogenomics of Cytauxzoon felis cytochrome b: implications for atovaquone and azithromycin therapy in domestic cats with cytauxzoonosis.
+Cytauxzoon felis, an emerging virulent protozoan parasite that infects domestic cats, is treated with atovaquone and azithromycin (A&A). Atovaquone targets parasite cytochrome b. We characterized the C. felis cytochrome b gene (cytb) in cats with cytauxzoonosis and found a cytb genotype that was associated with survival in A&A-treated cats.

@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Sep', 'Day': '03'}
+Differential expression and transcription factor binding associated with genotype at a pharmacogenetic variant in <i>OPRD1</i>.
+The functional mechanism is unknown for many genetic variants associated with substance use disorder phenotypes. Rs678849, an intronic variant in the delta-opioid receptor gene (<i>OPRD1</i>), has been found to predict regional brain volume, addiction risk, and the efficacy of buprenorphine/naloxone in treating opioid use disorder. The variant has also been implicated as an expression quantitative trait locus (eQTL) for several genes.

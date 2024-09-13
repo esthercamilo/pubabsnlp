@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jan'}
+Preemptive genotyping for personalized medicine: design of the right drug, right dose, right time-using genomic data to individualize treatment protocol.
+To report the design and implementation of the Right Drug, Right Dose, Right Time-Using Genomic Data to Individualize Treatment protocol that was developed to test the concept that prescribers can deliver genome-guided therapy at the point of care by using preemptive pharmacogenomics (PGx) data and clinical decision support (CDS) integrated into the electronic medical record (EMR).

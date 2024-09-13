@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '10'}
+SNP rs11185644 in RXRA gene and SNP rs2235544 in DIO1 gene predict dosage requirements in a cross-sectional sample of hypothyroid patients.
+Primary hypothyroidism due to abnormality in the thyroid gland is the most common endocrine disease The recommended starting dose of levothyroxine replacement therapy is 1.6 µg/kg. This dose however is not optimal for every patient and dose adjustments are frequently done. Genetic polymorphisms in the absorption and metabolism pathway of levothyroxine are likely to influence its dose requirements. This study aimed to study the influence of genetic polymorphisms on levothyroxine replacement requirements.

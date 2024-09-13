@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jun'}
+<i>RBL2</i> Regulates Cardiac Sensitivity to Anthracycline Chemotherapy.
+Anthracycline chemotherapies cause heart failure in a subset of cancer patients. We previously reported that the anthracycline doxorubicin (DOX) induces cardiotoxicity through the activation of cyclin-dependent kinase 2 (CDK2).

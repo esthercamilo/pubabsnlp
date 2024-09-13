@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jun'}
+Increased prevalence of functional minor allele variants of drug metabolizing CYP2B6 and CYP2D6 genes in Roma population samples.
+Cytochrome P450 2B6 and 2D6 are important enzymes in human drug metabolism. These phase I enzymes are known to contribute the biotransformation of clinically important pharmaceuticals, including antidepressants, anticancer and anxiolytic drugs. The aim of this work was to determine the pharmacogenetic profile of CYP2B6 and CYP2D6 in Roma and Hungarian population samples.

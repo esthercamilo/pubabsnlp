@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Feb'}
+Patterns of variation influencing antipsychotic treatment outcomes in South African first-episode schizophrenia patients.
+Many antipsychotic pharmacogenetics studies have been performed examining candidate genes or known variation; however, our understanding of the genetic factors involved in antipsychotic pharmacogenetic traits remains limited.

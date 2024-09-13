@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Jul'}
+Critical appraisal of the private genetic and pharmacogenomic testing environment in Greece.
+In the postgenomic era, we are witnessing rapid progress in the identification of the molecular basis of human inherited disorders and the elucidation of genotype-phenotype relationships. The rate of progress has been driven not only by the determination and ongoing decipherment of the human genome sequence but also by the advent of new technological developments that have dramatically reduced the costs of genetic analysis. As a consequence, a considerable number of genetic testing centers have emerged, both in Europe and the USA, which together offer a plethora of different genetic tests.

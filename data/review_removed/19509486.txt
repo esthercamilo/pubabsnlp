@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Jul'}
+Has pharmacogenetics brought us closer to 'personalized medicine' for initial drug treatment of hypertension?
+To describe recent advances in antihypertensive pharmacogenetics and discuss challenges related to translating this knowledge into 'personalized medicine' for the initial drug treatment of hypertension.

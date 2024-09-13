@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '01'}
+The Use of Next-Generation Sequencing in Pharmacogenomics.
+Next-generation sequencing (NGS) methods have become more commonly performed in clinical and research laboratories.

@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Sep'}
+Telaprevir: a hepatitis C NS3/4A protease inhibitor.
+Telaprevir is a hepatitis C NS3/4A protease inhibitor approved by the US Food and Drug Administration as part of combination therapy for the management of chronic hepatitis C virus (HCV) genotype 1 infection.

@@ -1,0 +1,3 @@
+{'Year': '2021'}
+Pharmacogenetics of Anticoagulation and Clinical Events in Warfarin-Treated Patients: A Register-Based Cohort Study with Biobank Data and National Health Registries in Finland.
+To assess the association between <i>VKORC1</i> and <i>CYP2C9</i> variants and the incidence of adverse drug reactions in warfarin-treated patients in a real-world setting.

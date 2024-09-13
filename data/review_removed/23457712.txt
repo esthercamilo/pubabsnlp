@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Dec'}
+Future prospects for pharmacogenetics in the quest for personalized medicine.
+Understanding pharmacogenetic differences in drug response and tolerability has been an important area of research in personalized medicine, but the clinical utility of pharmacogenetics testing has not been established. Identification of genetic polymorphisms due to single nucleotide polymorphisms is the most common approach, but this does not take into account the potential relevance of copy number variants, noncoding RNA gene regulation, gene-gene and gene-interactions, and epigenetic modifications, which increase the complexity of pharmacogenomics research.

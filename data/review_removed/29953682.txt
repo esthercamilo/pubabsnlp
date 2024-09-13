@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Jul'}
+Pharmacogenetic evaluation of a DISP1 gene variant in antidepressant treatment of obsessive-compulsive disorder.
+A recent genome-wide association study (GWAS) in obsessive-compulsive disorder (OCD) reported a significant marker in the dispatched homolog 1 (Drosophila) gene (DISP1 gene) associated with serotonin reuptake inhibitor (SRI) antidepressant response (Qin et al., ). DISP1 has never been examined before in terms of association with SRI response until this GWAS. We attempt to replicate the GWAS finding by investigating the association of the DISP1 rs17162912 polymorphism with SRI response in our sample of 112 European Caucasian OCD patients.

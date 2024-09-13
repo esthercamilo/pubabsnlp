@@ -1,0 +1,3 @@
+{'Year': '2020', 'Season': 'Jan-Dec'}
+Pharmacogenomics Instruction Depth, Extent, and Perception in US Medical Curricula.
+This descriptive study aimed to evaluate the depth, extent, and perception of pharmacogenomics instruction in schools and colleges of medicine in the United States. Changes in medical pharmacogenomics instruction over the past decade were also assessed by comparing our results with those of a previous study.

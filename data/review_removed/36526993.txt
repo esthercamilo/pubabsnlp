@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Dec', 'Day': '16'}
+A cervical cancer biorepository for pharmacogenomics research in Zimbabwe.
+Research infrastructures such as biorepositories are essential to facilitate genomics and its growing applications in health research and translational medicine in Africa. Using a cervical cancer cohort, this study describes the establishment of a biorepository consisting of biospecimens and matched phenotype data for use in genomic association analysis and pharmacogenomics research.

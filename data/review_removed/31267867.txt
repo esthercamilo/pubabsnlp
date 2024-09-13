@@ -1,0 +1,3 @@
+{'Year': '2019'}
+Influence of the OATP Polymorphism on the Population Pharmacokinetics of Methotrexate in Chinese Patients.
+The Pharmacokinetics of Methotrexate (MTX) has been reported to show significant intersubject variability. MTX is metabolized by SHMT1 and transported by OATP1B1 and OATP1B3 both of which show genetic polymorphisms. The non-genetic and genetic factors may influence the pharmacokinetics of MTX.

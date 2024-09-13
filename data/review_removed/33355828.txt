@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Dec'}
+Prevalence of Cytochrome P450 2B6 Single Nucleotide Polymorphism in an HIV-Positive Cohort in Jos, Nigeria: Implication for HIV Therapy.
+Africans exhibit great diversity in cytochrome P450 2B6 isoenzyme (CYP2B6), the major enzyme in efavirenz metabolism.

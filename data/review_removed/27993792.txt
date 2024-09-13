@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar', 'Day': '01'}
+Network-guided modeling allows tumor-type independent prediction of sensitivity to all-trans-retinoic acid.
+All-trans-retinoic acid (ATRA) is a differentiating agent used in the treatment of acute-promyelocytic-leukemia (APL) and it is under-exploited in other malignancies despite its low systemic toxicity. A rational/personalized use of ATRA requires the development of predictive tools allowing identification of sensitive cancer types and responsive individuals.

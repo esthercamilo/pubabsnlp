@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Feb'}
+Pharmacogenetic dosing of warfarin in the Han-Chinese population: a randomized trial.
+This study aimed to determine clinical utility of genotype-guided dosing for warfarin in Han-Chinese.

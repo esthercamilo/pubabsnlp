@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jun'}
+Life-threatening toxicities upon Pembrolizumab intake: could pharmacokinetics be the bad guy?
+We report the case of an adult patient diagnosed with Hodgkin's lymphoma who was scheduled for Pembrolizumab after failure of standard therapy. After three well-tolerated courses of Pembrolizumab, a PET scan showed a favorable outcome and a fourth course of Pembrolizumab was started. Unexpectedly, extremely severe toxicities (i.e., autoimmune peripheral hypothyroidism, rhabdomyolysis and severe acute renal failure) occurred after this last course, requiring transfer to the intensive care unit.

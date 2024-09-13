@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'May', 'Day': '03'}
+Effects of Pharmacogenomic Testing in Clinical Pain Management: Retrospective Study.
+The availability of pharmacogenomic (PGx) methods to determine the right drug and dosage for individualized patient treatment has increased over the past decade. Adoption of the resulting PGx reports in a clinical setting and monitoring of clinical outcomes is a challenging and long-term commitment.

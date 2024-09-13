@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Nov', 'Day': '25'}
+Multimorbidity, polypharmacy, and drug-drug-gene interactions following a non-ST elevation acute coronary syndrome: analysis of a multicentre observational study.
+The number of patients living with co-existing diseases is growing. This study aimed to assess the extent of multimorbidity, medication use, and drug- and gene-based interactions in patients following a non-ST elevation acute coronary syndrome (NSTE-ACS).

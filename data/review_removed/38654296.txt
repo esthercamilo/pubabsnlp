@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Apr', 'Day': '23'}
+Influence of pharmacogenomic polymorphisms on allopurinol-induced cutaneous adverse drug reactions in Thai patients.
+Allopurinol has been causing substantial morbidity and mortality particularly in Asian population by producing cutaneous adverse drug reactions (cADRs). Nonetheless, there are no data describing whether other genetics are a valid marker for prediction of allopurinol-induced cADRs patients in addition to HLA-B*58:01 allele. The goal of this study was to identify suitable single nucleotide polymorphisms (SNPs) for allopurinol induced cADRs among Thai patients.

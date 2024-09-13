@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jul'}
+The discovery and development of prasugrel.
+Prasugrel (CS-747, LY640315) is a third-generation thienopyridine, which gained approval by the FDA in 2009 for its use in patients with acute coronary syndrome undergoing percutaneous coronary intervention.

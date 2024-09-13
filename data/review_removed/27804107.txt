@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jan'}
+Improving Therapeutic Odyssey: Preemptive Pharmacogenomics Utility in Patient Care.
+Pharmacogenomics, studying genetic variation related to drug response, was established decades ago. Today, performing clinical pharmacogenomics testing has increased, creating great potential to improve patient care. Yet widespread implementation of pharmacogenomics in practice is currently limited, resulting in the "therapeutic odyssey" of patients. Preemptive clinical pharmacogenomics testing prior to the time of prescribing is now emerging as an option that could tailor the pharmacotherapy of patients by increasing drug effectiveness while reducing adverse drug reaction risk.

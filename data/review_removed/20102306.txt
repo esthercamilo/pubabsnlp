@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Feb'}
+Pharmacogenetic considerations in the treatment of psychiatric disorders.
+Despite continued efforts to optimize pharmacological treatment for individuals with psychiatric disorders, efficacy and tolerability of medication remains highly variable. In addition to clinical heterogeneity, diagnostic uncertainty, environmental, social factors, and genetic factors have been identified as playing an important role in the interindividual differences in therapeutic and toxic drug effects.

@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Feb'}
+Communicating unexpected pharmacogenomic results to biobank contributors: A focus group study.
+The goals of this study were to explore 1) the impact of returning unexpected pharmacogenomic (PGx) results to biobank contributors, and 2) participant views about improving communication.

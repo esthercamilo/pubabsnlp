@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Aug', 'Day': '02'}
+Patient-Reported Goals of Youths in Canada Receiving Medication-Assisted Treatment for Opioid Use Disorder.
+In the literature on opioid use disorder (OUD), opioid abstinence is used as an outcome measure for individuals receiving medication-assisted treatment (MAT), without consideration of patient-reported goals (PRGs).

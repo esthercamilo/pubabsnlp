@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Sep'}
+SIRT2 inhibitor SirReal2 enhances anti-tumor effects of PI3K/mTOR inhibitor VS-5584 on acute myeloid leukemia cells.
+Acute myeloid leukemia (AML) is a highly aggressive form of cancer that is frequently diagnosed in adults and small molecule inhibitors have gained significant attention as a potential treatment option for AML.

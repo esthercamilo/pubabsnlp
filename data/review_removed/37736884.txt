@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Aug', 'Day': '24'}
+Identification of Drugs Acting as Perpetrators in Common Drug Interactions in a Cohort of Geriatric Patients from Southern Italy and Analysis of the Gene Polymorphisms That Affect Their Interacting Potential.
+Pharmacogenomic factors affect the susceptibility to drug-drug interactions (DDI). We identified drug interaction perpetrators among the drugs prescribed to a cohort of 290 older adults and analysed the prevalence of gene polymorphisms that can increase their interacting potential. We also pinpointed clinical decision support systems (CDSSs) that incorporate pharmacogenomic factors in DDI risk evaluation.

@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Mar'}
+Pharmacogenomics in general practice: The time has come.
+Patients respond to medications differently because of variations in the genes that determine medication exposure and medication response.

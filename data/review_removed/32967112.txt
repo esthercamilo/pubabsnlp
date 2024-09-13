@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Sep', 'Day': '21'}
+Comprehensive Custom NGS Panel Validation for the Improvement of the Stratification of B-Acute Lymphoblastic Leukemia Patients.
+B-acute lymphoblastic leukemia (B-ALL) is a hematological neoplasm of the stem lymphoid cell of the B lineage, characterized by the presence of genetic alterations closely related to the course of the disease. The number of alterations identified in these patients grows as studies of the disease progress, but in clinical practice, the conventional techniques frequently used are only capable of detecting the most common alterations. However, techniques, such as next-generation sequencing (NGS), are being implemented to detect a wide spectrum of new alterations that also include point mutations.

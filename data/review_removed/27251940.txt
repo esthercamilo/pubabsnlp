@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Aug'}
+KIR2DL2 and KIR2DS2 as genetic markers to the methotrexate response in rheumatoid arthritis patients.
+Disease Modifying Anti-Rheumatic Drugs (DMARDs) are aimed to interfere with rheumatoid arthritis (RA) progression and reduce the joint damage; however, not all patients respond alike. Killer-cell immunoglobulin-like receptors (KIR) and their ligands, human leucocyte antigen class I (HLA-I), have been associated with RA pathology; therefore, KIR and HLA genes may influence the treatment response.

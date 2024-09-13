@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Nov'}
+Pharmacogenomic associations of cyclophosphamide pharmacokinetic candidate genes with event-free survival in intermediate-risk rhabdomyosarcoma: A report from the Children's Oncology Group.
+In vitro data suggest that the growth of rhabdomyosarcoma (RMS) cells is suppressed in a concentration-dependent manner by 4-hydroxycyclophosphamide (4HCY), the principal precursor to the cytotoxic metabolite of cyclophosphamide (CY). Various retrospective studies on the relationship between genes encoding proteins involved in the formation and elimination of 4HCY (i.e., 4HCY pharmacokinetics) and cyclophosphamide (CY) efficacy and toxicity have been conflicting.

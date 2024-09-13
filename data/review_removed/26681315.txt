@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Aug'}
+Pharmacogenomic biomarkers as inclusion criteria in clinical trials of oncology-targeted drugs: a mapping of ClinicalTrials.gov.
+The aim of this study was to describe pharmacogenomics-based inclusion criteria (enrichment) and the main characteristics of clinical trials involving oncology-targeted therapies.

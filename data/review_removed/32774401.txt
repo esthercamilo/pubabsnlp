@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Aug'}
+Facing the Methodological Challenge in Dissecting the Genetics of ADHD: A Case for Deep Phenotyping and Heterogeneity Reduction.
+The aetiology of ADHD is complex, with genetic and environmental factors both implicated in the disorder. The most recent ADHD genome-wide association study identified 12 loci that showed significant association with the disorder. However, as highlighted by the authors, these loci "only capture a tiny fraction" of the risk for ADHD. It has been suggested that it may be important to disentangle: (1) the clinical complexity of the disorder, and (2) the complex interaction between genetic and environmental factors, in order to better dissect the aetiology of the disorder.

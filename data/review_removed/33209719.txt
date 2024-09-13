@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Oct'}
+Population pharmacokinetics and pharmacogenomics of tacrolimus in Chinese children receiving a liver transplant: initial dose recommendation.
+In order to improve the precision of treatment with tacrolimus in Chinese patients undergoing pediatric liver transplantation, the optimum initial dose of tacrolimus was determined based on population pharmacokinetics and pharmacogenomics.

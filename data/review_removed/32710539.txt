@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Nov', 'Day': '26'}
+Clinical and Clinical-Pharmacogenetic Models for Prediction of the Most Common Psychiatric Complications Due to Dopaminergic Treatment in Parkinson's Disease.
+The most common psychiatric complications due to dopaminergic treatment in Parkinson's disease are visual hallucinations and impulse control disorders. Their development depends on clinical and genetic factors.

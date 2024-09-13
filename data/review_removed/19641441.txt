@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Aug'}
+Catechol O-methyltransferase pharmacogenomics: human liver genotype-phenotype correlation and proximal promoter studies.
+Catechol O-methyltransferase (COMT) is expressed as both soluble (S) and membrane-bound (MB) isoforms, with S-COMT predominantly expressed in the liver. A common nonsynonymous single nucleotide polymorphism (SNP), 472G > A (108/158Val > Met, S/MB), has been associated with variation in levels of COMT enzyme activity and thermal stability. We set out to test the hypothesis that additional COMT polymorphisms might also be associated with phenotypic variation.

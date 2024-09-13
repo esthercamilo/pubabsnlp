@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jan'}
+Prolonged central apnoea after intravenous morphine administration in a 12-year-old male with a UGT1A1 loss-of-function polymorphism.
+Repeated and prolonged episodes of central apnoea and hypoxia after receiving intravenous morphine for analgesia and ketamine for sedation.

@@ -1,0 +1,3 @@
+{'Year': '2016'}
+Pharmacogenetics in Neurodegenerative Diseases: Implications for Clinical Trials.
+Pharmacogenetics has become extremely important over the last 20 years for identifying individuals more likely to be responsive to pharmacological interventions. The role of genetic background as a predictor of drug response is a young and mostly unexplored field in neurodegenerative diseases.

@@ -1,0 +1,3 @@
+{'Year': '2017'}
+Ethiopian health care professionals' knowledge, attitude, and interests toward pharmacogenomics.
+Pharmacogenomics is a field of science which studies the impact of inheritance on individual variation in medication therapy response.

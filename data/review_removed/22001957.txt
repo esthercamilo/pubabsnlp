@@ -1,0 +1,3 @@
+{'Year': '2011', 'Season': 'Nov-Dec'}
+Integrating pharmacogenomics into pharmacy practice via medication therapy management.
+To explore the application and integration of pharmacogenomics in pharmacy clinical practice via medication therapy management (MTM) to improve patient care.

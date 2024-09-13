@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Dec'}
+Genome-wide miRNAs expression profiles of Schistosoma japonicum schistosomula in response to artesunate.
+miRNAs play a significant role in pharmacogenomics and are likely to be important in the molecular mechanism of atesunate (ART) effects on Schistosoma japonicum.

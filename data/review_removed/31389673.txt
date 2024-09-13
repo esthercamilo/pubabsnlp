@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Sep'}
+Results and challenges of Cytochrome P450 2D6 (CYP2D6) testing in an ethnically diverse South Florida population.
+This study focuses on the implementation of CYP2D6 genetic test profiling and the challenges associated with using standard pharmacogenetics panels in a diverse South Florida population.

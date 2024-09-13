@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Jun', 'Day': '01'}
+Proteasome beta subunit pharmacogenomics: gene resequencing and functional genomics.
+The proteasome is a multisubunit cellular organelle that functions as a nonlysosomal threonine protease. Proteasomes play a critical role in the degradation of proteins, regulating a variety of cellular processes, and they are also the target for antineoplastic proteasome inhibitors. Genetic variation in proteasome subunits could influence both proteasome function and response to drug therapy.

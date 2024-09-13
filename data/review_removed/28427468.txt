@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Apr', 'Day': '20'}
+Learning from biomedical linked data to suggest valid pharmacogenes.
+A standard task in pharmacogenomics research is identifying genes that may be involved in drug response variability, i.e., pharmacogenes. Because genomic experiments tended to generate many false positives, computational approaches based on the use of background knowledge have been proposed. Until now, only molecular networks or the biomedical literature were used, whereas many other resources are available.

@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'May'}
+Recent advances in biomarkers and therapeutic interventions for hepatic drug safety - false dawn or new horizon?
+Drug-induced liver injury (DILI) represents a serious medical challenge and a potentially fatal adverse event. Currently, DILI is a diagnosis of exclusion, and whilst the electronic evaluation of serious drug-induced hepatotoxicity (eDISH) have revolutionised the early assessment of DILI, this model is dependent upon clinical chemistry parameters that lack sensitivity and specificity. DILI management usually consists of initial withdrawal of the suspected drug and, in the case of acetaminophen, administration of specific therapy.

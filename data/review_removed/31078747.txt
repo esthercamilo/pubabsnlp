@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Aug'}
+Distribution of the cytochrome P450 CYP2C8*2 allele in Brazzaville, Republic of Congo.
+Cytochrome P450 (CYP) enzymes are essential in the metabolism of most drugs used today. Single nucleotide polymorphism(s) occurring in CYP genes can adversely affect drug pharmacokinetics, efficacy, and safety. Individuals carrying the CYP2C8*2 c.805A > T (CYP2C8*2; rs11572103) allele have impaired amodiaquine metabolism, increased risk of amodiaquine-related adverse events, and may promote the selection of drug-resistant parasite strains. This study investigated the distribution of the CYP2C8*2 allele in Brazzaville, Republic of Congo, where artesunate + amodiaquine is used as the second-line treatment for uncomplicated Plasmodium falciparum malaria.

@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Aug'}
+Pharmacogenetics of tamoxifen therapy in Asian populations: from genetic polymorphism to clinical outcomes.
+Compared with western countries, Asian breast cancer patients have unique pathological and biological characteristics. Most of them are premenopausal women with HR positive. Tamoxifen as the first-line drug for premenopausal women with HR+ is involved in multiple enzymes and transporters during metabolizing and transporting process. Variants that cause decreased or inactive gene products leading to abnormal responses in tamoxifen therapy have well been studied in western countries, whereas such information is much less reported in Asian populations.

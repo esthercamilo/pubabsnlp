@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Apr'}
+Phenotype and genotype characteristics of 58 patients showing a prolonged effect of succinylcholine: A four-year experience.
+This study sought to describe the phenotype and genotype characteristics of patients referred to our laboratory to undergo further assessment due to a suspicion of a prolonged effect of suxamethonium attributed to BChE deficiency.

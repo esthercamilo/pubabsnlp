@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Apr'}
+Pharmacogenetic interactions between antiretroviral drugs and vaginally administered hormonal contraceptives.
+In AIDS Clinical Trials Group study A5316, efavirenz lowered plasma concentrations of etonogestrel and ethinyl estradiol, given as a vaginal ring, while atazanavir/ritonavir increased etonogestrel and lowered ethinyl estradiol concentrations. We characterized the pharmacogenetics of these interactions.

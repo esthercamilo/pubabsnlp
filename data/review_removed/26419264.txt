@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Analyzing the potential for incorrect haplotype calls with different pharmacogenomic assays in different populations: a simulation based on 1000 Genomes data.
+Many currently available pharmacogenomic assays and algorithms interrogate a set of 'tag' polymorphisms for inferring haplotypes. We wanted to test the accuracy of such haplotype inferences across different populations.

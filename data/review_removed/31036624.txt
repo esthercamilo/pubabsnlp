@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Aug'}
+Association of response to TNF inhibitors in rheumatoid arthritis with quantitative trait loci for <i>CD40</i> and CD39.
+We sought to investigate whether genetic effects on response to TNF inhibitors (TNFi) in rheumatoid arthritis (RA) could be localised by considering known genetic susceptibility loci for relevant traits and to evaluate the usefulness of these genetic loci for stratifying drug response.

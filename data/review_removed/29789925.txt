@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Jul'}
+Associations of polymorphisms of CYP2D6 and CYP2C9 with early onset severe pre-eclampsia and response to labetalol therapy.
+Early onset preeclampsia (PPE) contributes to life-threatening maternal complications and fetal demise. Pharmacogenomics is a precision medicine, and metabolizing enzymes responsive to antihypertensive remains understudied. The aim of this study was to evaluate the associations of polymorphisms of cytochrome P450, family 2, subfamily D, polypeptide 6 (CYP2D6) and cytochrome P450, family 2, subfamily C, polypeptide 9 (CYP2C9) with PPE and the relationship among CYP2D6, CYP2C9 polymorphisms and response to labetalol therapy.

@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jan'}
+Therapeutic drug monitoring and pharmacogenetics of antipsychotics and antidepressants in real life settings: A 5-year single centre experience.
+Exposure and clinical response to CNS drugs are largely variable. AGNP guidelines suggest therapy individualisation with therapeutic drug monitoring of plasma concentrations and pharmacogenetic testing. We present the retrospective analysis of the last 5 years' data collected in real life settings as indirect evidence of the applications of the AGNP guidelines in the routine clinical management of psychiatric patients requiring pharmacologic treatments.

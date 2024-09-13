@@ -1,0 +1,3 @@
+{'Year': '2017', 'Season': 'Mar/Apr'}
+Pharmacogenetics of Ketamine-Induced Emergence Phenomena: A Pilot Study.
+Up to 55% of patients who are administered ketamine experience an emergence phenomena (EP) that closely mimics schizophrenia and increases their risk of injury; however, to date, no studies have investigated genetic association of ketamine-induced EP in healthy patients.

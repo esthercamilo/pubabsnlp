@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Apr'}
+Identifying potential ligand molecules EGFR mediated TNBC targeting the kinase domain-identification of customized drugs through <i>in silico</i> methods.
+Triple-negative breast cancer (TNBC) is an aggressive subtype of breast cancer in which three hormone receptors are negative. This work aimed at identifying customized potential molecules inhibiting epidermal growth factor receptor (EGFR) by exploring variants using the pharmacogenomics approaches.

@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Apr'}
+Pharmacogenomics of human liver cytochrome P450 oxidoreductase: multifactorial analysis and impact on microsomal drug oxidation.
+NADPH:CYP oxidoreductase (POR) is an essential component of several enzyme systems, including the microsomal CYP monooxygenases. We investigated genetic and nongenetic POR variability and its impact on drug-oxidation activities in human liver microsomes.

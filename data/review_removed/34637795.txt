@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Dec', 'Day': '01'}
+Pharmacogenetic excitation of the median raphe region affects social and depressive-like behavior and core body temperature in male mice.
+Median raphe region (MRR) is an important bottom-up regulatory center for various behaviors as well as vegetative functions, but detailed descriptions and links between the two are still largely unexplored.

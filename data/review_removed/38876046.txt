@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jul'}
+Use of CYP2D6 substrates and inhibitors during pain management with analgesic opioids: Drug-drug interactions that lead to lack of analgesic effectiveness.
+Several opioids have pharmacogenetic and drug-drug interactions which may compromise their analgesic effectiveness, but are not routinely implemented into supportive pain management. We hypothesized that CYP2D6 phenotypes and concomitant use of CYP2D6 substrates or inhibitors would correlate with opioid analgesic outcomes.

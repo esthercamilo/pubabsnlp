@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Jul', 'Day': '31'}
+Determinants of darunavir cerebrospinal fluid concentrations: impact of once-daily dosing and pharmacogenetics.
+To compare cerebrospinal fluid (CSF) darunavir and ritonavir concentrations in patients receiving darunavir/ritonavir 800/100 mg once daily or 600/100 mg twice daily. To determine the influence of single-nucleotide polymorphisms in the genes encoding for blood-brain barrier transporters (ABCB1 3435 C>T, ABCB1 1236 C>T, ABCB1 2677 G>T, SLCO1A2 38 A>G, SLCO1A2 516 A>C, ABCC2 -24 G>A) on darunavir and ritonavir penetration into CSF.

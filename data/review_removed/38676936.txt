@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jul'}
+Analysis of schizophrenia-associated genetic markers in the HLA region as risk factors for tardive dyskinesia.
+The pathology of Tardive Dyskinesia (TD) has yet to be fully understood, but there have been proposed hypotheses for the cause of this condition. Our team previously reported a possible association of TD with the Complement Component C4 gene in the HLA region. In this study, we explored the HLA region further by examining two previously identified schizophrenia-associated HLA-region single-nucleotide polymorphisms (SNPs), namely rs13194504 and rs210133.

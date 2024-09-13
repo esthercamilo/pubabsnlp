@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Feb', 'Day': '05'}
+Opportunities for Pharmacogenetic Testing to Guide Dosing of Medications in Youths With Medicaid.
+There are an increasing number of medications with a high level of evidence for pharmacogenetic-guided dosing (PGx drugs). Knowledge of the prevalence of dispensings of PGx drugs and their associated genes may allow hospitals and clinical laboratories to determine which pharmacogenetic tests to implement.

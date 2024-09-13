@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Sep'}
+[Recommendations for performing pharmacogenetic tests in drug monographs in Canada, France and the United States].
+Pharmacogenetics represents an opportunity in pharmaceutical practice. There are many documentary resources to support the pharmacist's work in this area.

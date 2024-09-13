@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Apr'}
+Clinicians' perceptions of pharmacogenomics use in psychiatry.
+This study aims to assess the attitudes and opinions of clinicians practicing in psychiatry toward pharmacogenomic testing, and in so doing elicits possible barriers and risks to employ this technology in patient care.

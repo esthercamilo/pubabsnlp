@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Apr'}
+The validation of pharmacogenetics for the identification of Fabry patients to be treated with migalastat.
+Fabry disease is an X-linked lysosomal storage disorder caused by mutations in the α-galactosidase A gene. Migalastat, a pharmacological chaperone, binds to specific mutant forms of α-galactosidase A to restore lysosomal activity.

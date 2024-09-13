@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jan'}
+Creating a scalable clinical pharmacogenomics service with automated interpretation and medical record result integration - experience from a pediatric tertiary care facility.
+This paper outlines the implementation of a comprehensive clinical pharmacogenomics (PGx) service within a pediatric teaching hospital and the integration of clinical decision support in the electronic health record (EHR).

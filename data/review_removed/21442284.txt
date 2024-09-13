@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Jun'}
+Mechanism based medicine in infancy: complex interplay between developmental pharmacology and pharmacogenetics.
+Introduction of the available knowledge on pharmacogenetics very likely is one of the tools to close the gap between 'population' focused evidence based and 'individual' mechanism based medicine. However, besides pharmacogenetics, other covariates like age, renal function and/or co-medication should also be considered simultaneously when aiming for a 'tailored' pharmacotherapy. To illustrate this, we further extended the tramadol example used by Wilffert et al. to illustrate the complex interplay between developmental pharmacology and pharmacogenetics.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Mar'}
+Pharmacogenomics of response to anti-VEGF therapy in exudative age-related macular degeneration.
+To determine whether there is an association between response to intravitreal anti-vascular endothelial growth factor agents and genotype in patients with neovascular age-related macular degeneration.

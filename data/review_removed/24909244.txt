@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jun'}
+Therapeutic drug monitoring and pharmacogenetics--is this a way towards creative psychopharmacotherapy?
+Modern development trends in psychiatry incorporate greater care for patients and above all individualisation of therapeutic approaches. Therapeutic drug monitoring (TDM) for phenotyping and genotyping of drug metabolism are possible determinants of improved treatment efficacy, reduced adverse effects of psychotropic drugs, and enhanced treatment compliance. They render possible individual adjustment of psychopharmacological treatment and thus represent a small, but significant piece in the mosaic of creative psychopharmacotherapy.

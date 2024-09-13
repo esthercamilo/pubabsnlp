@@ -1,0 +1,3 @@
+{'Year': '2023', 'Season': 'May-Jun'}
+Integration of a pharmacist-led pharmacogenomic service in a geriatric clinic: Barriers and outcomes.
+The primary objective was to identify the proportion of patients who successfully completed PGx testing. Secondary objectives included determining the proportion of patients with actionable PGx results, determining the proportion of patients with a baseline medication intervention within 6 months of successfully completing PGx testing, and identifying barriers for not completing testing.

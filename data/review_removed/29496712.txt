@@ -1,0 +1,3 @@
+{'Year': '2018', 'Season': 'Spring'}
+Pharmacogenomics in Critical Care.
+Since the successful completion of the Human Genome Project in 2003, extensive genomic research has continued to alter pathophysiology at the molecular level. This research includes investigation of the specific receptors and metabolizing enzymes in drug pharmacodynamics and pharmacokinetics, specifically the cytochrome P450 system located primarily in the liver. In this article, pharmacogenomics and the role of the cytochrome P450 system in metabolism of various drugs are discussed. Specifically, drugs that are used in the critical care setting and are of clinical significance to the bedside critical care nurse are examined.

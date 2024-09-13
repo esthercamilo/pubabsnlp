@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jan'}
+Pharmacokinetic and pharmacogenomic analysis of low-dose afatinib treatment in elderly patients with EGFR mutation-positive non-small cell lung cancer.
+An increasing number of advanced non-small cell lung cancer (NSCLC) cases are being reported in the ageing population. However, studies on the use of afatinib in elderly patients are scarce. We conducted a prospective multicentre, single-arm, and open-label phase II trial for low-dose afatinib (30 mg/day) use in elderly patients with NSCLC with EGFR mutation to assess quality-of-life (QOL) and pharmacokinetic (PK)/pharmacogenomic (PGx) parameters.

@@ -1,0 +1,3 @@
+{'Year': '2019', 'Season': 'Jan-Feb'}
+LungCARD - Report on worldwide research and clinical practices related to lung cancer.
+The management of advanced lung cancer has evolved tremendously over the past two decades. Increasing understanding of the molecular changes that drive tumor progression has transformed the treatment of this disease. Nevertheless, various countries differ in the degree of implementation of genetic tests and the availability of innovative drugs. The LungCARD consortium created a questionnaire to collect information about the local research and clinical practices related to lung cancer diagnosis and therapy.

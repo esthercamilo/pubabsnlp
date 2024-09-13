@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Dec', 'Day': '22'}
+BioVLAB-Cancer-Pharmacogenomics: tumor heterogeneity and pharmacogenomics analysis of multi-omics data from tumor on the cloud.
+Multi-omics data in molecular biology has accumulated rapidly over the years. Such data contains valuable information for research in medicine and drug discovery. Unfortunately, data-driven research in medicine and drug discovery is challenging for a majority of small research labs due to the large volume of data and the complexity of analysis pipeline.

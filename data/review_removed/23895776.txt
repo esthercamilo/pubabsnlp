@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Dec'}
+Differences in pharmacogenomic biomarker information in package inserts from the United States, the United Kingdom and Japan.
+The provision of pharmacogenomic information in drug package inserts (PIs) has become more common in recent years. The content of PIs can be tailored to meet specific requirements of the target populations. Our objective was to identify, assess and report on differences in pharmacogenomic information in PIs from the United States (USA), the United Kingdom (UK) and Japan.

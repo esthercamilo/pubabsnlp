@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Oct', 'Day': '26'}
+Current landscape of personalized medicine adoption and implementation in Southeast Asia.
+The emergence of personalized medicine (PM) has raised some tensions in healthcare systems. PM is expensive and health budgets are constrained - efficient healthcare delivery is therefore critical. Notwithstanding the cost, many countries have started to adopt this novel technology, including resource-limited Southeast Asia (SEA) countries. This study aimed to describe the status of PM adoption in SEA, highlight the challenges and to propose strategies for future development.

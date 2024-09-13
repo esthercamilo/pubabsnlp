@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Aug', 'Day': '28'}
+Dissecting genetic factors affecting phenylephrine infusion rates during anesthesia: a genome-wide association study employing EHR data.
+The alpha-adrenergic agonist phenylephrine is often used to treat hypotension during anesthesia. In clinical situations, low blood pressure may require prompt intervention by intravenous bolus or infusion. Differences in responsiveness to phenylephrine treatment are commonly observed in clinical practice. Candidate gene studies indicate genetic variants may contribute to this variable response.

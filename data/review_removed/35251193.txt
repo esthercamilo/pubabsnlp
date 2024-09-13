@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Feb'}
+Pharmacogenetic Testing Knowledge and Attitudes among Pediatric Psychiatrists and Pediatricians in Alberta, Canada.
+To assess knowledge, attitudes, and barriers as well as ethical, legal and social concerns towards pharmacogenetic (PGx) testing among pediatric psychiatrists and pediatricians in Alberta, Canada.

@@ -1,0 +1,3 @@
+{'Year': '2021'}
+MAOB rs3027452 Modifies Mood Improvement After Tryptophan Supplementation.
+Tryptophan is the only precursor of serotonin, the hormone which helps regulate key human functions such as appetite, memory, mood, and sexual behavior. Connections have been identified between serotonin system dysfunction and the molecular etiology and treatment of mood disorders in a wide range of studies. Proposals have been put forward to co-administer tryptophan supplementation together with serotonin reuptake inhibitors in major depression patients, and also to exploit the sub-therapeutic depressive status in healthy populations. The reported responses, however, have been very dissimilar and this uneven effect may largely be explained by interindividual genetic differences.

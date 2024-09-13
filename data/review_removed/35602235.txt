@@ -1,0 +1,3 @@
+{'Year': '2021'}
+Understanding genetic risk factors for common side effects of antidepressant medications.
+Major depression is one of the most disabling health conditions internationally. In recent years, new generation antidepressant medicines have become very widely prescribed. While these medicines are efficacious, side effects are common and frequently result in discontinuation of treatment. Compared with specific pharmacological properties of the different medications, the relevance of individual vulnerability is understudied.

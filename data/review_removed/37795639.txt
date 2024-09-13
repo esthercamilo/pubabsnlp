@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jan'}
+Abolishing β-arrestin recruitment is necessary for the full metabolic benefits of G protein-biased glucagon-like peptide-1 receptor agonists.
+Earlier studies have shown that peptide glucagon-like peptide-1 receptor (GLP-1R) agonists with reduced β-arrestin recruitment show enhanced anti-hyperglycaemic efficacy through avoidance of GLP-1R desensitization. However, the ligand modifications needed to decrease β-arrestin recruitment usually also reduces GLP-1R affinity, therefore higher doses are needed. Here we aimed to develop new, long-acting, G protein-biased GLP-1R agonists with acute signalling potency comparable with semaglutide, to provide insights into specific experimental and therapeutic scenarios.

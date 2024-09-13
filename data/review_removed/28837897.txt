@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Oct'}
+Effects of ABCB1, ABCC2, UGT2B7 and HNF4α genetic polymorphisms on oxcarbazepine concentrations and therapeutic efficacy in patients with epilepsy.
+The aim of the study is to investigate the effects of ABCB1, ABCC2, UGT2B7 and HNF4α genetic polymorphisms on plasma oxcarbazepine (OXC) concentrations and therapeutic efficacy in Han Chinese patients with epilepsy.

@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Apr'}
+Exploring the potential benefits of pharmacogenomics in chronic respiratory diseases.
+Tweetable abstract Opportunities for pharmacogenetics implementation in chronic respiratory diseases through the employment of genotype-guided prescriptions in treating nonrespiratory comorbidities.

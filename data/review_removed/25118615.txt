@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Nov'}
+Current developments in pharmacogenomics of multiple sclerosis.
+Pharmacogenomics has a significant potential to impact how we treat diseases. It involves targeting genetically identifiable populations with therapeutic interventions that promises to yield immediate positive health outcomes with lower or no side effects. The 'trial and error' method of treatment will no longer be necessary with the successful implementation of personalized medicine. The following is an overview of some new developments in pharmacogenomics of multiple sclerosis, and how it has the potential to improve future treatment.

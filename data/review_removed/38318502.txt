@@ -1,0 +1,3 @@
+{'Year': '2024'}
+Systematic Pharmacology and Experimental Validation to Reveal the Alleviation of <i>Astragalus membranaceus</i> Regulating Ferroptosis in Osteoarthritis.
+<i>Astragalus membranaceus</i> (AM) shows promise as a therapeutic agent for osteoarthritis (OA), a debilitating condition with high disability rates. OA exacerbation is linked to chondrocyte ferroptosis, yet the precise pharmacological mechanisms of AM remain unclear.

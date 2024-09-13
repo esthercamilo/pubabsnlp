@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'Dec'}
+Carriership of the rs113883650/rs2287120 haplotype of the <i>SLC7A5</i> (<i>LAT1</i>) gene increases the risk of obesity in infants with phenylketonuria.
+Phenylketonuria (PKU) can be effectively treated with the use of a low-phenylalanine diet. However, some patients become overweight despite proper dietary treatment. We hypothesized that this phenomenon could be explained by the presence of specific variants within the genes involved in phenylalanine transport or in the phenylalanine transamination/oxygenation pathway.

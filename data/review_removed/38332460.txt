@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'May'}
+Determinants of early change in serum creatinine after initiation of dolutegravir-based antiretroviral therapy in South Africa.
+Dolutegravir increases serum creatinine by inhibiting its renal tubular secretion and elimination. We investigated determinants of early changes in serum creatinine in a southern African cohort starting first-line dolutegravir-based antiretroviral therapy (ART).

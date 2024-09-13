@@ -1,0 +1,3 @@
+{'Year': '2020', 'Month': 'May', 'Day': '20'}
+Effects of plasma concentration of micro-RNA Mir-27b and CYP3A4*22 on equilibrium concentration of alprazolam in patients with anxiety disorders comorbid with alcohol use disorder.
+Alprazolam is used in the treatment of patients with anxiety disorders comorbid with alcohol use disorder. Some proportion of these patients does not respond adequately to treatment with alprazolam, while many of them experience dose-dependent adverse drug reactions. Results of the previous studies have shown that CYP3A is involved in the biotransformation of alprazolam, the activity of which is dependent, inter alia, on the polymorphism of the encoding gene.

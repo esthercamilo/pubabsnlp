@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Feb'}
+The Pharmacogenetic Rescue of Side-Lined Anticancer Drugs to the Front-Line: Gefitinib as a Case Example.
+To illustrate the increasing importance of pharmacogenetics in drug development and clinical practice through a critical analysis of the validation and licensing of gefitinib, an epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor, as a treatment for non-small cell lung cancer (NSCLC).

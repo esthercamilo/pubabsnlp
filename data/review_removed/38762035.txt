@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Aug', 'Day': '15'}
+Effect of pharmacogenomic testing on the clinical treatment of patients with depressive disorder: A randomized clinical trial.
+Pharmacotherapy is one of the primary treatment modalities for depression. However, there is considerable variability in the individual response to antidepressant medications. Personalized medicine guided by pharmacogenomic testing may hold promise in addressing this issue.

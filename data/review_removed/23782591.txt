@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'May', 'Day': '04'}
+Medication adherence and tolerability of Alzheimer's disease medications: study protocol for a randomized controlled trial.
+The class of acetylcholinesterase inhibitors (ChEI), including donepezil, rivastigmine, and galantamine, have similar efficacy profiles in patients with mild to moderate Alzheimer's disease (AD). However, few studies have evaluated adherence to these agents. We sought to prospectively capture the rates and reasons for nonadherence to ChEI and determine factors influencing tolerability and adherence.

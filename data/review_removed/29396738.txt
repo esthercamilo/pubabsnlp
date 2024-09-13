@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'May'}
+Pharmacokinetic and pharmacodynamic re-evaluation of a genetic-guided warfarin trial.
+A previous trial failed to demonstrate the superiority of a demographic-genetic algorithm in predicting warfarin (W) dose over a standard clinical approach. The purpose of the present study is to re-analyse the results in subgroups of patients with differing baseline sensitivity to W, integrated with additional pharmacokinetic data.

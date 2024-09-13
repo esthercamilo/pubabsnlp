@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Dec'}
+Pharmacogenomics of Bucindolol in Atrial Fibrillation and Heart Failure.
+We explore the pharmacogenomics of the beta-blocker bucindolol by discussing relevant beta-1 adrenergic receptor (ADRB1) polymorphisms and recent beta-blocker studies. Through this, we will understand how bucindolol may help patients with atrial fibrillation and heart failure with reduced ejection fraction (AF-HFrEF), which carries poor prognosis.

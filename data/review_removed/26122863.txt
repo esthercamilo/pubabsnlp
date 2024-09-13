@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Misoprostol-induced fever and genetic polymorphisms in drug transporters SLCO1B1 and ABCC4 in women of Latin American and European ancestry.
+Misoprostol, a prostaglandin analogue used for the treatment of postpartum hemorrhage and termination of pregnancy, can cause high fevers. Genetic susceptibility may play a role in misoprostol-induced fever.

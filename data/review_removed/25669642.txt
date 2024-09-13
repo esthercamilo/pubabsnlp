@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Mar'}
+Trial geography, pharmacogenetics, and global drug development.
+Drug development is increasingly global. The benefits of multiregional trials include worldwide evaluation of safety and efficacy. However, clinical practice, environmental, and genetic factors can vary across geographic regions, significantly influencing trial outcomes within a specific geographic region or the global population relative to the United States (US). Genomic technologies and research discoveries continue to advance at a remarkable pace, offering opportunities to explore intrinsic factors that could account for regional variability in drug pharmacokinetics or response.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Apr', 'Day': '25'}
+A direct sequencing assay for pharmacogenetic testing of thiopurine-intolerant NUDT15 alleles in an Asian population.
+The nucleoside diphosphate linked moiety X (Nudix)-Type motif 15 (NUDT15) enzyme is involved in thiopurine metabolism. Genetic variants in the NUDT15 gene result in decreased NUDT15 activity, which in addition to decreased thiopurine S-methyltransferase (TPMT) activity, contributes to thiopurine toxicity. Current standard approaches of NUDT15 genetic analysis have mainly been targeting several common variants. We aimed to develop a clinical-grade DNA-based assay for genetic analysis of the NUDT15 gene using Sanger di-deoxy sequencing.

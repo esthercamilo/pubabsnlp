@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'May', 'Day': '07'}
+Drug Repurposing: Claiming the Full Benefit from Drug Development.
+Drug development has evolved over the years from being one-at-a-time to be massive screens in an industrial manner. Bringing a new therapeutic agent from concept to bedside can take a decade and cost billions of dollars-with most concepts failing along the way. Of the few compounds that make it to clinical testing, less than one out of eight make it to approval. This traditional drug development pipeline is challenging for prevalent diseases and makes the development of new therapeutics for rare diseases financially intractable.

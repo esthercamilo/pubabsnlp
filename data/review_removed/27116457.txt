@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Sep'}
+Effect of Single Nucleotide Polymorphisms in the Xenobiotic-sensing Receptors NR1I2 and NR1I3 on the Pharmacokinetics and Toxicity of Irinotecan in Colorectal Cancer Patients.
+Nuclear receptors PXR (pregnane X receptor, NR1I2) and CAR (constitutive androstane receptor, NR1I3) are key regulators of irinotecan metabolism, and ligand-dependent modulation of their activity leads to significant drug-drug interactions. Because genetic polymorphisms can also affect the activity of these xenobiotic-sensing receptors, we hypothesized that they could contribute to the interpatient variability of irinotecan pharmacokinetics and to the toxicity of irinotecan-based regimens.

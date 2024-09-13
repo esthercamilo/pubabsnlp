@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jun'}
+A network meta-analysis of CYP2C9, CYP2C9 with VKORC1 and CYP2C9 with VKORC1 and CYP4F2 genotype-based warfarin dosing strategies compared to traditional.
+Variations in genotypes were observed in randomized clinical trials (RCTs) that evaluated genotype-based warfarin dosing. We carried out a network meta-analysis to assess whether any clinically significant differences exist between RCTs evaluating CYP2C9 with VKORC1, with CYP2C9 alone and CYP2C9, VKORC1, with CYP4F2 dosing strategies.

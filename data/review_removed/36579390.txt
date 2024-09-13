@@ -1,0 +1,3 @@
+{'Year': '2022'}
+Genetic Testing is Superior Over Endogenous Pharmacometabolomic Markers to Predict Safety of Haloperidol in Patients with Alcohol-induced Psychotic Disorder.
+Previous studies have shown that haloperidol biotransformation is mainly metabolized by CYP2D6. The CYP2D6 gene is highly polymorphic, contributing to inter-individual differences in enzymatic activity, and may impact haloperidol biotransformation rates, resulting in variable drug efficacy and safety profiles.

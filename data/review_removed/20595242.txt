@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Oct'}
+Statistical considerations in evaluating pharmacogenomics-based clinical effect for confirmatory trials.
+The current practice for seeking genomically favorable patients in randomized controlled clinical trials using genomic convenience samples.

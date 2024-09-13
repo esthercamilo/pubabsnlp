@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Dec'}
+Clinical Pharmacogenetics Implementation Consortium guidelines for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing.
+The fluoropyrimidines are the mainstay chemotherapeutic agents for the treatment of many types of cancers. Detoxifying metabolism of fluoropyrimidines requires dihydropyrimidine dehydrogenase (DPD, encoded by the DPYD gene), and reduced or absent activity of this enzyme can result in severe, and sometimes fatal, toxicity. We summarize evidence from the published literature supporting this association and provide dosing recommendations for fluoropyrimidines based on DPYD genotype (updates at http://www.pharmgkb.org).

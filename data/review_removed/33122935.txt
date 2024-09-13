@@ -1,0 +1,3 @@
+{'Year': '2020'}
+<i>SLCO1B1</i> and <i>ABCG2</i> Gene Polymorphisms in a Thai Population.
+Genetic polymorphisms of drug transporters influence drug transporter activity and alter pharmacokinetic profiles of the drugs. Organic anion transporting polypeptide 1B1 (OATP1B1) and breast cancer resistance protein (BCRP) are important transporters encoded by solute carrier organic anion transporter family member 1B1 (<i>SLCO1B1</i>) gene and ATP-binding cassette subfamily G member 2 (<i>ABCG2</i>) gene, respectively. Polymorphisms in these genes are associated with increased plasma statins concentrations, statin-induced myopathy and poor response to allopurinol treatment.

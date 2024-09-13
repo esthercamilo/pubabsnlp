@@ -1,0 +1,3 @@
+{'Year': '2023'}
+A Bioinformatic Algorithm based on Pulmonary Endoarterial Biopsy for Targeted Pulmonary Arterial Hypertension Therapy.
+Optimal pharmacological therapy for pulmonary arterial hypertension (PAH) remains unclear, as pathophysiological heterogeneity may affect therapeutic outcomes. A ranking methodology based on pulmonary vascular genetic expression analysis could assist in medication selection and potentially lead to improved prognosis.

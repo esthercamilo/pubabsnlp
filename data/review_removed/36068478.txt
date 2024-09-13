@@ -1,0 +1,3 @@
+{'Year': '2022'}
+Genetic Ancestry Inference for Pharmacogenomics.
+Genetic ancestry inference can be used to stratify patient cohorts and to model pharmacogenomic variation within and between populations. We provide a detailed guide to genetic ancestry inference using genome-wide genetic variant datasets, with an emphasis on two widely used techniques: principal components analysis (PCA) and ADMIXTURE analysis. PCA can be used for patient stratification and categorical ancestry inference, whereas ADMIXTURE is used to characterize genetic ancestry as a continuous variable. Visualization methods are critical for the interpretation of genetic ancestry inference methods, and we provide instructions for how the results of PCA and ADMIXTURE can be effectively visualized.

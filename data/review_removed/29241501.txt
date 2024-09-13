@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Dec'}
+CYP2D6 drug-gene and drug-drug-gene interactions among patients prescribed pharmacogenetically actionable opioids.
+When codeine and tramadol are used for pain management, it is imperative that nurses are able to assess for potential drug-gene and drug-drug-gene interactions that could adversely impact drug metabolism and ultimately pain relief. Both drugs are metabolized through the CYP2D6 metabolic pathway which can be affected by medications as well the patient's own pharmacogenotype. The purpose of this brief report is to identify drug-gene and drug-drug-gene interactions in 30 adult patients prescribed codeine or tramadol for pain.

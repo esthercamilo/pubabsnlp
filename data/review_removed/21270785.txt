@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Mar'}
+Pharmacogenetics and clopidogrel response in patients undergoing percutaneous coronary interventions.
+A 62-year-old presents with angina. He has been genotyped for a panel of drug metabolism enzymes through a direct-to-consumer genetics company. His results reveal a CYP2C19 *2/*2 genotype with a warning that poor metabolizers (PMs) may have “lack of therapeutic effect of clopidogrel (Plavix), resulting from failure to generate the active form of the drug.” Stress testing suggests significant ischemic burden with consequent need for percutaneous coronary intervention (PCI), possible stent placement, and antiplatelet therapy.

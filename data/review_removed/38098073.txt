@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '14'}
+LINE-1 global DNA methylation, iron homeostasis genes, sex and age in sudden sensorineural hearing loss (SSNHL).
+Sudden sensorineural hearing loss (SSNHL) is an abrupt loss of hearing, still idiopathic in most of cases. Several mechanisms have been proposed including genetic and epigenetic interrelationships also considering iron homeostasis genes, ferroptosis and cellular stressors such as iron excess and dysfunctional mitochondrial superoxide dismutase activity.

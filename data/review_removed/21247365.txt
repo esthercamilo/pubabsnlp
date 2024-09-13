@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Jul'}
+Safety of perioperative β-blocker use: how do β-blockers compare in terms of side effects?
+In the perioperative setting, there is still a high incidence of adverse cardiac events due to sudden coronary plaque rupture or oxygen supply-demand imbalance. β-Blockers play an important role in preventing these cardiac events. Discussion, however, remains on the side effects accompanying this therapy.

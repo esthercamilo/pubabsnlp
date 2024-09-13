@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Dec'}
+Estimation of heritability of different outcomes for genetic studies of TNFi response in patients with rheumatoid arthritis.
+Pharmacogenetic studies of tumour necrosis factor inhibitors (TNFi) response in patients with rheumatoid arthritis (RA) have largely relied on the changes in complex disease scores, such as disease activity score 28 (DAS28), as a measure of treatment response. It is expected that genetic architecture of such complex score is heterogeneous and not very suitable for pharmacogenetic studies. We aimed to select the most optimal phenotype for TNFi response using heritability estimates.

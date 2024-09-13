@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Aug'}
+Assessing the pharmacy students' knowledge of genetic counseling with genetic variants that are associated with inherited disease.
+To assess pharmacy students' understanding of the importance of genetic counseling through a didactic lecture and active in-class learning exercise in a required pharmacogenomics course.

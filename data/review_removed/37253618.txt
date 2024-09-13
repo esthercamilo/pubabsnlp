@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Sep', 'Day': '20'}
+A gene risk score using missense variants in SLCO1B1 is associated with earlier onset statin intolerance.
+The efficacy of statin therapy is hindered by intolerance to the therapy, leading to discontinuation. Variants in SLCO1B1, which encodes the hepatic transporter OATB1B1, influence statin pharmacokinetics, resulting in altered plasma concentrations of the drug and its metabolites. Current pharmacogenetic guidelines require sequencing of the SLCO1B1 gene, which is more expensive and less accessible than genotyping. In this study, we aimed to develop an easy, clinically implementable functional gene risk score (GRS) of common variants in SLCO1B1 to identify patients at risk of statin intolerance.

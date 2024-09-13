@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Oct', 'Day': '20'}
+The SLCO1B1*5 genetic variant is associated with statin-induced side effects.
+We sought to identify single nucleotide polymorphisms associated with mild statin-induced side effects.

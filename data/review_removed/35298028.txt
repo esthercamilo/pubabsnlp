@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jun'}
+A pharmacogenomic assessment of psychiatric adverse drug reactions to levetiracetam.
+Levetiracetam (LEV) is an effective antiseizure medicine, but 10%-20% of people treated with LEV report psychiatric side-effects, and up to 1% may have psychotic episodes. Pharmacogenomic predictors of these adverse drug reactions (ADRs) have yet to be identified. We sought to determine the contribution of both common and rare genetic variation to psychiatric and behavioral ADRs associated with LEV.

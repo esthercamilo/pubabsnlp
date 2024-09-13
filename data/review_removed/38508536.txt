@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jun'}
+Host single nucleotide polymorphisms and biomarkers of neuronal damage and inflammation in people living with HIV.
+Blood-brain barrier impairment is frequent in people living with human immunodeficiency virus (PLWHIV), affecting the penetration of target cells and antiretrovirals into the central nervous system, through transporters (e.g. ABCB1), leading to neuroinflammation. This study aimed to identify variants of genes encoding transporters able to predict neuroinflammation biomarker levels.

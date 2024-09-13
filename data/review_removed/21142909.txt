@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Dec'}
+Development and regulatory strategies for drug and diagnostic co-development.
+At the 5th FDA-Drug Industry Association (DIA) Workshop on 'Pharmacogenomics in Drug Development and Regulatory Decision Making', track four focused on the current thinking and issues in the co-development of therapeutic drugs or biologics, and their companion diagnostic products. Identification and validation of genomic and other biomarkers are becoming important components of drug-development strategies, and recent successes show the power of personalized approaches to change the benefit-risk paradigm for new drugs.

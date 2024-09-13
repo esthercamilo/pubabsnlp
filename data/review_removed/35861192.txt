@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Oct'}
+Effects of <i>CYP2D6*4</i> polymorphism on the steady-state concentration of paroxetine in patients diagnosed with depressive episode and comorbid alcohol use disorder.
+Selective serotonin reuptake inhibitors have a common and increasing use for the treatment of patients diagnosed with depressive disorders. Some of them do not respond adequately to therapy, <i>and numerous previous studies have indicated an increased risk of type A adverse drug reactions.</i>

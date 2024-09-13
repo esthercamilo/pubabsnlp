@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'May', 'Day': '19'}
+SurvivalGWAS_SV: software for the analysis of genome-wide association studies of imputed genotypes with "time-to-event" outcomes.
+Analysis of genome-wide association studies (GWAS) with "time to event" outcomes have become increasingly popular, predominantly in the context of pharmacogenetics, where the survival endpoint could be death, disease remission or the occurrence of an adverse drug reaction. However, methodology and software that can efficiently handle the scale and complexity of genetic data from GWAS with time to event outcomes has not been extensively developed.

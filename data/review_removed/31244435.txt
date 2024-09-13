@@ -1,0 +1,3 @@
+{'Year': '2019'}
+Association of Genetic Variants in CYP3A4, CYP3A5, CYP2C8, and CYP2C19 with Tacrolimus Pharmacokinetics in Renal Transplant Recipients.
+Our study aimed to investigate the pharmacogenetics of cytochrome P3A4 (CYP3A4), CYP3A5, CYP2C8, and CYP2C19 and their influence on TAC Pharmacokinetics (PKs) in short-term renal transplant recipients.

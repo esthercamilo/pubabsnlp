@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Nov', 'Day': '24'}
+Cohort-specific imputation of gene expression improves prediction of warfarin dose for African Americans.
+Genome-wide association studies are useful for discovering genotype-phenotype associations but are limited because they require large cohorts to identify a signal, which can be population-specific. Mapping genetic variation to genes improves power and allows the effects of both protein-coding variation as well as variation in expression to be combined into "gene level" effects.

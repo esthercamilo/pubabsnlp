@@ -1,0 +1,5 @@
+{
+    "data": {
+        "text": " In this paper, we propose a new NMF model, namely Orthogonal Joint Sparse NMF, to extract relevant information from 3D microarrays containing the time evolution of a 2D microarray, by adding additional constraints to enforce important biological proprieties useful for further biological analysis"
+    }
+}

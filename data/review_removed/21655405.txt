@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Apr', 'Day': '11'}
+Assessment of the pharmacogenomics educational needs of pharmacists.
+To evaluate the self-perceived knowledge and confidence of inpatient and outpatient pharmacists in applying pharmacogenomics information to clinical practice.

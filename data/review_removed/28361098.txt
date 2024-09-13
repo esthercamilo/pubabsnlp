@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Mar'}
+Building a family network from genetic testing.
+Genetic testing has multigenerational and familial repercussions. However, the "trickle-down effect" of providing genetic counseling and testing to family members at risk after an initial identification of a pathogenic variant in a medically actionable gene has been poorly understood.

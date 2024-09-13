@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Aug'}
+Pharmacogenetics of anti-inflammatory treatment in children with asthma: rationale and design of the PACMAN cohort.
+To investigate the effects of genetic variation on treatment response to asthma medication in children and to identify (profiles of) SNPs that characterize response phenotypes.

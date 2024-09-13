@@ -1,0 +1,3 @@
+{'Year': '2014'}
+The use of pharmacogenomics for selection of therapy in non-small-cell lung cancer.
+Performance status (PS) is the only known clinical predictor of outcome in patients with advanced non-small-cell lung cancer (NSCLC), although pharmacogenomic markers may also correlate with outcome. The aim of our study was to correlate clinical and pharmacogenomic measures with overall survival.

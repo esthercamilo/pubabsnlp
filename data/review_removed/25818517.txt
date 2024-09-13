@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jun'}
+Population pharmacokinetics of cyclosporine in hematopoietic stem cell transplant patients: consideration of genetic polymorphisms.
+Cyclosporine (CsA), which is used for graft-versus-host disease prophylaxis in allogeneic hematopoietic stem cell transplant (allo-HSCT), has a narrow therapeutic range and large interindividual and intraindividual pharmacokinetic variability. Nevertheless, population pharmacokinetic (PopPK) studies of CsA in allo-HSCT are scarce.

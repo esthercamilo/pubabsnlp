@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Aug'}
+Warfarin therapy--why one dose does not fit all!
+We report an Indian adult female patient with Deep Vein Thrombosis (DVT), in whom it was difficult to achieve and maintain target INR on warfarin (oral anticoagulant) by conventional doses. Pharmacogenomics study for warfarin revealed that she had Homozygous mutant for CYP2C9 *3(CYP2C9 *3/*3) and Heterozygous mutant for VKORC 1(1639G >A) {genetic polymorphism double defect}. This conferred a greater sensitivity to her warfarin therapy in an otherwise conventional dose regime used in most patients, making her management challenging. This sensitivity (or resistance in other cases) can be assessed by this evidence based test and warfarin dosing could be individualised to avoid toxicity.

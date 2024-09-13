@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'May', 'Day': '01'}
+Clinical assessment incorporating a personal genome.
+The cost of genomic information has fallen steeply, but the clinical translation of genetic risk estimates remains unclear. We aimed to undertake an integrated analysis of a complete human genome in a clinical context.

@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Apr'}
+ADME pharmacogenetics: investigation of the pharmacokinetics of the antiretroviral agent lopinavir coformulated with ritonavir.
+An ADME (absorption, distribution, metabolism and excretion)-pharmacogenetics association study may identify functional variants relevant to the pharmacokinetics of lopinavir co-formulated with ritonavir (LPV/r), a first-line anti-HIV agent.

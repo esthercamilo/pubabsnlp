@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jul'}
+Responsiveness to oral prednisolone in severe asthma is related to the degree of eosinophilic airway inflammation.
+Patients with severe asthma appear relatively corticosteroid resistant. Corticosteroid responsiveness is closely related to the degree of eosinophilic airway inflammation. The extent to which eosinophilic airway inflammation in severe asthma responds to treatment with systemic corticosteroids is not clear.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Jan'}
+Genetic variation in dihydropyrimidine dehydrogenase (DPYD) gene in a healthy adult Indian population.
+Dihydropyrimidine dehydrogenase (DPD) encoded by DPYD gene is the major enzyme involved in metabolism of 5-flurouracil (5-FU), a pyrimidine analogue used in cancer chemotherapy. Although very effective as a cancer therapeutic drug, if not rapidly metabolized, 5-FU may prove lethal. Single nucleotide variants (SNVs) within DPYD that modulate DPD enzyme activity contribute to 5-FU toxicity.

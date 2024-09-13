@@ -1,0 +1,3 @@
+{'Year': '2018'}
+Interpersonal Factors in the Pharmacokinetics and Pharmacodynamics of Voriconazole: Are CYP2C19 Genotypes Enough for Us to Make a Clinical Decision?
+Invasive mycoses are serious infections with high mortality and increasing incidence. Voriconazole, an important drug to treat invasive mycosis, is metabolized mainly by the cytochrome P450 family 2 subfamily C member 19 enzyme (CYP2C19) and is affected by the genotypes of CYP2C19.

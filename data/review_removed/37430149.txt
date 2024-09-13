@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Nov'}
+Genome-Wide Association Study for the Genetic Determinants of Thiopurine Methyltransferase Protein Expression in Human Livers and Racial Differences.
+Polymorphisms in the Thiopurine S-Methyltransferase (TPMT) gene are associated with decreased TPMT activity, but little is known about their impact on TPMT protein expression in the liver. This project is to conduct a genome-wide association study (GWAS) to identify single nucleotide polymorphisms (SNPs) associated with altered TPMT protein expression in human livers and to determine if demographics affect hepatic TPMT protein expression.

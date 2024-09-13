@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jan', 'Day': '22'}
+Pharmacogenetics at 50: genomic personalization comes of age.
+The study of the genetics of drug responses has a long history but has provided only a few examples of gene variants that are relevant clinically. Here, we discuss the current state of the pharmacogenomics field with emphasis on the potential of data generated through drug development in order to shed new light on genetic variants predictive of therapeutic outcomes-and likewise the potential of pharmacogenomics to improve clinical trial design. We note some examples in which data from clinical trials have already provided clear pharmacogenomic insights and suggest ways in which genomic technology might be used successfully in drug development.

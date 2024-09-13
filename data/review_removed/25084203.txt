@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Jun'}
+Polymorphisms of the vincristine pathway and response to treatment in children with childhood acute lymphoblastic leukemia.
+Vincristine (VCR) is a standard component in the treatment of childhood acute lymphoblastic leukemia (ALL). VCR cytotoxicity is primarily due to its ability to disrupt the formation of microtubules of the mitotic spindle.

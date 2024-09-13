@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jul'}
+Genetika+: precision medicine solutions for mental health.
+Genetika+ is developing a precision medicine tool to optimize the treatment of depression by helping physicians find the best drug therapy for their patients. The tool builds on traditional pharmacogenetics, introducing a 'brain-in-a-dish' screening platform for each patient that will overcome the challenge of limited pharmacodynamic knowledge of pharmacogenetics (PGx). In addition to PGx, our platform integrates patient data with innovative blood-derived patient neurons to test all categories of antidepressants and predict the best drug for each patient. This offers patients optimal drug treatment, allowing a faster response, fewer side effects and lower dosing.

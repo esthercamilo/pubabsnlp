@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Jan'}
+Effect of genetic variation in UGT1A and ABCB1 on moxifloxacin pharmacokinetics in South African patients with tuberculosis.
+We assessed the effect of genetic variability in UGT1A and ABCB1 genes on moxifloxacin pharmacokinetics.

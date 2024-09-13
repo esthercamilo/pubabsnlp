@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jan'}
+The impact of the UGT1A1*60 allele on bilirubin serum concentrations.
+Identify the functional status of the uridine-diphosphate glucuronyl transferase 1A1 (UGT1A1) -3279T>G (*60) variant.

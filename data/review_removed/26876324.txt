@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Mar'}
+Genetics of Bipolar Disorder: Recent Update and Future Directions.
+Although genetic studies of Bipolar Disorder have been pursued for decades, it has only been in the last several years that clearly replicated findings have emerged. These findings, typically of modest effects, point to a polygenic genetic architecture consisting of multiple common and rare susceptibility variants. While larger genome-wide association studies are ongoing, the advent of whole exome and genome sequencing should lead to the identification of rare, and potentially more penetrant, variants. Progress along both fronts will provide novel insights into the biology of Bipolar Disorder and help usher in a new era of personalized medicine and improved treatments.

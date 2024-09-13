@@ -1,0 +1,3 @@
+{'Year': '2021'}
+MicroRNAs as Novel Biomarkers for P2Y12 - Inhibitors Resistance Prediction.
+The aim of this study is to assess 6 micro-RNAs: miR-126, miR-223, miR-150, miR-29, miR-34, miR-142 as potential biomarkers for P2Y12- inhibitors resistance prediction.

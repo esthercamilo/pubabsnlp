@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Sep', 'Day': '12'}
+Precision medicine from a citizen perspective: a survey of public attitudes towards pharmacogenomics in Flanders.
+Personalized medicine is an emerging field, aiming to improve the safety and efficacy of pharmacotherapy. The field's implementation in clinical care is steadily increasing. Pharmacogenomics are one example of personalized approaches in the clinic and direct-to-consumer (DTC) pharmacogenomic tests have become publicly available. We aimed to assess public opinion on pharmacogenomic research and testing to foster integration within Belgian health care.

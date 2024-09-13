@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Aug'}
+Genetic variations in idiopathic pulmonary fibrosis and patient response to pirfenidone.
+Genetic variations in Idiopathic Pulmonary Fibrosis (IPF) affect survival and outcomes. Current antifibrotic agents are managed based on the patient's reported side effects, although certain single nucleotide polymorphisms (SNPs) might alter treatment response and survival depending on the antifibrotic administered. This study investigated variations in response and outcomes to pirfenidone based on patients-specific genetic profiles.

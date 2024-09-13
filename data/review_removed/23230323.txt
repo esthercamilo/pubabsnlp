@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Apr'}
+Predicting the cost and pace of pharmacogenomic advances: an evidence-based study.
+Adverse outcomes associated with prescription drug use are common and costly. Many adverse outcomes can be avoided through pharmacogenomics: choosing and dosing of existing drugs according to a person's genomic variants. Finding and validating associations between outcomes and genomic variants and developing guidelines for avoiding drug-related adverse outcomes will require further research; however, no data-driven estimates yet exist for the time or money required for completing this research.

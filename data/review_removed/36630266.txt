@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Aug'}
+Cardiotoxicity and pharmacogenetics of doxorubicin in black Zimbabwean breast cancer patients.
+Doxorubicin-induced cardiotoxicity (DIC) is a significant cause of mortality in cancer care. This study was conducted to establish the frequency of DIC in Zimbabwean breast cancer patients on doxorubicin and to test the DIC predictive power of genetic biomarkers.

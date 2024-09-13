@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Oct'}
+Effect of CYP2D6 pharmacogenetic phenotype and phenoconversion on serum concentrations of antidepressants and antipsychotics: a retrospective cohort study.
+Pharmacogenetics (PGx), especially in regard to CYP2D6, is gaining more importance in routine clinical settings. Including phenoconversion effects (PC) in result interpretation could maximize its potential benefits. However, studies on genetics of pharmacokinetic genes including the functional enzyme status are lacking.

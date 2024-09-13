@@ -1,0 +1,3 @@
+{'Year': '2021'}
+DNA Methylation of Fluoxetine Response in Child and Adolescence: Preliminary Results.
+The search for predictors of antidepressant response is gaining increasing attention, with epigenetic markers attracting a great deal of interest. We performed a genome-wide study assessing baseline differences in DNA methylation between Responders and Non-Responders.

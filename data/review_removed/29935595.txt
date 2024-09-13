@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Jul'}
+CHRM3 rs2165870 polymorphism is independently associated with postoperative nausea and vomiting, but combined prophylaxis is effective.
+Clinical risk factors for postoperative nausea and vomiting (PONV) are evaluated with the Apfel score, however patients with low Apfel scores still experience PONV suggesting a genetic predisposition. PONV risk associates with specific M3 muscarinic acetylcholine receptor (CHRM3) rs 2165870 polymorphism. We investigated whether the Apfel score and this genetic variation independently contribute to PONV risk and whether prophylaxis reduces PONV in patients with low Apfel score but at high genetic risk.

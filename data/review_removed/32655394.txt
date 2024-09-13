@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Influence of Polymorphisms Involved in Platelet Activation and Inflammatory Response on Aspirin-Related Upper Gastrointestinal Bleeding: A Case-Control Study.
+Despite the wide benefits of aspirin and its cost-effectiveness, aspirin prescriptions have been reduced due to idiosyncratic responses in susceptible individuals. Low-dose aspirin and single-nucleotide polymorphisms (SNPs) are independently associated with increased risk of gastrointestinal hemorrhage; however, to-date, no studies investigated the SNP-aspirin interaction effect on upper gastrointestinal hemorrhage (UGIH). Therefore, we aimed to evaluate the role of 25 SNPs in multiple genes involved in platelet activation, angiogenesis and inflammatory response in aspirin-related UGIH.

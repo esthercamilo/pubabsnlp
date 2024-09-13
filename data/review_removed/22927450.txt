@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Nov'}
+A single-nucleotide polymorphism in CYP2B6 leads to >3-fold increases in efavirenz concentrations in plasma and hair among HIV-infected women.
+Efavirenz exhibits marked interindividual variability in plasma levels and toxicities. Prior pharmacogenetic studies usually measure exposure via single plasma levels, examine limited numbers of polymorphisms, and rarely model multiple contributors. We analyzed numerous genetic and nongenetic factors impacting short-term and long-term exposure in a large heterogeneous population of human immunodeficiency virus (HIV)-infected women.

@@ -1,0 +1,3 @@
+{'Year': '2021'}
+Efficacy of computational predictions of the functional effect of idiosyncratic pharmacogenetic variants.
+Pharmacogenetic variation is important to drug responses through diverse and complex mechanisms. Predictions of the functional impact of missense pharmacogenetic variants primarily rely on the degree of sequence conservation between species as a primary discriminator. However, idiosyncratic or off-target drug-variant interactions sometimes involve effects that are peripheral or accessory to the central systems in which a gene functions. Given the importance of sequence conservation to functional prediction tools-these idiosyncratic pharmacogenetic variants may violate the assumptions of predictive software commonly used to infer their effect.

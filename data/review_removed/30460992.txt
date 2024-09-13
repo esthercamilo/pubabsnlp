@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Mar'}
+Pediatric Anthracycline-Induced Cardiotoxicity: Mechanisms, Pharmacogenomics, and Pluripotent Stem-Cell Modeling.
+Anthracycline-induced cardiotoxicity (ACT) is a severe adverse drug reaction for a subset of children treated with anthracyclines as part of chemotherapy protocols. The identification of genetic markers associated with increased ACT susceptibility has clinical significance toward improving patient care and our understanding of the molecular mechanisms involved in ACT. Human-induced pluripotent stem cell-derived cardiomyocytes represent a novel approach to determine the pharmacogenomics of ACT and guide the development of genetic screening tests.

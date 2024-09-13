@@ -1,0 +1,3 @@
+{'Year': '2019'}
+Evolution of Dihydropyrimidine Dehydrogenase Diagnostic Testing in a Single Center during an 8-Year Period of Time.
+Fluoropyrimidine treatment can be optimized based on dihydropyrimidine dehydrogenase (DPD) activity. DPD dysfunction leads to increased exposure to active metabolites, which can result in severe or even fatal toxicity.

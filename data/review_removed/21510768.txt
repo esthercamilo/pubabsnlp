@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Jun'}
+Association of the genetic marker for abacavir hypersensitivity HLA-B*5701 with HCP5 rs2395029 in Mexican Mestizos.
+Prospective screening for HLA-B*5701 decreases or abolishes abacavir hypersensitivity reaction. In Caucasians, the HLA complex protein 5 gene (HCP5) rs2395029(G) allele is in complete linkage disequilibrium (LD) with HLA-B*5701 (r(2) = 1).

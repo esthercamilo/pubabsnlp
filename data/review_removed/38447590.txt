@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'May', 'Day': '20'}
+Empowering personalized pharmacogenomics with generative AI solutions.
+This study evaluates an AI assistant developed using OpenAI's GPT-4 for interpreting pharmacogenomic (PGx) testing results, aiming to improve decision-making and knowledge sharing in clinical genetics and to enhance patient care with equitable access.

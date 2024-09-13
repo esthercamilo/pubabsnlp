@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Dec'}
+Pharmacogenetics of sodium-glucose co-transporter-2 inhibitors: Validation of a sex-agnostic pharmacodynamic biomarker.
+To validate pharmacodynamic responses to sodium-glucose co-transporter-2 (SGLT2) inhibitors and test for association with genetic variants in SLC5A4, SLC5A9, and SLC2A9.

@@ -1,0 +1,3 @@
+{'Year': '2012'}
+Genomewide pharmacogenetics of bisphosphonate-induced osteonecrosis of the jaw: the role of RBMS3.
+Bisphosphonate-related osteonecrosis of the jaw (BRONJ) is a serious adverse drug reaction. We conducted a genomewide association study to search for genetic variants with a large effect size that increase the risk for BRONJ.

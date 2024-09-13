@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Jun'}
+Glucocorticoid replacement therapy and pharmacogenetics in Addison's disease: effects on bone.
+Context Patients with primary adrenal insufficiency (Addison's disease) receive more glucococorticoids than the normal endogenous production, raising concern about adverse effects on bone.

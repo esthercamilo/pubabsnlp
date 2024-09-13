@@ -1,0 +1,3 @@
+{'Year': '2010', 'Month': 'Jan'}
+Dose adjustment of the non-nucleoside reverse transcriptase inhibitors during concurrent rifampicin-containing tuberculosis therapy: one size does not fit all.
+HIV/tuberculosis (TB) co-infection is common and associated with high mortality. Simultaneous highly active antiretroviral therapy during TB treatment is associated with substantial survival benefit but drug-drug interactions complicate NNRTI dosing.

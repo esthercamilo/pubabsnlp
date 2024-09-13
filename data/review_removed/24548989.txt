@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Mar'}
+Next-generation medicines: past regulatory experience and considerations for the future.
+Application of personalized medicine in drug development and regulation has been limited by similar logistical, informatics, and cultural barriers that limit use of pharmacogenetics in the clinic. An additional challenge is coordinated codevelopment of new drugs and diagnostic tests. Nevertheless, the impact of personalized medicine strategies (e.g., pharmacogenomics) is being realized. We highlight some of our experiences to date and considerations for the development of the next generation of targeted therapies.

@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Nov', 'Day': '27'}
+Direct Comparative Analysis of a Pharmacogenomics Panel with PacBio Hifi<sup>®</sup> Long-Read and Illumina Short-Read Sequencing.
+Pharmacogenetics (PGx) aims to determine genetic signatures that can be used in clinical settings to individualize treatment for each patient, including anti-cancer drugs, anti-psychotics, and painkillers. Taken together, a better understanding of the impacts of genetic variants on the corresponding protein function or expression permits the prediction of the pharmacological response: responders, non-responders, and those with adverse drug reactions (ADRs).

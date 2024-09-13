@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Apr'}
+Treating patients with dihydropyrimidine dehydrogenase (DPD) deficiency with fluoropyrimidine chemotherapy since the onset of routine prospective testing-The experience of a large oncology center in the United Kingdom.
+Fluoropyrimidine chemotherapy is used across many tumor types and settings. The incidence of severe adverse events (SAEs) is around 20%. Mortality is 0.5%-1%. Dihydropyrimidine dehydrogenase (DPD) plays a key role in fluoropyrimidine inactivation. Key DPYD mutations are linked to a high risk of SAEs. Pretreatment DPD screening was mandated by EMA guidelines in April 2020 and widely adopted thereafter. Uncertainty remains regarding optimal dosing practice.

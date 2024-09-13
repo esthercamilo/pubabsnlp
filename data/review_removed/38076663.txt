@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Dec', 'Day': '04'}
+Relationship of the <i>1846G</i> > <i>A</i> Polymorphism of the <i>CYP2D6</i> Gene to the Equilibrium Concentration Levels of Haloperidol in Patients with Acute Alcoholic Hallucinosis.
+Haloperidol is currently used in addictology for the treatment of acute psychotic disorders, including acute alcoholic hallucinosis. The use of haloperidol is often accompanied by the occurrence of adverse drug reactions (ADRs). There is evidence that CYP2D6 isoenzyme is involved in the biotransformation of haloperidol.

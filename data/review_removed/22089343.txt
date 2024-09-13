@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'Dec'}
+Unveiling the mysteries of clopidogrel metabolism and efficacy.
+Clopidogrel is an important antiplatelet agent, but a considerable variability in the biological effect of the drug has been observed. Additionally, patients with insufficient platelet reactivity inhibition following a loading dose (LD) of clopidogrel have a poor outcome. The mechanisms of variability are dependent on genetic polymorphisms of enzymes involved in clopidogrel metabolism. Paraoxonase 1 has been identified as the main determinant of the biological and clinical efficacy of clopidogrel. This finding could enable the use of pharmacogenomics to tailor antiplatelet agents.

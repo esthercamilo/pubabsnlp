@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Mar'}
+Development and Cross-Validation of High-Resolution Melting Analysis-Based Cardiovascular Pharmacogenetics Genotyping Panel.
+This study was designed to develop a high-resolution melting (HRM) analysis-based cardiovascular (CV) pharmacogenetics (PGx) genotyping panel for the Canon DNA Genetic Analyzer multiplex genotyping platform and cross-validate its performance with the TaqMan<sup>®</sup>-based OpenArray<sup>®</sup> method.

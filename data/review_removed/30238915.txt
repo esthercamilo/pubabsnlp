@@ -1,0 +1,3 @@
+{'Year': '2018'}
+Ketamine influences the locus coeruleus norepinephrine network, with a dependency on norepinephrine transporter genotype - a placebo controlled fMRI study.
+Ketamine is receiving increasing attention as a rapid-onset antidepressant in patients suffering from major depressive disorder (MDD) with treatment resistance or severe suicidal ideation. Ketamine modulates several neurotransmitter systems, including norepinephrine via the norepinephrine transporter (NET), both peripherally and centrally. The locus coeruleus (LC), which has high NET concentration, has been attributed to brain networks involved in depression. Thus we investigated the effects of single-dose of racemic ketamine on the LC using resting state functional MRI.

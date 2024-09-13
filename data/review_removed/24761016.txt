@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Apr', 'Day': '17'}
+Application of genomic principles to pharmacotherapy of cancer.
+To teach first-year (P1) pharmacy students to apply the principles of pharmacogenomics underlying clinical pharmacotherapeutics to cancer patients.

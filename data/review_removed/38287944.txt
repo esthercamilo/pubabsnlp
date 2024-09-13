@@ -1,0 +1,3 @@
+{'Year': '2024'}
+The Effect of Platelet Activity, <i>ABCB1</i> Genetic Polymorphism, and Renal Function on the Development of Ticagrelor-Related Dyspnea in Patients with Acute Coronary Syndrome.
+The aim of this study was to determine the effect of <i>ABCB1</i> genetic polymorphism and renal function on the occurrence of ticagrelor-related dyspnea.

@@ -1,0 +1,3 @@
+{'Year': '2011', 'Month': 'May'}
+Availability of pharmacogenetic and pharmacogenomic information in anticancer drug monographs in France: personalized cancer therapy.
+To determine the availability of pharmacogenetic and pharmacogenomic information for healthcare professionals in France during 2009 for anticancer drugs.

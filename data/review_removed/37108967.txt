@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Mar', 'Day': '26'}
+Effects of Red and Infrared Laser Therapy in Patients with Tinnitus: A Double-Blind, Clinical, Randomized Controlled Study Combining Light with Ultrasound, Drugs and Vacuum Therapy.
+tinnitus is a symptom with no specific cause known to date, and there are no associated pharmacogenomics of hearing disorders and no FDA-approved drugs for tinnitus treatment. The effectiveness of drug treatments is not reproducible on idiopathic patients and inexistent in refractory patients. Personalized treatments for these patients are a great clinical need. Our study investigated the outcome of potential alternative and complementary treatment modalities for idiopathic and refractory tinnitus patients.

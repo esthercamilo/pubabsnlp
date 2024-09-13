@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jun', 'Day': '01'}
+Effect of <i>CYP2D6*4</i>, <i>CYP2D6*10</i> polymorphisms on the safety of treatment with timolol maleate in patients with glaucoma.
+Timolol maleate is used for the treatment of glaucoma and metabolized by cytochrome CYP2D6 in the liver. The aim of this study was the evaluation of the influence of <i>CYP2D6*4</i> and <i>CYP2D6*10</i> gene polymorphisms on the safety of medications containing 0.5% of timolol maleate as glaucoma treatment in patients with primary open-angle glaucoma (POAG).

@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jul', 'Day': '15'}
+Knowledge, attitudes, and perceptions of the multi-ethnic population of the United Arab Emirates on genomic medicine and genetic testing.
+The adoption and implementation of genomic medicine and pharmacogenomics (PGx) in healthcare systems have been very slow and limited worldwide. Major barriers to knowledge translation into clinical practice lie in the level of literacy of the public of genetics and genomics. The aim of this study was to assess the knowledge, attitudes, and perceptions of the United Arab Emirates (UAE) multi-ethnic communities toward genomic medicine and genetic testing.

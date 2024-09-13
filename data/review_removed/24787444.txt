@@ -1,0 +1,3 @@
+{'Year': '2014'}
+An ontology-based, mobile-optimized system for pharmacogenomic decision support at the point-of-care.
+The development of genotyping and genetic sequencing techniques and their evolution towards low costs and quick turnaround have encouraged a wide range of applications. One of the most promising applications is pharmacogenomics, where genetic profiles are used to predict the most suitable drugs and drug dosages for the individual patient. This approach aims to ensure appropriate medical treatment and avoid, or properly manage, undesired side effects.

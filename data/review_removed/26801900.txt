@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jan', 'Day': '22'}
+Pharmacogenetics driving personalized medicine: analysis of genetic polymorphisms related to breast cancer medications in Italian isolated populations.
+Breast cancer is the most common cancer in women characterized by a high variable clinical outcome among individuals treated with equivalent regimens and novel targeted therapies. In this study, we performed a population based approach intersecting high-throughput genotype data from Friuli Venezia Giulia (FVG) isolated populations with publically available pharmacogenomics information to estimate the frequency of genotypes correlated with responsiveness to breast cancer treatment thus improving the clinical management of this disease in an efficient and cost effective way.

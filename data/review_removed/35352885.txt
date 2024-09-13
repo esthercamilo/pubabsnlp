@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Apr'}
+Genetic Variants Associated with Adverse Events after Angiotensin-Converting Enzyme Inhibitor Use: Replication after GWAS-Based Discovery.
+Angiotensin-converting enzyme inhibitors (ACEIs) are medications generally prescribed for patients with high cardiovascular risk; however, they are suboptimally used due to frequent adverse events (AEs). The present study aimed to identify and replicate the genetic variants associated with ACEI-related AEs in the Korean population.

@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jan', 'Day': '01'}
+Pharmacogenetics of interaction between depot medroxyprogesterone acetate and efavirenz, rifampicin, and isoniazid during treatment of HIV and tuberculosis.
+In AIDS Clinical Trials Group study A5338, concomitant rifampicin, isoniazid, and efavirenz was associated with more rapid plasma medroxyprogesterone acetate (MPA) clearance compared to historical controls without tuberculosis or HIV therapy. We characterized the pharmacogenetics of this interaction.

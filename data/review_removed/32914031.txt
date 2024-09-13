@@ -1,0 +1,3 @@
+{'Year': '2019'}
+CD33_PGx6_Score Predicts Gemtuzumab Ozogamicin Response in Childhood Acute Myeloid Leukemia: A Report From the Children's Oncology Group.
+The US Food and Drug Administration recently announced reapproval of gemtuzumab ozogamicin (GO) for treatment of CD33-positive acute myeloid leukemia (AML), thus opening up opportunities to develop strategies for effective use of GO. In light of our recent report showing prognostic significance of <i>CD33</i> splicing single nucleotide polymorphisms (SNPs), the objective of this study was to comprehensively evaluate <i>CD33</i> SNPs for accurate prediction of patients with AML who are more or less likely to respond to GO.

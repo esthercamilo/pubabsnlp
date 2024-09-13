@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Aug'}
+Pharmacogenetics of dabigatran etexilate interindividual variability.
+Dabigatran etexilate is given in fixed doses without coagulation monitoring for the prevention of blood clots in at risk adults. A high inter-individual variability in blood concentrations of the active metabolite of dabigatran has been reported. ABCB1 and CES1 exert an important effect in the metabolism of dabigatran etexilate and allele variants at these two loci are likely to play a pivotal role. To investigate whether screening for polymorphisms within the ABCB1 and the CES1 genes would explain a portion of the inter-individual variability in blood concentrations of the active metabolite of dabigatran.

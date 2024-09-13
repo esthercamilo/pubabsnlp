@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Aug'}
+Frequency of CYP2C9 and VKORC1 gene polymorphisms and their influence on warfarin dose in Egyptian pediatric patients.
+Warfarin is a widely used anticoagulant that shows a high inter-individual variability in the dose needed to achieve target anticoagulation. In adults, common genetic variants in the cytochrome P450-2C9 (CYP2C9) and vitamin K epoxide reductase complex (VKORC1) enzymes, in addition to non-genetic factors, explain this dose variability. In children, data about warfarin pharmacogenetics are limited and inconsistent.

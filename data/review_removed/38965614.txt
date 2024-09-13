@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Jul', 'Day': '04'}
+Androgen receptor-mediated pharmacogenomic expression quantitative trait loci: implications for breast cancer response to AR-targeting therapy.
+Endocrine therapy is the most important treatment modality of breast cancer patients whose tumors express the estrogen receptor α (ERα). The androgen receptor (AR) is also expressed in the vast majority (80-90%) of ERα-positive tumors. AR-targeting drugs are not used in clinical practice, but have been evaluated in multiple trials and preclinical studies.

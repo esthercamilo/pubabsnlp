@@ -1,0 +1,3 @@
+{'Year': '2024', 'Month': 'Apr'}
+Impact of pharmacogenomic profiles on post-surgical pain following laparotomy for gynecologic pathology.
+The aim of this prospective study was to compare perioperative opioid use in women by status of CYP2D6, a highly polymorphic pharmacogene relevant to opioid metabolism.

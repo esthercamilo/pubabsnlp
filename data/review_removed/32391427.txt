@@ -1,0 +1,3 @@
+{'Year': '2020'}
+Complexities of pharmacogenomic interactions in cancer.
+Genetic and genomic alterations drive cancer development. However, they may also constitute vulnerabilities, including increased drug sensitivity, which could be harnessed for precision medicine purposes. We discuss the highly complex pharmacogenomic interactions that are beginning to be disentangled and hurdles that may need to be overcome before cancer patients could benefit.

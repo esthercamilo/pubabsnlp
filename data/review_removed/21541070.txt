@@ -1,0 +1,3 @@
+{'Year': '2011'}
+Toxicokinetics of kava.
+Kava is traditionally consumed by South Pacific islanders as a drink and became popular in Western society as a supplement for anxiety and insomnia. Kava extracts are generally well tolerated, but reports of hepatotoxicity necessitated an international reappraisal of its safety. Hepatotoxicity can occur as an acute, severe form or a chronic, mild form. Inflammation appears to be involved in both forms and may result from activation of liver macrophages (Kupffer cells), either directly or via kava metabolites. Pharmacogenomics may influence the severity of this inflammatory response.

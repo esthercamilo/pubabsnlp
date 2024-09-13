@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jul'}
+Antihypertensive therapy in pre-eclampsia: effects of plasma from nonresponsive patients on endothelial gene expression.
+Over 40% of patients with pre-eclampsia are nonresponsive to antihypertensive therapy, but the underlying mechanisms are unknown. We examined the effects of plasma from nonresponsive and responsive patients on endothelial gene expression.

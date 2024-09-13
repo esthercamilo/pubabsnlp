@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Jun'}
+Fluticasone propionate pharmacogenetics: CYP3A4*22 polymorphism and pediatric asthma control.
+To determine the relationship between allelic variations in genes involved in fluticasone propionate (FP) metabolism and asthma control among children with asthma managed with inhaled FP.

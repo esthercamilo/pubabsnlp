@@ -1,0 +1,3 @@
+{'Year': '2012', 'Month': 'Aug', 'Day': '15'}
+Identifying aberrant pathways through integrated analysis of knowledge in pharmacogenomics.
+Many complex diseases are the result of abnormal pathway functions instead of single abnormalities. Disease diagnosis and intervention strategies must target these pathways while minimizing the interference with normal physiological processes. Large-scale identification of disease pathways and chemicals that may be used to perturb them requires the integration of information about drugs, genes, diseases and pathways. This information is currently distributed over several pharmacogenomics databases. An integrated analysis of the information in these databases can reveal disease pathways and facilitate novel biomedical analyses.

@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Aug'}
+Pharmacokinetic and CYP3A5 pharmacogenetic differences between once- and twice-daily tacrolimus from the first dosing day to 1 year after renal transplantation.
+Aim & patients & methods: This study investigated 24-h pharmacokinetic and CYP3A5 pharmacogenetic differences between once-daily tacrolimus (Tac-q.d.) versus twice-daily tacrolimus (Tac-b.i.d.) pretransplantation and at 1 month and 1 year post-transplantaion.

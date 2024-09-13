@@ -1,0 +1,3 @@
+{'Year': '2015'}
+Psychiatric pharmacists' perception on the use of pharmacogenomic testing in the mental health population.
+Pharmacogenomics could play a role in improving patient care, reducing adverse drug reactions and overall healthcare costs. However, whether it is utilized may be determined by how it is perceived by healthcare professionals, including pharmacists.

@@ -1,0 +1,3 @@
+{'Year': '2015', 'Month': 'Dec'}
+Rate of nicotine metabolism and smoking cessation outcomes in a community-based sample of treatment-seeking smokers.
+In samples from controlled randomized clinical trials, a smoker's rate of nicotine metabolism, measured by the 3-hydroxycotinine to cotinine ratio (NMR), predicts response to transdermal nicotine. Replication of this relationship in community-based samples of treatment-seeking smokers may help guide the implementation of the NMR for personalized treatment for nicotine dependence.

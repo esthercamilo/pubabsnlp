@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jun'}
+[Pharmacoresistance to psychotropic drugs in children and adolescents: Pharmacogenetic anomalies of cytochrome P450 2D6].
+Some patients in child and adolescent psychiatry present resistance to psychotropic drugs, often resulting in polytherapy, an increased risk of adverse events, and more frequent and longer hospitalisation. Psychotropic drugs are mainly metabolised in the liver, in particular by the CYP2D6 subunit of cytochrome P450. Anomalies such as a duplication of the CYP2D6 gene related to an ultra-rapid metaboliser phenotype has been described to be linked to clinical efficacy. However, little research has been done in child and adolescent psychiatry.

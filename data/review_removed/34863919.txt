@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Jun'}
+Association of HLA-B∗35 and moderate or severe cutaneous reactions secondary to benznidazole treatment in chronic chagas disease.
+Benznidazole is the first-line treatment for Chagas disease. Adverse events appear in more than 50% of patients, leading to discontinuation in approximately 15%. Cutaneous reactions are one of the most frequent adverse events. Human leucocyte antigen (HLA) genotyping studies identified an association between cutaneous reactions to benznidazole and carrying the specific allele HLA-B∗35:05. We designed the present study to prospectively confirm this association.

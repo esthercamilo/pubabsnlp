@@ -1,0 +1,3 @@
+{'Year': '2018', 'Month': 'Aug'}
+A phase II study evaluating the efficacy of zoledronic acid in prevention of aromatase inhibitor-associated musculoskeletal symptoms: the ZAP trial.
+Aromatase inhibitor-associated musculoskeletal symptoms (AIMSS) are common adverse events of AIs often leading to drug discontinuation. We initiated a prospective clinical trial to evaluate whether bisphosphonates are associated with reduced incidence of AIMSS.

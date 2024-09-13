@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Feb'}
+The influence of SLC6A3 and DRD2 polymorphisms on levodopa-therapy in patients with sporadic Parkinson's disease.
+The aim of this study was to evaluate a possible relationship between DRD2/ANKK1 (rs1800497) and SLC6A3/DAT1 (rs28363170) gene polymorphisms with the response to levodopa (L-DOPA)-therapy in patients with Parkinson's disease (PD).

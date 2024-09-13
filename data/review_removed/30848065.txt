@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Jun'}
+No evidence that G6PD deficiency affects the efficacy or safety of daunorubicin in acute lymphoblastic leukemia induction therapy.
+Anthracyclines are used in induction therapy of pediatric acute lymphoblastic leukemia (ALL) and are known to generate oxidative stress; whether this translates into enhanced antileukemic activity or hemolytic effects in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency is unknown.

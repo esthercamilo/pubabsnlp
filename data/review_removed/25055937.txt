@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Oct'}
+Pharmacogenetics of adjuvant breast cancer treatment with cyclophosphamide, epirubicin and 5-fluorouracil.
+Most adjuvant breast cancer treatment regimens include the combination of an anthracycline (epirubicin or doxorubicin) and the alkylating agent cyclophosphamide. This study sought to investigate the influence of pharmacogenetics on the pharmacokinetics and metabolism of these agents.

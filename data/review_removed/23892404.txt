@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Nov'}
+Integration of pharmacometabolomic and pharmacogenomic approaches reveals novel insights into antiplatelet therapy.
+Interindividual variability in response to antiplatelet therapy results in higher platelet reactivity as well as higher rates of cardiovascular events. Despite substantial effort, the genetic and nongenetic determinants of antiplatelet variability remain poorly understood. Emerging pharmacometabolomic paradigms that integrate systems approaches such as pharmacogenomics have the potential to unveil novel biology regarding disease pathogenesis, reveal the effect of drugs on pathways, and allow better understanding of response variability. Such approaches offer great potential for personalized antiplatelet treatment.

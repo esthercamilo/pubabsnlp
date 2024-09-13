@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Nov'}
+The clinical application of genetic testing in type 2 diabetes: a patient and physician survey.
+Advances in type 2 diabetes genetics have raised hopes that genetic testing will improve disease prediction, prevention and treatment. Little is known about current physician and patient views regarding type 2 diabetes genetic testing. We hypothesised that physician and patient views would differ regarding the impact of genetic testing on motivation and adherence.

@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jun'}
+Should CYP2D6 be genotyped when treating with tamoxifen?
+Letter in regards to: Del Re M, Rofi E, Citi V, Fidilio L, Danesi R. Should CYP2D6 be genotyped when treating with tamoxifen? Pharmacogenomics 17(18), 1967-1969 (2016). In response to: Damkier P. Don't think twice it's all right: tamoxifen and CYP2D6 genotyping in the treatment of breast cancer patients. Pharmacogenomics 18(8), XXX (2017).

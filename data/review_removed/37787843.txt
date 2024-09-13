@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Nov'}
+Current status of the analytical validation of next generation sequencing applications for pharmacogenetic profiling.
+Analytical validity is a prerequisite to use a next generation sequencing (NGS)-based application as an in vitro diagnostic test or a companion diagnostic in clinical practice. Currently, in the United States and the European Union, the intended use of such NGS-based tests does not refer to guided drug therapy on the basis of pharmacogenetic profiling of drug metabolizing enzymes, although the value of pharmacogenetic testing has been reported. However, in research, a large variety of NGS-based tests are used and have been confirmed to be at least comparable to array-based testing.

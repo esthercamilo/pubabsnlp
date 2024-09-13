@@ -1,0 +1,3 @@
+{'Year': '2013', 'Month': 'Sep'}
+Characterization of CYP2D6 genotypes and metabolic profiles in the Portuguese population: pharmacogenetic implications.
+CYP2D6 codes for a protein that is vastly involved in the metabolism of various substances. This gene is highly polymorphic, which influences the enzymatic activity and contributes to the huge variability in the enzyme hydroxylation capacity. Different metabolic profiles determine the processing of xenobiotics and endobiotics, thereby influencing disease risk, therapeutic efficacy and side effects, or toxicity of xenobiotics. The aim of this work was to characterize CYP2D6 polymorphisms and predict metabolic profiles in the Portuguese population.

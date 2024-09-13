@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jul'}
+Management of neuropsychiatric symptoms in adults treated with elexacaftor/tezacaftor/ivacaftor.
+Reports of neuropsychiatric symptoms proximal to cystic fibrosis transmembrane conductance regulator (CFTR) modulator initiation are emerging, but their prevalence and management remain poorly characterized.

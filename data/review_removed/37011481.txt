@@ -1,0 +1,3 @@
+{'Year': '2023', 'Month': 'Jun'}
+Early increase in tamoxifen dose in CYP2D6 poor metaboliser breast cancer patients and survival: A propensity score matching analysis.
+Tamoxifen is a drug used for hormone receptor-positive breast cancers, primarily metabolised by the CYP2D6 enzyme into active metabolites such as endoxifen. CYP2D6 displays varying degrees of activity depending on its genotype. This study aims to analyse the effect of an early increase in tamoxifen dose in poor metabolisers (PM) on survival.

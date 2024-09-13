@@ -1,0 +1,3 @@
+{'Year': '2009', 'Month': 'Oct'}
+Drug-induced nutrient deficiencies.
+Good clinical care extends beyond mere diagnosis and treatment of disease to appreciation that nutrient deficiencies can be the price of effective drug therapy. The major risk factors for developing drug-induced nutrient deficiencies are lack of awareness by the prescribing physician and long duration of drug therapy. The field of pharmacogenomics has potential to improve clinical care by detecting patients at risk for complications from drug therapy. Further improvements in patient safety rely on physicians voluntarily reporting serious suspected adverse drug reactions.

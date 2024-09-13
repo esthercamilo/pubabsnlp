@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Apr'}
+Patient perceptions of pharmacogenomic testing in the community pharmacy setting.
+In order to optimize community pharmacist roles and patient outcomes, a better understanding of patient perceptions of pharmacogenomic (PGx) testing may be helpful for successful integration into community pharmacy practice.

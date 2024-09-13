@@ -1,0 +1,3 @@
+{'Year': '2008', 'Month': 'Sep'}
+Removing barriers to a clinical pharmacogenetics service.
+Pharmacogenetics has been proposed as a new discipline to facilitate safer and more effective prescribing by predicting individuals who will have a therapeutic response or develop side effects. Implementation of pharmacogenetic testing into mainstream clinical practice has been slow. However, recent studies provide robust evidence that pharmacogenetics can make real differences to reduce adverse reactions to certain medications. It is therefore important to consider what factors influence the introduction of pharmacogenetics into clinical practice and what requirements must be met to ensure an effective, safe, efficient and equitable pharmacogenetics service.

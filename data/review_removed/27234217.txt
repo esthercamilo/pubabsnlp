@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'May', 'Day': '27'}
+SLCO1B1*5 polymorphism (rs4149056) is associated with chemotherapy-induced amenorrhea in premenopausal women with breast cancer: a prospective cohort study.
+Because inheritance is recognized as playing a role in age at menarche and natural menopause, the development of chemotherapy-induced amenorrhea (CIA) might depend on inherited genetic factors; however, studies that explore such a correlation are few and have received scant attention. Given the importance of this topic we conducted a comprehensive genotype study in young women (≤45 years) with early-stage breast cancer.

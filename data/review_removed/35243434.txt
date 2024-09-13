@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Feb'}
+Dose-limiting, adverse event-associated bradycardia with β-blocker treatment of atrial fibrillation in the GENETIC-AF trial.
+Heart failure (HF) patients with atrial fibrillation (AF) often have conduction system disorders, which may be worsened by β-blocker therapy.

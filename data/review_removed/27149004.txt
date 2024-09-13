@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Jul'}
+Pharmacogenetics of tyrosine kinase inhibitors in gastrointestinal stromal tumor and chronic myeloid leukemia.
+Gastrointestinal stromal tumors (GIST) and chronic myeloid leukemia (CML) are two tumor types deeply different from each other. Despite the differences, these disorders share treatment with tyrosine kinase inhibitor imatinib. Despite the success of imatinib, the response rates vary among different individuals and pharmacogenetics may play an important role in the final clinical outcome.

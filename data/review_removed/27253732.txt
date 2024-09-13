@@ -1,0 +1,3 @@
+{'Year': '2016', 'Month': 'Dec'}
+Pharmacogenomic incidental findings in 308 families: The NIH Undiagnosed Diseases Program experience.
+Using single-nucleotide polymorphism (SNP) chip and exome sequence data from individuals participating in the National Institutes of Health (NIH) Undiagnosed Diseases Program (UDP), we evaluated the number and therapeutic informativeness of incidental pharmacogenetic variants.

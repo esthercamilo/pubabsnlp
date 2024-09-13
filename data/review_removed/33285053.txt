@@ -1,0 +1,3 @@
+{'Year': '2021', 'Month': 'Jul'}
+Polymorphisms in TYMS for Prediction of Capecitabine-Induced Hand-Foot Syndrome in Chinese Patients with Colorectal Cancer.
+Capecitabine is an extensively used oral prodrug of 5-fluorouracil in treatment of colon cancer and is known to cause hand-foot syndrome (HFS). As the target enzyme for capecitabine, thymidylate synthase (TYMS) plays a key role for 5-fluorouracil metabolism and has been associated with some side effects caused by capecitabine. The aim of our study is to identify the possible genetic predictors of capecitabine-induced HFS (CAP-HFS) in Chinese colorectal cancer patients.

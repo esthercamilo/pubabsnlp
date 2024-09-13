@@ -1,0 +1,3 @@
+{'Year': '2017', 'Month': 'Jan'}
+RAS Genetic Variants in Interaction with ACE Inhibitors Drugs Influences Essential Hypertension Control.
+Essential Hypertension (EH) is a common disorder associated with increased cardiovascular morbidity and mortality in Malaysia. To investigate how genetic polymorphisms of the renin-angiotensin-aldosterone system (RAS) influence EH control with angiotensin-converting enzyme inhibitor drugs (ACEI).

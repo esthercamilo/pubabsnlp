@@ -1,0 +1,3 @@
+{'Year': '2014', 'Month': 'Oct'}
+How does pharmacogenetic testing alter the treatment course and patient response for chronic-pain patients in comparison with the current "trial-and-error" standard of care?
+To evaluate if pharmacogenetic testing (PT) holds value for pain-management practitioners by identifying the potential applications of pharmacogenetic research as well as applications in practice.

@@ -1,0 +1,3 @@
+{'Year': '2021'}
+New insights into methotrexate accumulation in leukemia cells <i>in vivo</i>.
+Measuring the amount of methotrexate polyglutamates (MTXPG) in leukemia cells after high-dose methotrexate (HDMTX) revealed that molecular subtype and lineage of acute lymphoblastic leukemia (ALL), the ratio of expression of folate influx and efflux transporters, methotrexate (MTX) infusion time, folylpolyglutamate synthase mRNA expression, and MTX systemic clearance explain 42% of the variation in active MTXPGs accumulation in ALL cells <i>in vivo</i>, providing insights into mechanisms underlying interpatient differences in the antileukemic effects of HDMTX.

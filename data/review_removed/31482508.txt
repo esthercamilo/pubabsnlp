@@ -1,0 +1,3 @@
+{'Year': '2019', 'Month': 'Oct'}
+Effect of Polymorphisms in CYP2C9 and CYP2C19 on the Disposition, Safety and Metabolism of Progesterone Administrated Orally or Vaginally.
+Exogenous progesterone is prescribed for a variety of conditions with endogenous progesterone deficiency, e.g. menstrual alterations, primary or secondary infertility or premenopause. To the best of our knowledge, no pharmacogenetic studies have been published in relation to exogenous progesterone pharmacokinetic safety or progesterone metabolites so far.

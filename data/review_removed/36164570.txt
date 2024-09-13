@@ -1,0 +1,3 @@
+{'Year': '2022', 'Month': 'Aug'}
+Prevalence of exposure to pharmacogenetic drugs by the Saudis treated at the health care centers of the Ministry of National Guard.
+The drugs impacted by genetic variants are known as pharmacogenetic (PGx) drugs. Patients' responses to these drugs may vary according to the variability in patients' genetic makeup. Hence, exploring the pharmacogenes that affect drug treatment is vital to ensure optimal therapy and patients' safety. This study aimed to describe the usage rate of PGx drugs and the frequency of relevant variants in the Saudi population.
