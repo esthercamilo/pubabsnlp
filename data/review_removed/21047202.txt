@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Oct'}
-Using genetic and clinical factors to predict tacrolimus dose in renal transplant recipients.
-Tacrolimus has a narrow therapeutic window and shows significant interindividual difference in dose requirement. In this study we aim to first identify genetic factors that impact tacrolimus dose using a candidate gene association approach, and then generate a personalized algorithm combining identified genetic and clinical factors to predict individualized tacrolimus dose.

@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Jul'}
-A systems biology network model for genetic association studies of nicotine addiction and treatment.
-Interpreting genome-scale genetic association data, particularly for complex diseases and phenotypes, requires extensive use of prior knowledge across a broad range of potential biological and environmental influences, spanning many scientific subdisciplines. We suggest that known or hypothesized disease risk factors, and causal mechanisms, can be represented using an ontology, a computational specification of a set of concepts and the relations between them.

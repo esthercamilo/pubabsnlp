@@ -1,3 +1,0 @@
-{'Year': '2019'}
-Pharmacogenomics of statin-related myopathy: Meta-analysis of rare variants from whole-exome sequencing.
-Statin-related myopathy (SRM), which includes rhabdomyolysis, is an uncommon but important adverse drug reaction because the number of people prescribed statins world-wide is large. Previous association studies of common genetic variants have had limited success in identifying a genetic basis for this adverse drug reaction. We conducted a multi-site whole-exome sequencing study to investigate whether rare coding variants confer an increased risk of SRM.

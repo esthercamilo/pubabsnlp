@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Oct', 'Day': '11'}
-The Pharmacogenetics of Cannabis in the Treatment of Chronic Pain.
-The increase in the medical use of cannabis has revealed a number of beneficial effects, a variety of adverse side effects and great inter-individual variability. Association studies connecting consumption, addiction and side effects related to recreational cannabis use have led to the identification of several polymorphic genes that may play a role in the pharmacodynamics and pharmacokinetics of cannabis.

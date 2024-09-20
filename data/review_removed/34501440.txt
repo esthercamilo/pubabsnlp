@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Sep', 'Day': '03'}
-Differential Impact of Cytochrome 2C19 Allelic Variants on Three Different Platelet Function Tests in Clopidogrel-Treated Patients.
-On-treatment platelet reactivity in clopidogrel-treated patients can be measured with several platelet function tests (PFTs). However, the agreement between different PFTs is only slight to moderate. Polymorphisms of the <i>CYP2C19</i> gene have an impact on the metabolization of clopidogrel and, thereby, have an impact on on-treatment platelet reactivity. The aim of the current study is to evaluate the differential effects of the <i>CYP2C19</i> genotype on three different PFTs.

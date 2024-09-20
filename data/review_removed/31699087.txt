@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Nov', 'Day': '07'}
-Genomic interrogation of familial short stature contributes to the discovery of the pathophysiological mechanisms and pharmaceutical drug repositioning.
-Genetic factors, dysregulation in the endocrine system, cytokine and paracrine factors are implicated in the pathogenesis of familial short stature (FSS). Nowadays, the treatment choice for FSS is limited, with only recombinant human growth hormone (rhGH) being available.

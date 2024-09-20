@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-Pharmacogenetics of antiretroviral therapy.
-Human genetic testing is rapidly entering into most medical disciplines, mainly as a way to predict hereditary conditions including predisposition to cancers or degenerative diseases. Another area of interest for human genomics is to ascertain the therapeutic effect and prevent potential toxicities and/or drug-drug interactions of medication.

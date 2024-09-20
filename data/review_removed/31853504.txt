@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Integrating pharmacogenetic testing into primary care.
-Pharmacogenetic (PGx) testing has greatly expanded due to enhanced understanding of the role of genes in drug response and advances in DNA-based testing technology development. As many primary care visits result in a prescription, the use of PGx testing may be particularly beneficial in this setting. However, integration of PGx testing may be limited as no uniform approach to delivery of tests has been established and providers are ill-prepared to integrate PGx testing into routine care.

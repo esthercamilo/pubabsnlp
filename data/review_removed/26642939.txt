@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Feb'}
-Physician perspectives of CYP2C19 and clopidogrel drug-gene interaction active clinical decision support alerts.
-To determine if physicians find clinical decision support alerts for pharmacogenomic drug-gene interactions useful and assess their perceptions of usability aspects that impact usefulness.

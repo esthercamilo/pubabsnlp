@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Oct', 'Day': '01'}
-Effect of patient genetics on etonogestrel pharmacokinetics when combined with efavirenz or nevirapine ART.
-We previously demonstrated that etonogestrel concentrations were 82% lower in women using etonogestrel contraceptive implants plus efavirenz-based ART compared with women not receiving ART.

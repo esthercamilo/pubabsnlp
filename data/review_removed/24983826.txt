@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Sep'}
-Genetic and nongenetic factors influencing pharmacokinetics of B-type natriuretic peptide.
-Natriuretic peptides (NPs) represent a critical pathway in heart failure (HF). However, there is wide individual variability in NP system activity, which could be partly genetic in origin. We explored genetic and nongenetic contributions to B-type natriuretic peptide (BNP) inactivation.

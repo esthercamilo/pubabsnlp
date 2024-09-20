@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Nov', 'Day': '02'}
-Genetic Variants Associated With Uncontrolled Blood Pressure on Thiazide Diuretic/β-Blocker Combination Therapy in the PEAR (Pharmacogenomic Evaluation of Antihypertensive Responses) and INVEST (International Verapamil-SR Trandolapril Study) Trials.
-The majority of hypertensive individuals require combination antihypertensive therapy to achieve adequate blood pressure (BP) control. This study aimed to identify genetic variants associated with uncontrolled BP on combination therapy with a thiazide diuretic and a β-blocker.

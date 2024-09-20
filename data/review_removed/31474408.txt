@@ -1,3 +1,0 @@
-{'Year': '2020', 'Season': 'May-Jun'}
-Association of UGT2B7 and CaMK4 with response of valproic acid in Chinese children with epilepsy.
-Valproic acid (VPA) is a widely used antiepileptic drug for epilepsy. However, approximately 30% of patients with epilepsy do not respond to this therapy even when it was appropriately used. In order to explore the potential genetic factors related to the VPA response, this pharmacogenetics study was conducted.

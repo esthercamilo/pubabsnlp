@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jun', 'Day': '10'}
-Heterogeneity in statin responses explained by variation in the human gut microbiome.
-Statins remain one of the most prescribed medications worldwide. While effective in decreasing atherosclerotic cardiovascular disease risk, statin use is associated with adverse effects for a subset of patients, including disrupted metabolic control and increased risk of type 2 diabetes.

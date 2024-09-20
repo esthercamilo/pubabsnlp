@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec', 'Day': '23'}
-Mapping the clinical pharmacokinetics and pharmacogenetic units operating in Spanish hospitals.
-The goal of this article is to analyze the situation of  harmacokinetics and pharmacogenetics units in the pharmacy departments of  Spanish hospitals, evaluate their development both in the clinical and educational areas, and draw up a map reflecting their current status.  Method: A 29-item survey structured in five blocks was designed with general questions about the respondents' hospital and the clinical and educational activities carried out by their pharmacy department, in the fields of both pharmacokinetics and pharmacogenetics.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Feb'}
-Economic Evaluation of a Pharmacogenomics Test for Statin-Induced Myopathy in Cardiovascular High-Risk Patients Initiating a Statin.
-Statins are the mainstay hypercholesterolemia treatment and reduce the risk of cardiovascular events in patients. However, statin therapy is often interrupted in patients experiencing musculoskeletal pain or myopathy, which are common in this patient group. Currently, the standard tests for diagnosing statin myopathies are difficult to interpret. A pharmacogenomics (PGx) test to diagnose statin-induced myopathy would be highly desirable.

@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Oct'}
-Efficacy of active compounds of Chanqin granules on airway neurogenic inflammation induced by PM2.5 in vivo.
-To investigate the efficacy of active compounds of Chanqin (CQ) granules on PM2.5-induced airway neurogenic inflammation in vivo, and to elucidate the underlying mechanisms of action.

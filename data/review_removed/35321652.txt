@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Mar', 'Day': '23'}
-Association between statin use and physical performance in home-dwelling older patients receiving polypharmacy: cross-sectional study.
-In older patients with polypharmacy and multiple comorbidities, even low grades of statin-associated muscle symptoms may have clinical implications. The aim of this study was therefore to investigate the potential associations between statin use and measures of physical performance and muscle function.

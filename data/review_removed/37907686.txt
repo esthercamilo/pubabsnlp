@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Nov'}
-British South Asian ancestry participants views of pharmacogenomics clinical implementation and research: a thematic analysis.
-South Asian ancestry populations are underrepresented in genomic studies and therapeutics trials. British South Asians suffer from multi-morbidity leading to polypharmacy. Our objective was to elucidate British South Asian ancestry community perspectives on pharmacogenomic implementation and sharing pharmacogenomic clinical data for research.

@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Pharmacodynamic genetic polymorphisms affect adverse drug reactions of haloperidol in patients with alcohol-use disorder.
-Antipsychotic action of haloperidol is due to blockade of D<sub>2</sub> receptors in the mesolimbic dopamine pathway, while the adverse drug reactions are associated with striatal D<sub>2</sub> receptor blockade. Contradictory data concerning the effects of genetic polymorphisms of genes encoding these receptors and associated structures (catechol-O-methyltransferase [COMT], glycine transporter and gene encoding the density of D<sub>2</sub> receptors on the neuronal membrane) are described.

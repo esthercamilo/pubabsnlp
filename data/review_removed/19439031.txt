@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Apr', 'Day': '28'}
-Genome-wide association studies in pharmacogenomics: untapped potential for translation.
-Despite large public investments in genome-wide association studies of common human diseases, so far, few gene discoveries have led to applications for clinical medicine or public health. Genome-wide association studies in the context of clinical trials of drug safety and efficacy may be quicker to yield clinical applications. Certain methodological concerns, such as selection bias and confounding, may be mitigated when genome-wide association studies are conducted within clinical trials, in which randomization of exposure, prospective evaluation of outcome and careful definition of phenotype are incorporated by design.

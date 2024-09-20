@@ -1,3 +1,0 @@
-{'Year': '2014'}
-Performance of exome sequencing for pharmacogenomics.
-We present the potential false-negative rate of exome sequencing for the detection of pharmacogenomic variants.

@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Oct'}
-CYP17A1 polymorphism c.-362T>C predicts clinical outcome in metastatic castration-resistance prostate cancer patients treated with abiraterone.
-Abiraterone became a standard hormonal therapy for patients with metastatic castration-resistance prostate cancer (mCRPC). However, patients may experience primary resistance to treatment. To date, few predictive biomarkers of efficacy have been identified. Our aim was to investigate the association between the single nucleotide polymorphism (SNP) c.-362T>C in the CYP17A1 gene, and clinical outcome in mCRPC patients treated with abiraterone.

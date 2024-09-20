@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jan'}
-Pharmacogenetics of drugs withdrawn from the market.
-The safety and efficacy of candidate compounds are critical factors during the development of drugs, and most drugs have been withdrawn from the market owing to severe adverse reactions. Individuals/populations with different genetic backgrounds may show significant differences in drug metabolism and efficacy, which can sometimes manifest as severe adverse drug reactions. With an emphasis on the mechanisms underlying abnormal drug effects caused by genetic mutations, pharmacogenetic studies may enhance the safety and effectiveness of drug use, provide more comprehensive delineations of the scope of usage, and change the fates of drugs withdrawn from the market.

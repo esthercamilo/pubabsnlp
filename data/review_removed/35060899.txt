@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan', 'Day': '21'}
-Effects of IFIH1 rs1990760 variants on systemic inflammation and outcome in critically ill COVID-19 patients in an observational translational study.
-Variants in <i>IFIH1</i>, a gene coding the cytoplasmatic RNA sensor MDA5, regulate the response to viral infections. We hypothesized that <i>IFIH1</i> rs199076 variants would modulate host response and outcome after severe COVID-19.

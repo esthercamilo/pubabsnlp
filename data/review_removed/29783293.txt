@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jan'}
-Knowledge, attitudes and education of pharmacists regarding pharmacogenetic testing.
-Pharmacists are positioned to provide medication counseling and drug information to patients. This study assessed the knowledge, attitudes and education of over 700 pharmacists concerning pharmacogenetics and pharmacogenetic testing.

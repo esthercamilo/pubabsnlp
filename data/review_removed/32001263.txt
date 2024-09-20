@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Mar', 'Day': '15'}
-Coding SNPs in hsa-miR-1343-3p and hsa-miR-6783-3p target sites of CYP2C19 modulates clopidogrel response in individuals with cardiovascular diseases.
-To investigate the impact of microRNA target SNPs (mirSNPs) and their interaction with miRNAs on important drug-metabolizing enzymes, transporters and target genes for prediction of clopidogrel drug response in cardiovascular disease individuals.

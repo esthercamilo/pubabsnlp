@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Oct'}
-Pharmacokinetics and pharmacogenetics of sorafenib in patients with hepatocellular carcinoma: Implications for combination trials.
-Sorafenib and lenvatinib are the first-line treatments approved in hepatocellular carcinoma (HCC), but information is lacking about the relationships between their pharmacokinetics, patients pharmacogenetic profiles, adverse events (AE) and overall survival. We aimed to elucidate these relationships of tyrosine Kinase Inhibitors, such as sorafenib, in order to improve the design of trials testing it in combination with checkpoint inhibitors.

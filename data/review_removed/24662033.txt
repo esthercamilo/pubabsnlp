@@ -1,3 +1,0 @@
-{'Year': '2015', 'Season': 'Nov-Dec'}
-Drug resistance and secondary treatment of ischaemic stroke: The genetic component of the response to acetylsalicylic acid and clopidogrel.
-Cerebrovascular diseases are among the leading causes of death and disability in developed countries. Acetylsalicylic acid (ASA) and clopidogrel are the most widely-used antiplatelet drugs for secondary prevention of recurrent thromboembolic events. However, there have been cases in which antiplatelet drugs did not inhibit platelet activity; this phenomenon is called resistance, and it may be modulated at the genetic level.

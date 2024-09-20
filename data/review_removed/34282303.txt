@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec'}
-Multisite investigation of strategies for the clinical implementation of pre-emptive pharmacogenetic testing.
-The increased availability of clinical pharmacogenetic (PGx) guidelines and decreasing costs for genetic testing have slowly led to increased utilization of PGx testing in clinical practice. Pre-emptive PGx testing, where testing is performed in advance of drug prescribing, is one means to ensure results are available at the time of prescribing decisions. However, the most efficient and effective methods to clinically implement this strategy remain unclear.

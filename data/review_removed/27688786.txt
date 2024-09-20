@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Differential effects of hydrocortisone, prednisone, and dexamethasone on hormonal and pharmacokinetic profiles: a pilot study in children with congenital adrenal hyperplasia.
-Little is known about the comparative effects of different glucocorticoids on the adrenal and growth hormone (GH) axes in children with congenital adrenal hyperplasia (CAH). We sought to compare the effects of hydrocortisone (HC), prednisone (PDN), and dexamethasone (DEX) in children with classic CAH and to investigate a potential role of pharmacogenetics.

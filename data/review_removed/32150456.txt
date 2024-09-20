@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Sep', 'Day': '01'}
-Genotype and Phenotype Concordance for Pharmacogenetic Tests Through Proficiency Survey Testing.
-As pharmacogenetic testing is incorporated into routine care, it is essential for laboratories to provide accurate and consistent results. Certified laboratories must successfully complete proficiency testing.

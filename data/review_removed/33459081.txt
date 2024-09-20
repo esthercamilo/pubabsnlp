@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Apr'}
-ABCB1, ABCG2, ABCC1, ABCC2, and ABCC3 drug transporter polymorphisms and their impact on drug bioavailability: what is our current understanding?
-Interindividual differences in drug response are a frequent clinical challenge partly due to variation in pharmacokinetics. ATP-binding cassette (ABC) transporters are crucial determinants of drug disposition. They are subject of gene regulation and drug-interaction; however, it is still under debate to which extend genetic variants in these transporters contribute to interindividual variability of a wide range of drugs.

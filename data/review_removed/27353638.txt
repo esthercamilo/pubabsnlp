@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Sep'}
-Impact of age, gender and CYP2C9/2C19 genotypes on dose-adjusted steady-state serum concentrations of valproic acid-a large-scale study based on naturalistic therapeutic drug monitoring data.
-Valproic acid (VPA) has an extensive interindividual pharmacokinetic variability. Published data regarding the impact of gender, age, and CYP2C9/2C19 genetics on VPA variability are conflicting, and the purpose of present study is to clarify the effect of these factors on dose-adjusted steady-state serum VPA concentration (C:D ratio) in a large, naturalistic patient material.

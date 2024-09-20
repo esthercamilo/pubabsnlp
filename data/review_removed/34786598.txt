@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Aug'}
-Precision medicine in trauma: a transformational frontier in patient care, education, and research.
-Trauma is the leading cause of death before the age of 45 in the United States. Precision medicine (PM) is the most advanced scientific form of medical practice and seeks to gather data from the genome, environmental interactions, and lifestyles. Relating to trauma, PM promises to significantly advance our understanding of the factors that contribute to the physiologic response to injury.

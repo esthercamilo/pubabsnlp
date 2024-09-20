@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Feb'}
-A rare case of Azathioprine-induced leukopenia in an European woman.
-Azathioprine (AZA)-induced leukopenia is a common but life-threatening complication of inflammatory bowel disease. Recent studies have found an association between leukopenia and nucleoside diphosphate-linked moiety X-type motif 15 (NUDT15) mutation in the Asian population.

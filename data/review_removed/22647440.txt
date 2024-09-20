@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'May', 'Day': '30'}
-Saliva samples are a viable alternative to blood samples as a source of DNA for high throughput genotyping.
-The increasing trend for incorporation of biological sample collection within clinical trials requires sample collection procedures which are convenient and acceptable for both patients and clinicians. This study investigated the feasibility of using saliva-extracted DNA in comparison to blood-derived DNA, across two genotyping platforms: Applied Biosystems Taqman™ and Illumina Beadchip™ genome-wide arrays.

@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jan'}
-Pharmacogenetics of coumarin anticoagulants in Brazilians.
-Coumarin vitamin K antagonists are the mainstay of anticoagulant therapy in atrial fibrillation, prosthetic heart valves and thromboembolic conditions. Concerns with these drugs include large inter-individual variability in dose requirements, narrow therapeutic index and need to monitor prothrombin time repeatedly.

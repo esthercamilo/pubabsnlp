@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jan'}
-Implementing pharmacogenetics in clinical trials: considerations about current methodological, ethical, and regulatory challenges.
-The implementation of pharmacogenetic analysis within clinical trials faces methodological, ethical, and regulatory challenges, as well as tackling the difficulty in obtaining actionable information with a sufficient level of evidence to enable its integration into routine clinical practice.

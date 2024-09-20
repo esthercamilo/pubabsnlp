@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Dec', 'Day': '29'}
-Association Studies in Clinical Pharmacogenetics.
-In recent times, the progress of Clinical Pharmacogenetics has been remarkable [...].

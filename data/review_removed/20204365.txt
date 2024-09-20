@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Jan'}
-DPD-based adaptive dosing of 5-FU in patients with head and neck cancer: impact on treatment efficacy and toxicity.
-Fluoropyrimidine drugs are widely used in head and neck cancer (HNC). DPD deficiency is a pharmacogenetics syndrome associated with severe/lethal toxicities upon 5-FU or capecitabine intake. We have developed a simple, rapid, and inexpensive functional testing for DPD activity, as a means to identify deficient patients and to anticipate subsequent 5-FU-related toxicities. We present here the impact of fluoropyrimidine dose tailoring based on DPD functional screening in a prospective, open, non-controlled study, both in term of reduction in severe toxicities and of treatment efficacy.

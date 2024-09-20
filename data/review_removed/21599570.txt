@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Jun'}
-Carvedilol pharmacokinetics and pharmacodynamics in relation to CYP2D6 and ADRB pharmacogenetics.
-Carvedilol is an effective treatment in hypertension and chronic heart failure. The medical impact of polymorphisms in CYP2D6 and in the β-adrenergic receptors ADRB1 and ADRB2 on the pharmacokinetics and pharmacodynamics of carvedilol is controversial.

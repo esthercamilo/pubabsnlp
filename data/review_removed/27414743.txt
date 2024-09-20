@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Sep'}
-Genetic polymorphisms study of pharmacogenomic VIP variants in Han ethnic of China's Shaanxi province.
-Multiple factors include genetic and non-genetic interactions induce to different drug response among different individuals. Lots of researches proved that different frequencies of genetic variants exists different ethnic groups. The aim of this study was to screen Han volunteers in Shaanxi for VIP gene polymorphisms.

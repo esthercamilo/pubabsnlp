@@ -1,3 +1,0 @@
-{'Year': '2022'}
-The Efficacy of a Didactic and Case-Based Pharmacogenomics Education Program on Improving the Knowledge and Confidence of Alberta Pharmacists.
-Pharmacogenomics (PGx) is the study of how genetic variations for functional proteins, such as metabolizing enzymes and drug receptors, impact drug pharmacokinetics and pharmacodynamics. In theory, pharmacists are well suited to utilize PGx in tailoring medications to patient genetics when providing medication therapy management services. However, PGx education needs to reach pharmacists prior to implementation. The aim of this study is to develop and evaluate a PGx course for pharmacists.

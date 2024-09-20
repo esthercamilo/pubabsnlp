@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'May'}
-Association of vitamin D pathway SNPs and clinical response to interferon in a cohort of HBeAg-negative patients.
-Vitamin D modulates biological processes; an influence of vitamin D levels and genetic variants was identified concerning hepatitis B virus infection. We evaluated the role of some SNPs of vitamin D pathway genes in some clinical features of hepatitis B affected patients treated with pegylated interferon.

@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jul'}
-Adaptive Multi-task Elastic Net based feature selection from Pharmacogenomics Databases.
-Integrating multiple databases of similar tasks is a significant problem in biological data analysis. In this paper, we consider whether feature selection in a single database can benefit from incorporating similar databases. We report that by using adaptive multi-task elastic net for feature selection and Random Forest for prediction, the prediction performance can be improved for pharmacogenomics databases. We also present a simulation study to explain the robust feature selection benefit of adaptive multi task elastic net while dealing with noisy features.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Mar'}
-Interactions among <i>COX</i>-2, <i>GPIIIa</i> and <i>P2Y1</i> variants are associated with aspirin responsiveness and adverse events in patients with ischemic stroke.
-The effect of gene variants and their interactions on response to aspirin and clinical adverse outcomes after an acute ischemic stroke (IS) is not fully understood. The aim of this study was to investigate the association of aspirin-relevant gene variants and their interactions with clinical adverse outcomes in IS patients taking aspirin.

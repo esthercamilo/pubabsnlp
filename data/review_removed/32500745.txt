@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jul'}
-Using pharmacogenetics to predict methotrexate response in rheumatoid arthritis patients.
-Methotrexate (MTX) is a folate antagonist and a first-line drug for the treatment of rheumatoid arthritis (RA). However, in up to 30% of cases, MTX monotherapy is insufficient, while a further 30% of patients suffer with severe adverse effects. Despite extensive clinical evidence, it is not currently possible to predict therapy outcomes and drug toxicity for MTX. Therefore, to establish biomarkers of toxicity and successful disease remission, pharmacogenomic approaches are rapidly becoming more popular.

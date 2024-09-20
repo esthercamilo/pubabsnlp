@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Feb'}
-Enabling the curation of your pharmacogenetic study.
-As pharmacogenomics becomes integrated into clinical practice, curation of published studies becomes increasingly important. At the Pharmacogenomics Knowledgebase (PharmGKB; www.pharmgkb.org), pharmacogenetic associations reported in published articles are manually curated and evaluated. Standard terminologies are used, making findings uniform and unambiguous. Lack of information, clarity, or standards in the original report can make it difficult or impossible to curate. We provide 10 rules to help authors ensure that their results are accurately captured and integrated.

@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jan', 'Day': '15'}
-Lack of efficacy of mitoxantrone in primary progressive Multiple Sclerosis irrespective of pharmacogenetic factors: a multi-center, retrospective analysis.
-Mitoxantrone is used on an off-label basis in primary progressive MS (PPMS). ABC-transporter-genotypes are associated with therapeutic response in relapsing/secondary progressive MS (RP/SPMS).

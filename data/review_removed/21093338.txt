@@ -1,3 +1,0 @@
-{'Year': '2011', 'Season': 'Mar-Apr'}
-Role of CYP450 in pharmacokinetics and pharmacogenetics of antihypertensive drugs.
-Antihypertensive drugs are principally metabolised by enzymes of the P450 (CYP450) cytochrome family. Response to hypertensive treatment whose genetic basis is beginning to be known presents inter-individual differences among patients.

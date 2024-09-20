@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Considerations when using pharmacokinetic/pharmacodynamic modeling to determine the effectiveness of simple analgesics in children.
-Assessment of analgesic drugs includes comparative studies to other analgesics and local anesthesia blockade, number needed to treat estimates and opioid sparing descriptions. An additional methodology is to define the concentration-response relationship using pharmacokinetic/pharmacodynamic (PK/PD) modeling.

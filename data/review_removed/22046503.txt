@@ -1,3 +1,0 @@
-{'Year': '2011'}
-Pharmacogenetics and age-related macular degeneration.
-Pharmacogenetics seeks to explain interpatient variability in response to medications by investigating genotype-phenotype correlations. There is a small but growing body of data regarding the pharmacogenetics of both nonexudative and exudative age-related macular degeneration. Most reported data concern polymorphisms in the complement factor H and age-related maculopathy susceptibility 2 genes. At this time, the data are not consistent and no definite conclusions may be drawn. As clinical trials data continue to accumulate, these relationships may become more apparent.

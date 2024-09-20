@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Aug'}
-Novel plasma biomarker of atenolol-induced hyperglycemia identified through a metabolomics-genomics integrative approach.
-While atenolol is an effective antihypertensive agent, its use is also associated with adverse events including hyperglycemia and incident diabetes that may offset the benefits of blood pressure lowering. By combining metabolomic and genomic data acquired from hypertensive individuals treated with atenolol, it may be possible to better understand the pathways that most impact the development of an adverse glycemic state.

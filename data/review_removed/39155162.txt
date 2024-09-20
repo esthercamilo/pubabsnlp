@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul', 'Day': '27'}
-Cabozantinib Induces Isolated Hyperbilirubinemia in Renal Cell Carcinoma Patients carrying the UGT1A1*28 Polymorphism.
-Genetic variants of UGT1A1, involved in glucuronidation and clearance of bilirubin, are associated with reduced bilirubin metabolization and drug-induced isolated hyperbilirubinemia. We studied the impact of the UGT1A1*28 polymorphism on drug-induced isolated hyperbilirubinemia in metastatic renal cell carcinoma patients treated with pazopanib, cabozantinib, and axitinib.

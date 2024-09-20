@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Aug', 'Day': '19'}
-Alopecia and colon ulcers following azathioprine use in a patient with myasthenia gravis: A case report.
-Azathioprine is a purine analog (PA) used to treat myasthenia gravis (MG). However, some patients are sensitive to azathioprine and develop severe side effects, such as leukopenia, alopecia, and diarrhea soon after using the medication. Pharmacogenetics plays a crucial role in such intolerance.

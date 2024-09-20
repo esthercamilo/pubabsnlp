@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Jan'}
-<i>CYP3A4*22</i> and <i>CYP3A5*3</i> impact efficacy and safety of diazepam in patients with alcohol withdrawal syndrome.
-Diazepam is one of the most commonly prescribed pharmaceuticals for the treatment of alcohol withdrawal syndrome (AWS). However, diazepam sometimes is ineffective, and some patients experience dose-dependent adverse drug reactions (ADR). Previous studies have shown that diazepam metabolism involves the CYP3A4 and CYP3A5 isoenzymes, whose activity is highly variable between individuals, which may contribute to differences in clinical response.

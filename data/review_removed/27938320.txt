@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Dec', 'Day': '01'}
-[Letter to the Editor] Many commercial hot-start polymerases demonstrate activity prior to thermal activation.
-Address correspondence to Martin A. Kennedy, Department of Pathology & Carney Centre for Pharmacogenomics, University of Otago, Christchurch, PO Box 4345, Christchurch, New Zealand. E-mail: martin.kennedy@otago.ac.nz.

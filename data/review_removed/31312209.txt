@@ -1,3 +1,0 @@
-{'Year': '2019'}
-Use of Pharmacogenetic Drugs by the Dutch Population.
-The Dutch Pharmacogenetics Working Group (DPWG) indicated a list of actionable genotypes that affect patients' response to more 50 drugs; these drugs which show variable effects based on patients' genetic traits were named as pharmacogenetics (PGX) drugs. Preemptive genetic testing before using these drugs may protect certain patients from serious adverse reactions and could help in avoiding treatment failures. The objectives of this study include identifying the rate of PGX drug usage among Dutch population, estimating the level of users who carry the actionable genotypes and determining the main genes involved in drug's effect variability.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-A Pharmacogenetic Study of Psoriasis Risk Variants in a Greek Population and Prediction of Responses to Anti-TNF-α and Anti-IL-12/23 Agents.
-Psoriasis is a highly divergent disease with many disease phenotypes, but there are currently no established biomarkers to predict the therapeutic outcomes of systemic treatments. With the introduction of biologic therapies during the last decade and with new treatments constantly emerging, there is a great need to validate biomarkers that have been reported to be associated with treatment response, and to introduce new biomarkers of possible clinical value.

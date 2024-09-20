@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jul', 'Day': '03'}
-<i>GSTP1</i> rs1695 is associated with both hematological toxicity and prognosis of ovarian cancer treated with paclitaxel plus carboplatin combination chemotherapy: a comprehensive analysis using targeted resequencing of 100 pharmacogenes.
-To find genetic variants that predicted toxicity and/or efficacy of paclitaxel plus carboplatin combination therapy (TC therapy).

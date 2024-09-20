@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Nov', 'Day': '03'}
-Patient-Level Exposure to Actionable Pharmacogenomic Medications in a Nationally Representative Insurance Claims Database.
-The prevalence of exposure to pharmacogenomic medications is well established but little is known about how long patients are exposed to these medications.

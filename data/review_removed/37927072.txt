@@ -1,3 +1,0 @@
-{'Year': '2023'}
-Evaluation of Supervised Machine Learning Algorithms and Computational Structural Validation of Single Nucleotide Polymorphisms Related to Acute Liver Injury with Paracetamol.
-To identify single nucleotide polymorphisms (SNPs) of paracetamol-metabolizing enzymes that can predict acute liver injury.

@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'May'}
-CDA and MTHFR polymorphisms are associated with clinical outcomes in gastroenteric cancer patients treated with capecitabine-based chemotherapy.
-The impact of pharmacogenetics on predicting survival in gastroenteric cancer remains unclear.

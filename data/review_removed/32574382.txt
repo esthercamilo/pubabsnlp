@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Aug'}
-Molecular Correlates of Topiramate and GRIK1 rs2832407 Genotype in Pluripotent Stem Cell-Derived Neural Cultures.
-There is growing evidence that the anticonvulsant topiramate is efficacious in reducing alcohol consumption. Further, an intronic single nucleotide polymorphism (rs2832407, C A) in the GRIK1 gene, which encodes the GluK1 subunit of the excitatory kainate receptor, predicted topiramate's effectiveness in reducing heavy drinking in a clinical trial. The molecular correlates of GRIK1 genotype that may relate to topiramate's ability to reduce drinking remain unknown.

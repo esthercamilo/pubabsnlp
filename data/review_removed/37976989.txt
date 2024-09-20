@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jan', 'Day': '20'}
-Evaluation of the effect of CYP2D6*3, *4,*10, and *17 polymorphisms on the pharmacokinetic of tamoxifen and its metabolites in patients with hormone-positive breast cancer.
-A high rate of interindividual variability in response to tamoxifen (TAM) in breast cancer patients with CYP2D6 polymorphism has been reported, which affects the patient's therapeutic outcome. The objective of this study was to investigate the pharmacogenomics of CYP2D6 genotyping in Iranian patients with breast cancer treated with adjuvant TAM.

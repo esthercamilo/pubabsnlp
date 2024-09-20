@@ -1,3 +1,0 @@
-{'Year': '2014'}
-DruGeVar: an online resource triangulating drugs with genes and genomic biomarkers for clinical pharmacogenomics.
-Pharmacogenomics aims to rationalize drug use by minimizing drug toxicity and/or by increasing drug efficacy. A large number of genomic markers have been correlated with variable drug responses and severity of adverse drug reactions. Although a number of these drugs bear pharmacogenomic information in their labels--approved by regulatory agencies--and comprehensive drug/gene lists exist online, information related to the respective pharmacogenomic biomarkers is currently missing from such lists.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Mar'}
-Age-stratified outcome of a genotype-guided dosing algorithm for acenocoumarol and phenprocoumon.
-Essentials The EU-PACT trial was used to investigate age on the interaction between coumarins and genotype. The results support the use of genotype-guided dosing for phenprocoumon in patients < 75 years. For patients ≥ 75 years the phenprocoumon algorithm should be revised and further tested. No influence of comorbidities and co-current drug use was found that could explain the differences.

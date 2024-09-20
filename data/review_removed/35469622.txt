@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'May'}
-Pharmacogenomics of Drug Hypersensitivity: Technology and Translation.
-Hypersensitivity reactions are caused by many structurally unrelated drugs used for many different diseases. These reactions vary in severity and can be fatal. Only a minority of patients are affected by drug hypersensitivity reactions. Predisposition seems to be mediated by genetic factors, particularly within the HLA system. Apart from HLA-B∗57:01 testing, which is routine to prevent abacavir hypersensitivity, uptake of HLA testing into clinical practice has been slow and challenging. As genomic medicine becomes mainstream, it will be important for genetic testing in this area to move from the current reactive strategy to a more pre-emptive approach.

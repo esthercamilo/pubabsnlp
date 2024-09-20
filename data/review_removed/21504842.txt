@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Aug'}
-Dietary, lifestyle and pharmacogenetic factors associated with arteriole endothelial-dependent vasodilatation in schizophrenia patients treated with atypical antipsychotics (AAPs).
-Within schizophrenia cardiovascular disease (CVD) is highly prevalent secondary to atypical antipsychotic (AAP) use. Thorough assessments of diet, lifestyle, and endothelial functioning have not been done in this population. Omega 3 Fatty Acids (N-3 FAs) have garnered attention in relation to psychopathology as well as cardioprotection. This study examined the status of endothelial function within the schizophrenia population and determined pharmacogenetic, medication, dietary, and lifestyle factors associated with this functioning.

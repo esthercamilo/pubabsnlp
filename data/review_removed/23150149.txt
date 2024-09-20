@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'May'}
-NAT2 genotype guided regimen reduces isoniazid-induced liver injury and early treatment failure in the 6-month four-drug standard treatment of tuberculosis: a randomized controlled trial for pharmacogenetics-based therapy.
-This study is a pharmacogenetic clinical trial designed to clarify whether the N-acetyltransferase 2 gene (NAT2) genotype-guided dosing of isoniazid improves the tolerability and efficacy of the 6-month four-drug standard regimen for newly diagnosed pulmonary tuberculosis.

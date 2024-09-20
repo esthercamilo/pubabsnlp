@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Aug'}
-Differences in presentation and survival of Asians compared to Caucasians with ovarian cancer: An NRG Oncology/GOG Ancillary study of 7914 patients.
-To compare patient/tumor characteristics and outcomes of Asians to Caucasian patients with epithelial ovarian cancer.

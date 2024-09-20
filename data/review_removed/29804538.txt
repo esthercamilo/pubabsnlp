@@ -1,3 +1,0 @@
-{'Year': '2019'}
-The Application of Machine Learning Techniques in Clinical Drug Therapy.
-The development of a novel drug is an extremely complicated process that includes the target identification, design and manufacture, and proper therapy of the novel drug, as well as drug dose selection, drug efficacy evaluation, and adverse drug reaction control. Due to the limited resources, high costs, long duration, and low hit-to-lead ratio in the development of pharmacogenetics and computer technology, machine learning techniques have assisted novel drug development and have gradually received more attention by researchers.

@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-The effects of omega-3 plus vitamin E and zinc plus vitamin C supplementation on cardiovascular risk markers in postmenopausal women with type 2 diabetes.
-We investigate the effects of omega-3 plus vitamin E and vitamin C plus zinc supplementations on cardiovascular risk markers in postmenopausal women with type 2 diabetes.

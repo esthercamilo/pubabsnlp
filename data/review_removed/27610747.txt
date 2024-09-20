@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Nov'}
-Specific OCT1 and ABCG2 polymorphisms are associated with Lamotrigine concentrations in Chinese patients with epilepsy.
-The pharmacokinetics of Lamotrigine (LTG) varies widely among patients with epilepsy. In this study, we are aiming to investigate the effects of OCT1, ABCG2, ABCC2 and HNF4α genetic polymorphisms on plasma LTG concentrations and therapeutic efficacy in Chinese patients with epilepsy.

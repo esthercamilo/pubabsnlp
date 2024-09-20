@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Mar'}
-Multivariate analysis of the relation between diet and warfarin dose.
-The vitamin K antagonist (VKA) warfarin is effective for the prevention of thromboembolisms. Maintenance doses differ greatly among patients and are known to be primarily determined by genetic polymorphisms. The relative impact of dietary vitamin K intake is still a matter of debate. We hypothesize that a multivariate model is more suitable for exploring the relation between dietary intake of vitamin K and warfarin dose than conventional uni- or bivariate analyses.

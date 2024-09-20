@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul'}
-40 years of researching the Del phenotype results in a change of transfusion practice.
-Anti-D cannot agglutinate red cells of any Del phenotype in routine serology. Many individuals with East Asian ancestry who type D-negative in serology harbor a Del phenotype. Almost all such individuals carry one distinct DEL variant, dubbed Asian-type DEL, known as RHD*01EL.01, RHD*DEL1, RHD:c.1227G>A, formerly known as RHD(K409K). Clinical evidence strongly suggests that Asian-type DEL individuals can safely be transfused with RhD-positive blood and do not need anti-D prophylaxis in pregnancy.

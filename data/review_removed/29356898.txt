@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Mar'}
-Vitamin D pathway gene polymorphisms and hepatocellular carcinoma in chronic hepatitis C-affected patients treated with new drugs.
-Since HCV infection may lead to hepatocellular carcinoma (HCC) and vitamin D (deficiency) is related to cancer, we investigated if SNPs in genes involved in vitamin D pathway could predict HCV-related HCC presence in patients treated with new anti-HCV drugs.

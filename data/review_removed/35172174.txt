@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'May', 'Day': '01'}
-Predictors of 4-week antidepressant outcome in patients with first-episode major depressive disorder: An ROC curve analysis.
-Pretreatment characteristics of patients, symptom and function could be associated with antidepressant treatment outcome, but its predictive ability is not adequate. Our study aimed to identify predictors of acute antidepressant efficacy in patients with first-episode Major Depressive Disorder (MDD).

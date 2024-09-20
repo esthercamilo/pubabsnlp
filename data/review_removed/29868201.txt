@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Is there a role of pharmacogenomics in Africa.
-Pharmacogenomics has the potential of transforming clinical research and improving healthcare in sub-Saharan Africa (SSA). The role of African genome diversity and the opportunities for pharmacogenomics research are highlighted and will enable discovery of novel genetic mechanisms and validation of established markers. African genomics and biobank consortia will play an important role in building capacity for pharmacogenomics in SSA.

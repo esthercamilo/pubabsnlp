@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Oct', 'Day': '02'}
-Pharmacogenomics landscape of COVID-19 therapy response in Serbian population and comparison with worldwide populations.
-Since there are no certified therapeutics to treat COVID-19 patients, drug repurposing became important. With lack of time to test individual pharmacogenomics markers, population pharmacogenomics could be helpful in predicting a higher risk of developing adverse reactions and treatment failure in COVID-19 patients. Aim of our study was to identify pharmacogenes and pharmacogenomics markers associated with drugs recommended for COVID-19 treatment, chloroquine/hydroxychloroquine, azithromycin, lopinavir and ritonavir, in population of Serbia and other world populations.

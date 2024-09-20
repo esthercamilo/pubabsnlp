@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul', 'Day': '16'}
-Pharmacogenomic Assessment of Genes Implicated in Thiopurine Metabolism and Toxicity in a UK Cohort of Pediatric Patients With Inflammatory Bowel Disease.
-Thiopurine drugs are effective treatment options in inflammatory bowel disease and other conditions but discontinued in some patients due to toxicity.

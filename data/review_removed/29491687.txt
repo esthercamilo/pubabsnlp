@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Feb', 'Day': '28'}
-Comparison of <i>TPMT</i> and <i>NUDT15</i> polymorphisms in Chinese patients with inflammatory bowel disease.
-To observe gene polymorphisms of <i>TPMT</i> and <i>NUDT15</i>, and compare their predictive value for azathioprine (AZA)-induced leukopenia in inflammatory bowel disease (IBD).

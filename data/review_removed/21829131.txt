@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Sep'}
-The impact of pharmacogenetics of metabolic enzymes and transporters on the pharmacokinetics of telmisartan in healthy volunteers.
-Telmisartan is mainly taken up into the liver by organic anion transporting polypeptide (OATP) 1B3, conjugated with glucuronate, and excreted into the bile. We investigated the relationship between genotypes of metabolizing enzymes and transporters and pharmacokinetics of telmisartan in clinical study. We also checked which enzymes are responsible for telmisartan glucuronidation.

@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Dec'}
-Patient insights on features of an effective pharmacogenomics patient portal.
-We built a novel mock pharmacogenomics web portal to deliver pharmacogenomic information and results to patients. Utilizing a patient focus group, we then sought to understand patient insights on desired features of an effective pharmacogenomics patient portal.

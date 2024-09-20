@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'May'}
-Should a routine genotyping of CYP2D6 and CYP2C19 genetic polymorphisms be recommended to predict venlafaxine efficacy in depressed patients treated in psychiatric settings?
-The antidepressant venlafaxine (VEN) is metabolized by CYP2D6 and CYP2C19. The aim of this study was to assess the relevance of generalizing to daily practice the genotyping of CYP2D6 and CYP2C19 to predict VEN efficacy in depressed patients treated in psychiatric settings.

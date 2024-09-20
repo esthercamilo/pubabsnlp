@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Mar'}
-Next-generation sequencing in pharmacogenomics - fit for clinical decision support?
-The technological advances of sequencing methods during the past 20 years have fuelled the generation of large amounts of sequencing data that comprise common variations, as well as millions of rare and personal variants that would not be identified by conventional genotyping. While comprehensive sequencing is technically feasible, its clinical utility for guiding personalized treatment decisions remains controversial.

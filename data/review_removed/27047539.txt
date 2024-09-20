@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Genome-Wide Study of Response to Platinum, Taxane, and Combination Therapy in Ovarian Cancer: In vitro Phenotypes, Inherited Variation, and Disease Recurrence.
-The standard treatment for epithelial ovarian cancer (EOC) patients with advanced disease is carboplatin-paclitaxel combination therapy following initial debulking surgery, yet there is wide inter-patient variation in clinical response. We sought to identify pharmacogenomic markers related to carboplatin-paclitaxel therapy.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Oct'}
-Genomic Disparities in Breast Cancer Among Latinas.
-Breast cancer is the most common cancer diagnosed among Latinas in the United States and the leading cause of cancer-related death among this population. Latinas tend to be diagnosed at a later stage and have worse prognostic features than their non-Hispanic white counterparts. Genetic and genomic factors may contribute to observed breast cancer health disparities in Latinas.

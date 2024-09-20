@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Mar'}
-Genetic predictors associated with improvement of asthma symptoms in response to inhaled corticosteroids.
-To date, genome-wide association studies (GWASs) of inhaled corticosteroid (ICS) response in asthmatic patients have focused primarily on lung function and exacerbations.

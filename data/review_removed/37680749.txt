@@ -1,3 +1,0 @@
-{'Year': '2023'}
-Repurposing anti-inflammatory drugs for fighting planktonic and biofilm growth. New carbazole derivatives based on the NSAID carprofen: synthesis, <i>in silico</i> and <i>in vitro</i> bioevaluation.
-One of the promising leads for the rapid discovery of alternative antimicrobial agents is to repurpose other drugs, such as nonsteroidal anti-inflammatory agents (NSAIDs) for fighting bacterial infections and antimicrobial resistance.

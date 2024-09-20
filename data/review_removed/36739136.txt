@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Feb', 'Day': '04'}
-A 12-gene pharmacogenetic panel to prevent adverse drug reactions: an open-label, multicentre, controlled, cluster-randomised crossover implementation study.
-The benefit of pharmacogenetic testing before starting drug therapy has been well documented for several single gene-drug combinations. However, the clinical utility of a pre-emptive genotyping strategy using a pharmacogenetic panel has not been rigorously assessed.

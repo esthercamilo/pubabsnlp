@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Aug', 'Day': '01'}
-Validation of a rapid HLA-DQA1*05 pharmacogenomics assay to identify at-risk resistance to anti-tumor necrosis factor therapy among patients with inflammatory bowel disease.
-The HLA-DQA1*05 variant (rs2097432) is associated with increased risk of immunogenicity to tumor necrosis factor antagonists, with subsequent resistance to therapy in patients with inflammatory bowel disease. Identification of these patients would optimize personalized therapeutic selection.

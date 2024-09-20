@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jan', 'Day': '16'}
-Drug Use in Denmark for Drugs Having Pharmacogenomics (PGx) Based Dosing Guidelines from CPIC or DPWG for CYP2D6 and CYP2C19 Drug-Gene Pairs: Perspectives for Introducing PGx Test to Polypharmacy Patients.
-The cytochrome P450 drug metabolizing enzymes CYP2D6 and CYP2C19 are the major targets for pharmacogenomics (PGx) testing and determining for drug response. Clinical dosing guidelines for specific drug-gene interactions (DGI) are publicly available through PharmGKB. The aim of this register study was to map the use of drugs in Denmark for drugs having actionable dosing guidelines (AG) i.e., dosing recommendations different from standard dosing for CYP2D6 or CYP2C19 DGI in terms of consumption.

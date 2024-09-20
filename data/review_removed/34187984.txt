@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Aug', 'Day': '01'}
-Pharmacogenetics: a perspective and preparedness of Pharm-D and medical students in Jordan.
-Pharmacogenetics (PGx) science has evolved significantly with a huge number of studies exploring the effect of genetic variants on interindividual variability of drug response. In this study, we assessed the knowledge, attitudes and preparedness of Pharm-D vs. medical students toward PGx.

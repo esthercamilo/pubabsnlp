@@ -1,3 +1,0 @@
-{'Year': '2018'}
-A <i>FCGR3A</i> Polymorphism Predicts Anti-drug Antibodies in Chronic Inflammatory Bowel Disease Patients Treated With Anti-TNF.
-The production of anti-drug antibodies (ADAs) against IgG monoclonal antibodies (mAbs) targeting tumour necrosis factor (TNF) is an important cause of loss of response to anti-TNF mAbs in patients with inflammatory bowel diseases (IBD) such as Crohn's disease (CD) and ulcerative colitis (UC). Since receptors for the Fc portion of IgG (FCGRs) are involved in the degradation of IgG complexes, we hypothesised that a polymorphism in <i>FCGR3A</i> (V158F; rs396991) gene could be involved in anti-TNF ADA generation and treatment resistance.

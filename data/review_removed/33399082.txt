@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Feb'}
-Phase II study of eribulin in combination with gemcitabine for the treatment of patients with locally advanced or metastatic triple negative breast cancer (ERIGE trial). Clinical and pharmacogenetic results on behalf of the Gruppo Oncologico Italiano di Ricerca Clinica (GOIRC).
-The combination of a microtubule inhibitor (eribulin) with a nucleoside analog (gemcitabine) may synergistically induce tumor cell death, particularly in triple negative breast cancer (TNBC) characterized by high cell proliferation, aggressive behavior, and chemo-resistance.

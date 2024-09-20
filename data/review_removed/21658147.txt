@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Dec'}
-Vincristine pharmacodynamics and pharmacogenetics in children with cancer: a limited-sampling, population modelling approach.
-Vincristine is a key component of many childhood cancer treatment regimens. Pharmacodynamic parameters such as clinical efficacy and toxicity may be influenced by polymorphisms of CYP3A.

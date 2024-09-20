@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Genetic variants in SLC22A17 and SLC22A7 are associated with anthracycline-induced cardiotoxicity in children.
-To identify novel variants associated with anthracycline-induced cardiotoxicity and to assess these in a genotype-guided risk prediction model.

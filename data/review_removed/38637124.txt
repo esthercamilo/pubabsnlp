@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Apr', 'Day': '18'}
-Machine learning-based identification of novel hub genes associated with oxidative stress in lupus nephritis: implications for diagnosis and therapeutic targets.
-Lupus nephritis (LN) is a complication of SLE characterised by immune dysfunction and oxidative stress (OS). Limited options exist for LN. We aimed to identify LN-related OS, highlighting the need for non-invasive diagnostic and therapeutic approaches.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Nov'}
-A polymorphism in the histone deacetylase 1 gene is associated with the response to corticosteroids in asthmatics.
-Recent investigations suggest that histone deacetylase 1 (HDAC1) and HDAC2 may be target molecules to predict therapeutic responses to corticosteroids. We evaluated the effects of variation in HDAC1 and HDAC2 on the response to corticosteroids in asthmatics.

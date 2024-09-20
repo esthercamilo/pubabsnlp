@@ -1,3 +1,0 @@
-{'Year': '2016'}
-The frequency of SLCO1B1*5 polymorphism genotypes among Russian and Sakha (Yakutia) patients with hypercholesterolemia.
-Statins are the most commonly prescribed medicines for treatment of hypercholesterolemia. At the same time, up to 25% of patients cannot tolerate or have to discontinue the statin therapy due to statin-induced myopathy. In a majority of cases, statin-induced myopathy is attributed to SLCO1B1 gene polymorphism. The strongest association between statin-induced myopathy and SLCO1B1 gene polymorphism was described for simvastatin. Our research was focused on the frequency of SLCO1B1*5 genetic variant in the Russian population and in the native population of Sakha (Yakutia).

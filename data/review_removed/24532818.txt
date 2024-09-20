@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-Pharmacogenetics in the Community Pharmacy: Thienopyridine Selection Post-Coronary Artery Stent Placement.
-Although antiplatelet therapy is a mainstay of post-percutaneous coronary intervention therapy, pharmacogenetic (PGt) considerations of therapy are often ignored despite related Food and Drug Administration warnings. Pharmacists are well situated to provide PGt guidance, and the community pharmacy is one setting where PGt testing, interpretation, and recommendations can take place to ensure optimal therapeutic outcomes.

@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'May'}
-Clinical implications of pharmacogenetic and microarray testing for advanced practice nurses.
-The rapidly changing field of pharmacogenetics requires that advanced practice providers have a fundamental foundation in genetics and genetic testing on which new knowledge can be built. Testing for allelic variation in the well-researched Cytochrome P450 pathways and other pathways of drug metabolism is done through microarray testing. Understanding the process microarray testing provides a framework for understanding pharmacogenetic testing.

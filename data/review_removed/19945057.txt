@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Jan'}
-Renin-angiotensin gene polymorphisms and neurohormonal inhibition.
-Analyses of polymorphisms in the renin-angiotensin system may never completely predict responsiveness to pharmacotherapy that blocks angiotensin-converting enzyme or the angiotensin receptor type 1. However, the pharmacogenetic studies that have been conducted to date are intriguing, and they illustrate the potential benefit of designing larger genome-wide clinical studies. Such studies will continue to define the role of renin-angiotensin pharmacogenetics in patients with heart failure due to underlying cardiac dysfunction.

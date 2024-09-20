@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jul'}
-ABCC3 and OCT1 genotypes influence pharmacokinetics of morphine in children.
-Large interindividual variability in morphine pharmacokinetics could contribute to variability in morphine analgesia and adverse events.

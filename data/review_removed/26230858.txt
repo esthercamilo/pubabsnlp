@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Comparative analysis between saliva and buccal swabs as source of DNA: lesson from HLA-B*57:01 testing.
-Our work aimed to designate the optimal DNA source for pharmacogenetic assays, such as the screening for HLA-B*57:01 allele.

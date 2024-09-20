@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jan'}
-Economic evaluation of a pharmacogenetic dosing algorithm for coumarin anticoagulants in The Netherlands.
-To investigate the cost-effectiveness of a pharmacogenetic dosing algorithm versus a clinical dosing algorithm for coumarin anticoagulants in The Netherlands.

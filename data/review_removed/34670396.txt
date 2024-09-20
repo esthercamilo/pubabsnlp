@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec'}
-Genotype-Guided P2Y<sub>12</sub> Inhibitor Therapy After Percutaneous Coronary Intervention: A Bayesian Analysis.
-Among patients receiving percutaneous coronary intervention (PCI), the role of a genotype-guided approach for antiplatelet therapy compared with usual care is unclear. We conducted a Bayesian analysis of the entire TAILOR-PCI (Tailored Antiplatelet Initiation to Lessen Outcomes Due to Decreased Clopidogrel Response After Percutaneous Coronary Intervention) randomized clinical trial population to evaluate the effect of the genotype-guided antiplatelet therapy post-PCI compared with the usual care on the risk of major adverse cardiovascular events (MACE).

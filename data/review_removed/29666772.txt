@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Frizzled-related proteins 4 (SFRP4) rs1802073G allele predicts the elevated serum lipid levels during acitretin treatment in psoriatic patients from Hunan, China.
-Acitretin is a second-generation synthetic retinoid, and is widely used for treating the severe psoriasis vulgaris. However, it should be chosen with caution for its cardiovascular risk, and it is reported that acitretin may increase the serum lipids. The purpose of this study is to investigate the relationship between the Frizzled-related proteins 4 (SFRP4) rs1802073 polymorphism and the changes of serum lipids in Chinese psoriatic patients during the treatment with acitretin.

@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Sep'}
-Update on the molecular physiology of organic anion transporters.
-Organic anion transporters (OATs) mediate the renal absorption and excretion of a wide range of metabolites and xenobiotics. We discuss the recent advances that have been made in elucidating the binding and transport characteristics of OATs, new insights into their physiological role and regulation by various factors, and pharmacogenetics.

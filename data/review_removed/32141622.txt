@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Apr'}
-Testing association of rare genetic variants with resistance to three common antiseizure medications.
-Drug resistance is a major concern in the treatment of individuals with epilepsy. No genetic markers for resistance to individual antiseizure medication (ASM) have yet been identified. We aimed to identify the role of rare genetic variants in drug resistance for three common ASMs: levetiracetam (LEV), lamotrigine (LTG), and valproic acid (VPA).

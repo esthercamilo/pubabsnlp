@@ -1,3 +1,0 @@
-{'Year': '2021', 'Season': 'Mar-Apr'}
-Chronic Neurological Disorders: Genetic and Epigenetic Markers for Monitoring of Pharmacotherapy.
-Chronic neurological diseases are a major cause of mortality and morbidity in the world. With increasing life expectancy in the developing world, the incidence and prevalence of these diseases are predicted to rise even further. This has also contributed to an increase in disability-adjusted life years (DALYs) for noncommunicable diseases. Treatment for such diseases also poses a challenge with multiple genetic and epigenetic factors leading to a varied outcome. Personalization of treatment is one way that treatment outcome/prognosis of disease can be improved, and pharmacogenomics plays a significant role in this context.

@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Association of genetic variations with pharmacokinetics and lipid-lowering response to atorvastatin in healthy Korean subjects.
-Statins are effective agents in the primary and secondary prevention of cardiovascular disease, but treatment response to statins varies among individuals. We analyzed multiple genetic polymorphisms and assessed pharmacokinetic and lipid-lowering responses after atorvastatin 80 mg treatment in healthy Korean individuals.

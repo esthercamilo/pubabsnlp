@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Mar', 'Day': '15'}
-Quantile-specific heritability of total cholesterol and its pharmacogenetic and nutrigenetic implications.
-"Quantile-dependent expressivity" occurs when the effect size of a genetic variant depends upon whether the phenotype (e.g. cholesterol) is high or low relative to its distribution. We have previously shown that the effect of a 52-SNP genetic-risk score was 3-fold larger at the 90th percentile of the total cholesterol distribution than at its 10th percentile. The objective of this study is to assess quantile-dependent expressivity for total cholesterol in 7006 offspring with parents and 2112 sibships from Framingham Heart Study.

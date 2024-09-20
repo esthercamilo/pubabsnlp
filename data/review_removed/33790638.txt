@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Variants in <i>CDHR3, CACNAC1</i>, and <i>LTA</i> Genes Predisposing Sensitivity and Response to Warfarin in Patients with Cardiovascular Disease.
-Warfarin has been in use for more than 60 years; however, it has serious side effects including major bleeding. The high interpatient variability in the required dose impacts the sensitivity and responsiveness to warfarin in different patients. This study aims to assess the influence of <i>CDHR3, CACNAC1</i>, and <i>LTA</i> gene polymorphisms on the variability of warfarin dose requirements and susceptibility to coronary heart disease in the Jordanian population.

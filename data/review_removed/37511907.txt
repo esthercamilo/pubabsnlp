@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Jul', 'Day': '10'}
-Discovering Deleterious Single Nucleotide Polymorphisms of Human AKT1 Oncogene: An In Silico Study.
-AKT1 is a serine/threonine kinase necessary for the mediation of apoptosis, angiogenesis, metabolism, and cell proliferation in both normal and cancerous cells. The mutations in the AKT1 gene have been associated with different types of cancer. Further, the AKT1 gene mutations are also reported to be associated with other diseases such as Proteus syndrome and Cowden syndromes. Hence, this study aims to identify the deleterious AKT1 missense SNPs and predict their effect on the function and structure of the AKT1 protein using various computational tools.

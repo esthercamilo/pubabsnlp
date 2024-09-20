@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Nov'}
-Use of combinatorial pharmacogenomic guidance in treating psychiatric disorders.
-To evaluate payer costs associated with treating psychiatric disorders utilizing a combinatorial pharmacogenomics test versus treatment-as-usual (TAU).

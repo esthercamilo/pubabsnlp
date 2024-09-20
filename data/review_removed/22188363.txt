@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jan'}
-Biomarker classifiers for identifying susceptible subpopulations for treatment decisions.
-A main goal of pharmacogenomics is to develop genomic signatures to predict patients' responses to a drug or therapy for treatment decisions. Identification of patients who would have no beneficial effect or have the risk of developing adverse effects from an unnecessary treatment could save enormous cost in the healthcare system and clinical trials. This article presents an approach for developing a biomarker classifier for identifying a fraction of susceptible patients, who should be spared unnecessary treatment prior to treatment.

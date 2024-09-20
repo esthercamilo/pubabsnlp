@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'May'}
-Beta-lactam-induced immediate hypersensitivity reactions: A genome-wide association study of a deeply phenotyped cohort.
-β-lactam antibiotics are associated with a variety of immune-mediated or hypersensitivity reactions, including immediate (type I) reactions mediated by antigen-specific IgE.

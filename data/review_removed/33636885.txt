@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jan', 'Day': '01'}
-Pharmacogenetics of Opioid Use and Implications for Pain Management.
-Opioid analgesics are frequently prescribed to manage acute and chronic pain, but individual differences in opioid response make effective pain control in all patients an elusive goal. Furthermore, the risk of addiction following opioid consumption varies among individual patients. Although many psychosocial factors contribute to an individual's opioid response and risk for addiction, a strong genetic component has also been demonstrated.

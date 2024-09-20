@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Feb'}
-Intraindividual somatic variations in MTHFR gene polymorphisms in relation to colon cancer.
-MTHFR mediates the one carbon metabolism pathway. Two common genetic variants, C677T and A1298C, of MTHFR are associated with number of human diseases, including cancer, as well as being involved in the modulation of therapy outcome to antifolate drugs. To understand the distribution pattern of SNPs among different tissues of an individual, we examined MTHFR polymorphisms in normal and colon cancer tissues and compared the genotype frequencies in peripheral blood samples.

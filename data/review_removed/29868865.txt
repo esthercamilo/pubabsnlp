@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Sep', 'Day': '01'}
-Drug metabolism and transport gene polymorphisms and efavirenz adverse effects in Brazilian HIV-positive individuals.
-There are limited data regarding efavirenz pharmacogenetics in admixed populations. The Brazilian population is highly admixed. In a Brazilian cohort, we sought to characterize associations between efavirenz adverse effects (all-cause and CNS) and polymorphisms in seven genes known or suspected to affect efavirenz metabolism and transport.

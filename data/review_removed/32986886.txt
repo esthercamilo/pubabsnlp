@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Apr'}
-A meta-analysis of the influence of ADRB2 genetic polymorphisms on albuterol (salbutamol) therapy in patients with asthma.
-The associations of 2 nonsynonymous single nucleotide polymorphisms (Arg16Gly and Gln27Glu) in the adrenoceptor β2 (ADRB2) gene with response after albuterol use are conflicting. We conducted a meta-analysis to examine the cumulative evidence of the effects of these 2 variants on percent forced expiratory volume in 1 second (FEV1.0%) after albuterol use in asthma patients.

@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Oct'}
-Ancestry and other genetic associations with plasma PCSK9 response to simvastatin.
-Statins stimulate transcription of proprotein convertase subtilisin/kexin type 9 (PCSK9), a negative regulator of the low-density lipoprotein receptor, thus blunting the cholesterol-lowering effects of statin treatment. Although there is interindividual variation in PCSK9 statin response, little is known about ancestral and other genetic factors that could contribute to this variation.

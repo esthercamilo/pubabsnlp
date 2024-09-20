@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Nov'}
-Introducing a simple and cost-effective RT-PCR protocol for detection of DPYD*2A polymorphism: the first study in Kurdish population.
-Fluoropyrimidines, the major chemotherapeutic agents in various malignancies treatment, are metabolized by dihydropyrimidine dehydrogenase (DPD). DPD deficiency can lead to severe and sometimes fatal toxicity. In the present study, we developed a simple protocol to detect the DPYD*2A variant. Common side effects in patients treated with these drugs were also evaluated in a Kurdish population.

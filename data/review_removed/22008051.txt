@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Oct'}
-Pharmacogenetics in randomized controlled trials: considerations for trial design.
-Pharmacogenetic analyses of clinical trials aim to either detect whether a subgroup of patients identified by genetic characteristics responds differently to the treatment or to verify whether a proposed genotype-guided treatment is beneficial over standard care. This article describes three different trial designs, differing in the timing of randomization and genotyping. Each design has its own advantages, and the objectives and conditions under which each one is most suited are discussed.

@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Nov'}
-Clinical relevance and prevalence of polymorphisms in CYP3A5 and MDR1 genes that encode tacrolimus biotransformation enzymes in liver transplant recipients.
-To study the prevalence and clinical significance of polymorphisms in the CYP3A5 and MDR1 genes in liver transplant patients and their donors; to determine the relative importance of genes from the donor and the recipient; to assess the relationship of polymorphisms with the variability of concentration/dose of tacrolimus for optimization and individualization regimens.

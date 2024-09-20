@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Oct', 'Day': '14'}
-A pharmacogenetics service experience for pharmacy students, residents, and fellows.
-To utilize a comprehensive, pharmacist-led warfarin pharmacogenetics service to provide pharmacy students, residents, and fellows with clinical and research experiences involving genotype-guided therapy.

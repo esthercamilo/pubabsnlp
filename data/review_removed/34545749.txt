@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Oct'}
-The effects of sex on pharmacogenetically guided drug treatment.
-Tweetable abstract Sex-related pharmacogenetics is emerging area of research to better explain sex discrepancies in drug response. Sex pharmacogenetics should be considered an essential step for personalized medicine.

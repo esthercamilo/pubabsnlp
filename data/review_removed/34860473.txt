@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec', 'Day': '06'}
-Prevalence of ABCB1 3435C>T polymorphism in the Cuban population.
-<i>ABCB1</i> gene polymorphisms can modify P-glycoprotein function with clinical consequences.

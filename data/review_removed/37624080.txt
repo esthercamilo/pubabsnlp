@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Aug', 'Day': '08'}
-The Value of Pharmacogenomics for White and Indigenous Americans after Kidney Transplantation.
-There is a paucity of evidence to inform the value of pharmacogenomic (PGx) results in patients after kidney transplant and how these results differ between Indigenous Americans and Whites. This study aims to identify the frequency of recommended medication changes based on PGx results and compare the pharmacogenomic (PGx) results and patients' perceptions of the findings between a cohort of Indigenous American and White kidney transplant recipients.

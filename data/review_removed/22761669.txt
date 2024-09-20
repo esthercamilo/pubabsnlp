@@ -1,3 +1,0 @@
-{'Year': '2012'}
-Meta-analysis on pharmacogenetics of platinum-based chemotherapy in non small cell lung cancer (NSCLC) patients.
-To determine the pharmacogenetics of platinum-based chemotherapy in Non Small Cell Lung Cancer (NSCLC) patients.

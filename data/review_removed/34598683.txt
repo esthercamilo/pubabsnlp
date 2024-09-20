@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Oct', 'Day': '01'}
-Tricyclic antidepressants for major depressive disorder: a comprehensive evaluation of current practice in the Netherlands.
-Traditionally tricyclic antidepressants (TCAs) have an important place in treatment of major depressive disorder (MDD). Today, often other antidepressant medications are considered as first step in the pharmacological treatment of MDD, mainly because they are associated with less adverse effects, whereby the position of TCAs appears unclear. In this study we aimed to examine the current practice of TCAs in treatment of unipolar MDD.

@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Jan'}
-Methylenetetrahydrofolate reductase (MTHFR) gene polymorphisms and FOLFOX response in colorectal cancer patients.
-* Numerous clinical studies, including a few prospective ones, have reported conflicting results on the impact of gene polymorphisms related to fluorouracil (FU) and oxaliplatin pharmacodynamics.

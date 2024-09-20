@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Oct'}
-Pharmacogenomics--practice and challenges.
-Generating revenue of over $1 billion annually to owner companies, blockbuster drugs have been a prominent feature of drug development over recent decades. However, a large number of patients have an inadequate therapeutic response to the 'one size fits all' blockbuster drugs. It is difficult to predict which patient subgroups will respond well to a drug and which will have significant adverse reactions.

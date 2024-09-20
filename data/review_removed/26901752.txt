@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Mar'}
-Genetic polymorphisms of pharmacogenomic VIP variants in Li nationality of southern China.
-The present study aimed to screen members of the Li nationality in southern China for genotype frequencies of VIP variants and to determine differences between the Li ethnicity and global human population samples in HapMap.

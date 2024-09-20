@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jan'}
-Characteristics and quality of oral anticoagulation treatment in pediatric patients in the Netherlands based on the CAPS cohort.
-Essentials The knowledge of quality and safety of acenocoumarol and phenprocoumon use in children is limited. We used data from a multicenter retrospective follow-up study in children in the Netherlands. The quality of anticoagulation control in the first month of use was low, but improved thereafter. No thromboembolic events occurred, however bleeding events occurred in 1-3 out of 10 patients.

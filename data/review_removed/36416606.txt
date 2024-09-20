@@ -1,3 +1,0 @@
-{'Year': '2022', 'Season': 'Nov-Dec'}
-Current pharmacogenomic recommendations in chronic respiratory diseases: Is there a biomarker ready for clinical implementation?
-The study of genetic variants in response to different drugs has predominated in fields of medicine such as oncology and infectious diseases. In chronic respiratory diseases, the available pharmacogenomic information is scarce but not less relevant.

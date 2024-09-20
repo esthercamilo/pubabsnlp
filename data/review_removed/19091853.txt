@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'May'}
-Pharmacogenetics of complement factor H (Y402H) and treatment of exudative age-related macular degeneration with ranibizumab.
-To determine whether complement factor H (CFH) genotypes have a pharmacogenetic effect on the treatment of exudative age-related macular degeneration (AMD) with ranibizumab.

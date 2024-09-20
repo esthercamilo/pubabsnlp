@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jun'}
-A Practical First Step Using Needs Assessment and a Survey Approach to Implementing a Clinical Pharmacogenomics Consult Service.
-Genetic-guided selection of non-oncologic medications is not commonly practiced in general, and at University of California, San Francisco (UCSF) Health, specifically. Understanding the unique position of clinicians with respect to clinical pharmacogenetics (PG) at a specific institution or practice is fundamental for implementing a successful PG consult service.

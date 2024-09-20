@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Oct', 'Day': '15'}
-Synergy assessment of fixed combinations of Herba Andrographidis and Radix Eleutherococci extracts by transcriptome-wide microarray profiling.
-Generally accepted, but insufficiently proved, the concept of synergy is based on an assumption that combining of two biologically active substances is justified because the combination is more active and less harmful than the ingredients.

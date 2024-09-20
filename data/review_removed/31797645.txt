@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Translational Bioinformatics: Biobanks in the Precision Medicine Era.
-Translational bioinformatics (TBI) is focused on the integration of biomedical data science and informatics. This combination is extremely powerful for scientific discovery as well as translation into clinical practice. Several topics where TBI research is at the leading edge are 1) the use of large-scale biobanks linked to electronic health records, 2) pharmacogenomics, and 3) artificial intelligence and machine learning. This perspective discusses these three topics and points to the important elements for driving precision medicine into the future.

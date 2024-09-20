@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Comparison of <i>CYP2C9</i>, <i>CYP2C19</i>, <i>CYP2D6</i>, <i>ABCB1</i>, and <i>SLCO1B1</i> gene-polymorphism frequency in Russian and Nanai populations.
-The efficiency and safety of drug therapy depends on the peculiarities of functioning of the P450 cytochrome group and transporting proteins. There are significant differences for single-nucleotide polymorphism (SNP) frequency.

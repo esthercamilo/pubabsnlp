@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Aug'}
-Exploring warfarin pharmacogenomics with the extreme-discordant-phenotype methodology: impact of FVII polymorphisms on stable anticoagulation with warfarin.
-To explore the pharmacogenomics of warfarin using the extreme-discordant-phenotype (EDP) methodology.

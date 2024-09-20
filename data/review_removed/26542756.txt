@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Dec'}
-Predictive or not predictive: understanding the mixed messages from the patient's DNA sequence.
-The aim of this discussion paper is to enable nurses to understand how deoxyribonucleic acid analysis can be predictive for some diseases and not predictive for others. This will facilitate nurses to interpret genomic test results and explain them to patients.

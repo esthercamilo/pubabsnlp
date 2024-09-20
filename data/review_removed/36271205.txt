@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Dec'}
-Microdialysis of Voriconazole and its N-Oxide Metabolite: Amalgamating Knowledge of Distribution and Metabolism Processes in Humans.
-Voriconazole is an essential antifungal drug whose complex pharmacokinetics with high interindividual variability impedes effective and safe therapy. By application of the minimally-invasive sampling technique microdialysis, interstitial space fluid (ISF) concentrations of VRC and its potentially toxic N-oxide metabolite (NO) were assessed to evaluate target-site exposure for further elucidating VRC pharmacokinetics.

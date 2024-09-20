@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Apr'}
-Integrating pharmacogenetics and therapeutic drug monitoring: optimal dosing of imatinib as a case-example.
-To illustrate the interface of pharmacogenetics and therapeutic drug monitoring and to estimate target blood level for imatinib in the treatment of chronic myelogenous leukemia

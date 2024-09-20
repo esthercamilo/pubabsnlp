@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Sep', 'Day': '26'}
-Genetic basis and spatial distribution of glucose-6-phosphate dehydrogenase deficiency in ecuadorian ethnic groups: a malaria perspective.
-Glucose-6-phosphate dehydrogenase deficiency (G6PDd) is an X-linked disorder affecting over 400 million people worldwide. Individuals with molecular variants associated with reduced enzymatic activity are susceptible to oxidative stress in red blood cells, thereby increasing the risk of pathophysiological conditions and toxicity to anti-malarial treatments. Globally, the prevalence of G6PDd varies among populations. Accordingly, this study aims to characterize G6PDd distribution within the Ecuadorian population and to describe the spatial distribution of reported malaria cases.

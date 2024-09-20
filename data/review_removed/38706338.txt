@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'May', 'Day': '01'}
-Topiramate Versus Naltrexone for Alcohol Use Disorder: A Genotype-Stratified Double-Blind Randomized Controlled Trial.
-There have been no well-controlled and well-powered comparative trials of topiramate with other pharmacotherapies for alcohol use disorder (AUD), such as naltrexone. Moreover, the literature is mixed on the effects of two polymorphisms-rs2832407 (in <i>GRIK1</i>) and rs1799971 (in <i>OPRM1</i>)-on response to topiramate and naltrexone, respectively. The authors sought to examine the comparative effectiveness of topiramate and naltrexone in improving outcomes in AUD and to examine the role of the rs2832407 and rs1799971 polymorphisms, respectively, on response to these medications.

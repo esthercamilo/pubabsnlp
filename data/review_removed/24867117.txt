@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jun'}
-Cancer genetics and genomics: essentials for oncology nurses.
-Cancer genetics and genomics are rapidly evolving, with new discoveries emerging in genetic mutations, variants, genomic sequencing, risk-reduction methods, and targeted therapies. To educate patients and families, state-of-the-art care requires nurses to understand terminology, scientific and technological advances, and pharmacogenomics. Clinical application of cancer genetics and genomics involves working in interdisciplinary teams to properly identify patient risk through assessing family history, facilitating genetic testing and counseling services, applying risk-reduction methods, and administering and monitoring targeted therapies.

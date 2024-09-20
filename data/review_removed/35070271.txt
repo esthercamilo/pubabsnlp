@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan'}
-Reducing severe cutaneous adverse and type B adverse drug reactions using pre-stored human leukocyte antigen genotypes.
-Several type B adverse drug reactions (ADRs), especially severe cutaneous adverse reactions (SCARs), are associated with particular human leukocyte antigen (HLA) genotypes. However, pre-stored HLA information obtained from other clinical workups has not been used to prevent ADRs. We aimed to simulate the preemptive use of pre-stored HLA information in electronic medical records to evaluate whether this information can prevent ADRs.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Aug', 'Day': '20'}
-VEGF-A polymorphisms predict progression-free survival among advanced castration-resistant prostate cancer patients treated with metronomic cyclophosphamide.
-No data are available on the pharmacogenetics of metronomic chemotherapy in prostate cancer. The aim of this study was to evaluate the association between VEGF-A sequence variants and prostate-specific antigen (PSA) progression, progression-free survival (PFS) and overall survival (OS), in advanced castration-resistant prostate cancer patients treated with metronomic cyclophosphamide (CTX), celecoxib and dexamethasone.

@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Oct'}
-Opioid-Related Genetic Polymorphisms of Cytochrome P450 Enzymes after Total Joint Arthroplasty: A Focus on Drug-Drug-Gene Interaction with Commonly Coprescribed Medications.
-Pharmacogenomic testing, together with the early detection of drug-drug-gene interactions (DDGI) before initiating opioids, can improve the selection of dosage and reduce the risk of adverse drug interactions and therapeutic failures following Total Joint Arthroplasty. The variants of CYP genes can mediate DDGI. Orthopedic surgeons should become familiar with the genetic aspect of opioid use and abuse, as well as the influence of the patient genetic makeup in opioid selection and response, and polymorphic variants in pain modulation.

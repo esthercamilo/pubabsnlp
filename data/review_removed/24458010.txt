@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Apr'}
-Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450 2D6 genotype and codeine therapy: 2014 update.
-Codeine is bioactivated to morphine, a strong opioid agonist, by the hepatic cytochrome P450 2D6 (CYP2D6); hence, the efficacy and safety of codeine are governed by CYP2D6 activity. Polymorphisms are a major cause of CYP2D6 variability. We summarize evidence from the literature supporting this association and provide therapeutic recommendations for codeine based on CYP2D6 genotype. This document is an update to the 2012 Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for CYP2D6 genotype and codeine therapy.

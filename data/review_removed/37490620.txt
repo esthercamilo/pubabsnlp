@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Sep', 'Day': '01'}
-Real-world pharmacogenetics of statin intolerance: effects of SLCO1B1, ABCG2 , and CYP2C9 variants.
-The association of SLCO1B1 c.521T>C with simvastatin-induced muscle toxicity is well characterized. However, different statins are subject to metabolism and transport also by other proteins exhibiting clinically meaningful genetic variation. Our aim was to investigate associations of SLCO1B1 c.521T>C with intolerance to atorvastatin, fluvastatin, pravastatin, rosuvastatin, or simvastatin, those of ABCG2 c.421C>A with intolerance to atorvastatin, fluvastatin, or rosuvastatin, and that of CYP2C9*2 and *3 alleles with intolerance to fluvastatin.

@@ -1,3 +1,0 @@
-{'Year': '2019'}
-How does race and ethnicity effect the precision treatment of asthma?
-Asthma is a common condition that affects large numbers of children and adults, yet the burden of disease is not equally distributed amongst groups. In the United States, African Americans and Puerto Ricans have higher rates of asthma and its complications when compared with European Americans. However, clinical trials and genetic studies have largely focused on the latter group.

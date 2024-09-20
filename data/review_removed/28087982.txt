@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jul'}
-The impact of CES1 genotypes on the pharmacokinetics of methylphenidate in healthy Danish subjects.
-This study investigated the influence of CES1 variations, including the single nucleotide polymorphism (SNP) rs71647871 (G143E) and variation in copy number, on the pharmacokinetics of a single oral dose of 10 mg methylphenidate.

@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Mar'}
-Modulation of factor VIII pharmacokinetics by genetic components in factor VIII receptors.
-Gene variation in receptors for circulating factor VIII (FVIII) is candidate to explain the large inter-patient variability of infused FVIII pharmacokinetics (PK) in haemophilia A (HA).

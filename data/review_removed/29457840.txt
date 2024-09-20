@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun'}
-Population pharmacokinetics and pharmacogenomics of apixaban in Japanese adult patients with atrial fibrillation.
-This study aimed to analyse the effects of genetic polymorphisms in drug transporters and metabolizing enzymes, and clinical laboratory data on the pharmacokinetic parameters of apixaban.

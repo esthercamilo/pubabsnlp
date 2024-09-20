@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'May'}
-Nonadherence to inhaled corticosteroids: A characteristic of the pediatric obese-asthma phenotype?
-Children with excess weight and asthma tend to respond less well to inhaled corticosteroids (ICS) than children with normal weight, potentially resulting in nonadherence to ICS.

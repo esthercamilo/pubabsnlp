@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Aug'}
-Combined transcriptome and proteome analysis reveals MSN and ARFIP2 as biomarkers for trastuzumab resistance of breast cancer.
-HER2-positive breast cancer (BC) accounts for 20-30% of all BC subtypes and is linked to poor prognosis. Trastuzumab (Tz), a humanized anti-HER2 monoclonal antibody, is a first-line treatment for HER2-positive breast cancer which faces resistance challenges. This study aimed to identify the biomarkers driving trastuzumab resistance.

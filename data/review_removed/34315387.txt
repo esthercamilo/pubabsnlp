@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Variability of Pharmacogenomics Information in Drug Labels Approved by Different Agencies and its Ethical Implications.
-The aim of this study was to determine if there are discrepancies among various agency-approved labels for the same active ingredient and where the labels approved by the Turkish Medicines and Medical Devices Agency (TMMDA) stand regarding the inclusion of PGx and discuss these ethical implications.

@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Apr', 'Day': '04'}
-Acceptance of Asthma Pharmacogenetic Study by Children and Adults.
-Pharmacogenetic testing may change clinical medicine by allowing clinicians to tailor medications based on a patient's genetic makeup, however, these tests must first be validated in large, real-life populations of subjects that include children. A dearth of knowledge exists for whether pediatric populations are as willing as adult populations to provide samples for such studies.

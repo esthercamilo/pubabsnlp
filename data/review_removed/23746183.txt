@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jun'}
-Implementation and outcomes of a live continuing education program on pharmacogenomics.
-This study evaluated the implementation and outcomes of a pharmacogenomics education program among pharmacists.

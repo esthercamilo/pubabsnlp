@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jan'}
-First Report of Pharmacogenomic Profiling in an Outpatient Spine Setting: Preliminary Results from a Pilot Study.
-Pharmacogenomics may help personalize medicine and improve therapeutic selection. This is the first study investigating how pharmacogenomic testing may inform analgesic selection in patients with spine disease. We profile pharmacogenetic differences in pain medication-metabolizing enzymes across patients presenting at an outpatient spine clinic and provide preliminary evidence that genetic polymorphisms may help explain interpatient differences in preoperative pain refractory to conservative management.

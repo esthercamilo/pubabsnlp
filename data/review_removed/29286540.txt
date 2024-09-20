@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Feb'}
-Facilitators and Barriers to the Adoption of Pharmacogenetic Testing in an Inner-City Population.
-To examine the knowledge, attitudes, and interest of an inner-city population toward pharmacogenetic testing, with the primary objective of identifying facilitators and barriers toward pharmacogenetic testing; and secondary objectives of determining predictors of patient interest in pharmacogenetic testing and how much patients would pay for the test.

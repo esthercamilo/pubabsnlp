@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Mar'}
-Factors affecting time to maintenance dose in patients initiating warfarin.
-Patients starting warfarin often experience lengthy dose-titration periods, when they are at high risk for bleeding and thromboembolism. However, relatively little is known about why some patients take longer than others to reach maintenance dose. Thus, we sought to identify social, clinical, and genetic factors associated with prolonged time to maintenance dose (TTM).

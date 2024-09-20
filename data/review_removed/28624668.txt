@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Aug'}
-KCNQ1 gene polymorphism is associated with glycaemic response to treatment with DPP-4 inhibitors.
-Only afew gene variants were associated with the response to dipeptidylpeptidase-4 inhibitors (DPP4I). KCNQ1 gene variants were previously related both to type 2 diabetes (T2D) and incretin effect. We hypothesized that T2D related KCNQ1 variants would be associated with smaller glucose-lowering effect of DDP4I.

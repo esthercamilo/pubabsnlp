@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jun'}
-Pharmacogenomic response of low dose haloperidol in critically ill adults with delirium.
-To characterize the pharmacogenomic response of low-dose haloperidol for delirium treatment in critically ill adults.

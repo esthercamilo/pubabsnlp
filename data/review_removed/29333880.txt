@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Pharmacogenetic analysis of opioid dependence treatment dose and dropout rate.
-Currently, no pharmacogenetic tests for selecting an opioid-dependence pharmacotherapy have been approved by the US Food and Drug Administration.

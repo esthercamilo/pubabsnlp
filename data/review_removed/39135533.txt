@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Aug', 'Day': '20'}
-Hydroxyurea in the sickle cell disease modern era.
-Sickle cell disease is an inherited disorder characterized by hemoglobin S polymerization leading to vaso-occlusion and hemolytic anemia. These result in a variety of pathological events, causing both acute and chronic complications. Millions around the world are affected by sickle cell disease with predominance in sub-Saharan Africa. Hydroxyurea was the first drug approved for use in sickle cell disease to reduce the occurrence of painful crises and blood transfusions in patients with frequent, moderate to severe painful crises.

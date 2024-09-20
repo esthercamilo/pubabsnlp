@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jun'}
-The need for a refined understanding of CYP2D6 in second-generation antipsychotic outcomes in children and adolescents.
-Tweetable abstract High-quality studies examining the influence of CYP2D6 on the exposure and tolerability of antipsychotics in youth are needed to mitigate the limitations of prior studies.

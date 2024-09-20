@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Mar'}
-Cutaneous drug hypersensitivity: immunological and genetic perspective.
-Drug hypersensitivity is an unpredictable, immunologically mediated adverse reaction, clustered in a genetically predisposed individual. The role of "hapten concept" in immune sensitization has recently been contested by the "pharmacological interaction" hypothesis. After completion of the "human genome project" and with the availability of high-resolution genotyping, genetic susceptibility to hypersensitivity for certain drugs has been proved beyond doubt though the trend is ethnicity and phenotype dependent. Application of this newly acquired knowledge may reduce or abolish the morbidity and mortality associated with cutaneous drug hypersensitivity.

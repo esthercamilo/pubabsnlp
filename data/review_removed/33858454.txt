@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Apr', 'Day': '15'}
-Clinical pharmacogenomics in action: design, assessment and implementation of a novel pharmacogenetic panel supporting drug selection for diseases of the central nervous system (CNS).
-Pharmacogenomics describes the link between gene variations (polymorphisms) and drug responses. In view of the implementation of precision medicine in personalized healthcare, pharmacogenetic tests have recently been introduced in the clinical practice. However, the translational aspects of such tests have been limited due to the lack of robust population-based evidence.

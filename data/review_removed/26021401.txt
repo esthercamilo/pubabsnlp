@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Sep'}
-Advances in emerging drugs for osteosarcoma.
-Osteosarcoma (OS), the most common primary malignant bone tumor, is currently treated with pre- and postoperative chemotherapy in association with the surgical removal of the tumor. Conventional treatments allow to cure about 60 - 65% of patients with primary tumors and only 20 - 25% of patients with recurrent disease. New treatment approaches and drugs are therefore highly warranted to improve prognosis.

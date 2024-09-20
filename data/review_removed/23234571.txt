@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Dec', 'Day': '12'}
-Multivariate methods and software for association mapping in dose-response genome-wide association studies.
-The large sample sizes, freedom of ethical restrictions and ease of repeated measurements make cytotoxicity assays of immortalized lymphoblastoid cell lines a powerful new in vitro method in pharmacogenomics research. However, previous studies may have over-simplified the complex differences in dose-response profiles between genotypes, resulting in a loss of power.

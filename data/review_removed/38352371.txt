@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Feb', 'Day': '01'}
-Pharmacogenomics of Coronary Artery Response to Intravenous Gamma Globulin in Kawasaki Disease.
-Kawasaki disease (KD) is a multisystem inflammatory illness of infants and young children that can result in acute vasculitis. The pathological walls of afflicted coronary arteries show propensity for forming thrombosis and aneurysms. The mechanism of coronary artery aneurysms (CAA) despite intravenous gamma globulin (IVIG) treatment is not known.

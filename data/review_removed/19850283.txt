@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Feb', 'Day': '01'}
-Identification of novel candidate genes for treatment response to risperidone and susceptibility for schizophrenia: integrated analysis among pharmacogenomics, mouse expression, and genetic case-control association approaches.
-Pharmacogenomic approaches based on genomewide sets of single nucleotide polymorphisms (SNPs) are now feasible and offer the potential to uncover variants that influence drug response.

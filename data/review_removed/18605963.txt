@@ -1,3 +1,0 @@
-{'Year': '2008'}
-Thiopurine S-methyltransferase (TPMT) pharmacogenetics: three new mutations and haplotype analysis in the Estonian population.
-Thiopurine methyltransferase (TPMT) is a cytoplasmic enzyme involved in the metabolism of thiopurine drugs. To date, at least 25 single nucleotide polymorphisms have been reported in the TPMT gene, 23 of these are associated with reduced enzyme activity.

@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Feb'}
-Determining the adjusted initial treatment dose of warfarin anticoagulant medicine using kernel-based support vector regression.
-A novel research field in bioinformatics is pharmacogenomics and the corresponding applications of artificial intelligence tools. Pharmacogenomics is the study of the relationship between genotype and responses to medical measures such as drug use. One of the most effective drugs is warfarin anticoagulant, but determining its initial treatment dose is challenging. Mistakes in the determination of the initial treatment dose can result directly in patient death.

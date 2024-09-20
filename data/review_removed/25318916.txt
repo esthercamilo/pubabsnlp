@@ -1,3 +1,0 @@
-{'Year': '2014'}
-Frequencies of polymorphisms in CYP2C9 and VKORC1 genes influencing warfarin metabolism in Slovak population: implication for clinical practice.
-The study was aimed at establishing an effective molecular-genetic method for detecting polymorphisms in genes CYP2C9 and VKORC1, which affect the pharmacogenetics of warfarin, and at determining their prevalence in Slovak population.

@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Oct'}
-Pharmacogenomics of tamoxifen therapy.
-Tamoxifen is a standard endocrine therapy for the prevention and treatment of steroid hormone receptor-positive breast cancer.

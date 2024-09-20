@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-Association of CYP2C19*2 and associated haplotypes with lower norendoxifen concentrations in tamoxifen-treated Asian breast cancer patients.
-The aim was to examine the influence of CYP2C19 variants and associated haplotypes on the disposition of tamoxifen and its metabolites, particularly norendoxifen (NorEND), in Asian patients with breast cancer.

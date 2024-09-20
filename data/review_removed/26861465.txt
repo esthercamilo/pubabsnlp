@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-Estrogen receptor beta and ovarian cancer: a key to pathogenesis and response to therapy.
-Ovarian cancer remains the leading cause of mortality due to gynecological tumors. Estrogen receptors (ERs) seem to participate in tumor progression even in the absence of estrogens. Twenty years after the cloning of the second estrogen receptor, a wide spectrum of studies have shown its implication in both physiologic and pathologic pathways. ERβ, being the predominant type of ER in normal ovary tissue, has not only been linked with pathogenesis of ovarian cancer, but also with response to treatment. Unlike ERα, which is primarily linked with cell growth, ERβ presence is prominent in signaling pathways, cell cycle regulation and apoptosis.

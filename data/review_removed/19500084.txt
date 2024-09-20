@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Aug', 'Day': '15'}
-Novel pharmacogenetic markers for treatment outcome in azathioprine-treated inflammatory bowel disease.
-Azathioprine (AZA) pharmacogenetics are complex and much studied. Genetic polymorphism in TPMT is known to influence treatment outcome. Xanthine oxidase/dehydrogenase (XDH) and aldehyde oxidase (AO) compete with TPMT to inactivate AZA.

@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Sep', 'Day': '21'}
-Pharmacogenetics and pharmacogenomics: practical applications in routine medical practice.
-A report of the 3rd joint European Science Foundation and University of Barcelona Conference in Biomedicine, San Feliu de Guixols, Catalonia, Spain, 6-11 June 2010.

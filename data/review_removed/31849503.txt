@@ -1,3 +1,0 @@
-{'Year': '2019'}
-Canadian Medication Cost Savings Associated with Combinatorial Pharmacogenomic Guidance for Psychiatric Medications.
-To estimate Canadian pharmacy cost savings associated with psychiatric medication prescribing that is guided by combinatorial pharmacogenomic testing in patients switching or augmenting their psychiatric medication.

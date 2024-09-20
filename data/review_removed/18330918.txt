@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Apr'}
-Human genome variation and pharmacogenetics.
-A recent HGVS-sponsored symposium has examined, for the first time, the possible effects of the discovery of very large and widespread amounts of human genome variation on the emerging fields of pharmacogenetics and pharmacogenomics. This article discusses the effects of the resultant paradigm shifts and raises a number of important questions that need to be considered in order to truly advance the field in a meaningful and significant way.

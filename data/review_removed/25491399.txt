@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Mar'}
-Human leukocyte antigen genetic risk factors of drug-induced liver toxicology.
-Drug-induced liver injury (DILI) is a rare adverse drug reaction, which impacts significantly on patients. Human leukocyte antigen (HLA) risk alleles have been found to be associated with DILI supporting an immunological basis to DILI pathogenesis.

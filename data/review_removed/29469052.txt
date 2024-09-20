@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Mar', 'Day': '01'}
-Recent Advances in Hepatotoxicity of Non Steroidal Anti-Inflammatory Drugs.
-Non-steroidal-anti-inflammatory drugs (NSAIDs) make a heterogenous pharmaco-therapeutic class of drugs among the most used drugs worldwide with various indications, modes of administration and increasing automedication. NSAIDs can cause acute liver injury with variable severity. The recent identification of genetic markers might facilitate the diagnosis and the prediction of hepatotoxicity risk.

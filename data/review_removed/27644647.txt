@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Screening for the 3'UTR Polymorphism of the PXR Gene in South Indian Breast Cancer Patients and its Potential Role in Pharmacogenomics.
-Breast cancer, the commonest cancer among women in the world, ranks top in India with an incidence rate of 1,45,000 new cases and mortality rate of 70,000 women every year. Chemotherapy outcome for breast cancer is hampered due to poor response and irreversible dose-dependent cardiotoxicity which is determined by genetic variations in drug metabolizing enzymes and transporters. Pregnane X receptor (PXR), a member of the nuclear receptor superfamily, induces expression of drug metabolizing enzymes (DMEs) and transporters leading to regulation of xenobiotic metabolism.

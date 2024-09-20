@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Deleterious Effect of Butyrylcholinesterase K-Variant in Donepezil Treatment of Mild Cognitive Impairment.
-Donepezil is an acetylcholinesterase inhibitor frequently prescribed for the treatment of mild cognitive impairment (MCI) though not approved by the Food and Drug Administration for this indication. In Alzheimer's disease, butyrylcholinesterase (BChE) activity increases with disease progression and may replace acetylcholinesterase function. The most frequent polymorphism of BChE is the K-variant, which is associated with lower acetylcholine-hydrolyzing activity. BChE-K polymorphism has been studied in Alzheimer's disease progression and donepezil therapy, and has led to contradictory results.

@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Genome-wide association study identifies candidate loci associated with postoperative fentanyl requirements after laparoscopic-assisted colectomy.
-Opioids are widely used as effective analgesics, but opioid sensitivity is well known to vary widely among individuals and the underlying genetic factors are not fully understood, thus hampering efficient pain treatment. We explored the genetic factors that contribute to individual differences in opioid sensitivity by performing a genome-wide association study.

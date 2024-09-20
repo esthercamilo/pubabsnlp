@@ -1,3 +1,0 @@
-{'Year': '2019', 'Season': 'Jan-Dec'}
-Expanding Pharmacist and Student Pharmacist Access to Genetics/Genomics/Pharmacogenomics Competency Education.
-As pharmacogenomics (PGx), a component of genetics/genomics and precision medicine, gains traction in the clinical setting, education of health care providers and health professions students must be made broadly available to improve accessibility of such services to patients. As medication experts with education in pharmacology, pharmacokinetics, and pharmacodynamics, pharmacists must further their education to include pharmacogenomics. Currently, few opportunities exist to gain this type of education, and therefore, these services are not yet broadly available to the public.

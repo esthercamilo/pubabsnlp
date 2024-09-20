@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Sep'}
-Cytochrome 2B6 polymorphism and efavirenz-induced central nervous system symptoms : a substudy of the ANRS ALIZE trial.
-Single nucleotide polymorphisms in the cytochrome P450 (CYP) 2B6 gene have been associated with high interindividual variation in efavirenz pharmacokinetics. However, clinical data on the relationship of CYP2B6 polymorphisms with the occurrence of efavirenz-induced central nervous system (CNS) symptoms are limited.

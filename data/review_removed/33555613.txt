@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jun'}
-Results of a nationwide survey of Japanese pharmacists regarding the application of pharmacogenomic testing in precision medicine.
-Pharmacogenomics (PGx) testing can be effective for supporting precision medicine. The purpose of this study was to assess the knowledge, attitude and practice behaviours of pharmacists in relation to such testing through a survey. We also aimed to identify potential obstacles to implementation of PGx testing by pharmacists and the characteristics of hospital pharmacists involved.

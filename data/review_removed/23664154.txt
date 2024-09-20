@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jul'}
-Painful Na-channelopathies: an expanding universe.
-The universe of painful Na-channelopathies--human disorders caused by mutations in voltage-gated sodium channels--has recently expanded in three dimensions. We now know that mutations of sodium channels cause not only rare genetic 'model disorders' such as inherited erythromelalgia and channelopathy-associated insensitivity to pain but also common painful neuropathies. We have learned that mutations of NaV1.8, as well as mutations of NaV1.7, can cause painful Na-channelopathies. Moreover, recent studies combining atomic level structural models and pharmacogenomics suggest that the goal of genomically guided pain therapy may not be unrealistic.

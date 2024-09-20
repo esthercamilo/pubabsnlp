@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Nov'}
-Pharmacogenomics and Implications for Nursing Practice.
-This article aims to introduce the nurse to pharmacogenomics and its implications for clinical practice with regard to drug therapy.

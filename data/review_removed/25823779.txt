@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Implementation and evaluation of a CYP2C19 genotype-guided antiplatelet therapy algorithm in high-risk coronary artery disease patients.
-An algorithm that uses clinical factors and CYP2C19 genotype to guide P2Y12 inhibitor selection in high-risk patients undergoing percutaneous coronary intervention was implemented at our institution. We sought to evaluate use of this algorithm and identify which factors influenced P2Y12 inhibitor selection.

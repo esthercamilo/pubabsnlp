@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jul'}
-Accuracy of SNPs to predict risk of HLA alleles associated with drug-induced hypersensitivity events across racial groups.
-To evaluate the potential usefulness of selected SNPs to predict specific HLA alleles that are associated with drug-induced hypersensitivity reactions (HSR) in different ethnic groups.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jun'}
-Do Maternal Pharmacogenetics Impact the Neonatal Abstinence Syndrome Following In Utero Exposure to Antidepressant Medications?
-Selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) are the most commonly used medications for mood and anxiety disorders in women. Many women need to continue or initiate these medications during pregnancy, but there is concern about potential withdrawal effects in the newborn, referred to as neonatal abstinence syndrome (NAS). The reason why some infants remain asymptomatic while others are affected has not been elucidated. The objective of this study was to examine whether genetic differences in maternal drug metabolism influence the incidence of NAS.

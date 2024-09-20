@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Aug', 'Day': '12'}
-Pharmacogenetics of Between-Individual Variability in Plasma Clearance of Bedaquiline and Clofazimine in South Africa.
-Plasma bedaquiline clearance is reportedly more rapid with African ancestry. Our objective was to determine whether genetic polymorphisms explained between-individual variability in plasma clearance of bedaquiline, its M2 metabolite, and clofazimine in a cohort of patients treated for drug-resistant tuberculosis in South Africa.

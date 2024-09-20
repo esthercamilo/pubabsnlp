@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May'}
-SLC04A1, SLC22A2 and SLC28A2 variants not related to methotrexate efficacy or toxicity in rheumatoid arthritis patients.
-A third of rheumatoid arthritis patients discontinue methotrexate treatment due to inefficacy or toxic side effects. Recently, an association between SLC04A1 rs2236553, SLC22A2 rs624249 and rs316019, and SLC28A2 rs10519020 and rs1060896 with the efficacy and toxicity of methotrexate was reported. This study aims to replicate these findings in an independent cohort (n = 324).

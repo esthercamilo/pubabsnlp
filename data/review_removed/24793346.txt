@@ -1,3 +1,0 @@
-{'Year': '2014', 'Season': 'May-Jun'}
-Influence of PCSK9 polymorphisms on plasma lipids and response to atorvastatin treatment in Brazilian subjects.
-The proprotein convertase subtilisin/kexin type 9 (PCSK9) has a key role in the regulation of plasma low-density lipoprotein (LDL) cholesterol by enhancing the degradation of LDL receptor. Functional variants in PCSK9 have been associated with differences in plasma lipids and may contribute to the variability of the response to cholesterol-lowering drugs.

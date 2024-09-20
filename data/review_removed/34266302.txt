@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Sep'}
-Genetic risk for chronic pain is associated with lower antidepressant effectiveness: Converging evidence for a depression subtype.
-Chronic pain and depression are highly comorbid and difficult-to-treat disorders. We previously showed this comorbidity is associated with higher depression severity, lower antidepressant treatment effectiveness and poorer prognosis in the Australian Genetics of Depression Study.

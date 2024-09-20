@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Nov'}
-Approaches for dosage individualisation in critically ill patients.
-Pharmacokinetic variability in critically ill patients is the result of the overlapping of multiple pathophysiological and clinical factors. Unpredictable exposure from standard dosage regimens may influence the outcome of treatment. Therefore, strategies for dosage individualisation are recommended in this setting.

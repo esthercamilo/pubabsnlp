@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jun', 'Day': '22'}
-ApoB gene polymorphism (rs676210) and its pharmacogenetics impact on atorvastatin response among Iraqi population with coronary artery disease.
-Drug response is below genetic influence, proven by the genetic variants. Pharmacogenetics trials are performed in many diseases, including coronary artery disease. This study was designed to determine the genetic polymorphism (rs676210) Pro2739leu G > A in the lipid metabolism-related gene (ApoB gene) and its pharmacogenetic role in the response to atorvastatin drug in a sample of Iraqi population with coronary artery disease (CAD).

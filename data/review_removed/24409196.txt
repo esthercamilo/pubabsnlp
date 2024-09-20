@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Nov', 'Day': '01'}
-Bumps along the translational pathway: anticipating uptake of tailored smoking cessation treatment.
-To assess potential barriers to clinical integration of tailored smoking cessation treatment among African American and white smokers in the USA.

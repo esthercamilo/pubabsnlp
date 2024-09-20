@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Nov'}
-Pharmaco-genetic inhibition of pyramidal neurons retards hippocampal kindling-induced epileptogenesis.
-Pharmaco-genetics emerges as a new promising approach for epileptic seizures. Whether it can modulate epileptogenesis is still unknown.

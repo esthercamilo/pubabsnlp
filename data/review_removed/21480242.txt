@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'May', 'Day': '01'}
-Translational/personalized medicine, pharmaco/surgico/radiogenomics, lymphatic spread of cancer, and medical ignoromes.
-In the elusive quest for "personalized" cancer treatments based on pharmacogenomics, diverse challenges must be overcome: questionable validity of "molecular models of life," obstacles to bidirectional translation of scientific advances from bench to bedside to community, and limitations of bioinformatics to recognize and deal with "ignoramics/ignoromes" (expanding unknowns in cancer biology, theranostics, and therapeutic choices). These considerations apply to lymphatic system functioning-lymphatic vessels, lymph, lymph nodes, and lymphocytes-in diseases like cancer.

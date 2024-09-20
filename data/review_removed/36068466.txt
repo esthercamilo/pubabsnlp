@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Pharmacogenomics Informs Cardiovascular Pharmacotherapy.
-Precision medicine exemplifies the emergence of personalized treatment options which may benefit specific patient populations based upon their genetic makeup. Application of pharmacogenomics requires an understanding of how genetic variations impact pharmacokinetic and pharmacodynamic properties. This particular approach in pharmacotherapy is helpful because it can assist in and improve clinical decisions. Application of pharmacogenomics to cardiovascular pharmacotherapy provides for the ability of the medical provider to gain critical knowledge on a patient's response to various treatment options and risk of side effects.

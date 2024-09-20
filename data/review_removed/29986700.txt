@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jul', 'Day': '10'}
-Genotype-guided versus traditional clinical dosing of warfarin in patients of Asian ancestry: a randomized controlled trial.
-Genotype-guided warfarin dosing has been shown in some randomized trials to improve anticoagulation outcomes in individuals of European ancestry, yet its utility in Asian patients remains unresolved.

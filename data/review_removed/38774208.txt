@@ -1,3 +1,0 @@
-{'Year': '2024'}
-Association between coenzyme Q 10-related genetic polymorphisms and statin-associated myotoxicity in Korean stroke patients.
-The purpose of this study is to identify the relationship between coenzyme Q 10 (CoQ10)-related gene polymorphisms and statin-related myotoxicity (SRM).

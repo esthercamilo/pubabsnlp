@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Mar', 'Day': '09'}
-Genome Wide Association Study Identifies the <i>HMGCS2</i> Locus to be Associated With Chlorthalidone Induced Glucose Increase in Hypertensive Patients.
-Thiazide and thiazide-like diuretics are first-line medications for treating uncomplicated hypertension. However, their use has been associated with adverse metabolic events, including hyperglycemia and incident diabetes mellitus, with incompletely understood mechanisms. Our goal was to identify genomic variants associated with thiazide-like diuretic/chlorthalidone-induced glucose change.

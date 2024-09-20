@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Mar'}
-Pharmacotherapeutic strategies for standard treatment-resistant psoriasis.
-Psoriasis management includes a variety of treatments including localized therapies and systemic treatments; however, many patients report inadequate clinical response and resistance to therapy. Currently there is no treatment algorithm that incorporates effective strategies to tackle the various barriers leading to resistance.

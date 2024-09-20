@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Apr'}
-Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for UGT1A1 and Atazanavir Prescribing.
-The antiretroviral protease inhibitor atazanavir inhibits hepatic uridine diphosphate glucuronosyltransferase (UGT) 1A1, thereby preventing the glucuronidation and elimination of bilirubin. Resultant indirect hyperbilirubinemia with jaundice can cause premature discontinuation of atazanavir. Risk for bilirubin-related discontinuation is highest among individuals who carry two UGT1A1 decreased function alleles (UGT1A1*28 or *37). We summarize published literature that supports this association and provide recommendations for atazanavir prescribing when UGT1A1 genotype is known (updates at www.pharmgkb.org).

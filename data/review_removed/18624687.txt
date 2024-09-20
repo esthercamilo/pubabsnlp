@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Jul'}
-Lessons learned from development of docetaxel.
-Docetaxel has benefited from focused evaluation of its preclinical pharmacology and pharmacokinetics, as well as the evolving areas that are becoming significant to cancer drug development: pharmacogenetics, population pharmacokinetics, and in vivo quantitative pharmacology.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Dec'}
-Prevalence and characteristics of adverse drug reactions at admission to hospital: a prospective observational study.
-Adverse drug reactions (ADRs) contribute to poorer patient outcomes and additional burden to the healthcare system. However, data on the true burden, relevant types and drugs causing ADRs are lacking. The aim of this study was to determine the prevalence of ADR-related hospitalization in the general adult population in Singapore and to investigate their characteristics.

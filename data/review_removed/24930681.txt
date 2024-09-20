@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-Understanding the pharmacogenetics of selective serotonin reuptake inhibitors.
-The genetic background of antidepressant response represents a unique opportunity to identify biological markers of treatment outcome. Encouraging results alternating with inconsistent findings made antidepressant pharmacogenetics a stimulating but often discouraging field that requires careful discussion about cumulative evidence and methodological issues.

@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Aug', 'Day': '15'}
-Discovering novel germline genetic variants linked to severe fluoropyrimidine-related toxicity in- and outside DPYD.
-The Alpe-DPD study (NCT02324452) demonstrated that prospective genotyping and dose-individualization using four alleles in DPYD (DPYD*2A/rs3918290, c.1236G > A/rs75017182, c.2846A > T/rs67376798 and c.1679 T > G/rs56038477) can mitigate the risk of severe fluoropyrimidine toxicity. However, this could not prevent all toxicities. The goal of this study was to identify additional genetic variants, both inside and outside DPYD, that may contribute to fluoropyrimidine toxicity.

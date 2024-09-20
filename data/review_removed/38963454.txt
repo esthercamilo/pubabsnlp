@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul', 'Day': '04'}
-Impact of CYP2D6*2, CYP2D6*35, rs5758550, and related haplotypes on risperidone clearance in vivo.
-The CYP2D6 gene exhibits significant polymorphism, contributing to variability in responses to drugs metabolized by CYP2D6. While CYP2D6*2 and CYP2D6*35 are presently designated as alleles encoding normal metabolism, this classification is based on moderate level evidence. Additionally, the role of the formerly called "enhancer" single nucleotide polymorphism (SNP) rs5758550 is unclear. In this study, the impacts of CYP2D6*2, CYP2D6*35 and rs5758550 on CYP2D6 activity were investigated using risperidone clearance as CYP2D6 activity marker.

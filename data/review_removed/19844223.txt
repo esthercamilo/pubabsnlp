@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Nov'}
-How will GINA influence participation in pharmacogenomics research and clinical testing?
-After a 13-year battle in Congress--longer than it took to map the human genome--the Genetic Information Nondiscrimination Act (GINA) was passed into law on 21 May 2008. Before its passing, Francis Collins, then director of the National Human Genome Research Institute, testified before the 110th Congress that the success of personalized medicine hinged on the passing of the legislation. How will GINA, which takes effect in 2009, influence participation in pharmacogenomic research and clinical testing?

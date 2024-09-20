@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Mar'}
-CYP2D6 pharmacogenetic and oxycodone pharmacokinetic association study in pediatric surgical patients.
-Oxycodone is partly metabolized to the active metabolite oxymorphone by hepatic CYP2D6 in the liver. Significant genetic variability in CYP2D6 activity affects oxymorphone formation. This study aimed to associate CYP2D6 genotype and oxycodone's metabolism.

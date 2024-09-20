@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Oct'}
-Assessment of healthcare students' views on pharmacogenomics at the University of Minnesota.
-The aim was to determine if the University of Minnesota (MN, USA) healthcare students' perceived value of pharmacogenomics matches their self-observed comfort and education in pharmacogenomics.

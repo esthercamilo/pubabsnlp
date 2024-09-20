@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'May'}
-Impact of Platelet Endothelial Aggregation Receptor-1 Genotypes on Platelet Reactivity and Early Cardiovascular Outcomes in Patients Undergoing Percutaneous Coronary Intervention and Treated With Aspirin and Clopidogrel.
-The genetic determinants of response to clopidogrel and aspirin are incompletely characterized. Recently, PEAR1 (platelet endothelial aggregation receptor-1) rs12041331 polymorphism has been shown to influence the platelet reactivity, but its impact on cardiovascular outcomes remains unclear in patients treated with antiplatelet agents.

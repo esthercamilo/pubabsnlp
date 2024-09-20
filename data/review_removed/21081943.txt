@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Dec'}
-Establishing clinical utility of pharmacogenetic tests in the post-FDAAA era.
-The US Food and Drug Administration (FDA) Amendments Act of 2007, when fully implemented, will offer new sources of evidence and new regulatory mechanisms during the postmarket phase of drug life. If artfully and carefully applied, these new capabilities could help resolve problems that have long impeded the clinical translation of pharmacogenomics.

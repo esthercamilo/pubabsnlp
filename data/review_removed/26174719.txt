@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Nov'}
-Successful pharmacogenetics-based optimization of unboosted atazanavir plasma exposure in HIV-positive patients: a randomized, controlled, pilot study (the REYAGEN study).
-Atazanavir without ritonavir, despite efficacy and tolerability, shows low plasma concentrations that warrant optimization.

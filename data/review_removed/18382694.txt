@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Apr', 'Day': '02'}
-Pharmacogenomics of interferon-beta therapy in multiple sclerosis: baseline IFN signature determines pharmacological differences between patients.
-Multiple sclerosis (MS) is a heterogeneous disease. In order to understand the partial responsiveness to IFNbeta in Relapsing Remitting MS (RRMS) we studied the pharmacological effects of IFNbeta therapy.

@@ -1,3 +1,0 @@
-{'Year': '2012'}
-The extraction of pharmacogenetic and pharmacogenomic relations--a case study using PharmGKB.
-In this paper, we report on adapting the JREX relation extraction engine, originally developed For the elicitation of protein-protein interaction relations, to the domains of pharmacogenetics and pharmacogenomics. We propose an intrinsic and an extrinsic evaluation scenario which is based on knowledge contained in the PharmGKB knowledge base. Porting JREX yields favorable results in the range of 80% F-score for Gene-Disease, Gene-Drug, and Drug-Disease relations.

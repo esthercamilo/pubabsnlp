@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Retrospective Analysis of the Risk Factors of Perioperative Bacterial Infection and Correlation with Clinical Prognosis in Kidney Transplant Recipients.
-Infection remains a leading cause of morbidity and mortality in kidney transplant patients. This study aimed to investigate the risk factors of bacterial infection during the perioperative period of transplantation and the effects of infection on long-term clinical outcomes.

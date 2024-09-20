@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Apr'}
-Pharmacogenomics approach reveals MRP1 (ABCC1)-mediated resistance to geldanamycins.
-Geldanamycin and its analogues belong to a new class of anticancer agents that inhibit the molecular chaperone heat shock protein 90. We hypothesized that membrane transporters expressed on tumor cells may contribute at least in part to cellular sensitivity to these agents. The purpose of this study is to identify novel transporters as determinant for sensitivity and resistance to geldanamycins.

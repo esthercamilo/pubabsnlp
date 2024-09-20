@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Oct'}
-Phase II study of cilengitide in the treatment of refractory or relapsed high-grade gliomas in children: a report from the Children's Oncology Group.
-Cilengitide, an αv integrin antagonist, has demonstrated activity in recurrent adult glioblastoma (GBM). The Children's Oncology Group ACNS0621 study thus evaluated whether cilengitide is active as a single agent in the treatment of children with refractory high-grade glioma (HGG). Secondary objectives were to investigate the pharmacokinetics and pharmacogenomics of cilengitide in this population.

@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Jan'}
-Nevirapine-induced hepatotoxicity and pharmacogenetics: a retrospective study in a population from Mozambique.
-Nevirapine is widely used to treat HIV-1 infection to prevent mother-to-child transmission; unfortunately adverse drug reactions have been reported. Our aim was to identify genes/variants involved in nevirapine-induced hepatotoxicity.

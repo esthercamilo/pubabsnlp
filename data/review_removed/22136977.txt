@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Dec'}
-Characteristics of successful recruitment in prospective pediatric pharmacogenetic studies.
-There is a need to explore feasible means of accruing an appropriate study cohort to help fill the knowledge gap between pharmacogenetic contributions to drug response and clinical application in the pediatric population.

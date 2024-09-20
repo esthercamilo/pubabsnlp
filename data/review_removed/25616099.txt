@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jan'}
-P-glycoprotein: a clue to vitamin K antagonist stabilization.
-Acenocoumarol is a vitamin K antagonist used in some European countries. As warfarin, this drug is characterized by a narrow therapeutic index and a large interindividual variability.

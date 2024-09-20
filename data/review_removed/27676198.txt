@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Dec'}
-Pharmacogenomic approaches to lipid-regulating trials.
-Randomized clinical outcome trials are costly, long, and often yield neutral or modestly positive results, and these issues have impeded cardiovascular drug development in the past decade. Despite the significant reduction of cardiovascular morbidity and mortality with statins, substantial residual risk of major cardiovascular events remains. This could be because of the difficulty of demonstrating benefits of new drugs in addition to the current standard of care in unselected populations as well as the interindividual variability in drug response. Pharmacogenomics is a promising avenue for the development of novel or failed drugs and for the repurposing of other medications.

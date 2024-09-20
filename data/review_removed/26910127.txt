@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Advances in understanding genomic markers and pharmacogenetics of Parkinson's disease.
-The inheritance pattern of Parkinson's disease (PD) is likely multifactorial (owing to the interplay of genetic predisposition and environmental factors). Many pharmacogenetic studies have tried to establish a possible role of candidate genes in PD risk. Several studies have focused on the influence of genes in the response to antiparkinsonian drugs and in the risk of developing side-effects of these drugs.

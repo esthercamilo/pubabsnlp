@@ -1,3 +1,0 @@
-{'Year': '2013', 'Season': 'Nov-Dec'}
-Pharmacogenomic testing and the prospect of individualized treatment.
-Pharmacogenomics offers the hope of greater individualization of treatment. Therapies that exemplify the promise of pharmacogenomics include anticoagulation with warfarin and the use of antiplatelet medications (eg, clopidogrel) for secondary prevention after acute coronary syndrome. Good evidence of clinical utility must be obtained before pharmacogenomic testing is widely implemented.

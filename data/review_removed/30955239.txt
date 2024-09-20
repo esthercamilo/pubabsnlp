@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'May'}
-Genetic analysis of pharmacogenomic VIP variants in the Blang population from Yunnan Province of China.
-Genetic polymorphisms in numerous pharmacogenetics studies were regarded as the essential factors involved in the response to or metabolism of drugs. These genetic variants called very important pharmacogenetic (VIP) variants played a role in drugs metabolism, which have been summarized in the PharmGKB database. In this study, we genotyped 80 VIP variants from the PharmGKB in 100 members of Blang volunteers from Yunnan province.

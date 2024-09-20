@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jun'}
-Pharmacogenomics/updated for precision medicine in dermatology.
-Pharmacogenomics, a key part of precision medicine, has the potential to tailor drug therapy with the high safety margins and optimized response. Before the Human Genome Project in 2003, articles on pharmacogenomics were limited. The last 15 years have seen significant growth in the field, with gene variant discoveries that play essential roles in individuals' drug response. Dermatology has started to take advantage of this information. This overview shows how pharmacogenomic databases have expanded in the treatment of skin diseases and provides a list of current dermatologic drugs with their FDA-approved biomarkers and clinical implementation.

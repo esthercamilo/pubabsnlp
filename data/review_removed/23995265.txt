@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Mar'}
-Practicability of pharmacogenetics in transplantation medicine.
-Implementation of pharmacogenetics in transplantation medicine has not met the expectations expressed 15 years ago. Numerous studies have reported associations between gene polymorphisms and pharmacokinetics of immunosuppressive drugs. Evidence that genotype-based dosing improves outcome is lacking. Extensive therapeutic drug monitoring (TDM) can rapidly correct for the variability in drug exposure caused by genetic differences. The contribution of genotype-based dosing will be more pronounced for drugs for which pharmacokinetic or pharmacodynamic monitoring is not applied.

@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'May'}
-Impact of food intake on the pharmacokinetics of first-line antituberculosis drugs in Taiwanese tuberculosis patients.
-Under the directly observed treatment, short course (DOTS) program, antituberculosis (anti-TB) medications were possibly taken at random time, regardless of whether it was prior to or after meals. This study was to evaluate the impact of food intake on pharmacokinetic profiles of first-line TB drugs in Taiwanese TB patients, as well as the relationship between drug levels and pharmacogenetics.

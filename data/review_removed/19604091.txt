@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Jul'}
-Utilization of pharmacogenomics and therapeutic drug monitoring for opioid pain management.
-The use of medication in pain management currently involves empirical adjustment based on observed clinical outcome and the presence of adverse drug reactions. In this study, pharmacogenomics and therapeutic drug monitoring were used to evaluate the clinical effectiveness of genotyping chronic pain patients on analgesic therapy. It was hypothesized that patients who have inherited polymorphisms in CYP2D6 that make them poor or intermediate metabolizers of opioid medications would have higher steady-state concentrations of those opioids and may be more likely to experience adverse drug reactions.

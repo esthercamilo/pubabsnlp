@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Oct', 'Day': '09'}
-A new approach to safely type for HLA the HIV infected people eligible to abacavir therapy: saliva or buccal swab as reliable DNA sources.
-Increasing the safety in Immunogenetics Labs, in the era of antiretroviral pharmacogenomics, represents an imperative goal. To this purpose, we tested saliva and buccal cells as biological sources of DNA, alternative to peripheral blood, for HLA-B*57:01 genomic typing of HIV positive patients eligible to treatment with abacavir.

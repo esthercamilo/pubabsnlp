@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Mar'}
-Evaluating the association of multiple single nucleotide polymorphisms with response to gemcitabine and platinum combination chemotherapy in urothelial carcinoma of the bladder .
-To examine germline single nucleotide polymorphisms (SNPs) as markers of response to gemcitabine platinum (GP) combination chemotherapy in urothelial carcinoma (UC).

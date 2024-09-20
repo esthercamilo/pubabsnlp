@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Dec', 'Day': '01'}
-Precision medicine in oncology: New practice models and roles for oncology pharmacists.
-Three different precision medicine practice models developed by oncology pharmacists are described, including strategies for implementation and recommendations for educating the next generation of oncology pharmacy practitioners.

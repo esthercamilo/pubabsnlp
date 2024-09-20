@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-Relationship of CYP3A5 genotype and ABCB1 diplotype to tacrolimus disposition in Brazilian kidney transplant patients.
-Tacrolimus (TAC) is one of the most successful immunosuppressive drugs in transplantation. Its pharmacokinetics (PK) and pharmacogenetics (PG) have been extensively studied, with many studies showing the influence of CYP3A5 on TAC metabolism and bioavailability. However, data concerning the functional significance of ABCB1 polymorphisms are uncertain due to inconsistent results. We evaluated the association between ABCB1 diplotypes, CYP3A5 polymorphisms and TAC disposition in a cohort of Brazilian transplant recipients.

@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul'}
-Urine metabolomics signature reveals novel determinants of adrenal suppression in children taking inhaled corticosteroids to control asthma symptoms.
-Asthma is routinely treated with inhaled corticosteroids (ICS). Asthma patients on ICS are at increased risk of adrenal suppression, a potentially serious effect of long-term glucocorticoid exposure; however, this relationship is poorly understood. Therefore, this study aims to identify metabolite biomarkers related to adrenal suppression in asthma patients taking ICS.

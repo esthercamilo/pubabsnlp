@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Dec'}
-Genetic polymorphism of clopidogrel metabolism related gene <i>CYP2C19</i> gene in Chinese from Foshan area of Guangdong Province.
-The <i>CYP2C19</i> gene is highly polymorphic, and <i>CYP2C19</i> is involved in the broad interindividual variability of the clinical efficacy of certain clinical medications, such as clopidogrel. However, data on the <i>CYP2C19</i> genotype in the Chinese population of the Foshan area of Guangdong Province are scarce. The purpose of this study was to determine <i>CYP2C19</i> genetic polymorphisms in patients in the Foshan area and to compare the <i>CYP2C19</i> genotype frequencies in different populations to determine the allele distribution pattern to identify the most appropriate prescription.

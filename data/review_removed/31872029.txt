@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Dec'}
-Application of pharmacogenomics for trauma and critical care patients: A case report.
-Pharmacogenomics is increasingly becoming a valuable tool for improving health outcomes, reducing health care costs and avoiding adverse drug reactions. While application of pharmacogenomics is quite common in oncology and cardiology, routine use of this technology is rare in certain other fields including Trauma and Critical Care Surgery. We are testing feasibility of applying pharmacogenomic testing to improve therapeutic outcomes of trauma and acute care patients at MercyOne Medical Center in Des Moines, IA.

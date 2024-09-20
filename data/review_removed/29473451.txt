@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Mar'}
-A nationwide cross-sectional survey of pharmacy students on pharmacogenetic testing in The Netherlands.
-To benchmark knowledge and attitude of pharmacy students toward pharmacogenetics (PGx) and PGx testing and compare the results with practicing colleagues.

@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Apr'}
-The pharmacoepigenomics informatics pipeline defines a pathway of novel and known warfarin pharmacogenomics variants.
-'Pharmacoepigenomics' methods informed by omics datasets and pre-existing knowledge have yielded discoveries in neuropsychiatric pharmacogenomics. Now we evaluate the generality of these methods by discovering an extended warfarin pharmacogenomics pathway.

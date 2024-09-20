@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Apr'}
-The Genomics of Elevated ALT and Adducts in Therapeutic Acetaminophen Treatment: a Pilot Study.
-Therapeutic acetaminophen (APAP) ingestion causes asymptomatic drug-induced liver injury in some patients. In most cases, elevations in alanine aminotransferase (ALT) are transient and return to the normal range, even with continued APAP ingestion, though ALT elevation persists in some patients unpredictably. The etiology of this liver injury or adaption is unclear. Our objective was to identify new pharmacogenomic variants associated with elevated ALT or elevated protein adduct concentrations in patients receiving therapeutic acetaminophen.

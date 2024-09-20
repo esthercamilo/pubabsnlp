@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Mar', 'Day': '06'}
-In silico drug repositioning based on integrated drug targets and canonical correlation analysis.
-Besides binding to proteins, the most recent advances in pharmacogenomics indicate drugs can regulate the expression of non-coding RNAs (ncRNAs). The polypharmacological feature in drugs enables us to find new uses for existing drugs (namely drug repositioning). However, current computational methods for drug repositioning mainly consider proteins as drug targets. Meanwhile, these methods identify only statistical relationships between drugs and diseases. They provide little information about how drug-disease associations are formed at the molecular target level.

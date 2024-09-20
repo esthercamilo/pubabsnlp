@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Mar', 'Day': '16'}
-In silico profiling of deleterious amino acid substitutions of potential pathological importance in haemophlia A and haemophlia B.
-In this study, instead of current biochemical methods, the effects of deleterious amino acid substitutions in F8 and F9 gene upon protein structure and function were assayed by means of computational methods and information from the databases. Deleterious substitutions of F8 and F9 are responsible for Haemophilia A and Haemophilia B which is the most common genetic disease of coagulation disorders in blood. Yet, distinguishing deleterious variants of F8 and F9 from the massive amount of nonfunctional variants that occur within a single genome is a significant challenge.

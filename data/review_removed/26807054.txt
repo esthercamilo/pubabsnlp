@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jan'}
-Evaluation of popular drug information resources on clinically useful and actionable pharmacogenomic information.
-Pharmacogenomics is the study of how genes affect a person's response to drugs. This descriptive study assessed whether popular drug information resources provide clinically useful pharmacogenomic (PGx) information.

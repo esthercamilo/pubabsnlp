@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jan'}
-Critical appraisal of the views of healthcare professionals with respect to pharmacogenomics and personalized medicine in Greece.
-In the postgenomic era, in many European countries, very little is known regarding the level of awareness of healthcare professionals with respect to pharmacogenomics and personalized medicine.

@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'May'}
-Genetic variation in EPHA contributes to sensitivity to paclitaxel-induced peripheral neuropathy.
-Chemotherapy-induced peripheral neuropathy (PN) is a treatment limiting toxicity of paclitaxel. We evaluated if EPHA genetic variation (EPHA4, EPHA5, EPHA6, and EPHA8) is associated with PN sensitivity by accounting for variability in systemic paclitaxel exposure (time above threshold).

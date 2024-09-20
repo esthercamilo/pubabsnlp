@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Dec'}
-β1-adrenergic receptor polymorphisms: a possible genetic predictor of bisoprolol response in acute coronary syndrome.
-To investigate the association between beta1-adrenergic receptor (<i>ADRB1</i>) polymorphisms and response to bisoprolol treatment in beta-blocker naive patients with acute coronary syndrome (ACS).

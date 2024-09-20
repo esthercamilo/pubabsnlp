@@ -1,3 +1,0 @@
-{'Year': '2013'}
-Systematic pharmacogenomics analysis of a Malay whole genome: proof of concept for personalized medicine.
-With a higher throughput and lower cost in sequencing, second generation sequencing technology has immense potential for translation into clinical practice and in the realization of pharmacogenomics based patient care. The systematic analysis of whole genome sequences to assess patient to patient variability in pharmacokinetics and pharmacodynamics responses towards drugs would be the next step in future medicine in line with the vision of personalizing medicine.

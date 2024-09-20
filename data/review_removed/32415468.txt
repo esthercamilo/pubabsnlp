@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jul'}
-Effect of Cytochrome P450 and ABCB1 Polymorphisms on Imatinib Pharmacokinetics After Single-Dose Administration to Healthy Subjects.
-Validated genomic biomarkers for oncological drugs are expanding to improve targeted therapies. Pharmacogenetics research focusing on the mechanisms underlying imatinib suboptimal response might help to explain the different treatment outcomes and drug safety profiles.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jul'}
-Exploring genetic and non-genetic risk factors for delayed graft function, acute and subclinical rejection in renal transplant recipients.
-This study aimed at identifying pharmacological factors such as pharmacogenetics and drug exposure as new predictive biomarkers for delayed graft function (DGF), acute rejection (AR) and/or subclinical rejection (SCR).

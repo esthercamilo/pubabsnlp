@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jan', 'Day': '03'}
-The diversity and clinical implications of genetic variants influencing clopidogrel bioactivation and response in the Emirati population.
-Clopidogrel is a widely prescribed prodrug that requires activation via specific pharmacogenes to exert its anti-platelet function. Genetic variations in the genes encoding its transporter, metabolizing enzymes, and target receptor lead to variability in its activation and platelet inhibition and, consequently, its efficacy. This variability increases the risk of secondary cardiovascular events, and therefore, some variations have been utilized as genetic biomarkers when prescribing clopidogrel.

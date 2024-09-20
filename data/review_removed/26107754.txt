@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Association of SNPs with the efficacy and safety of immunosuppressant therapy after heart transplantation.
-Studying the possible influence of SNPs on efficacy and safety of calcineurin inhibitors upon heart transplantation.

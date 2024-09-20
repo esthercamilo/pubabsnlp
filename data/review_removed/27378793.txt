@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Nov'}
-Neurotrophin Genes and Antidepressant-Worsening Suicidal Ideation: A Prospective Case-Control Study.
-Antidepressant-worsening suicidal ideation is a rare but serious phenomenon. This study aimed to test for association between antidepressant-worsening suicidal ideation and polymorphisms of BDNF/NTRK2 neurotrophin pathway genes, known to be involved in depression and suicide.

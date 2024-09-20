@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Sep'}
-Variants in mycophenolate and CMV antiviral drug pharmacokinetic and pharmacodynamic genes and leukopenia in heart transplant recipients.
-The objective was to assess the relationship between single nucleotide polymorphisms in mycophenolate and cytomegalovirus antiviral drug pharmacokinetic and pharmacodynamic genes and drug-induced leukopenia in adult heart transplant recipients.

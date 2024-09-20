@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May', 'Day': '01'}
-Analytical validation of a psychiatric pharmacogenomic test.
-The aim of this study was to validate the analytical performance of a combinatorial pharmacogenomics test designed to aid in the appropriate medication selection for neuropsychiatric conditions.

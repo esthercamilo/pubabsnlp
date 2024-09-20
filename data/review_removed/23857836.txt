@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Apr'}
-Association between 5HT2A polymorphism and selective serotonin re-uptake inhibitor (SSRI)-induced sexual desire disorder (SDD) among Malaysian women.
-SSRIs are known for their sexual side-effects with a variable rate of sexual dysfunction (SD). 5HT2A (rs6311) single nucleotide polymorphism (SNP) was found to have significant association with SD. The purpose of this study was to determine the prevalence of female SDD, its clinical correlates and association with 5HT2A (rs6311) SNP in patients with major depressive disorder (MDD) treated with SSRIs.

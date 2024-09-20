@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan', 'Day': '01'}
-Psychedelic medicines for mood disorders: current evidence and clinical considerations.
-Despite advances in treatment modalities for mood disorders over recent decades, further therapeutic options are still required. Increased research is occurring, with the pursuit of psychedelic-based pharmacotherapies for a range of mood disorders and other conditions.

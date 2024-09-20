@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Oct', 'Day': '21'}
-Exploration of Gancao Xiexin decoction for treatment of Behcet disease based on network pharmacology and molecular docking.
-Based on network pharmacology and molecular docking, this study discusses the potential mechanism of Gancao Xiexin decoction in the treatment of Behçet disease (BD) to provide a more reliable theoretical basis for the treatment of BD.

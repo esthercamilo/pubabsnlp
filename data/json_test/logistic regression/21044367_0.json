@@ -1,5 +1,0 @@
-{
-    "data": {
-        "text": " We then define a summary score for each gene based on allele frequencies and train linear and logistic regression classifiers to predict drug response phenotypes"
-    }
-}

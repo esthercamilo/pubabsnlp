@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Mar'}
-Pharmacokinetic determinants for the right dose of antiarrhythmic drugs.
-Antiarrhythmic drugs (AADs) show a narrow therapeutic range and marked intersubject variability in pharmacokinetics (PK), which may lead to inappropriate dosing and drug toxicity.

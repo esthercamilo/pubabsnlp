@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Dec'}
-Pharmacogenomics of taxane/platinum therapy in ovarian cancer.
-Taxane (paclitaxel or docetaxel) and platinum (cisplatin or carboplatin) chemotherapy is commonly used in the treatment of ovarian cancer. Despite an initial high response to therapy, the 5-year survival rate remains low. The identification of pharmacogenomic markers to identify patients unlikely to respond or at risk for severe toxicity will assist in the goal of individualizing ovarian cancer treatment.

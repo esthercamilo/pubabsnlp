@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jul', 'Day': '23'}
-[Effects of genetic variations of cholesteryl ester transfer protein on atorvastatin treatment efficacy and clinical outcomes in patients with coronary artery disease].
-To explore the polymorphism of cholesteryl ester transfer protein (CETP) gene -629C/A among the coronary heart disease (CHD) Han population of Tianjin area and evaluate the influences of genetic factors on atorvastatin therapeutic effects and clinical outcomes in pharmacogenomics and provide theoretical rationales for individualized treatment.

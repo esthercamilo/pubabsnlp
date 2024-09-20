@@ -1,3 +1,0 @@
-{'Year': '2010', 'Season': 'Jan-Feb'}
-Pharmacogenomics: bridging the gap between science and practice.
-To educate pharmacists about principles and concepts in pharmacogenomics, clinical applications of pharmacogenomic information, and the social, ethical, and legal aspects of pharmacogenomics and to describe a Centers for Disease Control and Prevention (CDC)-supported pharmacogenomics education program for pharmacists and other health professionals.

@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Nov'}
-A Pilot, Phase II, Randomized, Open-Label Clinical Trial Comparing the Neurotoxicity of Three Dose Regimens of Nab-Paclitaxel to That of Solvent-Based Paclitaxel as the First-Line Treatment for Patients with Human Epidermal Growth Factor Receptor Type 2-Negative Metastatic Breast Cancer.
-This study aimed to characterize the neurotoxicity of three different regimens of nab-paclitaxel compared with a standard regimen of solvent-based (sb) paclitaxel for the first-line treatment of HER2-negative metastatic breast cancer based on the Total Neurotoxicity Score (TNS), a tool specifically developed to assess chemotherapy-induced neurotoxicity.

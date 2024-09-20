@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Nov'}
-Increased carrier prevalence of deficient CYP2C9, CYP2C19 and CYP2D6 alleles in depressed patients referred to a tertiary psychiatric hospital.
-This study compared the types and carrier prevalences of clinically significant DNA polymorphisms in the cytochrome P450 (CYP450) genes CYP2C9, CYP2C19 and CYP2D6 in major depressive disorder patients with a control group of nonpsychiatrically ill, medical outpatients.

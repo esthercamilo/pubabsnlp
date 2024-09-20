@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Oct'}
-An interprofessional education experience to promote the role of the pharmacist in precision medicine.
-An interprofessional (IP) experience was created that demonstrated the roles and responsibilities of pharmacists and physicians in clinical implementation of pharmacogenomics (PGx). The IP experience focused on PGx-themed patient cases and application of genotyping results to drug therapy management.

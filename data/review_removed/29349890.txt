@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Aug'}
-Case report: Cytochrome P450 implications for comorbid ADHD and OCD pharmacotherapy.
-This case report details the treatment of an early adolescent already receiving treatment for attention-deficit hyperactivity disorder who presents with recurrent obsessive-compulsive disorder. Potential atomoxetine (Strattera) and fluoxetine (Prozac) interactions via Cytochrome P450 (CYP450) pathways are examined and alternate therapies are recommended.

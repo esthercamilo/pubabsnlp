@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Mar', 'Day': '05'}
-Genetic Polymorphisms of <i>5-HT</i> Receptors and Antipsychotic-Induced Metabolic Dysfunction in Patients with Schizophrenia.
-Antipsychotic-induced metabolic syndrome (MetS) is a multifactorial disease with a genetic predisposition. Serotonin and its receptors are involved in antipsychotic-drug-induced metabolic disorders. The present study investigated the association of nine polymorphisms in the four 5-hydroxytryptamine receptor (<i>HTR</i>) genes <i>HTR1A</i>, <i>HTR2A</i>, <i>HTR3A</i>, and <i>HTR2C</i> and the gene encoding for the serotonin transporter <i>SLC6A4</i> with MetS in patients with schizophrenia.

@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jan'}
-Response to IL-17A inhibitors secukinumab and ixekizumab cannot be explained by genetic variation in the protein-coding and untranslated regions of the IL-17A gene: results from a multicentre study of four European psoriasis cohorts.
-Genetic predictors for treatment response could optimize allocation of biological treatment in patients with psoriasis. There is minimal knowledge about pharmacogenetics of anti-IL-17 agents.

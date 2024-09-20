@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Aug'}
-Impact of genetics in childhood asthma.
-To present the most important and recent results of studies on asthma genetics. These data may help general physicians understand the impact of genetics on this complex disorder and how genes and polymorphisms influence asthma and atopy.

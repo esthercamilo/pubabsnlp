@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Jan'}
-Hepatitis C pharmacogenetics: state of the art in 2010.
-In 2009, a correlated set of polymorphisms in the region of the interleukin-28B (IL28B) gene were associated with clearance of genotype 1 hepatitis C virus (HCV) in patients treated with pegylated interferon-alfa and ribavirin. The same polymorphisms were subsequently associated with spontaneous clearance of HCV in untreated patients. The link between IL28B genotype and HCV clearance may impact decisions regarding initiation of current therapy, the design and interpretation of clinical studies, the economics of treatment, and the process of regulatory approval for new anti-HCV therapeutic agents.

@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jul'}
-Genetics of insulin resistance in polycystic ovary syndrome.
-Polycystic ovary syndrome (PCOS) is a very common endocrine disease in women all over the world. A variety of symptoms such as hirsutism and hyperandrogenism, irregular menstrual cycles and anovulatory infertility together with metabolic dysfunction, insulin resistance, and type 2 diabetes mellitus in lean and obese individuals and the development of consecutive diseases are key problems in this heterogeneous syndrome.

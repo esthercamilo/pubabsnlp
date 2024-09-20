@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Oct', 'Day': '06'}
-Clinical utility of the low-density Infinium QC genotyping Array in a genomics-based diagnostics laboratory.
-With 15,949 markers, the low-density Infinium QC Array-24 BeadChip enables linkage analysis, HLA haplotyping, fingerprinting, ethnicity determination, mitochondrial genome variations, blood groups and pharmacogenomics. It represents an attractive independent QC option for NGS-based diagnostic laboratories, and provides cost-efficient means for determining gender, ethnic ancestry, and sample kinships, that are important for data interpretation of NGS-based genetic tests.

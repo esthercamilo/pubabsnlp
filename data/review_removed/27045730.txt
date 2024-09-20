@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Apr'}
-A genetic risk score is associated with statin-induced low-density lipoprotein cholesterol lowering.
-To find new genetic loci associated with statin response, and to investigate the association of a genetic risk score (GRS) with this outcome.

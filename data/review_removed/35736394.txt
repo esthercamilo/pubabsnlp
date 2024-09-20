@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Oct'}
-Pharmacogenomic study of heart failure and candesartan response from the CHARM programme.
-The Candesartan in Heart failure Assessment of Reduction in Mortality and morbidity (CHARM) programme consisted of three parallel, randomized, double-blind clinical trials comparing candesartan with placebo in patients with heart failure (HF) categorized according to left ventricular ejection fraction and tolerability to an angiotensin-converting enzyme inhibitor. We conducted a pharmacogenomic study of the CHARM trials with the objective of identifying genetic predictors of HF progression and of the efficacy and safety of treatment with candesartan.

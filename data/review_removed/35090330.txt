@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan', 'Day': '17'}
-Effect of gigantol on the proliferation of hepatocellular carcinoma cells tested by a network-based pharmacological approach and experiments.
-Hepatocellular carcinoma (HCC) is a common clinical malignant disease and the second leading cause of cancer-related death worldwide. Dendrobium is a commonly applied nourishing drug in traditional Chinese medicine. Gigantol is a phenolic compound extracted from Dendrobium. The compound has attracted attention for its anticancer effects. However, the mechanism of gigantol in HCC has not been extensively explored.

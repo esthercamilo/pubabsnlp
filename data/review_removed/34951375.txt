@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Pharmacogenomics of Antihypertensive Drugs in Brazil: Recent Progress and Clinical Implications.
-The available antihypertensive drugs are effective and well tolerated agents. However, only about half of patients with treated hypertension achieve appropriate blood pressure control. Genetic and non-genetic factors contribute to the interindividual variability of the therapeutic response.

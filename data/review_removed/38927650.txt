@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'May', 'Day': '30'}
-Pharmacogenomics: Challenges and Future.
-Over the last few decades, the implementation of pharmacogenomics (PGx) in clinical practice has improved tailored drug prescriptions [...].

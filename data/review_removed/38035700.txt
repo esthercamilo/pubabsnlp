@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Dec'}
-Network and Computational Drug Repurposing Analysis for c-Myc Inhibition in Burkitt Lymphoma.
-The treatment rate of Burkitt lymphoma (BL) is still low in low-income countries and among elderly patients. The c-Myc dysregulation induced by mutations is one of the characteristics of BL. However, studies on the downstream signaling pathways of c-Myc are still lacking. This study aimed to identify the signaling pathways regulated by c-Myc.

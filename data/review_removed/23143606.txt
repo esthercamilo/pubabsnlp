@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Mar'}
-Role of pharmacogenetics on adjuvant chemotherapy-induced neutropenia in Chinese breast cancer patients.
-Breast cancer patients regularly undergo adjuvant chemotherapies following surgery. However, these treatments are largely associated with chemotherapeutic toxicities ranging from nausea to severe myelosuppression. In this investigation, we examined the effects of four SNPs in NR1I2, CYP3A4 and CYP3A5 genes on chemotherapy-induced severe neutropenia in 311 female Chinese breast cancer patients undergoing a standard adjuvant chemotherapy regimen.

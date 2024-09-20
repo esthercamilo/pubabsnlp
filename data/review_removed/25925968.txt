@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Apr', 'Day': '15'}
-Cell cycle arrest and induction of apoptosis by cajanin stilbene acid from Cajanus cajan in breast cancer cells.
-The low abundant cajanin stilbene acid (CSA) from Pigeon Pea (Cajanus cajan) has been shown to kill estrogen receptor α positive cancer cells in vitro and in vivo. Downstream effects such as cell cycle and apoptosis-related mechanisms have not been analyzed yet.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Season': 'Jul-Aug'}
-Comparison and validation of genomic predictors for anticancer drug sensitivity.
-An enduring challenge in personalized medicine lies in selecting the right drug for each individual patient. While testing of drugs on patients in large trials is the only way to assess their clinical efficacy and toxicity, we dramatically lack resources to test the hundreds of drugs currently under development. Therefore the use of preclinical model systems has been intensively investigated as this approach enables response to hundreds of drugs to be tested in multiple cell lines in parallel.

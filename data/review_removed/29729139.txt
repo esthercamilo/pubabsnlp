@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Dec', 'Day': '19'}
-Toward harmonization of clinical molecular diagnostic reports: findings of an international survey.
-The International Organization for Standardization (ISO) 15189 standard provides recommendations for the postexamination reporting phase to enhance quality in clinical laboratories. The purpose of this study was to encourage a broad discussion on current reporting practices for molecular diagnostic tests by conducting a global survey of such practices.

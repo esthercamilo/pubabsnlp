@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Association Study of the Beta-Adrenergic Receptor Genetic Variant Gly389Arg and Fluoxetine Response in Major Depression.
-Pharmacogenetics has proven role in the treatment of different illnesses. Patients with special genotypes may achieve a better response to a specific drug. On the other hand, genetic parameters markedly contribute to the development of major depressive disorder (MDD). The significance of adrenergic system compartments in cognition and behavior, and their role in etiology of depression denote that adrenergic receptors beta gene polymorphism(s) might also have an association with drug response. Thus this study aims to evaluate the association between β1AR gene polymorphisms, G1165C, Arg389Gly and response to fluoxetine in MDD patients.

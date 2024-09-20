@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Mar'}
-Impact of a personal CYP2D6 testing workshop on physician assistant student attitudes toward pharmacogenetics.
-We assessed the impact of personal CYP2D6 testing on physician assistant student competency in, and attitudes toward, pharmacogenetics (PGx).

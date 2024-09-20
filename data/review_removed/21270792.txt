@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Mar'}
-Early human screening of medications to treat drug addiction: novel paradigms and the relevance of pharmacogenetics.
-Initial screening of medications for efficacy in treating drug dependence may be accomplished more efficiently by using novel approaches that combine the practical advantages of within-subject laboratory studies with the clinical validity provided by clinical trials. <i>A priori</i> selection of functional gene variants associated with the pharmacokinetic or pharmacodynamic effects of a medication may aid this effort by controlling for individual variability as to clinical response or adverse effects; however, there are limitations to this approach, and these should be carefully considered.

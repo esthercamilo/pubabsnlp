@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jun'}
-Prospective Randomized Study Using Pharmacogenetics to Customize Postoperative Pain Medication Following Hip and Knee Arthroplasty.
-The purpose of this study is to determine whether pharmacogenetic testing could be used to effectively customize postoperative pain medicine following total joint replacement.

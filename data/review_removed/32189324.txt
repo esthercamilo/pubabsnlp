@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Aug'}
-Clinical Pharmacogenetics Implementation Consortium Guideline (CPIC) for CYP2C9 and Nonsteroidal Anti-Inflammatory Drugs.
-Nonsteroidal anti-inflammatory drugs (NSAIDs) are among the most commonly used analgesics due to their lack of addictive potential. However, NSAIDs have the potential to cause serious gastrointestinal, renal, and cardiovascular adverse events. CYP2C9 polymorphisms influence metabolism and clearance of several drugs in this class, thereby affecting drug exposure and potentially safety. We summarize evidence from the published literature supporting these associations and provide therapeutic recommendations for NSAIDs based on CYP2C9 genotype (updates at www.cpicpgx.org).

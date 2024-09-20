@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Apr'}
-Comparative performance of pharmacogenetics-based warfarin dosing algorithms derived from Caucasian, Asian, and mixed races in Thai population.
-This study was conducted to compare predictive accuracy of the available pharmacogenetics (PGx)-guided warfarin dosing algorithms derived from Caucasian, Asian, and mixed population to identify a suitable algorithm for Thai population.

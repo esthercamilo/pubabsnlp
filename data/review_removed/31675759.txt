@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jan'}
-A6 neurons simultaneously modulate active expiration and upper airway resistance in rats.
-What is the central question of this study? Do A6 neurons modulate active expiratory and airway responses evoked by hypercapnia/acidosis? What is the main finding and its importance? Acute inhibition of A6 neurons reduced active expiratory, inspiratory and the associated oropharyngeal and laryngeal motor responses to hypercapnia/acidosis. A6 neurons provide excitatory synaptic drive contributing to the central generation of inspiratory and expiratory motor activity as well as the control of upper airway resistance.

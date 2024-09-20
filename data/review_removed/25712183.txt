@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Genetic polymorphism in ATG16L1 gene influences the response to adalimumab in Crohn's disease patients.
-To see if SNPs could help predict response to biological therapy using adalimumab (ADA) in Crohn's disease (CD).

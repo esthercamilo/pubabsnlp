@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Genetic Polymorphism of Drug Metabolic Gene <i>CYPs, VKORC1, NAT2, DPYD</i> and <i>CHST3</i> of Five Ethnic Minorities in Heilongjiang Province, Northeast China.
-Genetic variability in genes encoding drug-metabolizing enzymes may contribute to the heterogeneity of drug responses in different populations. Extensive research in pharmacogenomics in major populations around the world provides us with a great deal of information about drug-related genetic polymorphisms.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jan'}
-An evaluation of pharmacists' expectations towards pharmacogenomics.
-Given their expertise in pharmacotherapy, pharmacists are well positioned to play a leading role in the implementation of pharmacogenomics in clinical practice. However, little is known about the opinions of pharmacists towards pharmacogenomics or their willingness to integrate this new field in their practice.

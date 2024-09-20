@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Feb'}
-Analysis of comprehensive pharmacogenomic profiling to impact in-hospital prescribing.
-In-hospital adverse medication events result in increased morbidity and mortality. Many implicated drugs carry pharmacogenomic information. We hypothesized that comprehensive pre-emptive pharmacogenomic profiling could have high relevance for in-hospital prescribing.

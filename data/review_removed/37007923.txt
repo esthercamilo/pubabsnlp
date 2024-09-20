@@ -1,3 +1,0 @@
-{'Year': '2022', 'Season': 'Jul-Aug'}
-Didanosine-Associated Retinal Toxicity in a Patient With a Mutation in the <i>CRB1</i> Gene.
-This article describes a case of didanosine (DDI)-associated retinal toxicity in a patient with a heterozygous pathogenic variant in the CRB1 gene.

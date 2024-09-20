@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Oct'}
-Medical education in pharmacogenomics-results from a survey on pharmacogenetic knowledge in healthcare professionals within the European pharmacogenomics clinical implementation project Ubiquitous Pharmacogenomics (U-PGx).
-Due to the diversity within Europe, the implementation of pharmacogenomic testing in clinical practice faces specific challenges. In the context of the European pharmacogenomics implementation project "Ubiquitous Pharmacogenomics" (U-PGx; funded by the European Commission), we studied the current educational background.

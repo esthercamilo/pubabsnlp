@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jan'}
-No evidence so far of a major role of AKT1 and GSK3B in the pathogenesis of antipsychotic-induced tardive dyskinesia.
-AKT1 and GSK3B take part in one of the intracellular cascades activated by the D2 dopamine receptor (DRD2). This receptor is antagonized by antipsychotics and plays a role in the pathogenesis of antipsychotic-induced tardive dyskinesia (TD). The present study investigated association of several polymorphisms in the two candidate genes, AKT1 and GSK3B, with TD in antipsychotic-treated patients with schizophrenia.

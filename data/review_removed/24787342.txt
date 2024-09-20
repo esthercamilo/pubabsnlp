@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'May'}
-Cancer pain and current theory for pain control.
-This article discusses current trends in managing cancer pain, with specific regard to opioid transmission, descending pathway inhabitation, and ways to facilitate the endogenous antinociceptive chemicals in the human body. Various techniques for opioid and nonopioid control of potential pain situations of patients with cancer are discussed. The benefits of using pharmacogenetics to assess the appropriate medications are addressed. Finally, specific treatment of abdominal cancer pain using radiofrequency lesioning is discussed.

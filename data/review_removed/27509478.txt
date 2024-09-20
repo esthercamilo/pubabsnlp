@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Oct'}
-Pharmacogenetics of efavirenz discontinuation for reported central nervous system symptoms appears to differ by race.
-Efavirenz frequently causes central nervous system (CNS) symptoms. We evaluated genetic associations with efavirenz discontinuation for CNS symptoms within 12 months of treatment initiation.

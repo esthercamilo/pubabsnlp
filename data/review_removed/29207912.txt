@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jan'}
-Genome-wide scan identifies candidate loci related to remifentanil requirements during laparoscopic-assisted colectomy.
- Opioids are widely used as effective analgesics, but opioid sensitivity is well known to vary widely among individuals. We explored the genetic factors that contribute to individual differences in intraoperative opioid sensitivity by performing a genome-wide association study.

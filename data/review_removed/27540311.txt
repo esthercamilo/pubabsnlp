@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Prevalence of CYP2D6*2, CYP2D6*4, CYP2D6*10, and CYP3A5*3 in Thai breast cancer patients undergoing tamoxifen treatment.
-Tamoxifen (TAM) is used in breast cancer treatment, but interindividual variabilities in TAM-metabolizing enzymes exist and have been linked to single nucleotide polymorphisms in the respective encoding genes. The different alleles and genotypes of these genes have been presented for Caucasians and Asians. This study aimed to explore the prevalence of the incomplete functional alleles and genotypes of the CYP2D6 and CYP3A5 genes in Thai breast cancer patients undergoing TAM treatment.

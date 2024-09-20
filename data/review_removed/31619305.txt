@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Apr'}
-Molecular pathway analysis associates alterations in obesity-related genes and antipsychotic-induced weight gain.
-Antipsychotics often induce excessive weight gain. We hypothesised that individuals with genetic variations related to known obesity-risk genes have an increased risk of excessive antipsychotic-induced weight gain (AIWG). This hypothesis was tested in a subset of the Clinical Antipsychotic Trials of Intervention Effectiveness (CATIE) trial data set.

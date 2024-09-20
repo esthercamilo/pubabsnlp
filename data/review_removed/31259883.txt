@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Dec'}
-Chinese Patients With Heart Valve Replacement Do Not Benefit From Warfarin Pharmacogenetic Testing on Anticoagulation Outcomes.
-Genotype-guided warfarin dosing has been shown in some randomized trials to improve anticoagulation outcomes in individuals of European ancestry; yet, its utility in Chinese patients with heart valve replacement remains unresolved.

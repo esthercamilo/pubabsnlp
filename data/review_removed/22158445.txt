@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Feb'}
--174G/C IL-6 gene promoter polymorphism predicts therapeutic response to TNF-α blockers.
-Although TNF-α blockade is a very effective therapy for psoriasis, not all patients achieve a favorable outcome. The association between IL-6 and psoriasis has been investigated but no papers have focused on the pharmacogenetics of IL-6.

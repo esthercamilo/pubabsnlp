@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Dec', 'Day': '21'}
-A common missense variant of LILRB5 is associated with statin intolerance and myalgia.
-A genetic variant in LILRB5 (leukocyte immunoglobulin-like receptor subfamily-B) (rs12975366: T > C: Asp247Gly) has been reported to be associated with lower creatine phosphokinase (CK) and lactate dehydrogenase (LDH) levels. Both biomarkers are released from injured muscle tissue, making this variant a potential candidate for susceptibility to muscle-related symptoms. We examined the association of this variant with statin intolerance ascertained from electronic medical records in the GoDARTS study.

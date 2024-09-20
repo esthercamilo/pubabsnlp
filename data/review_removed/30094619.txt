@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct'}
-Correction to: Clopidogrel Pharmacogenetics in Iranian Patients Undergoing Percutaneous Coronary Intervention.
-The original version of this article unfortunately contained a typo in the co-author name.

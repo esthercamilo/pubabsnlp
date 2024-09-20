@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Feb'}
-Role of organic cation transporters in drug-induced toxicity.
-Membrane transporters are important determinants of in vivo drug disposition, therapeutic efficacy and adverse drug reactions. Many commonly used drugs are organic cations and substrates of organic cation transporters (OCTs). These transporters have a large binding site containing partially overlapping interaction domains for different substrates and are specifically distributed around the body. Consequently, drug interactions with these transporters can result in specific toxicity.

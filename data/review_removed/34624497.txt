@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan'}
-International Tailored Chemotherapy Adjuvant (ITACA) trial, a phase III multicenter randomized trial comparing adjuvant pharmacogenomic-driven chemotherapy versus standard adjuvant chemotherapy in completely resected stage II-IIIA non-small-cell lung cancer.
-Several strategies have been investigated to improve the 4% survival advantage of adjuvant chemotherapy in early-stage non-small-cell lung cancer (NSCLC). In this investigator-initiated study we aimed to evaluate the predictive utility of the messenger RNA (mRNA) expression levels of excision repair cross complementation group 1 (ERCC1) and thymidylate synthase (TS) as assessed in resected tumor.

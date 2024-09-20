@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Jan'}
-Pharmacogenomics: will the promise be fulfilled?
-Tools such as genome resequencing and genome-wide association studies have recently been used to uncover a number of variants that affect drug toxicity and efficacy, as well as potential drug targets. But how much closer are we to incorporating pharmacogenomics into routine clinical practice? Five experts discuss how far we have come, and highlight the technological, informatics, educational and practical obstacles that stand in the way of realizing genome-driven medicine.

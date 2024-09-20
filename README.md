@@ -1,4 +1,4 @@
-# Unlocking New Insights from PubMed Articles Abstracts: Conceptual Extraction and Clustering Methodology Applied to Pipelines for Pharmacogene Phenotype prediction
+# Pipeline for NCBI information extraction and named entity recognition applied to pharmacogenomics
 
 ## Introduction
 

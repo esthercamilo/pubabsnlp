@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Next-Generation Sequencing and Bioinformatics-Based Protocol for the Full-Length <i>CYP2E1</i> Gene Polymorphism Analysis.
-Pharmacogenetics studies provide clinically relevant information on the identified associations between genetic variants and individual variability in drug response, which, in turn, offers great promise for guiding personalized drug therapy and clinical trial design. However, there is a lack of information concerning the evidence-based clinical annotations of specific <i>CYP2E1</i> genetic variants.

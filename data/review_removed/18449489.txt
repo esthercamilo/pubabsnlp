@@ -1,3 +1,0 @@
-{'Year': '2008'}
-From pharmacogenomics to translational biomarkers.
-There is a need for new biomarkers to enable faster detection of adverse events due to drugs and disease processes. One would prefer biomarkers that are useful in multiple species (i.e., translational or bridging biomarkers) so that it would be possible to directly link responses between species and follow such injury in both preclinical and clinical settings. This chapter will explore some of the issues surrounding the use of pharmacogenomics to identify and qualify such biomarkers, and examples will be provided.

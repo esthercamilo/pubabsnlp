@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Apr'}
-Interindividual variability in TPMT enzyme activity: 10 years of experience with thiopurine pharmacogenetics and therapeutic drug monitoring.
-TPMT activity and metabolite determination (6-thioguanine nucleotides [6-TGN] and 6-methylmercaptopurine nucleotides [6-MMPN]) remain controversial during thiopurine management. This study assessed associations between patient characteristics and TPMT activity, and their impact on metabolite levels.

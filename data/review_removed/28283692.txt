@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jun'}
-Pharmacokinetics and pharmacogenetics of the MEK1/2 inhibitor, selumetinib, in Asian and Western healthy subjects: a pooled analysis.
-Emerging data on selumetinib, a MEK1/2 inhibitor in clinical development, suggest a possible difference in pharmacokinetics (PK) between Japanese and Western patients. This pooled analysis sought to assess the effect of ethnicity on selumetinib exposure in healthy Western and Asian subjects, and to identify any association between genetic variants in the UGT1A1, CYP2C19 and ABCG2 genes and observed differences in selumetinib PK.

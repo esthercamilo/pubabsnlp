@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Mar'}
-Perceptions of pharmacogenetic research to guide tobacco cessation by patients, providers and leaders in a tribal healthcare setting.
-Describe patients,' providers' and healthcare system leaders' perceptions of pharmacogenetic research to guide tobacco cessation treatment in an American Indian/Alaska Native primary care setting.

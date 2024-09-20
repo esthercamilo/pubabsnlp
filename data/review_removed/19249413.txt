@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Mar'}
-Pharmacogenomics of antihypertensive drugs: rationale and design of the Pharmacogenomic Evaluation of Antihypertensive Responses (PEAR) study.
-Selection of antihypertensive therapy is often empiric, and use of genetic information to guide drug therapy selection holds future promise.

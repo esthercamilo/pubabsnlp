@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Dec'}
-Stressful life events, cognitive symptoms of depression and response to antidepressants in GENDEP.
-The occurrence of stressful life events (SLEs) has been shown to predict response to antidepressants; however, results are inconsistent. There is some evidence to suggest that SLEs prior to treatment are associated with greater cognitive symptoms at baseline and may therefore predict changes in these symptoms specifically.

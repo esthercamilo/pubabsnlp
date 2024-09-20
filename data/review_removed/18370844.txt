@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Feb'}
-Pharmacogenomics of metabolic effects of rosiglitazone.
-Thiazolidinediones are increasingly used drugs for the treatment of Type 2 diabetes. The individual response to thiazolidinedione therapy, ranging from the variable degree of metabolic improvement to harmful side-effects, is empirical, yet the underlying mechanisms remain elusive. In order to assess the pharmacogenomic component of thiazolidinediones' metabolic action, we compared the effect of rosiglitazone in two genetically defined models of metabolic syndrome, polydactylous (PD) and BN.SHR4 inbred rat strains, with their insulin-sensitive, normolipidemic counterpart, the Brown Norway (BN) rat.

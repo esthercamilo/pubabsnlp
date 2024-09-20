@@ -1,3 +1,0 @@
-{'Year': '2012'}
-[Pharmacogenetic features of the effect of metformin in patients with coronary heart disease in the presence of metabolic syndrome and type 2 diabetes mellitus in terms of PPAR-gamma2 gene polymorphism].
-To define the pharmacogenetic features of the effect of metformin in coronary heart disease (CHD) patients with metabolic syndrome (MS) or type 2 diabetes mellitus (T2DM), by taking into consideration PPAR-gamma2 Pro1 2Ala polymorphism.

@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Nov', 'Day': '01'}
-Clinical Pharmacogenetics for Precision Medicine: Successes and Setbacks.
-Pharmacogenetics is a key component in the delivery of therapeutics to maximize pharmacologic efficacy and minimize toxicity. There are numerous identified gene-drug pairs that demonstrate the utility of pharmacogenetics testing for drug or dose selection. Although some of these pairs have translated into clinical use, pharmacogenetic testing has not yet made its way into routine clinical practice at many institutions.

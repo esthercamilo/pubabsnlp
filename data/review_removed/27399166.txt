@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Nov'}
-Influence of ADORA2A gene polymorphism on leukoencephalopathy risk in MTX-treated pediatric patients affected by hematological malignancies.
-Methotrexate (MTX) can lead to neurotoxicity and asymptomatic leukoencephalopathy. However, the mechanism of MTX-related leukoencephalopathy is obscure. MTX and its metabolites inhibit 5-aminoimidazole-4-carboxamide ribonucleotide formiltransferase (ATIC) and promote adenosine release. Recently, it has been reported that adenosine and its receptor are related to certain central nervous system diseases. We investigated whether adenosine pathway gene polymorphisms and clinical factors were related to MTX-related leukoencephalopathy in pediatric patients affected by hematological malignancies.

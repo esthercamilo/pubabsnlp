@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Sep', 'Day': '01'}
-Genetic, Clinical, and Sociodemographic Factors Associated With Stimulant Treatment Outcomes in ADHD.
-Stimulant medications are effective for treating attention deficit hyperactivity disorder (ADHD), yet discontinuation and switch to nonstimulant ADHD medications are common. This study aimed to identify genetic, clinical, and sociodemographic factors influencing stimulant treatment initiation, discontinuation, and switch to nonstimulants in individuals with ADHD.

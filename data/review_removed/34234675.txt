@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Pharmacogenomics of NSAID-Induced Upper Gastrointestinal Toxicity.
-Non-steroidal anti-inflammatory drugs (NSAIDs) are a group of drugs which are widely used globally for the treatment of pain and inflammation, and in the case of aspirin, for secondary prevention of cardiovascular disease. Chronic non-steroidal anti-inflammatory drug use is associated with potentially serious upper gastrointestinal adverse drug reactions (ADRs) including peptic ulcer disease and gastrointestinal bleeding. A few clinical and genetic predisposing factors have been identified; however, genetic data are contradictory. Further research is needed to identify clinically relevant genetic and non-genetic markers predisposing to NSAID-induced peptic ulceration.

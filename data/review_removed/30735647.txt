@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Feb', 'Day': '07'}
-Setting our AdipoSIGHTS on Stem Cells in Pharmacogenomics.
-In a recent study published in Cell Stem Cell, Hu et al. (2019) used human adipose stem cell-derived adipocytes to demonstrate that genetic variation predicts anti-diabetic response to thiazolidinediones (TZDs) by modulating PPARγ binding.

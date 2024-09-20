@@ -1,3 +1,0 @@
-{'Year': '2012'}
-SLC22A1-ABCB1 haplotype profiles predict imatinib pharmacokinetics in Asian patients with chronic myeloid leukemia.
-This study aimed to explore the influence of SLC22A1, PXR, ABCG2, ABCB1 and CYP3A5 3 genetic polymorphisms on imatinib mesylate (IM) pharmacokinetics in Asian patients with chronic myeloid leukemia (CML).

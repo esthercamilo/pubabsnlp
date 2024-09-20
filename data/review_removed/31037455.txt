@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jun'}
-Relationship between warfarin dosage and international normalized ratio: a dose-response analysis and evaluation based on multicenter data.
-The objectives of the study were to establish a dose-response model for warfarin based on the relationship between daily warfarin dose and international normalized ratio (INR) and to evaluate the stability and reliability of the established model using external data.

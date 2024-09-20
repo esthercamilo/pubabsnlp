@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Oct'}
-Integrating Pharmacogenomics into Clinical Practice: Promise vs Reality.
-Limited information is available regarding primary care clinicians' response to pharmacogenomic clinical decision support (PGx-CDS) alerts integrated in the electronic health record.

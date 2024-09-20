@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Nov'}
-Systematic evaluation of commercial pharmacogenetic testing in psychiatry: a focus on CYP2D6 and CYP2C19 allele coverage and results reporting.
-The aim of this study was to systematically assess commercial pharmacogenetic tests relevant to prescribing in psychiatry, with specific attention on CYP2D6 and CYP2C19 star allele coverage as well as compliance with consensus recommendations for pharmacogenetic test result reporting.

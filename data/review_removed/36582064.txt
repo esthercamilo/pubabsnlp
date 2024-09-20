@@ -1,3 +1,0 @@
-{'Year': '2023'}
-Pharmacogenomics-a New Frontier for Individualized Treatment of Parkinson's Disease.
-Parkinson's disease (PD) is the second most common neurodegenerative disease with a significant public health burden. It is characterized by the gradual degeneration of dopamine neurons in the central nervous system. Although symptomatic pharmacological management remains the primary therapeutic method for PD, clinical experience reveals significant inter-individual heterogeneity in treatment effectiveness and adverse medication responses. The mechanisms behind the observed interindividual variability may be elucidated by investigating the role of genetic variation in human-to-human variances in medication responses and adverse effects.

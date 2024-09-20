@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Apr'}
-Opportunity for pharmacogenomic testing in patients with cystic fibrosis.
-Patients with cystic fibrosis (CF) are exposed to many drugs in their lifetime and many of these drugs have Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines that are available to guide dosing. Contemporary CF treatments are targeted to specific mutations in the CF transmembrane conductance regulator (CFTR) gene, and thus, require patients to have genetic testing before initiation of modulator therapy. However, aside from CFTR genetic testing, pharmacogenomic testing is not standard of care for CF patients.

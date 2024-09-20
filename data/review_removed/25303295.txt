@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-From pharmacogenetics to pharmacometabolomics: SAM modulates TPMT activity.
-In the present study, the influence of SAM on TPMT activity in vivo on human subjects was investigated.

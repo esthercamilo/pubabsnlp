@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Sep'}
-Neonatal diabetes due to potassium channel mutation: Response to sulfonylurea according to the genotype.
-A precision medicine approach is used to improve treatment of patients with monogenic diabetes. Herein, we searched SU efficiency according to the genotype-phenotype correlation, dosage used, and side effects.

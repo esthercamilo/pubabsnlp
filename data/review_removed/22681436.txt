@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Aug'}
-Current regulatory approaches of bioequivalence testing.
-Nowadays, reducing medication costs is vital for health care agencies. Prescription of generic drug products can help lower these expenses. A generally accepted assumption is that therapeutic equivalence, between a generic and a brand-name medication, can be claimed if bioequivalence is demonstrated.

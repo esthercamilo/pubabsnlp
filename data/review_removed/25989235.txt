@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Oct'}
-Role of CYP2D6 Polymorphisms in the Outcome of Postoperative Pain Treatment.
-To investigate the role of CYP2D6 phenotype in the outcome of postoperative (PO) pain (POP) treatment.

@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'May', 'Day': '30'}
-Influence of genetic polymorphisms on imatinib concentration and therapeutic response in patients with chronic-phase chronic myeloid leukemia.
-Diminished bioavailability of imatinib in leukemic cells contributes to poor clinical response. We examined the impact of genetic polymorphisms of imatinib on the pharmacokinetics and clinical response in 190 patients with chronic myeloid leukaemia (CML).

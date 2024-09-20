@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'May'}
-Genetic variation in genes involved in folate and drug metabolism in a south Indian population.
-Genetic variations represented as single nucleotide polymorphisms (SNPs) vary across the world population. This genetic polymorphism (such as SNPs) plays an important role in pharmacogenomics. SNPs that affects cellular metabolism, by altering the enzyme activity, have an important role in therapeutic outcome. Allele frequencies in number of clinically relevant SNPs within south Indian populations are not yet known. Hence, we genotyped randomly selected unrelated south Indian subjects from different locations of south India representing the heterogeneous ethnic background of the population.

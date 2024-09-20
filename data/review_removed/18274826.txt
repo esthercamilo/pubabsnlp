@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'May'}
-Association of SLC22A4/5 polymorphisms with steroid responsiveness of inflammatory bowel disease in Japan.
-We investigated the association between steroid responsiveness and single nucleotide polymorphisms of SLC22A4/A5 located within inflammatory bowel disease 5 locus. Our goal is personalized steroid therapy adjusted to match individual variations in drug responsiveness in each inflammatory bowel disease patient.

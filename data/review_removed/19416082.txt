@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'May'}
-ADME pharmacogenetics: current practices and future outlook.
-Genetic variants of ADME (absorption, distribution, metabolism and elimination) related genes have been consistently associated with pharmacokinetic properties of numerous drugs. However, the association between these genetic markers and clinical outcomes remains controversial.

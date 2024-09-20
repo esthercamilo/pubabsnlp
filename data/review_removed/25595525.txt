@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Apr'}
-Genotype-guided coumarin dosing: where are we now and where do we need to go next?
-A large proportion of the coumarin dose variability is explained by environmental factors and by common genetic variants in the VKORC1 and CYP2C9 genes. Genotype-guided coumarin dosing has been proposed for a more accurate prediction of the coumarin dose in order to reduce the incidence of coumarin-related complications.

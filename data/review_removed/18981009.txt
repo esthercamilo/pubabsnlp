@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Nov', 'Day': '01'}
-Population pharmacokinetics and pharmacogenetics of imatinib in children and adults.
-The aim of this study was to explore the effect of several demographic, biological, and pharmacogenetic covariates on the disposition of imatinib and its main metabolite (CGP74588) in both adults and children.

@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'May'}
-Pharmacogenetics: potential role in the treatment of diabetes and obesity.
-Common genetic variation is associated with increased risk of common metabolic diseases such as type 1 and type 2 diabetes, and obesity. Increasing experience with genetic association studies has led to an understanding of the large sample sizes required to detect a weak to moderate genetic predisposition to disease, the need to reproduce such associations in independent cohorts, and the statistical criteria required to detect a true association. This approach has been used successfully to identify disease-associated gene variation usually in representative populations of large numbers.

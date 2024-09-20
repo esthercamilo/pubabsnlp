@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Feb'}
-Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for IFNL3 (IL28B) genotype and PEG interferon-α-based regimens.
-Pegylated interferon-α (PEG-IFN-α or PEG-IFN 2a and 2b)- and ribavirin (RBV)-based regimens are the mainstay for treatment of hepatitis C virus (HCV) genotype 1. IFNL3 (IL28B) genotype is the strongest baseline predictor of response to PEG-IFN-α and RBV therapy in previously untreated patients and can be used by patients and clinicians as part of the shared decision-making process for initiating treatment for HCV infection. We provide information regarding the clinical use of PEG-IFN-α- and RBV-containing regimens based on IFNL3 genotype.

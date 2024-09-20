@@ -1,3 +1,0 @@
-{'Year': '2023', 'Season': 'Jan-Jun'}
-The Potential Role of <i>POR*28</i> and <i>CYP1A2*F</i> Genetic Variations and Lifestyle Factors on Clozapine and N-DesmethylClozapine Plasma Levels in Schizophrenia Patients.
-Despite its advantages over other antipsychotics, for treatment-resistant schizophrenia, clinical use of Clozapine (CLZ) is challenging by its narrow therapeutic index and potentially life-threatening dose-related adverse effects.

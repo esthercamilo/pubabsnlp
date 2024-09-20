@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'May'}
-Using Stepwise Pharmacogenomics and Proteomics to Predict Hepatitis C Treatment Response in Difficult to Treat Patient Populations.
-In the interferon era of hepatitis C virus (HCV) therapies, genotype/subtype, cirrhosis, prior treatment failure, sex, and race predicted relapse. Our objective is to validate a targeted proteomics platform of 17 peptides to predict sustained virologic response (SVR).

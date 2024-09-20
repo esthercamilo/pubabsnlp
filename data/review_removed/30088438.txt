@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Sep', 'Day': '01'}
-Comprehensive Ara-C SNP score predicts leukemic cell intracellular ara-CTP levels in pediatric acute myeloid leukemia patients.
-Cytarabine (Ara-C), a mainstay of acute myeloid leukemia (AML) treatment, is a prodrug requiring activation to ara-CTP for its antileukemic activity. Aim of this study was to evaluate impact of genetic variants in the key genes involved in ara-C metabolism on the leukemic cell intracellular levels of ara-CTP.

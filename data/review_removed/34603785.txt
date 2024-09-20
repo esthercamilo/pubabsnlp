@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Nov'}
-Assessment of the Link of <i>ABCB1</i> and <i>NR3C1</i> gene polymorphisms with the prednisolone resistance in pediatric nephrotic syndrome patients of Bangladesh: A genotype and haplotype approach.
-Nephrotic syndrome is a common pediatric kidney disease. Investigations on several genetic polymorphisms revealed an inconsistent influence on the resistance of patients to steroids.

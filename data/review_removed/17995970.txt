@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Feb'}
-Influence of APOE genotypes and VKORC1 haplotypes on warfarin dose requirements in Asian patients.
-Recent studies on pharmacogenetics of warfarin have implicated apolipoprotein E (APOE) polymorphisms to influence the vitamin K dependent coagulation cascade and hence the efficacy of warfarin. Studies among Caucasian and African Americans showed a significant but conflicting role of apolipoprotein E (APOE) isoforms in warfarin pharmacogenetics. The contribution of APOE isoforms in influencing variations in warfarin requirements in Asian subjects remains to be investigated.

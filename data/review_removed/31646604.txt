@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Oct'}
-Pharmacogenomics as a tool to prevent drug-related hospitalization of elderly cardiology-oncology patients receiving chemotherapeutic agents and multiple symptomatic treatments: a pilot study planned for the Italian health system.
-Current precision medicine approaches offer powerful tools to optimize medication regimens; however, the potential impact of these tools in cancer patients with multiple drug treatments has not fully appreciated yet. Here we describe a planning project scheduled to start in the next six months.

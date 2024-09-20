@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Oct'}
-Individual variability in clinical effect and tolerability of opioid analgesics - Importance of drug interactions and pharmacogenetics.
-As pain is often a comorbid condition, many patients use opioid analgesics in combination with several other drugs. This implies a generally increased risk of drug interactions, which along with inherent pharmacogenetic variability and other factors may cause differences in therapeutic response of opioids.

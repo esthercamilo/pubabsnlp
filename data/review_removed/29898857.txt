@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'May'}
-Pharmacogenetic studies in Alzheimer disease.
-Alzheimer disease (AD) is the most common cause of dementia and is considered one of the main causes of disability and dependence affecting quality of life in elderly people and their families. Current pharmacological treatment includes acetylcholinesterase inhibitors (donepezil, galantamine, rivastigmine) and memantine; however, only one-third of patients respond to treatment. Genetic factors have been shown to play a role in this inter-individual variability in drug response.

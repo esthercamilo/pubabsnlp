@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jan'}
-ABCC2 c.-24 C>T single-nucleotide polymorphism was associated with the pharmacokinetic variability of deferasirox in Chinese subjects.
-Our aim was to evaluate the influence of genetic polymorphisms involved in the metabolism and transportation of deferasirox on deferasirox pharmacokinetics in the Chinese population.

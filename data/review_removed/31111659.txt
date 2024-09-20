@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jul'}
-Identification of a de novo FOXP1 mutation and incidental discovery of inherited genetic variants contributing to a case of autism spectrum disorder and epilepsy.
-Autism spectrum disorder is commonly co-diagnosed intellectual disability, language disorder, anxiety, and epilepsy, however, symptom management is difficult due to the complex genetic nature of ASD.

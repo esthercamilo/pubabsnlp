@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jul'}
-Allelic variant in the glucagon-like peptide 1 receptor gene associated with greater effect of liraglutide and exenatide on gastric emptying: A pilot pharmacogenetics study.
-Weight loss in response to the long-acting GLP-1 receptor (GLP1R) analog, liraglutide, is correlated with delay in gastric-emptying (GE). The aim of this pilot study was to assess whether specific genetic variants in GLP1R or TCF7L2 are associated with delayed GE and weight loss in obese patients treated with liraglutide or the short-acting GLP-1 agonist, exenatide.

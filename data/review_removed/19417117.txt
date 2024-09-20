@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'May'}
-Anaphylactic reaction to anakinra in a rheumatoid arthritis patient intolerant to multiple nonbiologic and biologic disease-modifying antirheumatic drugs.
-To report a case of probable anaphylaxis due to anakinra in a patient with rheumatoid arthritis and multiple drug allergies.

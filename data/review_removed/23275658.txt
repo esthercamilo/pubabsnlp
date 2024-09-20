@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Dec', 'Day': '12'}
-A train-the-trainer approach to a shared pharmacogenomics curriculum for US colleges and schools of pharmacy.
-To assess pharmacy faculty trainers' perceptions of a Web-based train-the-trainer program for PharmGenEd, a shared pharmacogenomics curriculum for health professional students and licensed clinicians.

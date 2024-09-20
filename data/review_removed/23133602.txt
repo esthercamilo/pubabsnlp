@@ -1,3 +1,0 @@
-{'Year': '2012'}
-Pharmacogenetics of efficacy and safety of HCV treatment in HCV-HIV coinfected patients: significant associations with IL28B and SOCS3 gene variants.
-This was a safety and efficacy pharmacogenetic study of a previously performed randomized trial which compared the effectiveness of treatment of hepatitis C virus infection with pegylated interferon alpha (pegIFNα) 2a vs. 2b, both with ribavirin, for 48 weeks, in HCV-HIV coinfected patients.

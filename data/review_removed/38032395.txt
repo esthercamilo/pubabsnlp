@@ -1,3 +1,0 @@
-{'Year': '2023', 'Season': 'Jul-Dec'}
-What are the considerations when initiating treatment for epilepsy in children?
-There is a very wide spectrum of epilepsies and developmental and epileptic encephalopathies that affect children, from self-limited forms, not necessarily requiring treatment, to severe drug-resistant ones.

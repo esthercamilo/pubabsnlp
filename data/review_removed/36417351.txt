@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Aug', 'Day': '14'}
-Improving prescribing: a feasibility study of pharmacogenetic testing with clinical decision support in primary healthcare in Singapore.
-The study of genetic variation as a factor influencing drug safety, efficacy, and effectiveness has brought about significant breakthroughs in understanding the clinical application of gene-drug interactions to better manage drug therapy.

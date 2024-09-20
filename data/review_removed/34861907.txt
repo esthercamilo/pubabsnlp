@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec', 'Day': '01'}
-Implications of Cannabidiol in Pharmacogenomic-Based Drug Interactions with CYP2C19 Substrates.
-This is a patient case exploring the importance of evaluating herbal and dietary supplements and how they may impact drug-drug and drug-gene implications based on pharmacogenomics test results. Even though herbal supplements are considered natural by many patients, which is often the reason for starting them, herbal supplements may still be metabolized by the same pathways as other medications, potentially contributing to drug-drug, drug-herb, and drug-gene interactions, and therefore, potentially impacting a patient's response to medications.

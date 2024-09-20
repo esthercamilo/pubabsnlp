@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan', 'Day': '20'}
-Pharmacist assessment of drug-gene interactions and drug-induced phenoconversion in major depressive disorder: a case report.
-Response to antidepressant therapy is highly variable among individuals. Pharmacogenomic (PGx) testing presents an opportunity to guide drug selection while optimizing therapy outcomes and/or decreasing the risk for toxicity.

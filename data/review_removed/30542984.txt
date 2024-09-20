@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jan'}
-CYP2D6-inhibiting medication use and inherited CYP2D6 variation in relation to adverse breast cancer outcomes after tamoxifen therapy.
-Tamoxifen is widely used to reduce the risk of breast cancer (BC) recurrence and extend disease-free survival among women with estrogen-sensitive breast cancers. Tamoxifen efficacy is thought to be attributable to its active metabolite, which is formed through a reaction catalyzed by the P450 enzyme, CYP2D6. Inhibition of tamoxifen metabolism as a result of germline genetic variation and/or use of CYP2D6-inhibiting medications ("inhibitors") is hypothesized to increase the risk of adverse BC outcomes among women taking tamoxifen.

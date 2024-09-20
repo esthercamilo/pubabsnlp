@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Sep'}
-A pharmacogenetics study of TPMT and ITPA genes detects a relationship with side effects and clinical response in patients with inflammatory bowel disease receiving Azathioprine.
-Pharmacogenetic studies in inflammatory bowel diseases (IBD) are mainly focused on genes involved in the metabolism of Azathioprine (AZA). Use of AZA is limited by its toxicity, which occurs in 20-30% of patients. Variants in the Thiopurine S-methyltransferase (TPMT) and Inosine triphosphate pyrophosphatase (ITPA) genes have been associated with AZA toxicity, but also can contribute to the lack of response. The aims of this study were to determine the contribution of TPMT and ITPA variants in the development of AZA-related toxicity and response.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Nov'}
-ARMS2 A69S polymorphism is associated with the number of ranibizumab injections needed for exudative age-related macular degeneration in a pro re nata regimen during 4 years of follow-up.
-To investigate whether single-nucleotide polymorphisms (SNPs) known to be strongly associated with the development of age-related macular degeneration (AMD) have an influence on recurrence rate of choroidal neovascularization (CNV) activity during 4-year ranibizumab treatment for exudative AMD.

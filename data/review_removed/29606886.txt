@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Influence of <i>ABCB1</i> and <i>CYP3A5</i> gene polymorphisms on pharmacokinetics of apixaban in patients with atrial fibrillation and acute stroke.
-Difficulties in non-vitamin K anticoagulant (NOAC) administration in acute stroke can be associated with changes in pharmacokinetic parameters of NOAC such as biotransformation, distribution, and excretion. Therefore, obtaining data on pharmacokinetics of NOAC and factors that affect it may help develop algorithms for personalized use of this drug class in patients with acute cardioembolic stroke.

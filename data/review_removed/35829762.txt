@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jun'}
-Predicting drug response and toxicity in metastatic colorectal cancer: the role of germline markers.
-Despite the introduction of targeted agents leading to therapeutic advances, clinical management of patients with metastatic colorectal cancer (mCRC) is still challenged by significant interindividual variability in treatment outcomes, both in terms of toxicity and therapy efficacy. The study of germline genetic variants could help to personalize and optimize therapeutic approaches in mCRC.

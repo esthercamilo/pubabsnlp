@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Oct', 'Day': '01'}
-Pharmacogenetics of oxaliplatin as adjuvant treatment in colon carcinoma: are single nucleotide polymorphisms in GSTP1, ERCC1, and ERCC2 good predictive markers?
-Adjuvant chemotherapy improves survival in stage III colon cancer patients. However, a subgroup of patients still develops recurrent disease at some point in time, partly because of the ineffectiveness of the chemotherapy. Predictive markers of response are therefore crucial. Our aim was to study the predictive value of functional polymorphisms in genes involved in the metabolism of oxaliplatin and in DNA repair in stage III colon cancer patients.

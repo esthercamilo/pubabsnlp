@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Apr', 'Day': '14'}
-Impact of LDLR polymorphisms on lipid levels and atorvastatin's efficacy in a northern Chinese adult Han cohort with dyslipidemia.
-Dyslipidemia, a significant risk factor for atherosclerotic cardiovascular disease (ASCVD), is influenced by genetic variations, particularly those in the low-density lipoprotein receptor (LDLR) gene. This study aimed to elucidate the effects of LDLR polymorphisms on baseline serum lipid levels and the therapeutic efficacy of atorvastatin in an adult Han population in northern China with dyslipidemia.

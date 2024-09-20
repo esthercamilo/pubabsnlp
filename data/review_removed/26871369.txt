@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'May'}
-Pharmacogenetics of Cytochrome P450 Enzymes in American Indian and Caucasian Children Admitted to a Psychiatric Hospital.
-The cytochrome P450 (CYP450) enzyme system metabolizes many psychiatric medications. We compare frequencies of alleles and phenotypes for CYP2D6, CYP2C9, and CYP2C19 in American Indian (AI) and Caucasian youth treated at a psychiatric hospital in the Northwestern United States.

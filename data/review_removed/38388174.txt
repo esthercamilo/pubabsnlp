@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Mar'}
-PillHarmonics: An Orchestrated Pharmacogenetics Medication Clinical Decision Support Service.
- Pharmacogenetics (PGx) is increasingly important in individualizing therapeutic management plans, but is often implemented apart from other types of medication clinical decision support (CDS). The lack of integration of PGx into existing CDS may result in incomplete interaction information, which may pose patient safety concerns. We sought to develop a cloud-based orchestrated medication CDS service that integrates PGx with a broad set of drug screening alerts and evaluate it through a clinician utility study.

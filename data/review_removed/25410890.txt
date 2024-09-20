@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Sep'}
-Genome-wide association study identifies CAMKID variants involved in blood pressure response to losartan: the SOPHIA study.
-Essential hypertension arises from the combined effect of genetic and environmental factors. A pharmacogenomics approach could help to identify additional molecular mechanisms involved in its pathogenesis.

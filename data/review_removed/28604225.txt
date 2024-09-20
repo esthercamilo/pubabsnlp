@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jul'}
-The impact of clinical and genetic factors on ticagrelor and clopidogrel antiplatelet therapy.
-To determine clinically significant factors which may alter the effect of dual antiplatelet therapy with aspirin and ticagrelor or clopidogrel in patients who had undergone percutaneous coronary intervention and stent implantation.

@@ -1,3 +1,0 @@
-{'Year': '2024'}
-The frequency of <i>NUDT15</i> rs116855232 and its impact on mercaptopurine-induced toxicity in Syrian children with acute lymphoblastic leukemia.
-Polymorphisms in <i>NUDT15</i> may result in differences in mercaptopurine-induced toxicity. This study aimed to identify the frequency of the <i>NUDT15</i> (c.415C>T; rs116855232) polymorphism and investigate the effect of this polymorphism on mercaptopurine-induced toxicity in a population of Syrian patients with childhood acute lymphoblastic leukemia (ALL).

@@ -1,3 +1,0 @@
-{'Year': '2021'}
-<i>CYP2C9</i> Variations and Their Pharmacogenetic Implications Among Diverse South Asian Populations.
-Allelic frequency distribution of drug metabolizing enzyme genes among populations is important to identify risk groups for adverse drug reaction and to select representative populations for clinical trials. Although India emerged as an important hub for clinical trials, information about the pharmacogenetic diversity for this region is still lacking. Here, we investigated genetic diversity of cytochrome-P450-2C9 (<i>CYP2C9</i>) gene which metabolizes wide range of drugs and is highly expressed in the human liver.

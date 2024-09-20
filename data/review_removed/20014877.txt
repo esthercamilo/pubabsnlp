@@ -1,3 +1,0 @@
-{'Year': '2010'}
-A policy model to evaluate the benefits, risks and costs of warfarin pharmacogenomic testing.
-In 2007, the US FDA added information about pharmacogenomics to the warfarin label based on the influence of the CYP2C9 and VKORC1 genes on anticoagulation-related outcomes. Payers will be facing increasing demand for coverage decisions regarding this technology, but the potential clinical and economic impacts of testing are not clear.

@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Jun'}
-Integration of population pharmacokinetics and pharmacogenetics: an aid to optimal nevirapine dose selection in HIV-infected individuals.
-Nevirapine is metabolized by CYP2B6 and polymorphisms within the CYP2B6 gene partly explain inter-patient variability in pharmacokinetics. The aim of this study was to model the complex relationship between nevirapine exposure, weight and genetics (based on combined analysis of CYP2B6 516G > T and 983T > C single nucleotide polymorphisms).

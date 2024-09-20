@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Nov'}
-Babesia gibsoni cytochrome b mutations in canine blood samples submitted to a US veterinary diagnostic laboratory.
-Babesiosis caused by Babesia gibsoni is recognized throughout the world and can be difficult to treat. Resistance to atovaquone is associated with mutations in the B. gibsoni mitochondrial genome, specifically the M128 position of cytochrome b (cytb). The prevalence of cytb mutations in North America has not been reported.

@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul'}
-Public preferences for pharmacogenetic testing in the NHS: Embedding a discrete choice experiment within service design to better meet user needs.
-Genetic testing can be used to improve the safety and effectiveness of commonly prescribed medicines-a concept known as pharmacogenetics. This study aimed to quantify members of the UK public's preferences for a pharmacogenetic service to be delivered in primary care in the National Health Service.

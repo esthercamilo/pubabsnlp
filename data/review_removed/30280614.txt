@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Dec'}
-Economic evaluation of a pharmacogenomic multi-gene panel test to optimize anti-hypertension therapy: simulation study.
-Hypertension is the strongest modifiable risk factor for cardiovascular disease, affecting 80 million individuals in the US and responsible for ∼360,000 deaths, at total annual costs of $93.5 billion. Antihypertension therapies guided by single genotypes are clinically more effective and may avert more adverse events than the standard of care of layering anti-hypertensive drug therapies, thus potentially decreasing costs. This study aimed to determine the economic benefits of the implementation of multi-gene panel guided therapies for hypertension from the payer perspective within a 3-year time horizon.

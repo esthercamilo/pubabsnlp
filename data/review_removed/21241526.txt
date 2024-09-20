@@ -1,3 +1,0 @@
-{'Year': '2011'}
-Exploiting the complexity of the genome and transcriptome using pharmacogenomics towards personalized medicine.
-A report of the 8th annual Pharmacogenomics and Personalized Therapy meeting, Cold Spring Harbor Laboratory, USA, 17-21 November 2010.

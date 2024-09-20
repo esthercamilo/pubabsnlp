@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May', 'Day': '11'}
-Discovering novel SNPs that are correlated with patient outcome in a Singaporean cancer patient cohort treated with gemcitabine-based chemotherapy.
-Single Nucleotide Polymorphisms (SNPs) can influence patient outcome such as drug response and toxicity after drug intervention. The purpose of this study is to develop a systematic pathway approach to accurately and efficiently predict novel non-synonymous SNPs (nsSNPs) that could be causative to gemcitabine-based chemotherapy treatment outcome in Singaporean non-small cell lung cancer (NSCLC) patients.

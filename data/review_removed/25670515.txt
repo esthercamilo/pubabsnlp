@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Feb'}
-Pharmacogenetics of opioid response.
-For opioids requiring CYP2D6 O-demethylation to active metabolites, poor metabolizers have reduced metabolite formation and minimal pain reduction. Clinically, this has only reliably been shown for tramadol. Ultra-rapid metabolizers have an increased risk of toxicity especially for codeine. ABCB1 genetics show no consistent findings. In Asian populations, the high OPRM1 118A>G frequency associates with higher opioid dosage requirements. Clinical translation of opioid genetics is premature because many important pain and addiction phenotype factors contribute.

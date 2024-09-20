@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Nov'}
-Pharmacogenetics of Warfarin in a Diverse Patient Population.
-Many warfarin-related genotypes have shown to impact the average daily warfarin (ADW) dose requirements; however, information in non-Caucasian populations is limited.

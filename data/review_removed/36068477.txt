@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Pharmacogenomics in Children.
-Historically genetics has not been considered when prescribing drugs for children. However, it is clear that genetics are not only an important determinant of disease in children but also of drug response for many important drugs that are core agents used in the therapy of common problems in children. Advances in therapy and in the ethical construct of children's research have made pharmacogenomic assessment for children much easier to pursue. It is likely that pharmacogenomics will become part of the therapeutic decision-making process for children, notably in areas such as childhood cancer where weighing benefits and risks of therapy is crucial.

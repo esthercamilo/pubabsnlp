@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jan'}
-Incorporating SULF1 polymorphisms in a pretreatment CT-based radiomic model for predicting platinum resistance in ovarian cancer treatment.
-Early detection of platinum resistance for ovarian cancer treatment remains challenging. This study aims to develop a machine learning model incorporating genomic data such as Single-Nucleotide Polymorphisms (SNPs) of Human Sulfatase 1 (SULF1) with a CT radiomic model based on pre-treatment CT images, to predict platinum resistance for ovarian cancer (OC) treatment.

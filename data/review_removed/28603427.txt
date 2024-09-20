@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Pharmacogenetics in inflammatory bowel disease: understanding treatment response and personalizing therapeutic strategies.
-Inflammatory bowel disease (IBD) is a chronic and heterogeneous disorder characterized by remitting and relapsing periods of activity. Pharmacogenetics refers to the study of the effect of inheritance on individual variation in drug responses. Several drug-related markers in IBD patients have been identified in order to predict the response to medical treatment including biological therapy as well as the reduction of adverse events. In the future, the treatment of IBD should be personalized in its specific profile to provide the most efficacious treatment with lack of adverse events.

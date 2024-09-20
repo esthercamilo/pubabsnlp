@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Apr'}
-Childhood asthma in the new omics era: challenges and perspectives.
-Childhood asthma is a heterogeneous inflammatory disease comprising different phenotypes and endotypes and, particularly in its severe forms, has a large impact on the quality-of-life of patients and caregivers. The application of advanced omics technologies provides useful insights into underlying asthma endotypes and may provide potential clinical biomarkers to guide treatment and move towards a precision medicine approach.

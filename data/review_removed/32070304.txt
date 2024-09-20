@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Feb', 'Day': '18'}
-The association of genetic polymorphisms in CYP1A2, UGT1A4, and ABCB1 with autonomic nervous system dysfunction in schizophrenia patients treated with olanzapine.
-Use of the antipsychotic drug olanzapine by patients with schizophrenia is associated with autonomic nervous system (ANS) dysfunction. It is presumed that there are interindividual differences in ANS dysfunction that correspond to pharmacogenetics. In this study, we investigated whether genetic polymorphisms in ABCB1, CYP1A2, and UGT1A4 are associated with this observed ANS dysfunction.

@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Optimizing clopidogrel dose response: a new clinical algorithm comprising CYP2C19 pharmacogenetics and drug interactions.
-Response to clopidogrel varies widely with nonresponse rates ranging from 4% to 30%. A reduced function of the gene variant of the CYP2C19 has been associated with lower drug metabolite levels, and hence diminished platelet inhibition. Drugs that alter CYP2C19 activity may also mimic genetic variants. The aim of the study is to investigate the cumulative effect of CYP2C19 gene polymorphisms and drug interactions that affects clopidogrel dosing, and apply it into a new clinical-pharmacogenetic algorithm that can be used by clinicians in optimizing clopidogrel-based treatment.

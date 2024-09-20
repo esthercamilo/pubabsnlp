@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Aug'}
-Genome-wide association studies of exacerbations in children using long-acting beta2-agonists.
-Some children with asthma experience exacerbations despite long-acting beta2-agonist (LABA) treatment. While this variability is partly caused by genetic variation, no genome-wide study until now has investigated which genetic factors associated with risk of exacerbations despite LABA use in children with asthma. We aimed to assess whether genetic variation was associated with exacerbations in children treated with LABA from a global consortium.

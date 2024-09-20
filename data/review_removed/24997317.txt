@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Nov'}
-Intracellular accumulation of atazanavir/ritonavir according to plasma concentrations and OATP1B1, ABCB1 and PXR genetic polymorphisms.
-The rate of accumulation of atazanavir and ritonavir within cells is still debated due to methodological limitations. Our aim was to measure peripheral blood mononuclear cell (PBMC) concentrations of atazanavir and ritonavir and investigate whether single-nucleotide polymorphisms of OATP, ABCB1, CYP3A4 and PXR genes are involved in intracellular drug penetration.

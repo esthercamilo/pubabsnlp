@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Dec', 'Day': '01'}
-Effect of Pharmacogenetic Testing for Statin Myopathy Risk vs Usual Care on Blood Cholesterol: A Randomized Clinical Trial.
-Nonadherence to statin guidelines is common. The solute carrier organic anion transporter family member 1B1 (SLCO1B1) genotype is associated with simvastatin myopathy risk and is proposed for clinical implementation. The unintended harms of using pharmacogenetic information to guide pharmacotherapy remain a concern for some stakeholders.

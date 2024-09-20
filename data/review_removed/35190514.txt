@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jul', 'Day': '01'}
-Population genetic polymorphisms of pharmacogenes in Zimbabwe, a potential guide for the safe and efficacious use of medicines in people of African ancestry.
-Pharmacogenomics (PGx) is a clinically significant factor in the safe and efficacious use of medicines. While PGx knowledge is abundant for other populations, there are scarce PGx data on African populations and is little knowledge on drug-gene interactions for medicines used to treat diseases common in Africa. The aim of this study was to use a custom-designed open array to genotype clinically actionable variants in a Zimbabwean population. This study also identified some of the commonly used drugs in Zimbabwe and the associated genes involved in their metabolism.

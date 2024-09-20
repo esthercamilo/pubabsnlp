@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Oct'}
-Combination of BRAF and MEK inhibition in BRAF V600E mutant low-grade ganglioglioma.
-Post-surgical management of low grade gangliogliomas is controversial with paucity of data for the use of chemotherapy. BRAF mutations are present in a number of glioma subtypes and offer an opportunity for treatment with targeted therapy.

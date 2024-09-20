@@ -1,3 +1,0 @@
-{'Year': '2014'}
-Verification of pharmacogenetics-based warfarin dosing algorithms in Han-Chinese patients undertaking mechanic heart valve replacement.
-To study the performance of pharmacogenetics-based warfarin dosing algorithms in the initial and the stable warfarin treatment phases in a cohort of Han-Chinese patients undertaking mechanic heart valve replacement.

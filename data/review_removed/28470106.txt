@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jul'}
-Associations of NEUROD2 polymorphisms and change of cognitive dysfunctions in schizophrenia and schizoaffective disorder after eight weeks of antipsychotic treatment.
-NEUROD2 is a neurospecific helix-loop-helix transcription factor which has an impact on the regulation of glutamatergic and GABAergic genes. We investigated an association of NEUROD2 with neurocognitive dysfunctions in schizophrenia and schizoaffective disorder patients before and during treatment with different second-generation antipsychotics.

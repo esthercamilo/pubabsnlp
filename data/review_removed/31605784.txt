@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Nov'}
-Genetic predictors of long-term response and trough levels of infliximab in crohn's disease.
-Several factors, such as trough serum anti-TNF levels, have been associated with response to therapy in Crohn's disease. However, this association is observed after initiation of treatment. Identifying DNA variants may prove useful for predicting long-term response or failure to these drugs before initiation of treatment.

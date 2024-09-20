@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Jun'}
-Evaluation of UGT1A1 and CYP3A Genotyping and Single-Point Irinotecan and Metabolite Concentrations as Predictors of the Occurrence of Adverse Events in Cancer Treatment.
-The variability on irinotecan (IRI) pharmacokinetics and toxicity has been attributed mostly to genetic variations in the UGT1A1 gene, responsible for conjugation of the active metabolite SN-38. Also, CYP3A mediates the formation of inactive oxidative metabolites of IRI. The association between the occurrence of severe adverse events, pharmacokinetics parameters, and UGT1A1 and CYP3A4 predicted phenotypes was evaluated, as the evaluation of [SN-38]/IRI dose ratio as predictor of severe adverse events.

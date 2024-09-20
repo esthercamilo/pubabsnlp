@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jul'}
-Usability evaluation of pharmacogenomics clinical decision support aids and clinical knowledge resources in a computerized provider order entry system: a mixed methods approach.
-Pharmacogenomics (PGx) is positioned to have a widespread impact on the practice of medicine, yet physician acceptance is low. The presentation of context-specific PGx information, in the form of clinical decision support (CDS) alerts embedded in a computerized provider order entry (CPOE) system, can aid uptake. Usability evaluations can inform optimal design, which, in turn, can spur adoption.

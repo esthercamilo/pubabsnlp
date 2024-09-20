@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Nov'}
-Pharmacogenetics of glatiramer acetate therapy for multiple sclerosis: the impact of genome-wide association studies identified disease risk loci.
-Association analysis of genome-wide association studies (GWAS) identified multiple sclerosis (MS) risk genetic variants with glatiramer acetate (GA) treatment efficacy.

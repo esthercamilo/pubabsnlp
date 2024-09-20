@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec'}
-Clinical predictors of non-response to lithium treatment in the Pharmacogenomics of Bipolar Disorder (PGBD) study.
-Lithium is regarded as a first-line treatment for bipolar disorder (BD), but partial response and non-response commonly occurs. There exists a need to identify lithium non-responders prior to initiating treatment. The Pharmacogenomics of Bipolar Disorder (PGBD) Study was designed to identify predictors of lithium response.

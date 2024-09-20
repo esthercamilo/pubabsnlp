@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Mar'}
-Factors associated with variability in rifampin plasma pharmacokinetics and the relationship between rifampin concentrations and induction of efavirenz clearance.
-To identify factors associated with variability in rifampin plasma pharmacokinetics and explore the relationship between rifampin pharmacokinetics and change in efavirenz plasma pharmacokinetics with rifampin coadministration.

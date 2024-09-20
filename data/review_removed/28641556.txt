@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Pharmacogenetic and Pharmacokinetic Dose Individualization of the Taxane Chemotherapeutic Drugs Paclitaxel and Docetaxel.
-The taxane drugs paclitaxel and docetaxel, widely used on cancer chemotherapy, are currently dosed mainly based on body-surface area. This approach is associated with wide interindividual variability in drug exposure, leading to suboptimal dosing for many patients.

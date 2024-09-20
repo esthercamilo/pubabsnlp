@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Dec'}
-Comparison of Tacrolimus Starting Doses Based on CYP3A5 Phenotype or Genotype in Kidney Transplant Recipients.
-Selection of expected phenotypes (ie, expressers/non-expressers) is currently used in CYP3A5*3 genotype-based tacrolimus dosing. The authors assessed whether a dosing regimen based on the 3 CYP3A5 genotypes may reduce the occurrence of inadequate exposure.

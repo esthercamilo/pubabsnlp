@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jun', 'Day': '01'}
-CYP2C19 pharmacogenetics versus standard of care dosing for selecting antiplatelet therapy in patients with coronary artery disease: A meta-analysis of randomized clinical trials.
-This study aimed to evaluate the efficacy and safety of personalized genotype-guided selection of antiplatelet therapy versus standard of care in patients undergoing percutaneous coronary intervention (PCI).

@@ -1,3 +1,0 @@
-{'Year': '2014'}
-Genetic variation in platinating agent and taxane pathway genes as predictors of outcome and toxicity in advanced non-small-cell lung cancer.
-Lung carcinoma is the most common malignancy and the leading cause of cancer deaths worldwide. Although clinical factors including age, performance status and stage influence the likelihood of benefit from and tolerability of chemotherapy, the genetic profile of individual patients may be an independent predictor of response and toxicity. The present study aimed to identify pharmacogenetic markers associated with clinical response and toxicity in patients with advanced non-small cell lung cancer (NSCLC) treated primarily with carboplatin and paclitaxel.

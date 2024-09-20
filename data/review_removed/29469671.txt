@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Mar'}
-Patient perspectives following pharmacogenomics results disclosure in an integrated health system.
-To assess patient perceptions and utilization of pharmacogenomics (PGx) testing in an integrated community health system.

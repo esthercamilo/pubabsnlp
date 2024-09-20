@@ -1,3 +1,0 @@
-{'Year': '2014'}
-Pharmacogenetic-based efavirenz dose modification: suggestions for an African population and the different CYP2B6 genotypes.
-Pharmacogenetics contributes to inter-individual variability in pharmacokinetics (PK) of efavirenz (EFV), leading to variations in both efficacy and toxicity. The purpose of this study was to assess the effect of genetic factors on EFV pharmacokinetics, treatment outcomes and genotype based EFV dose recommendations for adult HIV-1 infected Ugandans.

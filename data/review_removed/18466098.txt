@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'May'}
-Pharmacogenetic response to albuterol among asthmatics.
-Pharmacogenetics offers to individualize asthma treatment by identifying genetic variants associated with drug efficacy or adverse events. Several studies have focused on pharmacogenetic associations with albuterol, the most commonly prescribed medication for asthma worldwide. However, pharmacogenetic associations have varied within and between studies and across populations. Herein, we focus on pharmacogenetic associations between genetic variants in the beta(2)-adrenergic receptor gene and bronchodilator response to albuterol among subjects with asthma.

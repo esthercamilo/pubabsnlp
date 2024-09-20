@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Sep', 'Day': '01'}
-Incorporating direct-to-consumer genomic information into patient care: attitudes and experiences of primary care physicians.
-Despite predictions of increased clinical applications, little is known about primary care providers' (PCPs') readiness to apply genomics to patient care. The aim was to assess PCPs' current experience with genetic testing, their assessment of the understandability and clinical utility of information in sample direct-to-consumer reports for genomic assessment of disease risk and warfarin dosing and attitudes toward genomic medicine.

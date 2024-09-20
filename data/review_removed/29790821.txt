@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May', 'Day': '01'}
-Effects of immuno-related gene polymorphisms on a bispecific antibody targeting colorectal cancer cell.
-Colorectal cancer (CRC) represents the third most common type of cancer and the third leading cause of death from cancer around the world. M701 is a CD3/EpCAM bispecific antibody that shows promising cytotoxicity toward CRC cells.

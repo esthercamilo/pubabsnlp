@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Feb'}
-PROX1 gene variant is associated with fasting glucose change after antihypertensive treatment.
-To assess the relationship of the 33 single nucleotide polymorphisms (SNPs) previously associated with fasting glucose in Caucasians in genome-wide association studies (GWAS) with glucose response to antihypertensive drugs shown to increase risk for hyperglycemia and diabetes.

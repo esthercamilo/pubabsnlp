@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Oct', 'Day': '26'}
-Experience, Knowledge, and Perceptions of Pharmacogenomics among Pharmacists and Nurse Practitioners in Alberta Hospitals.
-Despite evidence of clinical utility and the availability of prescription guidelines, pharmacogenomics (PGx) is not broadly used in institutional settings in Canada. To inform future implementation, this study aimed to identify healthcare provider knowledge, experience, and perceptions of PGx in Alberta, Canada.

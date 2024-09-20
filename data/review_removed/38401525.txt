@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Apr'}
-Blood gene expression biomarkers of response to anti-TNF drugs in pediatric inflammatory bowel diseases before initiation of treatment.
-Changes in gene expression profiles among individuals with inflammatory bowel diseases (IBDs) could potentially influence the responsiveness to anti-TNF treatment. The aim of this study was to identify genes that could serve as predictors of early response to anti-TNF therapies in pediatric IBD patients prior to the initiation of treatment.

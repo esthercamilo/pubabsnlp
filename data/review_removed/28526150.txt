@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jun'}
-Pharmacogenomics in Pain Management.
-There is interpatient variability to analgesic administration. Much can be traced to pharmacogenomics variations between individuals. Certain ethnicities are more prone to reduced function of CYP2D6. Weak opioids are subject to interpatient variation based on their CYP2D6 type. Strong opioids have variations based on their transport and individual metabolism. Several cytochrome enzymes have been found to be involved with ketamine but there is no strong evidence of individual polymorphisms manifesting in clinical outcomes. Nonsteroidal anti-inflammatory drugs have adverse outcomes that certain CYP variants are more prone toward. There are now recommendations for dosing based on specific genomic makeup.

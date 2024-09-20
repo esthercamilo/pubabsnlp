@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Feb'}
-Association between tacrolimus concentration and genetic polymorphisms of CYP3A5 and ABCB1 during the early stage after liver transplant in an Iranian population.
-Tacrolimus is widely used as an immunosuppressive drug in liver transplant recipients with a narrow therapeutic range and variable individualized pharmacokinetics. Tacrolimus is a substrate of cytochrome P-450 3A enzyme and the drug transporter, P-glycoprotein.

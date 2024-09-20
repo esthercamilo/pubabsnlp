@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan', 'Day': '05'}
-Genetic Background of Mesalamine-induced Fever and Diarrhea in Japanese Patients with Inflammatory Bowel Disease.
-Some patients with inflammatory bowel disease (IBD) who were under mesalamine treatment develop adverse reactions called "mesalamine allergy," which includes high fever and worsening diarrhea. Currently, there is no method to predict mesalamine allergy. Pharmacogenomic approaches may help identify these patients. Here we analyzed the genetic background of mesalamine intolerance in the first genome-wide association study of Japanese patients with IBD.

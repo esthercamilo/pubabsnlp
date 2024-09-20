@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Dec'}
-Folate metabolic pathway single nucleotide polymorphisms: a predictive pharmacogenetic marker of methotrexate response in Indian (Asian) patients with rheumatoid arthritis.
-We evaluated the pharmacogenetic influence of genetic polymorphisms in folate pathway genes in Indian rheumatoid arthritis patients receiving methotrexate (MTX).

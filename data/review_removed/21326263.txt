@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Mar'}
-Pharmacogenomics: "noninferiority" is sufficient for initial implementation.
-Recent clinical annotation of a whole-genome sequence suggests that pharmacogenomics (PGx) may be ready for clinical implementation now. This conclusion rests on the recognition that PGx has greatly mitigated risks as compared with using genomics for assessment of disease risk. Failure to recognize these differences can produce unrealistic cost-benefit scenarios and impractical standards of evidence. In many cases, pharmacogenetic tests need only reach reasonable expectations of noninferiority (compared with current prescribing practices) to merit use.

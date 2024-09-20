@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Mar', 'Day': '01'}
-Pharmacokinetic-Pharmacodynamic interaction associated with venlafaxine-XR remission in patients with major depressive disorder with history of citalopram / escitalopram treatment failure.
-The purpose of this study was to identify specific pharmacokinetic (PK) and pharmacodynamics (PD) factors that affect the likelihood of treatment remission with a serotonin norepinephrine reuptake inhibitor (SNRI) in depressed patients whose initial selective serotonin reuptake inhibitor (SSRI) failed.

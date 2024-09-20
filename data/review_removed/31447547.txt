@@ -1,3 +1,0 @@
-{'Year': '2019'}
-Dextromethorphan and memantine after ketamine analgesia: a randomized control trial.
-Intravenous ketamine is often prescribed in severe neuropathic pain. Oral <i>N</i>-methyl-D-aspartate receptor (NMDAR) antagonists might prolong pain relief, reducing the frequency of ketamine infusions and hospital admissions. This clinical trial aimed at assessing whether oral dextromethorphan or memantine might prolong pain relief after intravenous ketamine.

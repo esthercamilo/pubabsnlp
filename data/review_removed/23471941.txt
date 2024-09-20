@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jun'}
-Relationship between CES2 genetic variations and rifampicin metabolism.
-Rifampicin is known to be deacetylated in vivo, resulting in its metabolite 25-desacetyl rifampicin, but the enzyme metabolizing rifampicin and the association of this process with any genetic variation have not yet been elucidated. In this study, genetic variations of a surrogate enzyme, carboxylesterase 2 (CES2), and their association with the metabolism of this drug, were investigated.

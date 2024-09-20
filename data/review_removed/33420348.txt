@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Apr'}
-Patients dispensed medications with actionable pharmacogenomic biomarkers: rates and characteristics.
-Pharmacogenomic biomarkers are increasingly listed on medication labels and authoritative guidelines but pharmacogenomic-guided prescribing is not yet common. Our objective was to assess the potential for incorporating knowledge of patients' genomic characteristics into prescribing practices.

@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Dec'}
-Evidence required to demonstrate clinical utility of pharmacogenetic testing: the debate continues.
-Pharmacogenetics is an area of research that has potential to greatly benefit patients. However, the routine use of diagnostic pharmacogenetic testing to inform treatment decisions is limited. Here we discuss the determination of clinical utility of pharmacogenetic testing and the level of evidence required to support translation into clinical practice.

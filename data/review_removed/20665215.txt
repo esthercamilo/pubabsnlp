@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Nov'}
-Value of gene polymorphisms as markers of 5-FU therapy response in stage III colon carcinoma: a pilot study.
-The role of pharmacogenetics in chemotherapy response in colon carcinoma is controversial. We studied the value of known SNPs in genes involved in 5-FU metabolism as biomarkers of chemotherapy response in patients with stage III colon carcinoma.

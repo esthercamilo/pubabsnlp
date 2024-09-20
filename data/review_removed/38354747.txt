@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Mar'}
-The Relevance of Integrating CYP2C19 Phenoconversion Effects into Clinical Pharmacogenetics.
-CYP2D6 and CYP2C19 functional status as defined by genotype is modulated by phenoconversion (PC) due to pharmacokinetic interactions. As of today, there is no data on the effect size of PC for CYP2C19 functional status. The primary aim of this study was to investigate the impact of PC on CYP2C19 functional status.

@@ -1,3 +1,0 @@
-{'Year': '2014'}
-High plasma exposure to pemetrexed leads to severe hyponatremia in patients with advanced non small cell lung cancer receiving pemetrexed-platinum doublet chemotherapy.
-Pemetrexed-platinum doublet therapy is a standard treatment for stage IIIb/IV nonsquamous non small cell lung cancer (NSCLC). While the regimen is associated with several grade ≥3 toxicities, hyponatremia is not a commonly reported adverse effect. Here we report an unusually high incidence of grade ≥3 hyponatremia in Indian patients receiving pemetrexed-platinum doublet, and the pharmacological basis for this phenomenon.

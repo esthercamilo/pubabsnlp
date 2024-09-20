@@ -1,3 +1,0 @@
-{'Year': '2023'}
-Computational pharmacogenotype extraction from clinical next-generation sequencing.
-Next-generation sequencing (NGS), including whole genome sequencing (WGS) and whole exome sequencing (WES), is increasingly being used for clinic care. While NGS data have the potential to be repurposed to support clinical pharmacogenomics (PGx), current computational approaches have not been widely validated using clinical data. In this study, we assessed the accuracy of the Aldy computational method to extract PGx genotypes from WGS and WES data for 14 and 13 major pharmacogenes, respectively.

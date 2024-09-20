@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Aug', 'Day': '22'}
-Ancestral diversity in pharmacogenomics affects treatment for Hispanic/Latine populations with inflammatory bowel disease.
-The prevalence of inflammatory bowel disease (IBD) among Hispanic/Latine communities is increasing. Pharmacogenomic studies reveal genetic markers that influence treatment decisions. The aim of our study was to examine the frequency and impact of genetic polymorphisms on thiopurine-associated leukopenia (NUDT15, TPMT) and anti-TNF immunogenicity (HLA-DQA1*05) in a cohort of Hispanic patients of diverse ancestral backgrounds.

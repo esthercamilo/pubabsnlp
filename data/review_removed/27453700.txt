@@ -1,3 +1,0 @@
-{'Year': '2016', 'Season': 'May-Jun'}
-Prediction of Warfarin Dose in Pediatric Patients: An Evaluation of the Predictive Performance of Several Models.
-The objective of this study was to evaluate the performance of pediatric pharmacogenetic-based dose prediction models by using an independent cohort of pediatric patients from a multicenter trial.

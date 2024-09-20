@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Feb'}
-The pharmacokinetic and pharmacodynamic interaction of clopidogrel and cilostazol in relation to CYP2C19 and CYP3A5 genotypes.
-The primary objective of the present study was to evaluate the pharmacokinetic and pharmacodynamic interactions between clopidogrel and cilostazol in relation to the CYP2C19 and CYP3A5 genotypes.

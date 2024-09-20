@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jul', 'Day': '01'}
-Association of CRTC1 polymorphisms with obesity markers in subjects from the general population with lifetime depression.
-Psychiatric disorders have been hypothesized to share common etiological pathways with obesity, suggesting related neurobiological bases. We aimed to examine whether CRTC1 polymorphisms were associated with major depressive disorder (MDD) and to test the association of these polymorphisms with obesity markers in several large case-control samples with MDD.

@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Jul'}
-Polymorphisms of ERCC1 C118T/C8092A and MDR1 C3435T predict outcome of platinum-based chemotherapies in advanced non-small cell lung cancer: a meta-analysis.
-With great progress made in individualized chemotherapy, pharmacogenetics is gradually put on the agenda. We performed this meta-analysis to compare outcome to platinum-based chemotherapies in advanced non-small cell lung cancer (NSCLC) with different ERCC1 C118T/C8092A and MDR1 C3435T polymorphisms.

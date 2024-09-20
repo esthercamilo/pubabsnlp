@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Mar'}
-No evidence of large genetic effects on steroid response in asthma patients.
-Inhaled corticosteroids (ICSs) are considered the most effective anti-inflammatory therapy for asthma control and management; however, there is substantial treatment response variability.

@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct'}
-Effects of age and genetic variations in VKORC1, CYP2C9 and CYP3A4 on the phenprocoumon dose in pediatric patients.
-To study the effects of clinical and genetic factors on the phenprocoumon dose requirement in pediatric patients and to develop a dosing algorithm.

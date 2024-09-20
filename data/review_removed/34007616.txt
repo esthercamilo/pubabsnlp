@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Pharmacogenomics (PGx) Patient with Mixed Levels of Actionable Variant Evidence.
-To demonstrate the types of clinical recommendations a pharmacogenomics pharmacist may make to medical clinicians with regard to medication management to improve therapeutic outcomes based on varied levels of medical literature evidence.

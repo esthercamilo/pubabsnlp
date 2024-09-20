@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Pharmacogenetics and Pharmacotherapy of Military Personnel Suffering from Post-traumatic Stress Disorder.
-Posttraumatic stress disorder (PTSD) is a severe problem among soldiers with combating experience difficult to treat. The pathogenesis is still not fully understood at the psychological level. Therefore, genetic research became a focus of interest. The identification of single nucleotide polymorphisms (SNPs) may help to predict, which persons are at high risk to develop PTSD as a starting point to develop novel targeted drugs for treatment.

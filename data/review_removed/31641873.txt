@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jan'}
-High-resolution melt analysis enables simple genotyping of complicated polymorphisms of codon 18 rendering the NUDT15 diplotype.
-The genetic variants of NUDT15 have been verified to induce adverse events (AEs) of thiopurines. Codon 139 variants are frequently observed in Asians, while multiple variants are seen in codon 18 which also cause AEs including the European ancestry. The purpose of this study is to establish a technique capable of the simple genotyping of NUDT15 codon 18 and to evaluate its efficacy.

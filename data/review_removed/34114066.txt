@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Sep'}
-Cyclophosphamide bioactivation pharmacogenetics in breast cancer patients.
-Genetic variation in the activation of the prodrug cyclophosphamide (CP) by cytochrome P450 (CYP) enzymes has been shown to influence outcomes. However, CYP are also subject to phenoconversion due to either the effects of comedications or cancer associated down-regulation of expression. The aim of this study was to assess the relationship between CP bioactivation with CYP2B6 and CYP2C19 genotype, as well as CYP2C19 phenotype, in breast cancer patients.

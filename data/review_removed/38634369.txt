@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Apr', 'Day': '18'}
-Polymorphisms in <i>ERBB4</i> and <i>TACR1</i> associated with dry mouth in clozapine-treated patients.
-Sialorrhea is a common and uncomfortable adverse effect of clozapine, and its severity varies between patients. The aim of the study was to select broadly genes related to the regulation of salivation and study associations between sialorrhea and dry mouth and polymorphisms in the selected genes.

@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jun'}
-Methodological issues in the development of a pharmacogenomic algorithm for warfarin dosing: comparison of two regression approaches.
-To ascertain whether multiple polynomial regression (MPR) has any advantage over multiple linear regression (MLR) in developing pharmacogenomic algorithms.

@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Dec'}
-Pharmacogenetics of statins treatment: Efficacy and safety.
-Statins are widely used worldwide in the prevention and treatment of coronary atherosclerotic heart disease and ischaemic stroke. However, in clinical application, statins have shown great individual differences in terms of the efficacy and safety, some of which are related to genetic factors. The purpose of this article was to summarize the recent advances about the correlation between gene polymorphisms and the efficacy/safety of statins.

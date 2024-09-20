@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'May'}
-Pharmacogenetic aspects of the use of tacrolimus in renal transplantation: recent developments and ethnic considerations.
-Tacrolimus (Tac) is effective in preventing acute rejection but has considerable toxicity and inter-individual variability in pharmacokinetics and pharmacodynamics. Part of this is explained by polymorphisms in genes encoding Tac-metabolizing enzymes and transporters. A better understanding of Tac pharmacokinetics and pharmacodynamics may help to minimize different outcomes amongst transplant recipients by personalizing immunosuppression.

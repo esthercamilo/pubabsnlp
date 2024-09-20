@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-Renin-angiotensin system gene polymorphisms predict the risk of stroke in patients with atrial fibrillation: a 10-year prospective follow-up study.
-Little evidence is available regarding the impact of genetic polymorphisms on the risk of stroke in patients with atrial fibrillation (AF). Angiotensin II plays a pathophysiologic role in prothrombotic atrial endocardial remodeling.

@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Dec'}
-The effect of medication reconciliation on generating an accurate medication list in a pharmacogenomics practice.
-Medication reconciliation is recognized as a critically important medication safety element and a key initiative by multiple organizations. Within our precision medicine program, accurate medication lists are essential to our ability to make specific medication recommendations based on pharmacogenetic results. Our study aimed to identify discrepancies within the patient's medication list to improve medication management via genetic factors through a pharmacy team-based approach.

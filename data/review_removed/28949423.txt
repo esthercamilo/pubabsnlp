@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Nov'}
-Influence of Kidney Transplant Status on Warfarin Dose, Anticoagulation Control, and Risk of Hemorrhage.
-To assess whether warfarin dose requirement, anticoagulation control, and risk of hemorrhage differ in kidney transplant recipients (KTRs) compared with patients without kidney transplants (non-KTRs).

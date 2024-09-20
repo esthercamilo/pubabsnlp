@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jul'}
-Impact of pharmacogenetics on variability in exposure to oral vinorelbine among pediatric patients: a model-based population pharmacokinetic analysis.
-Better understanding of pharmacokinetics of oral vinorelbine (VNR) in children would help predicting drug exposure and, beyond, clinical outcome. Here, we have characterized the population pharmacokinetics of oral VNR and studied the factors likely to explain the variability observed in VNR exposure among young patients.

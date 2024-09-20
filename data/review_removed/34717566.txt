@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Oct', 'Day': '30'}
-Identification and characterization of a 25-lncRNA prognostic signature for early recurrence in hepatocellular carcinoma.
-Early recurrence is the major cause of poor prognosis in hepatocellular carcinoma (HCC). Long non-coding RNAs (lncRNAs) are deeply involved in HCC prognosis. In this study, we aimed to establish a prognostic lncRNA signature for HCC early recurrence.

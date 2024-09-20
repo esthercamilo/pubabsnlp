@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jun', 'Day': '12'}
-Estimating the prevalence of potential and actionable drug-gene interactions in Irish primary care: A cross-sectional study.
-Pharmacogenetics (PGx) is increasingly recognized as a strategy for medicines optimisation and prevention of adverse drug reactions. According to guidelines produced by the Clinical Pharmacogenetics Implementation Consortium (CPIC) and the Dutch Pharmacogenetic Working Group (DPWG), most medicines with drug-gene interactions (DGIs) are prescribed in primary care. This study aimed to estimate the prevalence of potential and actionable DGIs involving all medicines dispensed in Irish primary care.

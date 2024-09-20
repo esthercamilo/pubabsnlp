@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Aug'}
-Machine learning, pharmacogenomics, and clinical psychiatry: predicting antidepressant response in patients with major depressive disorder.
-The efficacy of antidepressants for patients with major depressive disorder (MDD) varies from individual to individual, making the prediction of therapeutic outcomes difficult. Better methods for predicting antidepressant outcomes are needed. However, complex interactions between biological, psychological, and environmental factors affect outcomes, presenting immense computational challenges for prediction. Using machine learning (ML) techniques with pharmacogenomics data provides one pathway toward individualized prediction of therapeutic outcomes of antidepressants.

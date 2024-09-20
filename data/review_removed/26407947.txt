@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Oct', 'Day': '15'}
-Artemisinin derivatives induce iron-dependent cell death (ferroptosis) in tumor cells.
-Apoptosis and other forms of cell death have been intensively investigated in the past years to explain the mode of action of synthetic anticancer drugs and natural products. Recently, a new form of cell death emerged, which was termed ferroptosis, because it depends on intracellular iron. Here, the role of genes involved in iron metabolism and homeostasis for the cytotoxicity of ten artemisinin derivatives have been systematically investigated.

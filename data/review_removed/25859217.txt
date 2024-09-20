@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Whole genome sequencing in pharmacogenomics.
-Pharmacogenomics aims to shed light on the role of genes and genomic variants in clinical treatment response. Although, several drug-gene relationships are characterized to date, many challenges still remain toward the application of pharmacogenomics in the clinic; clinical guidelines for pharmacogenomic testing are still in their infancy, whereas the emerging high throughput genotyping technologies produce a tsunami of new findings. Herein, the potential of whole genome sequencing on pharmacogenomics research and clinical application are highlighted.

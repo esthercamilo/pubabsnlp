@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Sep'}
-Do genetic polymorphisms alter patient response to inhaled bronchodilators?
-Short- and long-acting β agonists (SABA and LABA) are bronchodilators for treating asthma. Bronchodilator response (BDR) is quantified by measuring air expired in the first second during a forced expiratory maneuver, prior to and following inhalation of SABA. BDR has been associated with a significant degree of heterogeneity, in part attributable to genetic variation. Heritability, the proportion of phenotypic variability accounted for by genetic variation is estimated to account for 50% of pulmonary function and 28.5% for BDR.

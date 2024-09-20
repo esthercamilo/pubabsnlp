@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'May', 'Day': '25'}
-CYP and SXR gene polymorphisms influence in opposite ways acute rejection rate in pediatric patients with renal transplant.
-We evaluated the role of CYP3A5, ABCB1 and SXR gene polymorphisms in the occurrence of acute kidney rejection in a cohort of pediatric renal transplant recipients.

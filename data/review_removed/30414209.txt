@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jan'}
-Abacavir Hypersensitivity Reaction Reporting Rates During a Decade of HLA-B*5701 Screening as a Risk-Mitigation Measure.
-Human leukocyte antigen (HLA)-B*5701 screening identifies patients at increased risk for abacavir (ABC) hypersensitivity reaction (HSR). Screening was adopted in GlaxoSmithKline and ViiV Healthcare clinical trials in 2007 and human immunodeficiency virus treatment guidelines in 2008. Company meta-analyses of trials pre-HLA-B*5701 screening reported HSR rates of 4-8%. We analyzed the effectiveness of HLA-B*5701 screening on reducing HSR rates using clinical trial, Observational Pharmaco-Epidemiology Research & Analysis (OPERA) cohort, and spontaneous reporting data.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Sep', 'Day': '01'}
-The expressed mutational landscape of microsatellite stable colorectal cancers.
-Colorectal cancer is the 2nd leading cause of cancer-related deaths with few patients benefiting from biomarker-guided therapy. Mutation expression is essential for accurate interpretation of mutations as biomarkers, but surprisingly, little has been done to analyze somatic cancer mutations on the expression level. We report a large-scale analysis of allele-specific mutation expression.

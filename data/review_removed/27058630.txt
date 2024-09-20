@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun', 'Day': '20'}
-Cytotoxicity of South-African medicinal plants towards sensitive and multidrug-resistant cancer cells.
-Traditional medicine plays a major role for primary health care worldwide. Cancer belongs to the leading disease burden in industrialized and developing countries. Successful cancer therapy is hampered by the development of resistance towards established anticancer drugs.

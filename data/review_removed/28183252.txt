@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Pharmacological Profile and Pharmacogenomics of Anti-Cancer Drugs Used for Targeted Therapy.
-Drugs for targeted therapies are primarily Small Molecules Inhibitors (SMIs), monoclonal antibodies (mAbs), interfering RNA molecules and microRNA. The use of these new agents generates a multifaceted step in the pharmacokinetics (PK) of these drugs. Individual PK variability is often large, and unpredictability observed in the response to the pharmacogenetic profile of the patient (e.g. cytochome P450 enzyme), patient characteristics such as adherence to treatment and environmental factors.

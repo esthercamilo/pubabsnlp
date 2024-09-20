@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Nov', 'Day': '25'}
-[Pharmacogenomics : a toolbox to improve drug prescription].
-As a result of advances in pharmacogenomics (PGx), the paradigm that a single dose of a drug is extrapolated to an entire population is set to change. Personalising drug prescriptions according to individual genomic determinants would make it possible to increase the effectiveness and tolerance of treatments. In Switzerland, any doctor can prescribe validated PGx tests for five actionable drugs : abacavir, carbamazepine, thiopurines [azathioprine], fluoropyrimidines [5-FU, capecitabine] and irinotecan. Such an approach presupposes that PGx data are shared with trained clinicians and that prescribing aids can guide them.

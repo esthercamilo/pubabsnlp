@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jul'}
-Pharmacogenetic biomarkers for predicting drug response.
-Drug response shows significant interpatient variability and evidence that genetics influences outcome of drug therapy has been known for more than five decades. However, the translation of this knowledge to clinical practice remains slow. Using examples from clinical practice six considerations about the implementation of pharmacogenetics (PGx) into routine care are discussed: the need for PGx biomarkers; the sources of genetic variability in drug response; the amount of variability explained by PGx; whether PGx test results are actionable; the level of evidence needed for implementation of PGx and the sources of information regarding interpretation of PGx data.

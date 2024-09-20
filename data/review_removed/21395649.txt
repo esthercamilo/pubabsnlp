@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Apr'}
-Association of beta-adrenergic receptor polymorphisms and mortality in carvedilol-treated chronic heart-failure patients.
-Pharmacogenetics can be used as a tool for stratified pharmacological therapy in cardiovascular medicine. We investigated whether a predefined combination of the Arg389Gly polymorphism in the adrenergic β(1) -receptor gene (ADRB1) and the Gln27Glu polymorphism in the adrenergic β(2) -receptor gene (ADRB2) could predict survival in carvedilol- and metoprolol-treated chronic heart failure (HF) patients.

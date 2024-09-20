@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct'}
-Association of CYP2C19*2 and ALDH1A1*1/*2 variants with disease outcome in breast cancer patients: results of a global screening array.
-Cyclophosphamide and doxorubicin (adjuvant chemotherapy) are commonly used to treat breast cancer patients. Variation in the genes involved in pharmacodynamics and pharmacokinetics of these drugs plays an important role in prediction of drug response and survival. The present study was carried out with an aim to evaluate the variation in all the genes involved in pharmacokinetic and pharmacodynamics pathways of cyclophosphamide and doxorubicin, and correlate specific variants with disease outcome in breast cancer patients from the Malwa region of Punjab.

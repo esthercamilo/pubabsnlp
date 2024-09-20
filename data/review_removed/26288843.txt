@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jul'}
-Investigation of Efavirenz Discontinuation in Multi-ethnic Populations of HIV-positive Individuals by Genetic Analysis.
-Efavirenz (EFV) based antiretroviral therapy is expanding worldwide. However discontinuation of EFV containing regimens is common in some patients, particularly black patients, due most often to neuropsychiatric side effects. These adverse drug effects often result in premature drug discontinuation, as well as considerable morbidity.

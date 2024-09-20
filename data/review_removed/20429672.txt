@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Jul'}
-Pharmacogenomics of pediatric acute lymphoblastic leukemia.
-Pediatric acute lymphoblastic leukemia (ALL) represents one of the best examples of progress in disease treatment and improved outcome based in part upon the incorporation of the principles of pharmacogenomics. Throughout the past several decades, clinical scientists have continued to refine risk stratification in clinical trials with the understanding that individual patients have different subtypes of pediatric ALL that will respond to therapy in different, but predictable ways.

@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jun', 'Day': '08'}
-Validation study of microRNAs previously associated with antidepressant response in older adults treated for late-life depression with venlafaxine.
-MicroRNAs (miRNAs) are small 22 nucleotides long, non-coding RNAs that are potential biomarkers for antidepressant treatment response. We aimed to replicate previous associations of miRNAs with antidepressant treatment response in a sample of older adults diagnosed with late-life depression.

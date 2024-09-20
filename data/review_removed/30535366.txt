@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Mar', 'Day': '01'}
-Pharmacogenetics and pharmacokinetics of CNS penetration of efavirenz and its metabolites.
-There are limited data on the pharmacogenetics and pharmacokinetics of the CNS penetration of efavirenz.

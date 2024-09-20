@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Apr'}
-Neuropsychometric correlates of efavirenz pharmacokinetics and pharmacogenetics following a single oral dose.
-To determine pharmacokinetic and pharmacogenomic correlates of efavirenz central nervous system (CNS) side effects following a single dose.

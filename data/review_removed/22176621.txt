@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jan'}
-Validation of warfarin pharmacogenetic algorithms in clinical practice.
-The goal of this study was to evaluate the performance of four warfarin pharmacogenetic algorithms in a real clinical setting, namely the algorithms of Gage et al., Michaud et al., Wadelius et al. and the International Warfarin Pharmacogenetics Consortium algorithm.

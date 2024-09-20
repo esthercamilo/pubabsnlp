@@ -1,3 +1,0 @@
-{'Year': '2015'}
-A proposal for an individualized pharmacogenetic-guided isoniazid dosage regimen for patients with tuberculosis.
-Isoniazid (INH) is an essential component of first-line anti-tuberculosis (TB) treatment. However, treatment with INH is complicated by polymorphisms in the expression of the enzyme system primarily responsible for its elimination, N-acetyltransferase 2 (NAT2), and its associated hepatotoxicity. The objective of this study was to develop an individualized INH dosing regimen using a pharmacogenetic-driven model and to apply this regimen in a pilot study.

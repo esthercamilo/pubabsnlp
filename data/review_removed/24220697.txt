@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jan'}
-Excision Repair Cross-Complementation group 1 (ERCC1) C118T SNP does not affect cellular response to oxaliplatin.
-ERCC1 is involved in the repair of oxaliplatin-induced DNA damage. Studies for the association of the C118T SNP with clinical response to treatment with platinum drugs have rendered inconsistent results. We investigated the ERCC1 C118T SNP with respect to overall and progression-free survival in patients with advanced colorectal cancer (ACC) treated with oxaliplatin and in vitro DNA repair capacity after oxaliplatin exposure. In addition we discuss discrepancies from other studies concerning ERCC1 C118T.

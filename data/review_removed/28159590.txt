@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Apr', 'Day': '03'}
-Pharmacogenetics of antidepressant response: A polygenic approach.
-Major depressive disorder (MDD) has a high personal and socio-economic burden and >60% of patients fail to achieve remission with the first antidepressant. The biological mechanisms behind antidepressant response are only partially known but genetic factors play a relevant role. A combined predictor across genetic variants may be useful to investigate this complex trait.

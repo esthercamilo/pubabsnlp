@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Evaluation of a shared pharmacogenomics curriculum for pharmacy students.
-This national dissemination study evaluated pharmacy students' self-reported overall ability, self-efficacy and attitudes toward applying pharmacogenomics and perceptions of Pharmacogenomics Education Program, a shared pharmacogenomics curriculum.

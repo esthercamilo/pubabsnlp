@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Sep'}
-Impact of Genetic Polymorphisms on Phenytoin Pharmacokinetics and Clinical Outcomes in the Middle East and North Africa Region.
-Genetic polymorphisms are known to influence outcomes with phenytoin yet effects in the Middle East and North Africa region are poorly understood.

@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Aug'}
-Prospective evaluation of finger two-point discrimination and carpal tunnel syndrome among women with breast cancer receiving adjuvant aromatase inhibitor therapy.
-Aromatase inhibitors (AIs) are associated with musculoskeletal symptoms and risk of developing carpal tunnel syndrome (CTS), which can impair quality of life and prompt treatment discontinuation. The incidence of CTS and clinical utility of diagnostic tests such as 2-point discrimination (2-PD) have not been prospectively examined among women receiving AIs.

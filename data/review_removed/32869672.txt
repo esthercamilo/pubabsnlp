@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Oct'}
-Precision medicine in acute myeloid leukemia: where are we now and what does the future hold?
-Precision medicine has revolutionized the diagnostic and therapeutic management of acute myeloid leukemia (AML), from standardized schemes based on chemotherapy to tailored approaches according to molecular and genetic profile and targeted therapy.

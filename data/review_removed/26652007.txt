@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Functional characterization of CYP2D6 novel allelic variants identified in the Chinese Han population.
-This study was aimed to functionally characterize four novel CYP2D6 alleles identified in Chinese Han population.

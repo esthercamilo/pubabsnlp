@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Aug'}
-Association of the GRIN2B rs2284411 polymorphism with methylphenidate response in attention-deficit/hyperactivity disorder.
-We investigated the possible association between two NMDA subunit gene polymorphisms (GRIN2B rs2284411 and GRIN2A rs2229193) and treatment response to methylphenidate (MPH) in attention-deficit/hyperactivity disorder (ADHD).

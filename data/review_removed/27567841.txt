@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Oct', 'Day': '04'}
-Butyrylcholinesterase K and Apolipoprotein E-ɛ4 Reduce the Age of Onset of Alzheimer's Disease, Accelerate Cognitive Decline, and Modulate Donepezil Response in Mild Cognitively Impaired Subjects.
-Genetic heterogeneity in amnestic mild cognitively impaired (aMCI) subjects could lead to variations in progression rates and response to cholinomimetic agents. Together with the apolipoprotein E4 (APOE-ɛ4) gene, butyrylcholinesterase (BCHE) has become recently one of the few Alzheimer's disease (AD) susceptibility genes with distinct pharmacogenomic properties.

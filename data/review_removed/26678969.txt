@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Oct'}
-Clinical Implications of Opioid Pharmacogenomics in Patients With Cancer.
-Pain can be a significant burden for patients with cancer and may have negative effects on their quality of life. Opioids are potent analgesics and serve as a foundation for pain management. The variation in response to opioid analgesics is well characterized and is partly due to genetic variability.

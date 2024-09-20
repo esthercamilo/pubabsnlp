@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Apr'}
-Endothelial nitric oxide synthetase genetic variants, metabolic syndrome and endothelial function in schizophrenia.
-The increasing rates of metabolic syndrome and cardiovascular disease in schizophrenia led to investigation into their causes, including atypical antipsychotics and pharmacogenetic variants. This study focused on the peripheral vasculature as a cardiovascular phenotype and the influence of atypical antipsychotics, the aberrant metabolism of nitric oxide caused by endothelial nitric oxide synthetase (eNOS) genetic variants and metabolic syndrome in a cross-sectional sample of schizophrenia subjects.

@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jun'}
-Translating genotype data of 44,000 biobank participants into clinical pharmacogenetic recommendations: challenges and solutions.
-Biomedical databases combining electronic medical records and phenotypic and genomic data constitute a powerful resource for the personalization of treatment. To leverage the wealth of information provided, algorithms are required that systematically translate the contained information into treatment recommendations based on existing genotype-phenotype associations.

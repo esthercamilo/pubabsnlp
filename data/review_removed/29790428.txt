@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun', 'Day': '01'}
-Multi-ethnic SULT1A1 copy number profiling with multiplex ligation-dependent probe amplification.
-To develop a SULT1A1 multiplex ligation-dependent probe amplification assay and to investigate multi-ethnic copy number variant frequencies.

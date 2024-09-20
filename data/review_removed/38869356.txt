@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jun', 'Day': '13'}
-The complex web of obesity: from genetics to precision medicine.
-Obesity is a growing public health concern affecting both children and adults. Since it involves both genetic and environmental components, the management of obesity requires both, an understanding of the underlying genetics and changes in lifestyle. The knowledge of obesity genetics will enable the possibility of precision medicine in anti-obesity medications.

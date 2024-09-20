@@ -1,3 +1,0 @@
-{'Year': '2021'}
-<i>NUDT15</i> c.415C>T Polymorphism Predicts 6-MP Induced Early Myelotoxicity in Patients with Acute Lymphoblastic Leukemia Undergoing Maintenance Therapy.
-Severe myelosuppression in patients with acute lymphoblastic leukemia (ALL) undergoing 6-MP-based maintenance therapy is attributed to <i>TPMT</i> gene polymorphisms, which is rare in Asian populations. This study aims to evaluate the role of selected polymorphisms in <i>NUDT15, ITPA</i>, and <i>MRP4</i> genes in addition to <i>TPMT</i> in predicting 6-MP intolerance during ALL maintenance therapy.

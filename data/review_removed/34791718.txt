@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jun'}
-Does sex alter the relationship between CYP2B6 variation, hydroxybupropion concentration and bupropion-aided smoking cessation in African Americans? A moderated mediation analysis.
-CYP2B6, a genetically variable enzyme, converts bupropion to its active metabolite hydroxybupropion. CYP2B6 activity and bupropion-aided cessation differ between women and men. The aim of this study was to determine whether genetically normal (versus reduced) CYP2B6 activity increases bupropion-aided cessation in African American smokers via higher hydroxybupropion concentration, and whether this differs by sex.

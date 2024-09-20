@@ -1,3 +1,0 @@
-{'Year': '2017'}
-DRD3 Ser9Gly Polymorphism and Its Influence on Risperidone Response in Autistic Children.
-Autism, a neuropsychiatric illness, is a complex ailment of mainly indefinite cause. Although precise pathophysiological mechanism is unclear but the role of genetics is undeniable therefore pharmacogenetics may assist to a better management of symptoms. Risperidone is widely used in autism. Considering the significance of dopaminergic system in psychological and neurological diseases and its association with autism, the hypothesis that genetic variant of dopamine receptor (DRD3), Ser9Gly (rs6280), may influence treatment of autism may be assumed.

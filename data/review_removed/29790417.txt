@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun', 'Day': '01'}
-Systematic evaluation of clinical practice guidelines for pharmacogenomics.
-To systematically assess methodological quality of pharmacogenomics clinical practice guidelines.

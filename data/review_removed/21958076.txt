@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Dec'}
-FCER2 T2206C variant associated with chronic symptoms and exacerbations in steroid-treated asthmatic children.
-The T2206C FCER2 variant was found previously to be associated with IgE levels, exacerbation rates and decreased FCER2 expression in children on inhaled corticosteroids (ICS) participating in a clinical trial. This finding has not been replicated. We sought to replicate the association between the FCER2 gene and exacerbations in children with asthma. In addition, we tested the hypothesis that the T2206C variant may be associated with other markers of steroid resistance such as asthma symptom scores and asthma medication use.

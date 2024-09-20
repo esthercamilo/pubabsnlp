@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Apr', 'Day': '15'}
-Pharmacogenomics Bias - Systematic distortion of study results by genetic heterogeneity.
-Decision analyses of drug treatments in chronic diseases require modeling the progression of disease and treatment response beyond the time horizon of clinical or epidemiological studies. In many such models, progression and drug effect have been applied uniformly to all patients; heterogeneity in progression, including pharmacogenomic effects, has been ignored.

@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Aug', 'Day': '18'}
-Should we be applying warfarin pharmacogenetics to clinical practice? No, not now.
-The U.S. Food and Drug Administration modified warfarin labeling in 2007 to suggest, but not mandate, pharmacogenetic testing. Genetic analysis is now commercially available. However, results predict only one third of all dosing variation, the value of testing in reducing bleeding and thrombosis rates remains unproved, and cost-effectiveness is not established. Careful consideration of clinical factors that influence dosing, conscientious prothrombin time monitoring, and sage dosage adjustment remain paramount in warfarin management. Further study is required before routine warfarin pharmacogenetic testing can be recommended.

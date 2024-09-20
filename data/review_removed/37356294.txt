@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Sep'}
-Characterization of the metabolic alteration-modulated tumor microenvironment mediated by TP53 mutation and hypoxia.
-TP53 mutation and hypoxia play an essential role in cancer progression. However, the metabolic reprogramming and tumor microenvironment (TME) heterogeneity mediated by them are still not fully understood.

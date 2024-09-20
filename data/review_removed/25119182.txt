@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Oct'}
-Pharmacokinetics and pharmacogenomics of daunorubicin in children: a report from the Children's Oncology Group.
-We explored the impact of obesity, body composition, and genetic polymorphisms on the pharmacokinetics (PK) of daunorubicin in children with cancer.

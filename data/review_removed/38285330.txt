@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Mar'}
-Prevalence of CYP2C19*2 and CYP2C19*3 Allelic Variants and Clopidogrel Use in Patients with Cardiovascular Disease in Trinidad & Tobago.
-Trinidad & Tobago has the highest prevalence of cardiovascular disease (CVD) in the Caribbean and clopidogrel is a ubiquitously used treatment. Yet, the extent of genetically mediated clopidogrel resistance is unknown. To determine this, we investigated whether the association between CYP2C19*2 and CYP2C19*3 genetic variants and clopidogrel resistance holds, and calculated the frequencies of these in the Trinidadian CVD population.

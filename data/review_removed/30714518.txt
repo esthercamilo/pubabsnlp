@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Progress of Individualized Chemotherapy for Gastric Carcinoma Under the Guidance of Genetic Testing.
-Gastric cancer is a major malignancy that has high incidence rates worldwide. Approximately 30% of patients with gastric cancer have progressed into advanced stages at the time of diagnosis. Chemotherapy is the standard-of-care for most advanced gastric cancer and elicits variable responses among patients. Personalized chemotherapy based on genetic information of individual patients with gastric cancer has gained increasing attention among oncologists for guiding chemotherapeutic regimens.

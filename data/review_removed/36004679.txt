@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Sep'}
-Warfarin pharmacogenomics in African populations: the importance of ethnicity-based algorithms.
-Tweetable abstract It is well accepted that pharmacogenomics (PGx) information from Asia and Europe should not be applied to Africa. More work is needed on different ethnic groups to generate population-specific algorithms that can be used effectively and safely.

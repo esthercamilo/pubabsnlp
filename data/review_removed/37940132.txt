@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Mar'}
-Association between polymorphisms of the VKORC1 and CYP2C9 genes and warfarin maintenance dose in Peruvian patients.
-The aim of this study was to investigate the association between VKORC1 and CYP2C9 genes polymorphisms and the maintenance dose of warfarin in Peruvian patients.

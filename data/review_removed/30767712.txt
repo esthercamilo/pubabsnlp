@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Mar'}
-Population pharmacokinetic and pharmacogenetics of imatinib in Chinese patients with chronic myeloid leukemia.
-This study aimed to establish a population pharmacokinetic (PPK) model in Chinese patients with chronic myeloid leukemia, and to quantify the effects of pharmacogenetics on pharmacokinetic parameters of imatinib.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Season': 'Mar-Apr'}
-Pharmacogenetics of Parkinson's Disease in Clinical Practice.
-Pharmacogenetics aims to identify the genetic factors participating in the heterogeneity of drug response. The ultimate goal is to provide personalized treatment by identifying responders and non-responders, individuals at risk of developing drug adverse effects, and by adjusting dosage. Several studies have been performed in Parkinson's disease (PD), to investigate drug response variability according to genetic factors for dopamine replacement therapies.

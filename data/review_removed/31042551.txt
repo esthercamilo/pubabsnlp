@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jul'}
-Bucindolol for the Maintenance of Sinus Rhythm in a Genotype-Defined HF Population: The GENETIC-AF Trial.
-The purpose of this study was to compare the effectiveness of bucindolol with that of metoprolol succinate for the maintenance of sinus rhythm in a genetically defined heart failure (HF) population with atrial fibrillation (AF).

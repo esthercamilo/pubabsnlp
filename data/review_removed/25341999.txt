@@ -1,3 +1,0 @@
-{'Year': '2014'}
-Assessment of the pharmacogenomics educational environment in Southeast Europe.
-Pharmacogenomics aims to use the information derived from an individual's genomic profile in the context of individualizing medical treatment modalities. However, currently, pharmacogenomics education is not uniformly provided to health care professionals. This study investigates the status of pharmacogenomics education in Southeast Europe.

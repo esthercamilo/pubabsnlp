@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Dec'}
-Influence of pharmacogenetics on the diversity of response to statins associated with adverse drug reactions.
-Statins are one of the most prescribed medications in developed countries as the treatment of choice for reducing cholesterol and preventing cardiovascular diseases. However, a large proportion of patients experience adverse drug reactions, especially myotoxicity. Among the factors that influence the diversity of response, pharmacogenetics emerges as a relevant factor of influence in inter-individual differences in response to statins and can be useful in the prevention of adverse drug effects.

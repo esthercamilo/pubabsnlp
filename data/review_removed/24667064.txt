@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jun'}
-Single tube genotyping of TYMS 1494del6 polymorphism in the Chinese Han population by duplex scorpion primers.
-The development of pharmacogenomics has created an urgent need for robust molecular characterization. And it has become a challenge to develop suitable detecting methods for routine clinical use.

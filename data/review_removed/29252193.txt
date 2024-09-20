@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Dec', 'Day': '20'}
-Role of CYP4F2, CYP2C19, and CYP1A2 polymorphisms on acenocoumarol pharmacogenomic algorithm accuracy improvement in the Greek population: need for sub-phenotype analysis.
-We have earlier developed a pharmacogenomic algorithm for acenocoumarol dose prediction in Greek patients that included CYP2C9/VKORC1 genetic information. This study aims at analyzing the potential effect of CYP4F2, CYP2C19, and CYP1A2 gene polymorphisms on acenocoumarol dose requirements and at further improving the Greek-specific pharmacogenomic algorithm.

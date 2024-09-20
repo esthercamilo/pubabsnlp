@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Oct'}
-Effect of CYP3A4, CYP3A5, ABCB1 Gene Polymorphisms on Rivaroxaban Pharmacokinetics in Patients Undergoing Total Hip and Knee Replacement Surgery.
-Population ageing in developed countries will inevitably increase the need for knee and hip replacement surgery. Over the years, direct oral anticoagulants, such as rivaroxaban, have been widely used for thromboprophylaxis in patients undergoing knee and hip replacement surgery. The study of pharmacogenetic characteristics of rivaroxaban is important for enhancing the effectiveness and safety of rivaroxaban thromboprophylaxis.

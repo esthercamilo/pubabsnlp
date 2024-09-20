@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Apr'}
-Use of drugs with pharmacogenomics (PGx)-based dosing guidelines in a Danish cohort of persons with chronic kidney disease, both on dialysis and not on dialysis: Perspectives for prescribing optimization.
-The objective of this registry study is to assess the utilization of pharmacogenomic (PGx) drugs among patients with chronic kidney disease (CKD).

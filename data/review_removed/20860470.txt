@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Sep'}
-Pharmacogenomics instruction in US and Canadian medical schools: implications for personalized medicine.
-To determine the extent of pharmacogenomics instruction at US and Canadian medical schools, characterize perceptions of curricular coverage, identify curricular resources and compare responses with similar studies conducted in US pharmacy schools and British medical schools.

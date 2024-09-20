@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Identification of Potential Biological Factors Affecting the Treatment of Ticagrelor After Percutaneous Coronary Intervention in the Chinese Population.
-Generally, many individual factors can affect the clinical application of drugs, of which genetic factors contribute more than 20%. Ticagrelor is a new class of receptor inhibitors receptor antagonist of P2Y12 and is used as an antiplatelet agents. But it is not affected by the influence of CYP2C19 polymorphism. With lack of predicted biomarkers, especially the research data of Chinese, it has the important significance in studying individual differences of ticagrelor in the antiplatelet efficacy and safety, through pharmacogenomics research.

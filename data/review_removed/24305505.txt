@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Dec'}
-Recent advances in acute lymphoblastic leukemia in children and adolescents: an expert panel discussion.
-Acute lymphoblastic leukemia (ALL) is the most common form of childhood leukemia, representing 75% to 80% of cases of acute leukemia among children. Dramatic improvements in the cure rates and survival outcomes for children with ALL have been seen over the past several decades; currently the 5-year survival rate for childhood ALL is more than 80%. These improvements have come about because of advances in the understanding of the molecular genetics and pathogenesis of the disease, incorporation of risk-adapted therapy, and the advent of new targeted agents.

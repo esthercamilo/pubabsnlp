@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Oct'}
-Optimization of Antidepressant use with Pharmacogenetic Strategies.
-The response rate in the pharmacological treatment of depression has been estimated to be around 50%, achieving a remission in symptomatology in only one third of the patients. Suboptimal prescription of antidepressants has been proposed as a significant explanatory factor for this therapeutic inefficacy. The use of pharmacogenetic testing might favor the optimization of pharmacotherapy in emotional disorders. However, its implementation in the clinical routine requires studies which prove its efficacy.

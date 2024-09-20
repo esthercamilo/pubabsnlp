@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Dec', 'Day': '13'}
-Author Correction: New insight for pharmacogenomics studies from the transcriptional analysis of two large-scale cancer cell line panels.
-A correction to this article has been published and is linked from the HTML and PDF versions of this paper. The error has been fixed in the paper.

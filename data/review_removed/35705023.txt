@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Dec', 'Day': '01'}
-Effect of <i>CYP2C9</i>, <i>PTGS-1</i> and <i>PTGS-2</i> gene polymorphisms on the efficiency and safety of postoperative analgesia with ketoprofen.
-Patients undergoing cardiac surgery develop post-sternotomy pain syndrome. The aim of this study was evaluation of the influence of <i>CYP2C9</i>, <i>PTGS-1</i> and <i>PTGS-2</i> genes polymorphisms on the efficacy and safety of postoperative analgesia with ketoprofen in patients with coronary artery disease after cardiac surgery.

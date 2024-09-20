@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Mar'}
-Principles of Obstetric Pharmacology: Maternal Physiologic and Hepatic Metabolism Changes.
-Since the recognition of pregnancy as a special pharmacokinetic population in the late 1990s, investigations have expanded our understanding of obstetric pharmacology. Many of the basic physiologic changes that occur during pregnancy impact on drug absorption, distribution, or clearance. Activities of hepatic metabolizing enzymes are variably altered by pregnancy, resulting in concentrations sufficiently different for some drugs that efficacy or toxicity may be affected. Understanding these unique pharmacologic changes will better inform our use of medications for our pregnant patients.

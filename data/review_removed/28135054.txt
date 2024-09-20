@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Apr'}
-Integrated analysis of genetic variation and gene expression reveals novel variant for increased warfarin dose requirement in African Americans.
-Essentials Genetic variants controlling gene regulation have not been explored in pharmacogenomics. We tested liver expression quantitative trait loci for association with warfarin dose response. A novel predictor for increased warfarin dose response in African Americans was identified. Precision medicine must take into account population-specific variation in gene regulation.

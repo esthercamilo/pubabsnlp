@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Association Study of Serotonin 3 Receptor Subunit Gene Variants in Antipsychotic-Induced Weight Gain.
-Schizophrenia (SCZ) is a chronic severe neuropsychiatric disorder, where pharmacological treatment has been hindered by adverse effects, including antipsychotic-induced weight gain (AIWG) and related complications. Genetic studies have been exploring the appetite regulation and energy homeostasis pathways in AIWG with some promising leads. The serotonin system has been shown to participate in these pathways.

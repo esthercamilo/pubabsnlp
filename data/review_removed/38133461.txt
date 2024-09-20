@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Dec', 'Day': '05'}
-The Intersection between Pharmacogenomics and Health Equity: A Case Example.
-Pharmacogenomics (PGx) and the study of precision medicine has substantial power to either uplift health equity efforts or further widen the gap of our already existing health disparities. In either occurrence, the medication experience plays an integral role within this intersection on an individual and population level. Examples of this intertwined web are highlighted through a case discussion. With these perspectives in mind, several recommendations for the research and clinical communities are highlighted to promote equitable healthcare with PGx integrated.

@@ -1,3 +1,0 @@
-{'Year': '2020'}
-The Genetic Polymorphism of <i>CYP3A4</i> rs<i>2242480</i> is Associated with Sirolimus Trough Concentrations Among Adult Renal Transplant Recipients.
-The large interindividual variability in the genetic polymorphisms of sirolimus (SIR)- metabolizing enzymes, transporters, and receptors can lead to qualitatively and quantitatively distinct therapeutic responses.

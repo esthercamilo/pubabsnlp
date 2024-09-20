@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct'}
-Pharmacogenetic content of commercial genome-wide genotyping arrays.
-We have evaluated the pharmacogenetic content of commercial human genome-wide genotyping arrays, as it is a critical determinant to enabling pharmacogenomic discoveries.

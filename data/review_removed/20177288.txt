@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Mar'}
-Pharmacogenomics of maternal tobacco use: metabolic gene polymorphisms and risk of adverse pregnancy outcomes.
-To assess whether functional maternal or fetal genotypes along well-characterized metabolic pathways (ie, CYP1A1, GSTT1, and CYP2A6) may account for varying associations with adverse outcomes among pregnant women who smoke.

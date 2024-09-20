@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Feb'}
-Pharmacogenomics elective focused on advanced lab techniques, game-based learning, and business plan development.
-Many medications contain labeling information related to pharmacogenomics. Effective education in this area is critical to ensure that future healthcare professionals are equipped with the skills needed to optimize patient therapy based on genetic testing results. This study focused on a novel elective course designed to educate students in pharmacogenomics.

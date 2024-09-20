@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Drug-screening and genomic analyses of HER2-positive breast cancer cell lines reveal predictors for treatment response.
-Approximately 15%-20% of all diagnosed breast cancers are characterized by amplified and overexpressed HER2 (= ErbB2). These breast cancers are aggressive and have a poor prognosis. Although improvements in treatment have been achieved after the introduction of trastuzumab and lapatinib, many patients do not benefit from these drugs. Therefore, in-depth understanding of the mechanisms behind the treatment responses is essential to find alternative therapeutic strategies.

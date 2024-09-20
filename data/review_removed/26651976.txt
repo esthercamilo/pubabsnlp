@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Influence of CYP3A5 polymorphism on the pharmacokinetics of psychiatric drugs.
-The contribution of the CYP3A5 enzyme to the metabolism of clinically used drugs has been established only for a few CYP3A substrates, such as the immunosuppressant tacrolimus, while for drugs used in the field of psychiatry its role is still vague.

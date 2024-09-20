@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jan'}
-A cost analysis of upfront DPYD genotype-guided dose individualisation in fluoropyrimidine-based anticancer therapy.
-Fluoropyrimidine therapy including capecitabine or 5-fluorouracil can result in severe treatment-related toxicity in up to 30% of patients. Toxicity is often related to reduced activity of dihydropyrimidine dehydrogenase, the main metabolic fluoropyrimidine enzyme, primarily caused by genetic DPYD polymorphisms. In a large prospective study, it was concluded that upfront DPYD-guided dose individualisation is able to improve safety of fluoropyrimidine-based therapy. In our current analysis, we evaluated whether this strategy is cost saving.

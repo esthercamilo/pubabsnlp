@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Feb'}
-Can we predict unresponsiveness to methotrexate in rheumatoid arthritis? A pharmacogenetic study.
-Methotrexate (MTX) is the anchor drug in the treatment of rheumatoid arthritis (RA) and the therapeutic response to MTX has been observed to vary widely among these patients. The aim of this study was to investigate ABCB1 gene (the multidrug resistant 1 gene; MDR1 gene) polymorphism in patients with RA and to evaluate the relation between MTX unresponsiveness and this polymorphism.

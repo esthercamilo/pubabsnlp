@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Feb', 'Day': '13'}
-Nurses should be up to speed on pharmacogenetic testing.
-The expectations for pharmacogenetic testing have been high, partly because of the hype surrounding the human genome project (art & science January 28). But pharmacogenetics will soon become a reality in everyday health care in the UK. Pharmacogenetic testing may not be necessary for the vast numbers of drugs with a wide therapeutic margin and few or no serious side effects. However, it will be helpful in preventing harm when there are difficulties in finding the specific therapeutic dose for a patient.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Sep', 'Day': '01'}
-BRIDG: a domain information model for translational and clinical protocol-driven research.
-It is critical to integrate and analyze data from biological, translational, and clinical studies with data from health systems; however, electronic artifacts are stored in thousands of disparate systems that are often unable to readily exchange data.

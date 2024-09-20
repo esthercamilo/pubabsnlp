@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Oct', 'Day': '27'}
-Association of <b><i>CYP2D6*4</i></b> Polymorphism with the Steady-State Concentration of Haloperidol in Patients with Alcohol-Induced Psychotic Disorders.
-CYP2D6 subfamily isoenzymes play an important role in the biotransformation of haloperidol, and their activity may influence the efficacy and safety of haloperidol. The use of haloperidol is often associated with the occurrence of adverse drug reactions (ADRs), such as dyskinesia, acute dystonia, and orthostatic hypotension. Previous studies have demonstrated the relationship between the <i>CYP2D6*4</i> genetic polymorphism and CYP2D6 activity, as well as haloperidol efficacy and safety rates.

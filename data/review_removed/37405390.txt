@@ -1,3 +1,0 @@
-{'Year': '2023', 'Season': 'Jul-Dec'}
-Targeting the gut microbiome to control drug pharmacomicrobiomics: the next frontier in oral drug delivery.
-The trillions of microorganisms that comprise the gut microbiome form dynamic bidirectional interactions with orally administered drugs and host health. These relationships can alter all aspects of drug pharmacokinetics and pharmacodynamics (PK/PD); thus, there is a desire to control these interactions to maximize therapeutic efficacy. Attempts to modulate drug-gut microbiome interactions have spurred advancements within the field of 'pharmacomicrobiomics' and are poised to become the next frontier of oral drug delivery.

@@ -1,3 +1,0 @@
-{'Year': '2012', 'Season': 'Jul-Aug'}
-Morphine clearance in children: does race or genetics matter?
-Interindividual variability in analgesic response and adverse effects of opioids because of narrow therapeutic indices are major clinical problems. Morphine is an opioid commonly used in children to manage perioperative pain. Al-though size and age often are considered primary covariates for morphine pharmacokinetic models, the impact of other factors important in personalizing care such as race and genetic variations on morphine disposition is not well documented.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Mar'}
-Leflunomide for inflammatory arthritis in end-stage renal disease on peritoneal dialysis: a pharmacokinetic and pharmacogenetic study.
-To study the pharmacokinetics and pharmacogenetics of leflunomide and document its efficacy and safety in the treatment of inflammatory arthritis in a patient with end-stage renal disease (ESRD) who was on peritoneal dialysis.

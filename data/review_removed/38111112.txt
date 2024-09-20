@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Dec', 'Day': '18'}
-Pharmacogenetic Variants Can Influence Optical Medication Use.
-Single Nucleotide Polymorphisms (SNPs) are used as drug susceptibility biomarkers in metabolic diseases. Alterations in the gene encoding triggers the enzyme flavin monooxygenase 3 (FMO3), involved in the Sulindac metabolization, which also is responsible for the inherited metabolic disorder. Trimethylaminuria (TMAu, OMIM: 602079). DPYD gene variants are associated with the enzyme dihydropyrimidine dehydrogenase deficiency (DPD; OMIM: 274270). This autosomal recessive metabolic disorder, ultimately leads to the inability to metabolize fluoropyrimidines, which causes severe toxicity in individuals treated with these drugs.

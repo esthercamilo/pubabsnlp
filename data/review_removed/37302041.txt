@@ -1,3 +1,0 @@
-{'Year': '2024'}
-Research of Russian physicians' opinions on tuberculosis pharmacogenetics.
-There is currently no widespread implementation of pharmacogenetic testing (PGx) methods in the practice of phthisiology service.

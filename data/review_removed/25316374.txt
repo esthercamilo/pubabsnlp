@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Sep', 'Day': '30'}
-Prediction of LDL cholesterol response to statin using transcriptomic and genetic variation.
-Statins are widely prescribed for lowering LDL-cholesterol (LDLC) levels and risk of cardiovascular disease. There is, however, substantial inter-individual variation in the magnitude of statin-induced LDLC reduction. To date, analysis of individual DNA sequence variants has explained only a small proportion of this variability. The present study was aimed at assessing whether transcriptomic analyses could be used to identify additional genetic contributions to inter-individual differences in statin efficacy.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jul'}
-Pharmacogenomics and functional imaging to predict irinotecan pharmacokinetics and pharmacodynamics: the predict IR study.
-Irinotecan (IR) displays significant PK/PD variability. This study evaluated functional hepatic imaging (HNI) and extensive pharmacogenomics (PGs) to explore associations with IR PK and PD (toxicity and response).

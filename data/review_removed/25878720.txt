@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Cytochrome P450 2B6 genetic variants are associated with plasma nevirapine levels and clinical response in HIV-1 infected Kenyan women: a prospective cohort study.
-Polymorphisms in cytochrome P450 2B6 (CYP2B6) affect the steady state plasma concentration of nevirapine. CYP2B6 516G>T and 983T>C are common in African populations, but data on their influence on plasma nevirapine concentration and clinical response in African women are limited. We investigated the impact of CYP 516G>T and 983T>C on plasma nevirapine concentration and clinical outcomes in a prospective cohort study of HIV-infected Kenyan women.

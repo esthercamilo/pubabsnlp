@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Sep', 'Day': '01'}
-Oncology Nurses' Knowledge of Pharmacogenomics Before and After Implementation of an Education Module.
-To assess the efficacy of an interactive continuing education module in improving knowledge of pharmacogenomics in oncology nursing practice.

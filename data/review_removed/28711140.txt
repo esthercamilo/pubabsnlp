@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Aug'}
-Precision Medicine in Rheumatoid Arthritis.
-Treatment of rheumatoid arthritis (RA) has substantially improved in recent years because of the development of novel drugs. However, response is not universal for any of the treatment options, and selection of an effective therapy is currently based on a trial-and-error approach. Delayed treatment response increases the risk of progressive joint damage and resultant disability and also has a significant impact on quality of life for patients. For many drugs, the patient's genetic background influences response to therapy, and understanding the genetics of response to therapy in RA may allow for targeted personalized health care.

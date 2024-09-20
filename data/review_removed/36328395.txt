@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Nov'}
-Pharmacokinetics of hydroxychloroquine in paediatric lupus: data from a novel, direct-to-family clinical trial.
-Determine the pharmacokinetics (PK) and exposure-response of hydroxychloroquine (HCQ) and desethylhydroxychloroquine (DHCQ) in paediatric SLE (pSLE).

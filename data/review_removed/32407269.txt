@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Pharmacogenetic Evaluation of Metformin and Sulphonylurea Response in Mexican Mestizos with Type 2 Diabetes.
-In Mexico, approximately 25% of patients with type 2 diabetes (T2D) have adequate glycemic control. Polymorphisms in pharmacogenetic genes have been shown to have clinical consequences resulting in drug toxicity or therapeutic inefficacy.

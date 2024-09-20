@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Feb'}
-Characterization of the CYP2D6 gene locus and metabolic activity in Indo- and Afro-Trinidadians: discovery of novel allelic variants.
-The highly polymorphic CYP2D6 gene has extensively been studied in many populations, but there is a void of knowledge regarding CYP2D6 pharmacogenetics and activity in populations with unique ancestries and admixture, such as those residing in Trinidad and Tobago.

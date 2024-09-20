@@ -1,3 +1,0 @@
-{'Year': '2023'}
-Primary care providers' preferences for the communication and management of actionable genomic findings from a research biobank.
-Little is known about non-genetics health care specialists' attitudes toward the return and utilization of actionable genomic results from a research biobank. We surveyed primary care providers (PCPs) to explore their perspectives on these results and their preferences for return.

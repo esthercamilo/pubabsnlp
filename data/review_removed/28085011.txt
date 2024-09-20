@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Hydrogel microarray for detection of polymorphisms in the UGT1A1, DPYD, GSTP1 and ABCB1 genes.
-Improving the efficacy of anticancer therapy remains an urgent and very important task. Screening of the individual genetic metabolism of cancer patients allows for prescribing adequate medication in the correct dose as well as for decreasing side effects associated with drug toxicity.

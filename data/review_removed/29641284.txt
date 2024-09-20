@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Apr'}
-Personalized Dosing of Dichloroacetate Using GSTZ1 Clinical Genotyping Assay.
-Dichloroacetate (DCA) represents the first targeted therapy for pyruvate dehydrogenase complex deficiency; it is metabolized by glutathione transferase zeta1 (GSTZ1). Variation in the GSTZ1 haplotype is the principal variable influencing DCA kinetics and dynamics in humans. We aimed to develop a sensitive and rapid clinical genetic screening test for determining GSTZ1 haplotype status in individuals who would be treated with DCA, and then apply the test for the investigation of the plasma pharmacokinetics (PK) of DCA as a function of GSTZ1 haplotype.

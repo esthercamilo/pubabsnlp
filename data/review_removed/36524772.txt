@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Mar'}
-Pharmacogenetics of warfarin and healthcare costs - Real-world data analysis.
-Variants in CYP2C9 and VKORC1 genes have been associated with individuals' sensitivity to warfarin. The aim of this study was to investigate the differences of healthcare costs of genetically normal and genetically sensitive warfarin responder groups.

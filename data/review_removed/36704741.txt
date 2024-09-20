@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Sex- and genotype-dependent nicotine plus cue-primed reinstatement is enhanced in adolescent Sprague Dawley rats containing the human <i>CHRNA</i>6 3'-UTR polymorphism (rs2304297).
-Large-scale human candidate gene studies have indicated that a genetic variant (rs2304297) in the alpha(α)6 nicotinic acetylcholine receptor (nAChR) subunit, encoded by the <i>CHRNA</i>6 gene, may play a key role in adolescent nicotine addictive behavior. We hypothesized that the polymorphism selectively enhances nicotine + cue-primed reinstatement, but not nicotine- or cue-reinstatement in α6 <i><sup>GG</sup></i> (risk) vs. α6 <i><sup>CC</sup></i> (non-risk) allele carriers, without having baseline effects on natural rewards.

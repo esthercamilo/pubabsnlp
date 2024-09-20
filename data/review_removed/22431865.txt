@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Apr', 'Day': '24'}
-A randomized and clinical effectiveness trial comparing two pharmacogenetic algorithms and standard care for individualizing warfarin dosing (CoumaGen-II).
-Warfarin is characterized by marked variations in individual dose requirements and a narrow therapeutic window. Pharmacogenetics (PG) could improve dosing efficiency and safety, but clinical trials evidence is meager.

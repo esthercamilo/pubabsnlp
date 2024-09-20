@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Dec'}
-Association of brain-derived neurotrophic factor valine to methionine polymorphism with sexual dysfunction following selective serotonin reuptake inhibitor treatment in female patients with major depressive disorder.
-The occurrence of female sexual dysfunction (FSD) in patients with major depressive disorder (MDD) receiving selective serotonin reuptake inhibitors (SSRIs) treatment gives negative impacts on patients' quality of life and causes treatment discontinuation. We aimed to investigate whether genetic polymorphism of identified candidate gene is associated with FSD in our study population.

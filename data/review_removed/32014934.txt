@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Feb'}
-Messenger-RNA Expression of Five Gemcitabine Sensitivity-related Genes Predicting Outcome in Advanced-stage Non-small Cell Lung Cancer.
-Tumoural transcriptional levels of RRM1, RRM2, CDA, dCK and hENT1 genes are potential biomarkers for gemcitabine's efficacy in non-small cell lung cancer (NSCLC).

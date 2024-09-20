@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul', 'Day': '18'}
-Towards genomic medicine: a tailored next-generation sequencing panel for hydroxyurea pharmacogenomics in Tanzania.
-Pharmacogenomics of hydroxyurea is an important aspect in the management of sickle cell disease (SCD), especially in the era of genomic medicine. Genetic variations in loci associated with HbF induction and drug metabolism are prime targets for hydroxyurea (HU) pharmacogenomics, as these can significantly impact the therapeutic efficacy and safety of HU in SCD patients.

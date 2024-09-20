@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jun'}
-Toward Individualized Prediction of Response to Methotrexate in Early Rheumatoid Arthritis: A Pharmacogenomics-Driven Machine Learning Approach.
-To test the ability of machine learning (ML) approaches with clinical and genomic biomarkers to predict methotrexate treatment response in patients with early rheumatoid arthritis (RA).

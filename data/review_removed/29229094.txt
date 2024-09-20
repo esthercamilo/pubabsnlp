@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Nov'}
-No genetic association detected with mepolizumab efficacy in severe asthma.
-Treatment with mepolizumab, a humanized monoclonal antibody to interleukin-5, reduces the rate of asthma exacerbations and the requirement for systemic glucocorticoids while maintaining asthma control. Treatment decisions are guided by predictors of response, including blood eosinophil thresholds in patients with frequent exacerbations despite intensive anti-inflammatory and controller treatment. Identification of additional predictors of response could aid treatment decisions. We investigated genetic associations that may predict response to mepolizumab-treatment.

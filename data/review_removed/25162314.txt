@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Oct'}
-Polymorphisms of the drug transporters ABCB1, ABCG2, ABCC2 and ABCC3 and their impact on drug bioavailability and clinical relevance.
-Human ATP-binding cassette (ABC) transporters act as translocators of numerous substrates across extracellular and intracellular membranes, thereby contributing to bioavailability and consequently therapy response. Genetic polymorphisms are considered as critical determinants of expression level or activity and subsequently response to selected drugs.

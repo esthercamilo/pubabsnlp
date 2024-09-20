@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Aug'}
-Initial dose recommendation for sirolimus in paediatric kaposiform haemangioendothelioma patients based on population pharmacokinetics and pharmacogenomics.
-Sirolimus has been used to treat paediatric kaposiform haemangioendothelioma patients. However, there is considerable pharmacokinetic variability among individuals, and it is difficult to develop an initial dosing regimen. The goal of the present study is to recommend an initial sirolimus dose in paediatric kaposiform haemangioendothelioma patients based on population pharmacokinetics and pharmacogenomics.

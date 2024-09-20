@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Apr'}
-Predictive Modelling in pharmacokinetics: from in-silico simulations to personalized medicine.
-Pharmacokinetic parameters assessment is a critical aspect of drug discovery and development, yet challenges persist due to limited training data. Despite advancements in machine learning and in-silico predictions, scarcity of data hampers accurate prediction of drug candidates' pharmacokinetic properties.

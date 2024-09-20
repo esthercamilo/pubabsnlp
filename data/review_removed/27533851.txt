@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Sep'}
-Polymorphisms in SLCO1B1 and UGT1A1 are associated with sorafenib-induced toxicity.
-Sorafenib-treated patients display a substantial variation in the incidence of toxicity. We aimed to investigate the association of genetic polymorphisms with observed toxicity on sorafenib.

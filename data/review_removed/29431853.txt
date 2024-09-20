@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun'}
-rs294775 is a cis-regulatory SNP for human UGT2B10.
-UGT2B10 is an important metabolism enzyme in human body and its substrates include multiple amine-containing compounds, especially nicotine, tamoxifen and multiple antidepressants. Multiple common SNPs have been observed in its promoter region, but their role in expression regulation has never been investigated. In this preliminary study, we identified a novel cis-regulatory SNP, rs294775, for UGT2B10 by plasmid construction, mutagenesis, and luciferase assay, whose mechanism was also investigated. Our work provides a basis for further pharmacogenetics study.

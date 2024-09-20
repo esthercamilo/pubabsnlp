@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Nov'}
-Efficacy and safety of TAS-116, an oral inhibitor of heat shock protein 90, in patients with metastatic or unresectable gastrointestinal stromal tumour refractory to imatinib, sunitinib and regorafenib: a phase II, single-arm trial.
-We evaluated the efficacy and safety of TAS-116, a novel class of an orally active selective inhibitor of heat shock protein 90, in patients with advanced gastrointestinal stromal tumour (GIST) after failure of three or more lines of standard treatment with imatinib, sunitinib and regorafenib.

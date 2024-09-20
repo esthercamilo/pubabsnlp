@@ -1,3 +1,0 @@
-{'Year': '2015'}
-The Influence of C3435T Polymorphism of the ABCB1 Gene on Genetic Susceptibility to Depression and Treatment Response in Polish Population - Preliminary Report.
-Despite the high prevalence of depression, the mechanism of the origin of this disease as well as the causes of resistance to therapy in some patients are still not fully understood. Increasingly, the possible role of genetic factors is considered. One of them is polymorphisms in the ABCB1 (MDR1) gene which encodes P-glycoprotein, responsible for the transport of xenobiotics, including antidepressant drugs, through the blood-brain barrier.

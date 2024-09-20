@@ -1,3 +1,0 @@
-{'Year': '2015'}
-SLCO1B1 genetic variants, long-term low-density lipoprotein cholesterol levels and clinical events in patients following cardiac catheterization.
-SLCO1B1 variants are associated with intermediate outcomes that may increase risk of death/myocardial infarction (MI) in statin-treated patients.

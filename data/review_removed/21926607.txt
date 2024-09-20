@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jan'}
-Coronary stent thrombosis in patients undergoing multidigit replantation.
-The development of drug-eluting stents has decreased the rate of in-stent restenosis. However, there have been reports of late stent thrombosis in patients with drug-eluting stents, especially when dual antiplatelet therapy is interrupted. The high mortality rate associated with cardiac stent thrombosis has led to recent recommendations regarding duration of antiplatelet therapy as well as timing of elective surgery in patients with both drug-eluting stents and bare metal stents. However, in patients requiring emergency operations, delaying surgery is not an option.

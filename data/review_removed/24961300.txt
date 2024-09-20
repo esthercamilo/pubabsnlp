@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-Tailored tools to improve pharmacotherapy in infants.
-Extensive within-population variability is the essence of neonatal pharmacology. Despite this, infants remain one of the last therapeutic orphans. Together with additional legal initiatives, tailoring of already available tools (modeling, covariates, pharmacovigilance) may significantly improve pharmacotherapy in infants.

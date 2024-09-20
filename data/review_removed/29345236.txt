@@ -1,3 +1,0 @@
-{'Year': '2018'}
-GLCCI1 Polymorphism rs37973 and Response to Treatment of Asthma With Inhaled Corticosteroids.
-The response to asthma treatment is highly variable, and having pharmacogenetic markers that predict response to treatment would bring us one step closer to personalized treatment. Genome-wide association studies have shown that polymorphisms in GLCCI1 could be associated with the response to inhaled corticosteroids (ICSs) in asthma patients.

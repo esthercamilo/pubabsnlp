@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Apr'}
-Validation of a rapid test for HLA-B*58:01/57:01 allele screening to detect individuals at risk for drug-induced hypersensitivity.
-In prevention of allopurinol and abacavir hypersensitivity, screening HLA-B*58:01/57:01 has been highly recommended prior to commencing these therapies. Therefore, we aimed at developing and validating a rapid and robust screening method for HLA-B*58:01/57:01.

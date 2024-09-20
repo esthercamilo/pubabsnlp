@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Oct', 'Day': '16'}
-Development of the pharmacogenomics and genomics literacy framework for pharmacists.
-Pharmacists play a unique role in integrating genomic medicine and pharmacogenomics into the clinical practice and to translate pharmacogenomics from bench to bedside. However, the literature suggests that the knowledge gap in pharmacogenomics is a major challenge; therefore, developing pharmacists' skills and literacy to achieve this anticipated role is highly important. We aim to conceptualize a personalized literacy framework for the adoption of genomic medicine and pharmacogenomics by pharmacists in the United Arab Emirates with possible regional and global relevance.

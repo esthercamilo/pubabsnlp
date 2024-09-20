@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Feb'}
-Pharmacogenetics of telatinib, a VEGFR-2 and VEGFR-3 tyrosine kinase inhibitor, used in patients with solid tumors.
-Telatinib is an orally active small-molecule tyrosine kinase inhibitor of kinase insert domain receptor (KDR; VEGFR-2) and fms-related tyrosine kinase 4 (FLT4; VEGFR-3). This study aims at the identification of relationships between single nucleotide polymorphisms (SNPs) in genes encoding for transporter proteins and pharmacokinetic parameters in order to clarify the significant interpatient variability in drug exposure. In addition, the potential relationship between target receptor polymorphisms and toxicity of telatinib is explored.

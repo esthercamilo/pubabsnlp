@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jul'}
-Clinical Pharmacogenetics Implementation Consortium (CPIC) Guidelines for CYP3A5 Genotype and Tacrolimus Dosing.
-Tacrolimus is the mainstay immunosuppressant drug used after solid organ and hematopoietic stem cell transplantation. Individuals who express CYP3A5 (extensive and intermediate metabolizers) generally have decreased dose-adjusted trough concentrations of tacrolimus as compared with those who are CYP3A5 nonexpressers (poor metabolizers), possibly delaying achievement of target blood concentrations. We summarize evidence from the published literature supporting this association and provide dosing recommendations for tacrolimus based on CYP3A5 genotype when known (updates at www.pharmgkb.org).

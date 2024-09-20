@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May'}
-CYP2D6 and Endoxifen in Tamoxifen Therapy: A Tribute to David A. Flockhart.
-This issue of Clinical Pharmacology & Therapeutics (CPT) includes the Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for using CYP2D6 genotyping to guide tamoxifen therapy for breast cancer patients. CYP2D6 metabolizes tamoxifen to its more active metabolite, endoxifen, and patients with reduced CYP2D6 activity have reduced circulating endoxifen concentrations. In this associated commentary, we recognize and honor the late Dr. David Flockhart, who began the research and made early fundamental discoveries on tamoxifen that have now resulted in this guideline.

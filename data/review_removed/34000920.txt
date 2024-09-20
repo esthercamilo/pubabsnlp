@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jul'}
-MTHFR 677T-1298C haplotype in acute lymphoblastic leukemia: Impact on methotrexate therapy.
-Functional variants of the Methylenetetrahydrofolate reductase (<i>MTHFR</i>) gene, the C677T and A1298C, have largely investigated in pharmacogenomics of Methotrexate (MTX) in acute lymphoblastic leukemia (ALL), yet the conclusions are inconsistent. In addition; most of these studies do not analyze haplotypes. Here, we investigate the MTHFR 677/1298 genotypes and the 677-1298 haplotype and characterize the MTX response in Northern African ALL patients.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jul', 'Day': '30'}
-Clinical and genetic factors associated with anxiety and depression in breast cancer patients: a cross-sectional study.
-Despite the progress in assessment and treatment of breast cancer, being diagnosed with it or receiving chemotherapy treatment is still conceived as a traumatic experience. Women develop negative thoughts about life and death with detrimental effects on their daily physical functioning/activities, emotional state and overall quality of life. The aim of our study was to evaluate the level of anxiety and depression among breast cancer patients receiving chemotherapy and explore the correlation between these psychological disorders, clinical, sociodemographic and genetic factors.

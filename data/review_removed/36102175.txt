@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Nov'}
-Genetic variants associated with ALT elevation from therapeutic acetaminophen.
-Several studies have suggested genetic variants associated with acetaminophen induced liver injury (DILI) following overdose. Genetic variation associated with acetaminophen-induced alanine aminotransferase elevation during therapeutic dosing has not been examined.

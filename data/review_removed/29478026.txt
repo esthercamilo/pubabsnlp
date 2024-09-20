@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Feb', 'Day': '24'}
-Genome-Wide Association Approach Identified Novel Genetic Predictors of Heart Rate Response to β-Blockers.
-For many indications, the negative chronotropic effect of β-blockers is important to their efficacy, yet the heart rate (HR) response to β-blockers varies. Herein, we sought to use a genome-wide association approach to identify novel single nucleotide polymorphisms (SNPs) associated with HR response to β-blockers.

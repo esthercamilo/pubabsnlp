@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Mar'}
-The usefulness of genotyping cytochrome P450 enzymes in the treatment of depression.
-Pharmacogenomics, which is derived from genome-wide association studies (GWAS), and pharmacogenetics, which involves candidate gene association studies (CGASs), are proving increasingly useful in personalized cancer care. Research in psychiatric applications has primarily involved genetic polymorphisms of P450 CYP enzymes, which mediate oxidative metabolism, particularly CYP2D6, which is involved in the metabolism of at least 30 psychotropic medications. This work has been supplemented by genotyping of proteins for the drug efflux pump P-glycoprotein (P-gp), serotonin receptors, and the serotonin reuptake pump.

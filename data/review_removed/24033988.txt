@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Sep', 'Day': '13'}
-The mouse pathology ontology, MPATH; structure and applications.
-The capture and use of disease-related anatomic pathology data for both model organism phenotyping and human clinical practice requires a relatively simple nomenclature and coding system that can be integrated into data collection platforms (such as computerized medical record-keeping systems) to enable the pathologist to rapidly screen and accurately record observations. The MPATH ontology was originally constructed in 2,000 by a committee of pathologists for the annotation of rodent histopathology images, but is now widely used for coding and analysis of disease and phenotype data for rodents, humans and zebrafish.

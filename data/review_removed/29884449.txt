@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Feb'}
-Effectiveness of half-a-tablet efavirenz plus 2 nucleos(t)ide reverse-transcriptase inhibitors as maintenance therapy with the guidance of therapeutic drug monitoring among virologically suppressed HIV-positive patients: A prospective study.
-Optimal efavirenz (EFV) dose that minimizes adverse effects while maintaining efficacy has yet to be elucidated. With a therapeutic drug monitoring (TDM)-guided strategy, we assessed the effectiveness of half-a-tablet EFV plus 2 nucleos(t)ide reverse-transcriptase inhibitors (NRTIs) in HIV-infected Taiwanese who had achieved viral suppression with full-dose (600 mg) EFV.

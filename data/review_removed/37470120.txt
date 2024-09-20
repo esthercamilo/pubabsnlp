@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Jun'}
-<i>UGT1A1</i> genotype-guided dosing of irinotecan: time to prioritize patient safety.
-Tweetable abstract Pretreatment <i>UGT1A1</i> genotyping and a 70% irinotecan dose intensity in poor metabolizers is safe, feasible, cost-effective and essential for safe irinotecan treatment in cancer patients. It is time to update guidelines to swiftly enable the implementation of <i>UGT1A1</i> genotype-guided irinotecan dosing in routine oncology care.

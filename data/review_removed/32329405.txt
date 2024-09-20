@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'May', 'Day': '01'}
-Nutrigenetics and nutrigenomics: ready for clinical use or still a way to go?
-Nutritional Genomics or nutrigenetics/nutrigenomics is an emerging area of research aiming to delineate the interplay between nutrients intake and the reciprocal pathologies with the human genome. Coupled with other omics disciplines, such as metabolomics, proteomics and transcriptomics, nutrigenomics aspires to individualize nutrition, reminiscent of pharmacogenomics and the individualization of drug use. Here, we provide an overview of a session focused on nutrigenomics, organized in conjunction with the Panhellenic Bioscientists Association during the First Greek National Personalised Medicine Conference in Athens, Greece on 15 December 2019.

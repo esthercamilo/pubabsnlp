@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'May'}
-Perspectives on the Clinical Use of Pharmacogenetic Testing in Late-Life Mental Healthcare: A Survey of the American Association of Geriatric Psychiatry Membership.
-To assess perspectives on pharmacogenetic (PGx) testing among members of the American Association of Geriatric Psychiatry (AAGP).

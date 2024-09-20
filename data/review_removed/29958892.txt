@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct'}
-The sample that would not clot.
-Vitamin K is a vital component within both the intrinsic and extrinsic coagulation cascade as certain factors (II, VII, IX, X and protein C and S) utilize vitamin K as a cofactor during post translational modification. Deficiency of vitamin K can result in the inability to properly form blood clots, both in vivo and in vitro, due to reduced vitamin K dependent factor levels and function. Vitamin K deficiency can result from congenital causes, such as VKOR or CYP2C9 mutations, or acquired causes, such as nutritional deficiencies, antibiotic therapy, or supra-therapeutic warfarin dosing.

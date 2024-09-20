@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Sep'}
-Cost-Utility Study of Warfarin Genotyping in the VACHS Affiliated Anticoagulation Clinic of Puerto Rico.
-To evaluate the cost-utility of the pharmacogenetic-guided dosing of warfarin (PGx), when compared to the current dosing strategy.

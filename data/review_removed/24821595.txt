@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Sep'}
-Population pharmacokinetic modelling and evaluation of different dosage regimens for darunavir and ritonavir in HIV-infected individuals.
-Darunavir is a protease inhibitor that is administered with low-dose ritonavir to enhance its bioavailability. It is prescribed at standard dosage regimens of 600/100 mg twice daily in treatment-experienced patients and 800/100 mg once daily in naive patients. A population pharmacokinetic approach was used to characterize the pharmacokinetics of both drugs and their interaction in a cohort of unselected patients and to compare darunavir exposure expected under alternative dosage regimens.

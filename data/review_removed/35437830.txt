@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Sep'}
-Pharmacogenetics may explain part of the interindividual variability of dobutamine pharmacodynamics in neonates.
-To determine whether the known single nucleotide polymorphisms in adrenoreceptor associated genes affect the haemodynamic response to dobutamine in critically ill neonates.

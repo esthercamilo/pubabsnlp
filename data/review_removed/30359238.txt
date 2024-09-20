@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct', 'Day': '25'}
-Effects of FGFR gene polymorphisms on response and toxicity of cyclophosphamide-epirubicin-docetaxel-based chemotherapy in breast cancer patients.
-The chemotherapy resistance and toxicity of chemotherapy are major problems in breast cancer treatment. However, candidate biomarkers for predicting clinical outcomes and better prognosis remain lacking.

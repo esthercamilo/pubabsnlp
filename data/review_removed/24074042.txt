@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jul'}
-Genetic variation in the serotonin transporter and HTR1B receptor predicts reduced bone formation during serotonin reuptake inhibitor treatment in older adults.
-Studies have reported an association between serotonin reuptake inhibitors (SRIs) and accelerated bone loss. Genetic variation in the serotonin system might modulate bone metabolism changes during SRI treatment. In a clinical trial we examined functional genetic polymorphisms of serotonin transporter and receptors involved in bone metabolism to determine whether they predict changes in bone metabolism during SRI treatment.

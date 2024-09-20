@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Apr'}
-Initial dose optimization of tacrolimus for children with systemic lupus erythematosus based on the CYP3A5 polymorphism and coadministration with Wuzhi capsule.
-Tacrolimus, an immunosuppressant, has been used to treat paediatric systemic lupus erythematosus, but the optimal initial regimen is not clear. The purpose of this study was to explore the optimal initial dose of tacrolimus for children with systemic lupus erythematosus using population pharmacokinetics and pharmacogenomics.

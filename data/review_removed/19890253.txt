@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Jan'}
-Transporter pharmacogenetics and statin toxicity.
-Polymorphisms in transporter genes can have profound effects on statin pharmacokinetics. In particular, a common genetic variant of organic anion-transporting polypeptide 1B1 reduces the hepatic uptake of many statins, increasing the risk of statin-induced myopathy. Similarly, genetically impaired adenosine triphosphate (ATP)-binding cassette G2 transporter efflux activity results in a marked increase in systemic exposure to various statins. Importantly, the effects of these genetic polymorphisms differ depending on the specific statin that is used. This provides a rational basis for the individualization of lipid-lowering therapy.

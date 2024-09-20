@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Nov'}
-Pharmacogenetics of Bisphosphonate-associated Osteonecrosis of the Jaw.
-Osteonecrosis of the jaws (ONJ) is a potentially severe disorder that develops in a subgroup of individuals who have used bisphosphonate (BP) medications. Several clinical risk factors have been associated with the risk of ONJ development, but evidence is limited and in most instances ONJ remains an unpredictable adverse drug reaction. Interindividual genetic variability can contribute to explaining ONJ development in a subset of BP users and the discovery of relevant associated gene variants could lead to the identification of individuals at higher risk. No genetic variant has been found to be robustly associated with susceptibility to ONJ.

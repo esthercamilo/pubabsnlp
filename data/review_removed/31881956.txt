@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Dec', 'Day': '27'}
-Comparing sensitivity to change using the 6-item versus the 17-item Hamilton depression rating scale in the GUIDED randomized controlled trial.
-Previous research suggests that the 17-item Hamilton Depression Rating Scale (HAM-D17) is less sensitive in detecting differences between active treatment and placebo for major depressive disorder (MDD) than is the HAM-D6 scale, which focuses on six core depression symptoms. Whether HAM-D6 shows greater sensitivity when comparing two active MDD treatment arms is unknown.

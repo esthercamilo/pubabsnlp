@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'May'}
-Development and Comparison of Warfarin Dosing Algorithms in Stroke Patients.
-The genes for cytochrome P450 2C9 (CYP2C9) and vitamin K epoxide reductase complex subunit 1 (VKORC1) have been identified as important genetic determinants of warfarin dosing and have been studied. We developed warfarin algorithm for Korean patients with stroke and compared the accuracy of warfarin dose prediction algorithms based on the pharmacogenetics.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun', 'Day': '30'}
-Pharmacogenetic effects of angiotensin-converting enzyme inhibitors over age-related urea and creatinine variations in patients with dementia due to Alzheimer disease.
-Renal function declines according to age and vascular risk factors, whereas few data are available regarding genetically-mediated effects of anti-hypertensives over renal function.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Mar', 'Day': '26'}
-CYP2D6 and CYP3A4 variants influence the risk and outcome of COVID-19 infection among rheumatoid arthritis patients maintained on hydroxychloroquine.
-Hydroxychloroquine (HCQ) has been used as an off label for the management of coronavirus disease (Covid-19) infection with other drugs. However, different genetic variants can affect the metabolism of HCQ leading to inter-individual differences in its efficacy. In this study, we investigated the effects of variants in CYP2D6, CYP3A4 and CYP3A5 on the risk of Covid-19 infection among patients receiving HCQ for controlling rheumatoid arthritis (RA).

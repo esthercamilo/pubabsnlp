@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Aug'}
-Cisplatin pharmacogenetics, DNA repair polymorphisms, and esophageal cancer outcomes.
-Genetic variations or polymorphisms within genes of the nucleotide excision repair (NER) pathway alter DNA repair capacity. Reduced DNA repair (NER) capacity may result in tumors that are more susceptible to cisplatin chemotherapy, which functions by causing DNA damage. We investigated the potential predictive significance of functional NER single nucleotide polymorphisms in esophageal cancer patients treated with (n = 262) or without (n = 108) cisplatin.

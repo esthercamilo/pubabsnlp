@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Oct'}
-The PNPLA3 rs738409 variant can increase the risk of liver toxicity in multiple sclerosis patients treated with beta-interferon.
-Liver toxicity can limit the use of interferon-beta (IFNβ), a well-established treatment for multiple sclerosis (MS). Unfortunately, known risk-factors for IFNβ-associated liver toxicity are few and of limited clinical utility. Susceptibility to drug-induced toxicity is influenced by genetic factors affecting hepatic lipid metabolism and drug-metabolizing activity.

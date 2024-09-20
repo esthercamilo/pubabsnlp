@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Aug'}
-Bioinformatic analyses to select phenotype affecting polymorphisms in HTR2C gene.
-Single nucleotide polymorphisms (SNPs) in serotonin related genes influence mental disorders, responses to pharmacological and psychotherapeutic treatments. In planning association studies, researchers that want to investigate new SNPs have to select some among a large number of candidates. Our aim is to guide researchers in the selection of the most likely phenotype affecting polymorphisms. Here, we studied serotonin receptor 2C (HTR2C) SNPs because, till now, only relatively few of about 2000 are investigated.

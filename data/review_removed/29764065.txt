@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'May'}
-Toxicogenetics of lopinavir/ritonavir in HIV-infected European patients.
-We present a genetic association study in 106 European HIV-infected individuals aimed at identifying and confirming polymorphisms that have a significant influence on toxicity derived from treatment with lopinavir/ritonavir (LPV/r).

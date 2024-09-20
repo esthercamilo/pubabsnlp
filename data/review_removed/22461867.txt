@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Oct'}
-Pharmacogenomics: the right drug to the right person.
-Pharmacogenomics is the branch of pharmacology which deals with the influence of genetic variation on drug response in patients by correlating gene expression or single-nucleotide polymorphisms with a drug's efficacy or toxicity. It aims to develop rational means to optimize drug therapy, with respect to the patients genotype, to ensure maximum efficacy with minimal adverse effects. Such approaches promise the advent of personalized medicine, in which drugs and drug combinations are optimized for each individual's unique genetic makeup. Pharmacogenomics is the whole genome application of pharmacogenetics, which examines the single gene interactions with drugs.

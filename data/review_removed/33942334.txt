@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jul'}
-TT genotype of the MMP-9-1562C/T polymorphism may be a risk factor for thrombolytic therapy-induced hemorrhagic complications after acute ischemic stroke.
-Levels of matrix metalloproteinases (MMPs) and their tissue inhibitors (TIMPs) influence recombinant tissue plasminogen activator (rtPA) therapy response in patients with acute ischemic stroke (AIS). Serum levels of MMPs and TIMPs along with the expression of genes coding these proteins are related to the recovery and appearance of adverse effects (AE) after AIS. Consequently, it is important to explore whether polymorphisms in regulatory sequences of MMPs and TIMPs are associated with rtPA response in AIS patients.

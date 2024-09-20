@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Mar'}
-Influence of genetic polymorphisms involved in the hypothalamic-pituitary-adrenal axis and their interactions with environmental factors on antidepressant response.
-To investigate the role of genetic polymorphisms in candidate genes associated with the HPA axis and their interactions with environmental stressors in antidepressant response.

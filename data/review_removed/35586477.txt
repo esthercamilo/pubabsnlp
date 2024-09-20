@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Is Pharmacogenetic Panel Testing Applicable to Low-Dose Methotrexate in Rheumatoid Arthritis? - A Case Report.
-Pharmacogenetic (PGx) panel testing could help to determine the heritable component of a rheumatoid arthritis (RA) patient's susceptibility for therapy failure and/or adverse drug reactions (ADRs) from methotrexate (MTX). Considering the literature mentioning the potential applicability of PGx panel testing within MTX regimens, we discuss the case of a patient who was treated with MTX, suffered from ADRs, and obtained a reactive PGx panel testing.

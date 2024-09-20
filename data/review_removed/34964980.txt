@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan', 'Day': '10'}
-[Progress of research on polymorphisms of common drug metabolism related genes among various populations in China].
-Genetic background can lead to differences in drug effects among different populations when they use the same drug. To delineate the pharmacogenomics and population genetic differences may help to clarify the role of polymorphisms of drug metabolism-related genes in drug effect heterogeneity among different populations. This article has summarized the latest progress on the polymorphisms of drug metabolism-related genes among different populations in China.

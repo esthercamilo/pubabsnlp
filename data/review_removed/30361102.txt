@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Nov'}
-Standard fluoropyrimidine dosages in chemoradiation therapy result in an increased risk of severe toxicity in DPYD variant allele carriers.
-Prospective DPYD genotyping prevents severe fluoropyrimidine (FP)-induced toxicity by decreasing dosages in DPYD variant allele carriers. FP dosages in chemoradiation therapy (CRT) are lower than those in other FP-containing regimens. Pharmacogenetic guidelines do not distinguish between regimens, leaving physicians in doubt to apply dose reductions. Our aim was to investigate severe toxicity in DPYD variant allele carriers receiving CRT.

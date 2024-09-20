@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Sep'}
-Analysis of clinicians' attitudes towards pharmacogenomics.
-The use of genetic information to guide a patient's drug therapy will have a great influence on clinical practice within healthcare. However, despite the prospective benefits of pharmacogenetic testing, little is known regarding what clinicians actually think about this promising technology. The purpose of this study was to assess attitudes towards pharmacogenetic testing not previously highlighted within a larger study on clinicians' knowledge and attitudes about pharmacogenetic testing conducted by an interdisciplinary group of researchers at the University of North Carolina at Chapel Hill.

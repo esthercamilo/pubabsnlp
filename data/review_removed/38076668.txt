@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Dec', 'Day': '04'}
-Relationship of <i>CYP3A4*1B</i> Single Nucleotide Polymorphism to the Efficiency and Safety Profiles of Haloperidol in Patients Enduring Acute Alcoholic Hallucinosis.
-To date, haloperidol has been widely used to treat patients with acute alcoholic hallucinosis. There is strong evidence that haloperidol therapy is commonly associated with adverse drug reactions (ADRs). The 392A > <i>G</i> polymorphism of the <i>CYP3A4</i>*<i>1B</i> gene (rs2740574) is known to affect the metabolism rates of haloperidol; hence it correlates with both therapy efficacy and safety parameters.

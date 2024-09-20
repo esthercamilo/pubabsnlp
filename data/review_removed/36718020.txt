@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Mar', 'Day': '17'}
-Evidence Regarding Pharmacogenetics in Pain Management and Cancer.
-Patients experience interindividual variation in response to analgesics, which may be partially explained by genetics. This commentary discusses a recently published trial on COMT genotype and opioid dose requirements and describes the potential role for COMT and other genes (eg, CYP2D6) on opioid therapy and the current evidence for germline pharmacogenetics and resources for opioid pharmacogenetics.

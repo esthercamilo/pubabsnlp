@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec'}
-Effect of CES1 genetic variation on enalapril steady-state pharmacokinetics and pharmacodynamics in healthy subjects.
-Enalapril is a prodrug and needs to be activated by carboxylesterase 1 (CES1). A previous in vitro study demonstrated the CES1 genetic variant, G143E (rs71647871), significantly impaired enalapril activation. Two previous clinical studies examined the impact of G143E on single-dose enalapril PK (10 mg); however, the results were inconclusive. A prospective, multi-dose, pharmacokinetics and pharmacodynamics (PK/PD) study was conducted to determine the impact of the CES1 G143E variant on enalapril steady-state PK and PD in healthy volunteers.

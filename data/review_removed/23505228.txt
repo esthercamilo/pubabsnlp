@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Apr'}
-The 158VV Fcgamma receptor 3A genotype is associated with response to rituximab in rheumatoid arthritis: results of an Italian multicentre study.
-The polymorphism 158V/F of Fc fragment of IgG (FCGR) type 3A may influence the response to rituximab (RTX) in rheumatoid arthritis (RA). We investigated the FCG3A polymorphism in a large cohort of RA patients treated with RTX, also by considering the possible loss of response from month +4 to +6 after RTX and the presence of established predictors of response.

@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Mar'}
-Impact of pharmacogenetics and pregnancy on tenofovir and emtricitabine pharmacokinetics.
-Treatment and prevention of mother-to-child transmission of HIV in pregnancy utilizes tenofovir (TFV) and emtricitabine (FTC) as NRTI backbone in combination with a third agent from a different class. We hypothesized that combined effect of pregnancy and pharmacogenetics significantly changes TFV and FTC pharmacokinetics (PK). Therefore, this study aims to evaluate the role of SNPs of transporters (ABCC2 and ABCC4) on TFV and FTC PK during pregnancy.

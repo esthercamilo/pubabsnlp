@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jan'}
-A novel acenocoumarol pharmacogenomic dosing algorithm for the Greek population of EU-PACT trial.
-To generate and validate a pharmacogenomic-guided (PG) dosing algorithm for acenocoumarol in the Greek population. To compare its performance with other PG algorithms developed for the Greek population.

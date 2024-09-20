@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Aug', 'Day': '01'}
-Universal Targeted Haplotyping by Droplet Digital PCR Sequencing and Its Applications in Noninvasive Prenatal Testing and Pharmacogenetics Analysis.
-The analysis of haplotypes of variants is important for pharmacogenomics analysis and noninvasive prenatal testing for monogenic diseases. However, there is a lack of robust methods for targeted haplotyping.

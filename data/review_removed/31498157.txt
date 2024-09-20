@@ -1,3 +1,0 @@
-{'Year': '2020', 'Season': 'Sep/Oct'}
-Advances in the Pharmacogenomics of Antiplatelet Therapy.
-Acute coronary syndrome (ACS) is a highly thrombotic state, and a sustained antiplatelet effect is vital to the prevention of thrombotic complications. Clopidogrel, the most widely used oral P2Y12 receptor antagonist in ACS, has attracted considerable attention because of significant variability in antiplatelet effect depending on the presence of CYP2C19 allele. Other P2Y12 receptor antagonists offer sustained and more predictable antiplatelet effects than clopidogrel albeit at an increased cost. Several studies have demonstrated the promising application of pharmacogenetics in choosing personalized antiplatelet therapy using the point-of-care genotype assays.

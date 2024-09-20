@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Nov'}
-Investigation of genetically regulated gene expression and response to treatment in rheumatoid arthritis highlights an association between <i>IL18RAP</i> expression and treatment response.
-In this study, we sought to investigate whether there was any association between genetically regulated gene expression (as predicted using various reference panels) and anti-tumour necrosis factor (anti-TNF) treatment response (change in erythrocyte sedimentation rate (ESR)) using 3158 European ancestry patients with rheumatoid arthritis.

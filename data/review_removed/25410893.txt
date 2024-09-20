@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Sep'}
-Pilot study of pharmacist-assisted delivery of pharmacogenetic testing in a primary care setting.
-To describe the rationale and design of a pilot program to implement and evaluate pharmacogenetic (PGx) testing in a primary care setting.

@@ -1,3 +1,0 @@
-{'Year': '2019'}
-Additional Utility of Pharmacogenomics (PGx) Panel Testing in a CYP2D6 Normal Metabolizer with a History of Breast Cancer.
-To demonstrate the utility of pharmacogenomic (PGx) panel testing use versus single gene testing for a single indication. Panel testing may not only help further refine clinical decision making for the primary medical indication, it may uncover with one diagnostic test multiple PGx abnormalities, altering current and future therapy for other conditions.

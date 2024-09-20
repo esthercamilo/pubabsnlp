@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jun'}
-Genome-wide association study of inhaled corticosteroid response in admixed children with asthma.
-Inhaled corticosteroids (ICS) are the most widely prescribed and effective medication to control asthma symptoms and exacerbations. However, many children still have asthma exacerbations despite treatment, particularly in admixed populations, such as Puerto Ricans and African Americans. A few genome-wide association studies (GWAS) have been performed in European and Asian populations, and they have demonstrated the importance of the genetic component in ICS response.

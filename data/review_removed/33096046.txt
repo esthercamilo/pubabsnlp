@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Dec'}
-A large-scale genome-wide association study meta-analysis of cannabis use disorder.
-Variation in liability to cannabis use disorder has a strong genetic component (estimated twin and family heritability about 50-70%) and is associated with negative outcomes, including increased risk of psychopathology. The aim of the study was to conduct a large genome-wide association study (GWAS) to identify novel genetic variants associated with cannabis use disorder.

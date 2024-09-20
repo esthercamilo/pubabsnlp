@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Mar'}
-Novel and replicated clinical and genetic risk factors for toxicity from high-dose methotrexate in pediatric acute lymphoblastic leukemia.
-Methotrexate (MTX) is a key component of treatment for high-risk pediatric acute lymphoblastic leukemia (ALL) but may cause acute kidney injury and prolonged hospitalization due to delayed clearance. The purpose of this study is to identify clinical and genetic factors that may predict which children are at risk for creatinine increase and prolonged MTX clearance.

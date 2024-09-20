@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jul'}
-New DPYD variants causing DPD deficiency in patients treated with fluoropyrimidine.
-Several clinical guidelines recommend genetic screening of DPYD, including coverage of the variants c.1905 + 1G>A(DPYD*2A), c.1679T>G(DPYD*13), c.2846A>T, and c.1129-5923C>G, before initiating treatment with fluoropyrimidines. However, this screening is often inadequate at predicting the occurrence of severe fluoropyrimidine-induced toxicity in patients.

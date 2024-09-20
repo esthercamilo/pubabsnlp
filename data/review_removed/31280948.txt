@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Sep'}
-Efficacy of antiepileptic drugs in the era of pharmacogenomics: A focus on childhood.
-In recent years advances in the field of pharmacogenomics have expanded the concept for more individualized treatments. Our aim is to provide literature data about the relationship between genetic polymorphisms and efficacy of antiepileptic drugs in children.

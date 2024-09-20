@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Feb'}
-Pharmacogenomics: paving the path to personalized medicine.
-The 2009 Golden Helix Symposium on Pharmacogenomics and Personalized medicine was held in Athens, Greece, where approximately 150 participants from 21 countries were updated on recent developments in the fields of pharmacogenetics and pharmacogenomics. The meeting was supported by ten corporate entities, of which three were major pharmaceutical and two were technology companies. It was endorsed by the University of Chicago and partly funded by the University of Patras. Here, we report some highlights of this meeting.

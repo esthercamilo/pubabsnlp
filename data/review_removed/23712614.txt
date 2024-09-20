@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Sep'}
-Influence of CYP2C8*2 on the pharmacokinetics of pioglitazone in healthy African-American volunteers.
-To determine the influence of the Cytochrome P450 (CYP) 2C8*2 polymorphism on pioglitazone pharmacokinetics in healthy African-American volunteers.

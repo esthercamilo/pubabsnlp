@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul'}
-The Impact of LRRK2 G2019S on Parkinson's Disease: Clinical Phenotype and Treatment in Tunisian Patients.
-LRRK2-G2019S is the most frequent mutation in North African Parkinson's disease (PD) patients. Data on its impact on disease progression and treatment response remain elusive. Therefore, we investigated the clinical features, treatments, and complications of PD in Tunisian patients according to their LRRK2-G2019S profile.

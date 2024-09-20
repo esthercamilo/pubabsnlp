@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec'}
-A pharmacogenetic pilot study of <i>CYP2C9</i> common genetic variant and sulfonylureas therapeutic response in type 2 diabetes mellitus patients.
-Type 2 diabetes mellitus (T2DM) is a chronic metabolic disease that is associated with elevated blood glucose levels. Sulfonylureas (SFUs) are the most widely used among the oral antidiabetic drugs that are highly metabolized by cytochrome P450 family 2 subfamily C member 9 (CYP2C9). The <i>CYP2C9</i> has been shown to be associated with a better glycemic response to SFUs and a lower treatment failure rate. The aim of the present study was to assess the influence of the <i>CYP2C9</i> rs1067910 gene variant on the SFUs response in a group of Iranian patients for the first time.

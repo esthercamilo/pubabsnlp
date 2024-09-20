@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Nov'}
-Impact of CYP2D6 Pharmacogenomic Status on Pain Control Among Opioid-Treated Oncology Patients.
-Several opioids have pharmacogenomic associations impacting analgesic efficacy. However, germline pharmacogenomic testing is not routinely incorporated into supportive oncology. We hypothesized that CYP2D6 profiling would correlate with opioid prescribing and hospitalizations.

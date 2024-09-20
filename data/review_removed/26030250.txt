@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jun'}
-Determination of genotypes using a fully automated molecular detection system.
-Although the value of pharmacogenomics to improve patient outcomes has become increasingly clear, adoption in medical practice has been slow, which can be attributed to several factors, including complicated and expensive testing procedures and required equipment, lack of training by private practice physicians, and reluctance of both private and commercial payers to reimburse for such testing.

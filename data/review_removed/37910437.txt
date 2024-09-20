@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Feb', 'Day': '01'}
-Pharmacogenetics of weight gain following switch from efavirenz- to integrase inhibitor-containing regimens.
-Excessive weight gain affects some persons with HIV after switching to integrase strand transfer inhibitor (INSTI)-containing antiretroviral therapy (ART). We studied associations between CYP2B6 genotype and weight gain after ART switch among ACTG A5001 and A5322 participants.

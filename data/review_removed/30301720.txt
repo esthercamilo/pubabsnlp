@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Dec', 'Day': '01'}
-Implementation of a pharmacogenomics education program for pharmacists.
-The development, implementation, and evaluation of a pharmacogenomics education program for pharmacists in a large, integrated multicampus health system are described.

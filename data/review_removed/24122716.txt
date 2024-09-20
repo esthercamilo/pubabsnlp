@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'May'}
-Codeine-related adverse drug reactions in children following tonsillectomy: a prospective study.
-To prospectively determine factors associated with codeine's adverse drug reactions (ADRs) at home in a large homogenous population of children undergoing outpatient tonsillectomy.

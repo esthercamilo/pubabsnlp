@@ -1,3 +1,0 @@
-{'Year': '2024'}
-Utilizing Pharmacogenomic Data for a Safer Use of Statins among the Emirati Population.
-Statins are the most prescribed lipid-lowering drugs worldwide. The associated adverse events, especially muscle symptoms, have been frequently reported despite their perceived safety. Three pharmacogenes, the solute carrier organic anion transporter family member 1B1 (<i>SLCO1B1</i>), ATP-binding cassette subfamily G member 2 (<i>ABCG2</i>), and cytochrome P450 2C9 (<i>CYP2C9</i>) are suggested as safety biomarkers for statins. The Clinical Pharmacogenomic Implementation Consortium (CPIC) issued clinical guidelines for statin use based on these three genes.

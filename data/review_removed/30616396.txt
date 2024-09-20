@@ -1,3 +1,0 @@
-{'Year': '2018', 'Season': 'Sep-Dec'}
-UDP-glucuronosyltransferase genetic variation in North African populations: a comparison with African and European data.
-Genetic variation in glucuronosyltransferases (UGT) is crucial in drug metabolism and risk of some diseases.

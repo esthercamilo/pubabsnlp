@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Dec', 'Day': '01'}
-Endothelin-1 Pathway Polymorphisms and Outcomes in Pulmonary Arterial Hypertension.
-Pulmonary arterial hypertension (PAH) is a progressive fatal disease. Variable response and tolerability to PAH therapeutics suggests that genetic differences may influence outcomes. The endothelin pathway is central to pulmonary vascular function, and several polymorphisms and/or mutations in the genes coding for endothelin (ET)-1 and its receptors correlate with the clinical manifestations of other diseases.

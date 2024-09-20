@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jan', 'Day': '26'}
-Pharmacogenomics of hypertension: a genome‐wide, placebo‐controlled cross‐over study, using four classes of antihypertensive drugs.
-Identification of genetic markers of antihypertensive drug responses could assist in individualization of hypertension treatment.

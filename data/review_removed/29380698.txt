@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Pharmacokinetics, Pharmacodynamics and Pharmacogenetics of Tacrolimus in Kidney Transplantation.
-Tacrolimus (Tac, or FK506), a calcineurin inhibitor (CNI), is the first-line immunosuppressant which consists of the footstone as immunosuppressive regimens in kidney transplantation. However, the drug toxicity and the significant differences of pharmacokinetics (PK) and pharmacodynamics (PD) among individuals are hidden troubles for clinical application. Recently, emerging evidences of Tac pharmacogenetics (PG) regarding drug absorption, metabolism, disposition, excretion and response are discovered for better understanding of this drug.

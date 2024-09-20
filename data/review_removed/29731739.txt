@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Single-Gene Congenic Strain Reveals the Effect of <i>Zbtb16</i> on Dexamethasone-Induced Insulin Resistance.
-Glucocorticoids (GCs) are potent therapeutic agents frequently used for treatment of number of conditions, including hematologic, inflammatory, and allergic diseases. Both their therapeutic and adverse effects display significant interindividual variation, partially attributable to genetic factors. We have previously isolated a seven-gene region of rat chromosome 8 sensitizing to dexamethasone (DEX)-induced dyslipidemia and insulin resistance (IR) of skeletal muscle. Using two newly derived congenic strains, we aimed to investigate the effect of one of the prime candidates for this pharmacogenetic interaction, the <i>Zbtb16</i> gene.

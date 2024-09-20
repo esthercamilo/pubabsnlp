@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Jan'}
-Efavirenz in the therapy of HIV infection.
-The use of the first generation non-nucleoside reverse transcriptase inhibitor efavirenz (EFV) as a component of first-line antiretroviral therapy has been accepted worldwide. EFV is the only antiretroviral agent currently on the market that has been combined with emtricitabine and tenofovir disoproxil fumarate in a single tablet and administered once daily.

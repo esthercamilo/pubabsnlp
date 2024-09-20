@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Apr'}
-Golden Helix Pharmacogenomics Days: educational activities on pharmacogenomics and personalized medicine.
-The Golden Helix Pharmacogenomics Days are high-profile international educational scientific meetings discussing pharmacogenomics and personalized medicine. Here, we provide an overview of the scientific lectures and the topics discussed during the 4th Golden Helix Pharmacogenomics Day, held in Cagliari, Italy, on 7 October 2011, and the 5th Golden Helix Pharmacogenomics Day, that was held in Msida, Malta, on 3 December 2011. The scientific programs of both events included scientific and company lectures on pharmacogenomics, bioinformatics and personalized medicine by local and international speakers from Europe and the USA.

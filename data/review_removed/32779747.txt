@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Feb'}
-Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2C9 and HLA-B Genotypes and Phenytoin Dosing: 2020 Update.
-Phenytoin is an antiepileptic drug with a narrow therapeutic index and large interpatient pharmacokinetic variability, partly due to genetic variation in CYP2C9. Furthermore, the variant allele HLA-B*15:02 is associated with an increased risk of Stevens-Johnson syndrome and toxic epidermal necrolysis in response to phenytoin treatment. We summarize evidence from the published literature supporting these associations and provide therapeutic recommendations for the use of phenytoin based on CYP2C9 and/or HLA-B genotypes (updates on cpicpgx.org).

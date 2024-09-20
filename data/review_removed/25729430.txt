@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Cancer based pharmacogenomics network supported with scientific evidences: from the view of drug repurposing.
-Pharmacogenomics (PGx) as an emerging field, is poised to change the way we practice medicine and deliver health care by customizing drug therapies on the basis of each patient's genetic makeup. A large volume of PGx data including information among drugs, genes, and single nucleotide polymorphisms (SNPs) has been accumulated. Normalized and integrated PGx information could facilitate revelation of hidden relationships among drug treatments, genomic variations, and phenotype traits to better support drug discovery and next generation of treatment.

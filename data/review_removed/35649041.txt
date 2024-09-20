@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Apr'}
-CYP2D6 phenotypes and opioid metabolism: the path to personalized analgesia.
-Opioids play a fundamental role in chronic pain, especially considering when 1 of 5 Europeans adults, even more in older females, suffer from it. However, half of them do not reach an adequate pain relief. Could pharmacogenomics help to choose the most appropriate analgesic drug?

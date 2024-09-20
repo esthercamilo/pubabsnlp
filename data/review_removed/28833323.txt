@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Feb'}
-Transporter genes ABCG2 rs2231142 and ABCB1 rs1128503 polymorphisms and atorvastatin response in Chilean subjects.
-Statins are first-line therapy for reducing high cholesterol levels. However, response to these drugs shows high interindividual variability. We aimed to investigate the influence of two single nucleotide polymorphisms (SNP) (ABCB1 rs1128503 and ABCG2 rs2231142) in the ABC transporter genes on response to short-term low-dose atorvastatin in Chilean hypercholesterolaemic patients.

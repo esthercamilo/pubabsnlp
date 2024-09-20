@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Oct'}
-Use of pharmacogenetic data to guide individualized opioid prescribing after surgery.
-Despite the current strategies aimed at avoiding opioid overprescription by implementing institutional guidelines, the use of opioids after surgical procedures remains highly variable. It is well known that opioids are activated by the cytochrome p450 CYP2D6 enzyme to exert pharmacologic effect. Individual variation in CYP2D6 activity affects drug metabolism, and genotyping can be performed to predict an individual's ability to metabolize CYP2D6 substrates. We postulate that the pharmacogenomic identification of patients with different opioid metabolism capacity may allow for the individualization of postsurgical opioid prescription.

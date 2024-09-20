@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Dec'}
-Prioritizing pharmacogenetic research: a value of information analysis of CYP2D6 testing to guide breast cancer treatment.
-To demonstrate how value of information (VOI) analysis can be used to establish research priorities regarding the use of pharmacogenetic tests using CYP2D6 testing to select adjuvant hormonal therapy in early stage breast cancer as a case study.

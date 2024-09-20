@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jan'}
-Genetic variation supports a causal role for valproate in prevention of ischemic stroke.
-Valproate is a candidate for ischemic stroke prevention due to its anti-atherosclerotic effects in vivo. Although valproate use is associated with decreased ischemic stroke risk in observational studies, confounding by indication precludes causal conclusions.

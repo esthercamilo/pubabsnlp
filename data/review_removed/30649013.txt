@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Apr'}
-Precision medicine in childhood asthma.
-Childhood asthma is a heterogeneous disease and many children have uncontrolled disease. Therefore an individualized approach is needed to improve asthma outcomes in children. Precision medicine using clinical characteristics, biomarkers, and the rapidly involving field of genomics and pharmacogenomics aims to achieve asthma control and reduce future risks with less side-effects in individual children with asthma.

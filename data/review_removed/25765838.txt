@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Feb', 'Day': '15'}
-Cytotoxicity of the indole alkaloid reserpine from Rauwolfia serpentina against drug-resistant tumor cells.
-The antihypertensive reserpine is an indole alkaloid from Rauwolfia serpentina and exerts also profound activity against cancer cells in vitro and in vivo. The present investigation was undertaken to investigate possible modes of action to explain its activity toward drug-resistant tumor cells.

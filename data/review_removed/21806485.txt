@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Sep'}
-Asthma symptoms in pediatric patients: differences throughout the seasons.
-Seasonal variation in asthma has been widely recognized. The aim of this study was to describe seasonal patterns of asthma symptoms and asthma medication use in a cohort of pediatric asthma medication users and to study determinants of seasonal childhood asthma.

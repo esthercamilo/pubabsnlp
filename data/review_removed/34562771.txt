@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Nov'}
-Novel variant in glycophorin c gene protects against ribavirin-induced anemia during chronic hepatitis C treatment.
-The current use of ribavirin in difficult-to-cure chronic hepatitis C patients (HCV) and patients with severe respiratory infections is constrained by the issue of ribavirin-induced hemolytic anemia that affects 30% of treated patients, requiring dosage modification or discontinuation. Though some genetic variants have been identified predicting this adverse effect, known clinical and genetic factors do not entirely explain the risk of ribavirin-induced anemia.

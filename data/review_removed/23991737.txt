@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Sep'}
-Genotype and phenotype concordance for pharmacogenetic tests through proficiency survey testing.
-Pharmacogenetic testing is becoming increasingly important for drugs such as irinotecan, warfarin, clopidogrel, codeine, and the tricyclic antidepressant drugs. Laboratories certified to perform pharmacogenetic testing must demonstrate successful performance on proficiency testing surveys.

@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jun'}
-Individualized Medication Management in Ontario Long-Term Care Clinical Impact on Management of Depression, Pain, and Dementia.
-Assess the potential benefits of identifying drug-gene interactions in nursing home (NH) residents on multiple medications. Reduce the use of high-risk medications for residents with reduced drug metabolism.

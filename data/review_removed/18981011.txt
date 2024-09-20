@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Nov', 'Day': '01'}
-PXR pharmacogenetics: association of haplotypes with hepatic CYP3A4 and ABCB1 messenger RNA expression and doxorubicin clearance in Asian breast cancer patients.
-To characterize pregnane X receptor (PXR) polymorphic variants in healthy Asian populations [Chinese, Malay and Indian (n=100 each)], and to investigate the association between PXR haplotypes and hepatic mRNA expression of PXR and its downstream target genes, CYP3A4 and ABCB1, as well as their influence on the clearance of doxorubicin in Asian breast cancer patients.

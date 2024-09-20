@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Dec'}
-Hypertension susceptibility loci and blood pressure response to antihypertensives: results from the pharmacogenomic evaluation of antihypertensive responses study.
-To date, 39 single nucleotide polymorphisms (SNPs) have been associated with blood pressure (BP) or hypertension in genome-wide association studies in whites. Our hypothesis is that the loci/SNPs associated with BP/hypertension are also associated with BP response to antihypertensive drugs.

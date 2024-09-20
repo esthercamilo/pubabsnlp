@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Jun'}
-Impact of apolipoprotein A5 variants on statin treatment efficacy.
-Despite the fact that statin treatment efficacy is very high, there are substantial differences in treatment effectiveness among individuals. It is supposed that genetic predisposition plays an important role in these differences, but the contribution of individual polymorphisms is poorly understood. So far, more than 30 genes have been examined with ambiguous results. Apolipoprotein A5 is an important determinant of plasma lipid concentrations and its genetic variation could account for some of the observed differences in the response to statin therapy. However, this has not been analyzed before.

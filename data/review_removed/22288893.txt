@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Apr'}
-Randomized pharmacodynamic and pharmacogenetic trial of dronabinol effects on colon transit in irritable bowel syndrome-diarrhea.
-Genetic variation in endocannabinoid metabolism is associated with colonic transit in irritable bowel syndrome (IBS) with diarrhea (IBS-D). The nonselective cannabinoid (CB) receptor agonist, dronabinol (DRO), reduced fasting colonic motility in nonconstipated IBS. FAAH and CNR1 variants influenced DRO's effects on colonic motility. Our aims were: (i) to compare dose-related effects of DRO to placebo (PLA) on gut transit in IBS-D, and (ii) to examine influence of genetic variations in CB mechanisms on DRO’s transit effects.

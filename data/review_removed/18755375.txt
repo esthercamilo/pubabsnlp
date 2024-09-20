@@ -1,3 +1,0 @@
-{'Year': '2008', 'Season': 'Sep-Oct'}
-Future perspectives/quo vadis psoriasis treatment? Immunology, pharmacogenomics, and epidemiology.
-Advances in the understanding and treatment of psoriasis in the past several years have been remarkable. New frontiers include better understanding the immunologic pathways that underlie the disease and the development of personalized strategies to maximize the benefit and minimize the risk for patients. Although a cure may not be imminent, there are some strategies under examination that may lead us closer to this goal.

@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Nov'}
-Effects of aripiprazole on pupillometric parameters related to pharmacokinetics and pharmacogenetics after single oral administration to healthy subjects.
-Pupillometry is used for the detection of autonomic dysfunction related to numerous diseases and drug administration. Genetic variants in cytochrome P450 ( CYP2D6, CYP3A4), dopamine receptor ( DRD2, DRD3), serotonin receptor ( HTR2A, HTR2C) and ATP-binding cassette subfamily B ( ABCB1) genes were previously associated with aripiprazole response.

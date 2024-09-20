@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Feb'}
-The evolution of pharmacovigilance ecosystems: Does Moore's law invite the use of Occam's razor?
-Moore's law predicts the doubling of complexity of integrated circuits every 2 years; Kryder's corollary assumes a doubling of data storage every 13 months. With the increasing volume of legislation, pharmacovigilance systems today are inherently complex, and the emphasis has shifted from reactive (responding to emerging risks) to planned, active, risk-proportionate approaches operating throughout the life cycle of medicines.

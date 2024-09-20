@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec'}
-Getting immunosuppression just right: the role of clinical biomarkers in predicting patient response post solid organ transplantation.
-Actually, immunosuppression selection isn't based on individual immune alloreactivity, and immunosuppressive drug dosing is mainly based on the development of toxicity and the achievement of specific target concentrations. Since a successful outcome requires optimal patient risk stratification and treatment, several groups have evaluated candidate biomarkers that have shown promise in the assessment of individual immune responses, the prediction of personal pharmacodynamic effects of immunosuppressive drugs and the prognosis and diagnosis of graft outcomes..

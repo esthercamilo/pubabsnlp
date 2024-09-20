@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Corrigendum: Validation of single nucleotide variant assays for human leukocyte antigen haplotypes HLA-B*15:02 and HLA-A*31:01 across diverse ancestral backgrounds.
-[This corrects the article DOI: 10.3389/fphar.2021.713178.].

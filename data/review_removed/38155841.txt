@@ -1,3 +1,0 @@
-{'Year': '2023'}
-Effectiveness of pharmacogenomics on the response and remission of treatment-resistant depression: a meta-analysis of randomised controlled trials.
-Pharmacogenomics (PGx) is a promising tool to realise tailored drug therapy for depression.

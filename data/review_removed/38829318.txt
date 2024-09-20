@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul'}
-Therapeutic drug monitoring of antiretroviral therapy: current progresses and future directions.
-The treatment of HIV infection has been revolutionized in recent years thanks to the advent of dual antiretroviral regimens, administered orally or as long-acting injectable formulations. Here, we provide an update on the usefulness of therapeutic drug monitoring (TDM) of antiretroviral drugs to optimize the management of people with HIV (PWH) in the current scenario.

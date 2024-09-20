@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Apr'}
-Prioritizing genomic applications for action by level of evidence: a horizon-scanning method.
-As evidence accumulates on the use of genomic tests and other health-related applications of genomic technologies, decision makers may increasingly seek support in identifying which applications have sufficiently robust evidence to suggest they might be considered for action. As an interim working process to provide such support, we developed a horizon-scanning method that assigns genomic applications to tiers defined by availability of synthesized evidence. We illustrate an application of the method to pharmacogenomics tests.

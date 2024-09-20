@@ -1,3 +1,0 @@
-{'Year': '2019'}
-Leveraging the utility of pharmacogenomics in psychiatry through clinical decision support: a focus group study.
-Pharmacogenomics is starting to build momentum in clinical utility, perhaps the most in mental and behavioral healthcare. However, efficient delivery of this information to the point of prescribing remains a significant challenge. Clinical decision support has an opportunity to address this void by integrating pharmacogenomics into the clinician workflow.

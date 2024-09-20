@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jun', 'Day': '07'}
-Evaluation of the need for pharmacogenomics testing among physicians in the West Bank of Palestine.
-Pharmacogenomics (PGx) testing optimizes pharmacotherapy and reduces interindividual variation in drug responses. However, it is still not implemented in clinical practice in the West Bank of Palestine (WBP). The aim of this study was to determine the need for PGx education and testing among physicians from different specialties in WBP.

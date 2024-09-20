@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Mar'}
-Cancer pharmacogenomics, adoption by oncologists and patient benefit.
-The study aim was to understand physician experience and factors influencing the adoption of cancer pharmacogenomic (caPGx) testing by oncologists practicing in academic and nonacademic settings.

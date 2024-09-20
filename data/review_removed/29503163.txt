@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Apr'}
-Five novel loci associated with antipsychotic treatment response in patients with schizophrenia: a genome-wide association study.
-Antipsychotic drugs improve schizophrenia symptoms and reduce the frequency of relapse, but treatment response is highly variable. Little is known about the genetic factors associated with treatment response. We did a genome-wide association study of antipsychotic treatment response in patients with schizophrenia.

@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Sep'}
-A candidate gene study of antiepileptic drug tolerability and efficacy identifies an association of CYP2C9 variants with phenytoin toxicity.
-  It is widely acknowledged that individual response to antiepileptic drugs (AEDs) is influenced by genetic factors. However, most of the underlying genes and genetic variants remain unidentified to date. The purpose of this study is to examine the role of common variants in a number of candidate genes in the response to commonly prescribed AEDs.

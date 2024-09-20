@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Integration of Germline Pharmacogenetics Into a Tumor Sequencing Program.
-Evidence-based guidelines inform treatment decisions for patients for whom germline genetic information is available. Our real-time tumor sequencing program, which makes precision treatment decisions for patients with cancer, produces matched germline information, providing a unique opportunity to efficiently implement pharmacogenetics and benefit patients.

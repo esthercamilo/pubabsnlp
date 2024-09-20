@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Oct'}
-Pharmacogenetics and the pharmacological management of depression.
-Depression is a chronic disease seen in many healthcare settings. Current pharmacological treatment options are successful in two-thirds of patients. One CYP450 enzyme, CYP2D6, is responsible for the metabolism of 30% of all drugs including many antidepressants. Phenotypes of metabolizer status affect antidepressant treatment outcomes and adverse drug reactions.

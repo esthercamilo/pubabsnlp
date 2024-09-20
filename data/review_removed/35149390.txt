@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Apr'}
-A pharmacogenomic investigation of the cardiac safety profile of ondansetron in children and pregnant women.
-Ondansetron is a highly effective antiemetic for the treatment of nausea and vomiting. However, this medication has also been associated with QT prolongation. Pharmacogenomic information on therapeutic response to ondansetron exists, but no investigation has been performed on genetic factors that influence the cardiac safety of this medication.

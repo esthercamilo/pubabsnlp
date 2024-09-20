@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jun'}
-Population pharmacokinetic analysis of dexmedetomidine in children using real-world data from electronic health records and remnant specimens.
-Our objectives were to perform a population pharmacokinetic analysis of dexmedetomidine in children using remnant specimens and electronic health records (EHRs) and explore the impact of patient's characteristics and pharmacogenetics on dexmedetomidine clearance.

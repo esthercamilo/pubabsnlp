@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun'}
-How Primary Care Providers Talk to Patients about Genome Sequencing Results: Risk, Rationale, and Recommendation.
-Genomics will play an increasingly prominent role in clinical medicine.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jan'}
-The role of hospital pharmacists in the adoption and use of pharmacogenomics and precision medicine.
-Our aim was to assess the knowledge and attitudes of US hospital pharmacists about the implementation of clinical pharmacogenomics, and examine liability risks of adopting pharmacogenomics by pharmacists.

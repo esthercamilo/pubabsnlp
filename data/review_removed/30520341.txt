@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jan'}
-Patients carrying CYP2C8*3 have shorter systemic paclitaxel exposure.
-First, evaluate if patients carrying putatively diminished activity CYP2C8 genotype have longer paclitaxel exposure (e.g., time above threshold concentration of 0.05 μM [T<sub>c >0.05</sub>]). Second, screen additional pharmacogenes for associations with T<sub>c >0.05</sub>. Methods: Pharmacogene panel genotypes were translated into genetic phenotypes for associations with T<sub>c >0.05</sub> (n = 58).

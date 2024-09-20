@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Oct'}
-Progressing Preemptive Genotyping of CYP2C19 Allelic Variants for Sickle Cell Disease Patients.
-Interindividual variability in drug response and adverse effects have been described for proton pump inhibitors, anticonvulsants, selective serotonin reuptake inhibitors, tricyclic antidepressants, and anti-infectives, but little is known about the safety and efficacy of these medications in patients with sickle cell disease (SCD). We genotyped the CYP2C19 gene which has been implicated in the metabolism of these drugs in an SCD patient cohort to determine the frequencies of reduced function, increased function, or complete loss-of-function variants.

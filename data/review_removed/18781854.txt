@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Sep'}
-Use of plasmid-derived external quality control samples in pharmacogenetic testing.
-Genetic variation in genes encoding for drug-metabolizing enzymes, drug targets and signaling pathways have proven to contribute significantly to differences in drug response. Pharmacogenetics is now expanding from clinical pharmacological research to its application in clinical practice. Genotyping of patients in a routine clinical setting requires robust and reliable genotyping methods.

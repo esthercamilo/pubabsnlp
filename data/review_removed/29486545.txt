@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Mar'}
-The Alpha-2A Adrenergic Receptor Gene -1291C/G Single Nucleotide Polymorphism is Associated with the Efficacy of Methylphenidate in Treating Taiwanese Children and Adolescents with Attention-Deficit Hyperactivity Disorder.
-The therapeutic effect of methylphenidate (MPH) in treating attention-deficit/hyperactivity disorder (ADHD) has been related to the alpha-2A adrenergic receptor (ADRA2A) gene -1291C/G single nucleotide polymorphism (SNP). We investigated the effect of MPH in treating Taiwanese children and adolescent with ADHD and its relation to the ADRA2A gene -1291C/G SNP.

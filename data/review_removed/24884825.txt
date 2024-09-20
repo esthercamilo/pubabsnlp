@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'May', 'Day': '01'}
-Increased genetic diversity of ADME genes in African Americans compared with their putative ancestral source populations and implications for pharmacogenomics.
-African Americans have been treated as a representative population for African ancestry for many purposes, including pharmacogenomic studies. However, the contribution of European ancestry is expected to result in considerable differences in the genetic architecture of African American individuals compared with an African genome. In particular, the genetic admixture influences the genomic diversity of drug metabolism-related genes, and may cause high heterogeneity of drug responses in admixed populations such as African Americans.

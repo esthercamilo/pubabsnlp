@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Oct', 'Day': '01'}
-The pharmacokinetics and pharmacogenomics of efavirenz and lopinavir/ritonavir in HIV-infected persons requiring hemodialysis.
-To evaluate the pharmacokinetics and pharmacogenomics of efavirenz (EFV) and lopinavir/ritonavir (LPV/RTV) in HIV-infected persons requiring hemodialysis.

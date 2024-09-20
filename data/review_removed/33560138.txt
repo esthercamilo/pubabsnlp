@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Apr'}
-Pharmacogenomics of the Efficacy and Safety of Colchicine in COLCOT.
-The randomized, placebo-controlled COLCOT (Colchicine Cardiovascular Outcomes Trial) has shown the benefits of colchicine 0.5 mg daily to lower the rate of ischemic cardiovascular events in patients with a recent myocardial infarction. Here, we conducted a post hoc pharmacogenomic study of COLCOT with the aim to identify genetic predictors of the efficacy and safety of treatment with colchicine.

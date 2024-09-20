@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Mar'}
-A model-based cost-effectiveness analysis of pharmacogenomic panel testing in cardiovascular disease management: preemptive, reactive, or none?
-Pharmacogenomics (PGx) studies how inherited genetic variations in individuals affect drug absorption, distribution, and metabolism. PGx panel testing can potentially help improve efficiency and accuracy in individualizing therapy. This study compared the cost-effectiveness between preemptive PGx panel testing, reactive PGx panel testing and usual care (no testing) in cardiovascular disease management.

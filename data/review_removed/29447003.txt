@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Mar'}
-A study on the genetic polymorphisms of CYP3A5 among the Orang Asli in Malaysia using a next generation sequencing platform.
-CYP3A5 is the predominant sub-family of biotransformation enzymes in the liver and the genetic variations in CYP3A5 are an important determinant of inter-individual and inter-ethnic differences in CYP3A-mediated drug disposition and response.

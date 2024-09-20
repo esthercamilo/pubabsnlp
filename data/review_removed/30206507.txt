@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Sep'}
-Overview of pharmacogenomic testing in clinical practice.
-Pharmacogenomic tests relevant to neuropsychiatric medications have been clinically available for more than a decade, but the utility of regular testing is still unknown. Tests available include both pharmacokinetic and pharmacodynamic targets. The potential practice benefits vary with each target.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Aug'}
-Early health technology assessments in pharmacogenomics: a case example in cardiovascular drugs.
-To assess the required characteristics (cost, sensitivity and specificity) of a pharmacogenomic test for being a cost-effective prevention of angiotensin-converting enzyme inhibitors induced angioedema. Furthermore, we assessed the influence of only testing high-risk populations.

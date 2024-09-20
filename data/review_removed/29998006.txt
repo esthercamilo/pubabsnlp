@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun'}
-Germline pharmacogenomics of DPYD*9A (c.85T>C) variant in patients with gastrointestinal malignancies treated with fluoropyrimidines.
-The correlation between DPYD*9A (c.85T>C) genotype and dihydropyrimidine dehydrogenase (DPD) deficiency clinical phenotype is controversial. Reference laboratories either did not perform DPYD*9A genotyping or have stopped DPYD*9A genotyping and limited genotyping to high-risk variants (DPYD*2A, DPYD*13 and DPYD*9B) only. This study explored DPYD*9A genotype and clinical phenotype correlation in patients with gastrointestinal (GI) malignancies treated with fluoropyrimidines.

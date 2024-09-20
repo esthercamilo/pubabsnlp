@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Pharmacogenetic Analyses of Therapeutic Effects of Lipophilic Statins on Cognitive and Functional Changes in Alzheimer's Disease.
-Pharmacogenetic effects of statins on clinical changes in Alzheimer's disease (AD) could be mediated by epistatic interactions among relevant genetic variants involved in cholesterol metabolism.

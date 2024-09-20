@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Apr', 'Day': '22'}
-Meta-analysis of the global distribution of clinically relevant CYP2C8 alleles and their inferred functional consequences.
-CYP2C8 is responsible for the metabolism of 5% of clinically prescribed drugs, including antimalarials, anti-cancer and anti-inflammatory drugs. Genetic variability is an important factor that influences CYP2C8 activity and modulates the pharmacokinetics, efficacy and safety of its substrates.

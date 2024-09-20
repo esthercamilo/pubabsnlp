@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jul'}
-Multigene predictors of tacrolimus exposure in kidney transplant recipients.
-Determine the effect of the genetic variants beyond CYP3A5*3 on tacrolimus disposition.

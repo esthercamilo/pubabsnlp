@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jul'}
-Pharmacogenomic alerts: Developing guidance for use by healthcare professionals.
-For diseases with a genetic cause, genomics can deliver improved diagnostics and facilitate access to targeted treatments. Drug pharmacodynamics and pharmacokinetics are often dependent on genetic variation underlying these processes. As pharmacogenomics comes of age, it may be the first way in which genomics is utilised at a population level. Still required is guidance and standards of how genomic information can be communicated within the health record, and how clinicians should be alerted to variation impacting the use of medicines.

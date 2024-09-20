@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Genetic polymorphisms of pharmacogenomic VIP variants in the lhoba population of southwest China.
-It is well-established that differences among ethnic groups in drug responses are primarily due to the genetic diversity of pharmacogenes. A number of genes or variants that play a crucial role in drug responses have been designated Very Important Pharmacogenes (VIP) by the PharmGKB database. Clarifying the polymorphic distribution of VIPs in different ethnic groups will aid in personalized medicine for specific populations.

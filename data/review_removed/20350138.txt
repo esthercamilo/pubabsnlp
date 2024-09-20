@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Apr'}
-Multiplex genotyping of CYP3A4, CYP3A5, CYP2C9 and CYP2C19 SNPs using MALDI-TOF mass spectrometry.
-Pharmacogenetics is the study of genetic variations that cause alterations in drug level, drug response and adverse drug reactions. SNPs found in CYP450 genes have the greatest genetic influences on interindividual variability in drug bioavailability. The polymorphic nature of these genes may modulate several enzyme levels that affect individual responses to pharmacological treatment. Among them, CYP3A4, CYP3A5, CYP2C9 and CYP2C19 isoforms of CYP450 enzymes are involved in the metabolism of many commonly prescribed drugs.

@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Pharmacokinetics, Tolerability and Pharmacogenetics of DA-8031 After Multiple Ascending Doses in Healthy Male Subjects.
-DA-8031 is a novel selective serotonin reuptake inhibitor for the treatment of premature ejaculation. This study investigated the pharmacokinetics, safety and tolerability of multiple oral doses of DA-8031. In addition, a genetic analysis was explored to evaluate the effect of genetic polymorphisms on the pharmacokinetics of DA-8031.

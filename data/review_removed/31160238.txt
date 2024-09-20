@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Sep'}
-The Prevalence of DPYD*9A(c.85T>C) Genotype and the Genotype-Phenotype Correlation in Patients with Gastrointestinal Malignancies Treated With Fluoropyrimidines: Updated Analysis.
-The dihydropyrimidine dehydrogenase gene (DPYD)*9A (c.85T>C) genotype is relatively common. The correlation between DPYD*9A genotype and dihydropyrimidine dehydrogenase (DPD) deficiency phenotype is controversial. In a cohort of 28 patients, DPYD*9A was the most commonly diagnosed variant (13 patients [46%]) and there was a noticeable genotype-phenotype correlation. In this study we genotyped a larger cohort of a mixed racial background to explore the prevalence of DPYD*9A variant and to confirm the genotype-phenotype correlation.

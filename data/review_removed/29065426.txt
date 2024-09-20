@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Oct', 'Day': '24'}
-Dihydropyrimidine dehydrogenase pharmacogenetics for predicting fluoropyrimidine-related toxicity in the randomised, phase III adjuvant TOSCA trial in high-risk colon cancer patients.
-Dihydropyrimidine dehydrogenase (DPD) catabolises ∼85% of the administered dose of fluoropyrimidines. Functional DPYD gene variants cause reduced/abrogated DPD activity. DPYD variants analysis may help for defining individual patients' risk of fluoropyrimidine-related severe toxicity.

@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jan'}
-PACE Forward-Making Pharmacogenomics Testing Available for Real-Life Clinical Utility.
-Although pharmacogenomics (PGx) offers the promise of ensuring the right patient receives the right medication at the right dose the first time, gene-drug interaction data have yet to be seamlessly integrated into patients' health records. PGx testing that is preemptive, adaptable, current, and executable (PACE) overcomes the human and technological barriers to successful implementation, thus capitalizing on the affordable cost of such testing and clinical practice guidelines at the point of prescription ordering.

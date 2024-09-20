@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Aug'}
-Genetics are not likely to offer clinically useful predictions for elevated liver enzyme levels in patients using low dose methotrexate.
-To examine genetic influence on the risk of elevations in liver function tests (AST and ALT) among patients using low-dose methotrexate (LD-MTX).

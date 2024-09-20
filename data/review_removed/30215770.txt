@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'May', 'Day': '01'}
-Pharmacokinetics and pharmacogenomics of mycophenolic acid and its clinical correlations in maintenance immunosuppression for lupus nephritis.
-There is little data on mycophenolic acid (MPA) pharmacokinetics and pharmacogenomics and optimal MPA exposure in lupus nephritis (LN) patients during long-term maintenance.

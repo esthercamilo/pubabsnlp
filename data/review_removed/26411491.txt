@@ -1,3 +1,0 @@
-{'Year': '2015'}
-TPMT gene expression is increased during maintenance therapy in childhood acute lymphoblastic leukemia patients in a TPMT gene promoter variable number of tandem repeat-dependent manner.
-6-mercaptopurine influences in vitro TPMT gene expression in a TPMT promoter variable number of tandem repeats (VNTR)-dependent manner. We studied TPMT expression following 6-mercaptopurine and methotrexate administration in childhood acute lymphoblastic leukemia (ALL) patients and the pharmacogenomic potential of the VNTR architecture.

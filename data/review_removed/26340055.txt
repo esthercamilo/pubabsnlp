@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Epigenomic mapping and effect sizes of noncoding variants associated with psychotropic drug response.
-To provide insight into potential regulatory mechanisms of gene expression underlying addiction, analgesia, psychotropic drug response and adverse drug events, genome-wide association studies searching for variants associated with these phenotypes has been undertaken with limited success. We undertook analysis of these results with the aim of applying epigenetic knowledge to aid variant discovery and interpretation.

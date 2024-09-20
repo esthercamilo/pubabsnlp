@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Nov'}
-Novel models for the prediction of drug-gene interactions.
-Adverse drug reactions (ADRs) are among the leading causes of death, and frequently associated with drug-gene interactions (DGIs). In addition to pharmacogenomic programs for implementation of genetic preemptive testing into clinical practice, mathematical modeling can help to understand, quantify and predict the effects of DGIs <i>in vivo</i>. Moreover, modeling can contribute to optimize prospective clinical drug trial activities and to reduce DGI-related ADRs.

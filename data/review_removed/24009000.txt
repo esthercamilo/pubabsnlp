@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Oct'}
-Electronic health record design and implementation for pharmacogenomics: a local perspective.
-The design of electronic health records to translate genomic medicine into clinical care is crucial to successful introduction of new genomic services, yet there are few published guides to implementation.

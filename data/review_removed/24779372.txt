@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Apr', 'Day': '29'}
-Applying genome-wide gene-based expression quantitative trait locus mapping to study population ancestry and pharmacogenetics.
-Gene-based analysis has become popular in genomic research because of its appealing biological and statistical properties compared with those of a single-locus analysis. However, only a few, if any, studies have discussed a mapping of expression quantitative trait loci (eQTL) in a gene-based framework. Neither study has discussed ancestry-informative eQTL nor investigated their roles in pharmacogenetics by integrating single nucleotide polymorphism (SNP)-based eQTL (s-eQTL) and gene-based eQTL (g-eQTL).

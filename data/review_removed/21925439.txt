@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Oct'}
-Pharmacogenetics in heart failure trials.
-There is ongoing research into potential pharmacogenetic targets in heart failure. Several challenges exist despite the potential benefits, and questions remain on the level of evidence needed to support product approval or labeling. High annual mortality, high morbidity, and heterogeneity of response to treatment underscore the need for predictability of response in this patient population. Although prime time testing and application of pharmacogenetics is not currently being used in heart failure, we believe this treatment approach is not too distant. The data are supportive, and further research is warranted to strengthen the approach.

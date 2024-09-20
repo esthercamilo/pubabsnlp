@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jun'}
-Understanding the impact of ABCG2 polymorphisms on drug pharmacokinetics: focus on rosuvastatin and allopurinol.
-In addition to the well-established understanding of the pharmacogenetics of drug-metabolizing enzymes, there is growing data on the effects of genetic variation in drug transporters, particularly ATP-binding cassette (ABC) transporters. However, the evidence that these genetic variants can be used to predict drug effects and to adjust individual dosing to avoid adverse events is still limited.

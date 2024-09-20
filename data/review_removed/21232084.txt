@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Jun'}
-Complement factor H Y402H gene polymorphism and response to intravitreal bevacizumab in exudative age-related macular degeneration.
-To determine whether different complement factor H (CFH) genotypes play a role in treatment of age-related macular degeneration (AMD) with intravitreal bevacizumab.

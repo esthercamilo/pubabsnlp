@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Sep'}
-A published pharmacogenetic algorithm was poorly predictive of tacrolimus clearance in an independent cohort of renal transplant recipients.
-An algorithm based on the CYP3A5 genotype to predict tacrolimus clearance to inform the optimal initial dose was derived using data from the DeKAF study (Passey et al. Br J Clin Pharmacol 2011; 72: 948-57) but was not tested in an independent cohort of patients. Our aim was to test whether the DeKAF dosing algorithm could predict estimated tacrolimus clearance in renal transplant recipients at our centre.

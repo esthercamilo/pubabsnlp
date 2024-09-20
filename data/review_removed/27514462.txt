@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Sep'}
-Pharmacogenetics in Oral Antithrombotic Therapy.
-Certain antithrombotic drugs exhibit high patient-to-patient variability that significantly impacts the safety and efficacy of therapy. Pharmacogenetics offers the possibility of tailoring drug treatment to patients based on individual genotypes, and this type of testing has been recommended for 2 oral antithrombotic agents, warfarin and clopidogrel, to influence use and guide dosing. Limited studies have identified polymorphisms that affect the metabolism and activity of newer oral antithrombotic drugs, without clear evidence of the clinical relevance of such polymorphisms. This article provides an overview of the current status of pharmacogenetics in oral antithrombotic therapy.

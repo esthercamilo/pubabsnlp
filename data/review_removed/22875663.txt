@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Apr'}
-Nifedipine pharmacokinetics are influenced by CYP3A5 genotype when used as a preterm labor tocolytic.
-To characterize the pharmacokinetics and pharmacogenetics of nifedipine in pregnancy.

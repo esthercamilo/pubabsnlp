@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'May'}
-Steroid Pathway Genes and Neonatal Respiratory Distress After Betamethasone Use in Anticipated Preterm Birth.
-To test several key glucocorticoid genes that are enhanced in lung development for associations with respiratory distress syndrome (RDS) after antenatal corticosteroid use.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Nov'}
-Personalized approach for type 2 diabetes pharmacotherapy: where are we and where do we need to be?
-Cluster analysis has identified distinct groups of type 2 diabetes (T2D) subjects with distinct metabolic characteristics. Thus, personalizing pharmacologic therapy to individual phenotypic and pathophysiologic characteristics has potential to improve metabolic control and reduce risk of microvascular and macrovascular complications.

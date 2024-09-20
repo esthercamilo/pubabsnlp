@@ -1,3 +1,0 @@
-{'Year': '2015', 'Season': 'May-Jun'}
-Effects of tumor necrosis factor-α inhibitors in mothers and daughters concordant for HLA-B27-positive ankylosing spondylitis.
-Pharmacogenomics is considered as the new frontier to predict the response to treatments and it can also be based on the comparison of family members being treated for the same condition. No data are available on the impact of anti-tumour necrosis factor (TNF)-α therapies in members of the same family with ankylosing spondylitis (AS).

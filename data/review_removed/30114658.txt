@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct'}
-Pharmacogenetic analyses of 2183 patients with advanced colorectal cancer; potential role for common dihydropyrimidine dehydrogenase variants in toxicity to chemotherapy.
-Inherited genetic variants may influence response to, and side-effects from, chemotherapy. We sought to generate a comprehensive inherited pharmacogenetic profile for oxaliplatin and 5FU/capecitabine therapy in advanced colorectal cancer (aCRC).

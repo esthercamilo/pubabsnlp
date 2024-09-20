@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jun', 'Day': '16'}
-Pharmacogenetics to Avoid Loss of Hearing (PALOH) trial: a protocol for a prospective observational implementation trial.
-In conjunction with a beta-lactam, aminoglycosides are the first-choice antibiotic for empirical treatment of sepsis in the neonatal period. The m.1555A>G variant predisposes to ototoxicity after aminoglycoside administration and has a prevalence of 1 in 500. Current genetic testing can take over 24 hours, an unacceptable delay in the acute setting. This prospective-observational trial will implement a rapid point of care test (POCT), facilitating tailored antibiotic prescribing to avoid hearing loss.

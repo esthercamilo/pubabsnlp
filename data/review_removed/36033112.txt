@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Pharmacogenomics Testing Confirmation of Carbamazepine Induced DRESS Reaction of an HLA-A*31:01 Positive, Polypharmacy Patient.
-Pharmacogenomics (PGx) melds well with polypharmacy as another tool to identify medication related problems (MRPs) more specifically so they may be solved most effectively. PGx can pre-emptively assist in medication selection, medication dosing or identify better medications for patients already taking a medication. PGx can also confirm suspect medications of causing MRPs such as adverse drug reactions (ADRs) or drug interactions. In this case, PGx testing confirmed presence of a serious human leukocyte antigen (HLA) drug reaction with eosinophilia and systemic symptoms (DRESS) after a suspect medication had been stopped.

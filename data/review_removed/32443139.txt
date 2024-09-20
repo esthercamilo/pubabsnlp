@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Nov', 'Day': '01'}
-CYP2D6 Basic Genotyping of Patients with Chronic Pain Receiving Tramadol or Codeine. A Study in a Greek Cohort.
-To assess CYP2D6 genotype prevalence in chronic pain patients treated with tramadol or codeine.

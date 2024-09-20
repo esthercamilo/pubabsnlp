@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Dec', 'Day': '08'}
-SurvivalGWAS_Power: a user friendly tool for power calculations in pharmacogenetic studies with "time to event" outcomes.
-Power calculators are currently available for the design of genetic association studies of binary phenotypes and quantitative traits, but not for "time to event" outcomes, which are of particular relevance in pharmacogenetics. With the rapid emergence of pharmacogenetic association studies of single nucleotide polymorphisms (SNPs), and the complexity of clinical outcomes they consider, there is a need for software to perform power calculations of time to event data over a range of design scenarios and analytical methodologies.

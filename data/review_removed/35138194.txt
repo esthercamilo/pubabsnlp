@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Sep'}
-Unexpected severe hepatic and skin toxicities during high dose methotrexate course for osteosarcoma.
-high dose methotrexate (HD-MTX) regimen is used in osteosarcoma, leukemia and lymphoma treatment. Osteosarcoma is mostly diagnosed in children and adolescents. Most frequent methotrexate toxicities are mucositis, myelosuppression, renal failure, hepatitis and necrotizing encephalopathy. Toxicities increase with renal impairment, denutrition, in older patients, with some pharmacogenetics factors or with drug interactions.

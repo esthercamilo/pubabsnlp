@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Apr'}
-The influences of SLCO1B1 and ABCB1 genotypes on the pharmacokinetics of simvastatin, in relation to CYP3A4 inhibition.
-To investigate the combined effects of SLCO1B1 and ABCB1 genotypes on the pharmacokinetics of simvastatin and its active metabolite simvastatin acid, in relation to CYP3A4 inhibition.

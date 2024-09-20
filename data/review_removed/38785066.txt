@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'May'}
-Pharmacogenetics in IBS: update and impact of GWAS studies in drug targets and metabolism.
-Medications are frequently prescribed for patients with irritable bowel syndrome (IBS) or disorders of gut brain interaction. The level of drug metabolism and modifications in drug targets determine medication efficacy to modify motor or sensory function as well as patient response outcomes.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Sep'}
-A pharmacogenomic approach to the treatment of children with GH deficiency or Turner syndrome.
-Individual sensitivity to recombinant human GH (r-hGH) is variable. Identification of genetic factors contributing to this variability has potential use for individualization of treatment. The objective of this study was to identify genetic markers and gene expression profiles associated with growth response on r-hGH therapy in treatment-naïve, prepubertal children with GH deficiency (GHD) or Turner syndrome (TS).

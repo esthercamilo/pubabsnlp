@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Dec'}
-Genetic influences on the pharmacokinetics of orally and intravenously administered digoxin as exhibited by monozygotic twins.
-The expression and function of the drug transporter P-glycoprotein are highly variable. Environmental and genetic factors contribute to this variation. We studied the disposition of digoxin, a frequently used probe drug for P-glycoprotein function in humans, in monozygotic (MZ) twins and found that digoxin pharmacokinetics after oral and intravenous administration are highly correlated within MZ twins, supporting the hypothesis of a robust contribution from genetic variance. Our study suggests that studies involving twins could be more widely applied to elucidate pharmacogenetics.

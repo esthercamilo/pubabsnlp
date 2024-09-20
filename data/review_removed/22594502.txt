@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'May'}
-Genetic basis of susceptibility to drug-induced liver injury: what have we learned and where do we go from here?
-Drug-induced liver injury (DILI) is a rare but severe adverse drug reaction that represents a major problem in pharmacotherapy, both clinically and economically. A considerable effort has been made over the past several decades to identify genetic factors that predispose to risk for DILI, and the pace of discovery has vastly increased over just the past several years. Here, we describe the major findings in DILI pharmacogenetics with an emphasis on the recent results of unbiased genome-wide association studies, and suggest some directions for future research in this area.

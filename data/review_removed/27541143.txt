@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Oct'}
-Pharmacokinetics and pharmacogenetics of 13-cis retinoic acid in Indian high-risk neuroblastoma patients.
-To compare the pharmacokinetics of 13-cis retinoic acid (13-cisRA) between Indian and UK neuroblastoma patients receiving comparable treatment, alongside measures of toxicity and response.

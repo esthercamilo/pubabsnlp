@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Nov'}
-The pharmacogenetics of opioid treatment for pain management.
-Opioids are widely used as an analgesic for the treatment of moderate to severe pain. However, there are interindividual variabilities in opioid response. Current evidence suggests that these variabilities can be attributed to single nucleotide polymorphisms in genes involved in opioid pharmacodynamics and pharmacokinetics. Knowledge of these genetic factors through pharamacogenetic (PGx) testing can help clinicians to more consistently prescribe opioids that can provide patients with maximal clinical benefit and minimal risk of adverse effects.

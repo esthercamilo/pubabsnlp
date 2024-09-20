@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Aug'}
-Genome-wide association analysis of anti-TNF drug response in patients with rheumatoid arthritis.
-Treatment strategies blocking tumour necrosis factor (anti-TNF) have proven very successful in patients with rheumatoid arthritis (RA). However, a significant subset of patients does not respond for unknown reasons. Currently, there are no means of identifying these patients before treatment. This study was aimed at identifying genetic factors predicting anti-TNF treatment outcome in patients with RA using a genome-wide association approach.

@@ -1,3 +1,0 @@
-{'Year': '2013'}
-Warfarin anticoagulant therapy: a Southern Italy pharmacogenetics-based dosing model.
-Warfarin is the most frequently prescribed anticoagulant worldwide. However, warfarin therapy is associated with a high risk of bleeding and thromboembolic events because of a large interindividual dose-response variability. We investigated the effect of genetic and non genetic factors on warfarin dosage in a South Italian population in the attempt to setup an algorithm easily applicable in the clinical practice.

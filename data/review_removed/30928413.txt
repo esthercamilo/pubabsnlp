@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Aug'}
-Germline Genetic Variants in GATA3 and Breast Cancer Treatment Outcomes in SWOG S8897 Trial and the Pathways Study.
-GATA3 is a critical transcription factor in maintaining the differentiated state of luminal mammary epithelial cells. We sought to determine the prognostic and predictive roles of GATA3 genotypes for breast cancer.

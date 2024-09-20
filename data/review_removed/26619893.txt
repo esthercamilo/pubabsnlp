@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Feb'}
-Clinical Features and HLA Association of 5-Aminosalicylate (5-ASA)-induced Nephrotoxicity in Inflammatory Bowel Disease.
-Nephrotoxicity is a rare idiosyncratic reaction to 5-aminosalicylate (5-ASA) therapies. The aims of this study were to describe the clinical features of this complication and identify clinically useful genetic markers so that these drugs can be avoided or so that monitoring can be intensified in high-risk patients.

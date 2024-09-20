@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jun'}
-Optimization of voriconazole therapy for treatment of invasive aspergillosis: Pharmacogenomics and inflammatory status need to be evaluated.
-Cytochrome 2C19 genotype-directed dosing of voriconazole (VRC) reduces the incidence of insufficient VRC trough concentrations (C<sub>min</sub> ) but does not account for CYP3A polymorphisms, also involved in VRC metabolism. This prospective observational study aimed to evaluate the utility of a genetic score combining CYP2C19 and CYP3A genotypes to predict insufficient initial VRC C<sub>min</sub> (<1 mg/L).

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Nov', 'Day': '15'}
-[CYP2C8, PTGS-1, 2 gene polymorphisms prevalence associated with sensitivity to non-steroidal anti-inflammatory drugs among North Caucasus ethnic groups].
-Find the prevalence of CYP2C8*3 (rs10509681; rs11572080), PTGS-1 (rs10306135; rs12353214) and PTGS-2 (rs20417) alleles and genotypes in four ethnic groups among Laks, Avars, Dargins and Kumyks.

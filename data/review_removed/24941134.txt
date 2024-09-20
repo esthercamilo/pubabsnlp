@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-Sodium channel antagonists for the treatment of migraine.
-Migraine has a strong social impact, influencing both quality of life and work productivity. Therapeutic approach of migraine consists of a multimodal program of pharmacotherapy and behavioral therapy in order to reduce the risk of chronification. Indications for the use of preventive therapy are three or more attacks per month, significant disability, attack duration that is > 90 min.

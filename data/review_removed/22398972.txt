@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Apr'}
-Optimization of pediatric rheumatology therapeutics.
-Therapeutics used in pediatric rheumatology have evolved substantially over the past few decades; they currently target specific cytokines that are known to be involved in the pathophysiology of these complex diseases. The field is limited by a lack of full understanding of the etiology and pathophysiology of these conditions, as well as by the rarity of these diseases in the pediatric population. Advances in biomarkers, pharmacogenomics, and biologic therapies, along with a more unified effort from clinicians and investigators, have enabled continued growth in the field, fostering the hope for the most effective and appropriate therapeutics for pediatric patients.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Nov'}
-Endogenous and iatrogenic sources of variability in response to opioid therapy in Post-Surgical and injured orthopedic patients.
-Hydrocodone is the most prescribed opioid in the US. The objective was to evaluate associations between genetic, intrinsic, and extrinsic patient factors, plasma hydrocodone and metabolites, common side effects, and pain scores in a cohort of orthopedic surgery patients.

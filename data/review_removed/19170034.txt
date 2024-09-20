@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Jan'}
-Overview of pharmacogenetics.
-Pharmacogenetics is the study of relationships between genetic variation and inter-individual differences with respect to drug response. As the field has matured over the past 15 years, a remarkable diversity of pathways, variation types, and mechanisms have been found to be relevant pharmacogenetic factors. Today, pharmacogenetics is becoming more important in pharmacology for target validation, lead optimization, and understanding of idiosyncratic toxicity. This unit provides an overview of the history of pharmacogenetics and current research applications in drug discovery, as well as a discussion of research quality issues relevant for human subjects research in the pharmacogenetics laboratory.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Feb'}
-Institutional profile: Institute of Pharmacogenetics at the University Hospital Essen.
-Established in 2005, the Institute of Pharmacogenetics at the University Hospital Essen (Essen, Germany), headed by Winfried Siffert, is devoted to the discovery and validation of genetic variants that may impact upon drug responses especially in the field of cardiovascular disorders and cancer. Moreover, the institute provides pharmacogenetic testing for those drugs for which pharmacogenetic testing is recommended in order to prevent adverse drug reactions.

@@ -1,3 +1,0 @@
-{'Year': '2012'}
-[Clinical significance of pharmacogenetics in dermatological diseases].
-The etiology of dermatological diseases is still unknown. Involvement of genetic and environmental factors in the pathogenesis of dermatological diseases has contributed to a number of studies whose aim is to elucidate the way in which xenobiotics exert effects on the occurrence of these diseases. The search for genes responsible for dermatological diseases is taking into consideration polymorphism of genes of cytochrome P450 (CYP), NAT2 (N-acetylotransferase 2), GST (glutatione S-transferase).

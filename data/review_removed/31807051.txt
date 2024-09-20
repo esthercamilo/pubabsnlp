@@ -1,3 +1,0 @@
-{'Year': '2019'}
-Antihypertensive Effect Of Amlodipine In Co-Administration With Omeprazole In Patients With Hypertension And Acid-Related Disorders: Cytochrome P450-Associated Aspects.
-CYP2C19 and CYP3A are the main enzymes involved in omeprazole metabolism, while CYP3A is the principal enzyme family for amlodipine biotransformation. Concomitant use of these drugs in patients with hypertension and acid-related disorders (ARD) might lead to drug-drug interaction.

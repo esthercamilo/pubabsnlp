@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Feb', 'Day': '04'}
-Focus group testing of a mobile app for pharmacogenetic-guided dosing.
-A common barrier to implementation of precision medicine is the lack of use of published clinical practice guidelines. Consequently, a user-friendly mechanism to easily adopt these guidelines is imperative.

@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'May'}
-Evaluation of pharmacogenetic algorithm for warfarin dose requirements in Japanese patients.
-Warfarin dosing is difficult to establish because of considerable interindividual variation. Thus, warfarin pharmacogenetics have attracted particular interest in relation to appropriate control of anticoagulation.

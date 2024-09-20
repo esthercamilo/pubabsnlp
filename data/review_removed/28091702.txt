@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Apr'}
-Platelet receptor Gene (P2Y12, P2Y1) and platelet glycoprotein Gene (GPIIIa) polymorphisms are associated with antiplatelet drug responsiveness and clinical outcomes after acute minor ischemic stroke.
-Patients with minor ischemic stroke (MIS) are at high risk of recurrent ischemic stroke (RIS). The aim of this study was to evaluate the effects of platelet receptor gene (P2Y12, P2Y1) and glycoprotein gene (GPIIIa) polymorphisms, as well as their interactions, on antiplatelet drug responsiveness and clinical outcomes in patients with acute MIS.

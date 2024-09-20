@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-Decreased fracture rate, pharmacogenetics and BMD response in 79 Swedish children with osteogenesis imperfecta types I, III and IV treated with Pamidronate.
-Osteogenesis imperfecta (OI) is an inherited heterogeneous bone fragility disorder, usually caused by collagen I mutations. It is well established that bisphosphonate treatment increases lumbar spine (LS) bone mineral density (BMD), as well as improves vertebral geometry in severe OI; however, fracture reduction has been difficult to prove, pharmacogenetic studies are scarce, and it is not known at which age, or severity of disease, treatment should be initiated.

@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Dec'}
-Variants of the serotonin transporter gene, selective serotonin reuptake inhibitors, and bone mineral density in risperidone-treated boys: a reanalysis of data from a cross-sectional study with emphasis on pharmacogenetics.
-Selective serotonin reuptake inhibitors (SSRIs) may reduce bone mineral density (BMD). Here, we investigate whether variants of the serotonin transporter-linked polymorphic region (5-HTTLPR) of the serotonin transporter gene moderate this association in boys.

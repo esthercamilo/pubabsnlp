@@ -1,3 +1,0 @@
-{'Year': '2014', 'Season': 'May-Jun'}
-Pharmacogenetics of naltrexone and disulfiram in alcohol dependent, dually diagnosed veterans.
-Disulfiram and naltrexone were evaluated in treatment of individuals with co-occurring alcohol dependence and other Axis I disorders (e.g., Major Depression). We explored pharmacogenetic interactions in genotyped subjects.

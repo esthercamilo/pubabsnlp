@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jul', 'Day': '01'}
-Design and evaluation of a pharmacogenomics information resource for pharmacists.
-To develop and evaluate a pharmacogenomics information resource for pharmacists.

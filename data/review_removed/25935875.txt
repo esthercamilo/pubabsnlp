@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Aug', 'Day': '01'}
-Effect of genetic variations on ticagrelor plasma levels and clinical outcomes.
-Ticagrelor, a direct-acting P2Y12-receptor antagonist, is rapidly absorbed and partly metabolized to the major metabolite AR-C124910XX (ARC). To identify single-nucleotide polymorphisms (SNPs) associated with pharmacokinetics of ticagrelor and clinical outcomes, we performed a genome-wide association study (GWAS) in patients treated with ticagrelor in the PLATO trial.

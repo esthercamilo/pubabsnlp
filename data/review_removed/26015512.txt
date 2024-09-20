@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Oct', 'Day': '01'}
-Pharmacoethnicity in Paclitaxel-Induced Sensory Peripheral Neuropathy.
-Paclitaxel is used worldwide in the treatment of breast, lung, ovarian, and other cancers. Sensory peripheral neuropathy is an associated adverse effect that cannot be predicted, prevented, or mitigated. To better understand the contribution of germline genetic variation to paclitaxel-induced peripheral neuropathy, we undertook an integrative approach that combines genome-wide association study (GWAS) data generated from HapMap lymphoblastoid cell lines (LCL) and Asian patients.

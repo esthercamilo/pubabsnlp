@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Sep'}
-Assessment of the clinical utility of pharmacogenetic guidance in a comprehensive medication management service.
-Pharmacists are poised to be the health care professionals best suited to provide medication-related consults and services based on a patient's genetics. Despite its potential benefits, the implementation of pharmacogenetic (PGx) testing into primary clinical settings has been slow among medically underserved populations. To our knowledge, this is the first time that PGx-driven recommendations have been incorporated into a Comprehensive Medication Management (CMM) service in a Hispanic population.

@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Nov', 'Day': '20'}
-Identifying genetic variants underlying medication-induced osteonecrosis of the jaw in cancer and osteoporosis: a case control study.
-Bisphosphonate-induced osteonecrosis of the jaw (BRONJ) presents with a typical pattern of jaw necrosis in patients who have been prescribed bisphosphonates (BPs) and other antiangiogenetic drugs to treat osteoporosis or bone-related complications of cancer.

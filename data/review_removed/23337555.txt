@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Mar'}
-Pharmacogenetics for genes associated with age-related macular degeneration in the Comparison of AMD Treatments Trials (CATT).
-To evaluate the pharmacogenetic relationship between genotypes of single nucleotide polymorphisms (SNPs) known to be associated with age-related macular degeneration (AMD) and response to treatment with ranibizumab (Lucentis; Genentech, South San Francisco, CA) or bevacizumab (Avastin; Genentech) for neovascular AMD.

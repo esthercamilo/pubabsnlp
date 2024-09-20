@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Mar'}
-Genomic variants in the ASS1 gene, involved in the nitric oxide biosynthesis and signaling pathway, predict hydroxyurea treatment efficacy in compound sickle cell disease/β-thalassemia patients.
-Hemoglobinopathies exhibit a remarkable phenotypic diversity that restricts any safe association between molecular pathology and clinical outcomes.

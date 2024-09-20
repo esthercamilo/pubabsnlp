@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Sep'}
-Is the socioeconomic gap in childhood exposure to secondhand smoke widening or narrowing?
-The social gradient in smoking contributes substantially to the health gap between the rich and poor. Passive smoking by children is associated with increased risk of more severe asthma, respiratory diseases and infections, middle ear disease and Sudden Infant Death Syndrome. This study examined trends in the social gradient of children's exposure to secondhand smoke in Australian households between 2001 and 2010.

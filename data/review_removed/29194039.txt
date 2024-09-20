@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Apr', 'Day': '25'}
-Validation of a high-performance liquid chromatography method for thiopurine S-methyltransferase activity in whole blood using 6-mercaptopurine as substrate.
-Variation in metabolism, toxicity and therapeutic efficacy of thiopurine drugs is largely influenced by genetic polymorphisms in the thiopurine S-methyltransferase (TPMT) gene. Determination of TPMT activity is routinely performed in patients to adjust drug therapy.

@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Oct', 'Day': '01'}
-Semi-mechanistic population pharmacokinetics analysis reveals distinct CYP2C19 dependency in the bioactivation of vicagrel and clopidogrel to active metabolite M15-2.
-Vicagrel is a novel antiplatelet drug used to mitigate clopidogrel resistance due to CYP2C19 polymorphism. This study aimed to develop a semi-mechanistic population pharmacokinetic (PopPK) model to characterize the pharmacokinetic (PK) profile of M15-2, the active metabolite of vicagrel and clopidogrel, and to evaluate the influence of CYP2C19 polymorphisms and other covariates in healthy subjects and patients with acute coronary syndrome (ACS) after oral administration.

@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Mar'}
-The pharmacokinetics and pharmacogenetics of the antiemetic cyclizine in palliative care patients.
-Cyclizine, an antihistaminic antiemetic, is commonly used in palliative care. Its pharmacokinetics have been poorly studied, and its metabolic pathway is unknown but may involve the genetically controlled cytochrome P450 2D6 (CYP2D6). If this is the case, the metabolic ratio of cyclizine to norcyclizine and efficacy/adverse effects may vary between patients according to their CYP2D6 genotype.

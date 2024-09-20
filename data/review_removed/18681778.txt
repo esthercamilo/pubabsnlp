@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Aug'}
-Association of COLIA1 Sp1 polymorphism with the effect of subcutaneously injected recombinant hGH in GH-deficient adults.
-Collagen type I is a common structural protein in bone and skin. Similar to its association with the mechanical properties of the skeleton and, thus, bone-fracture risk, the collagen type I alpha (COLIA)-1 specific protein (Sp)-1 polymorphism may be related to variations in the collagen type I-containing subcutaneous tissue and its biological properties. In this study, we analyzed a possible influence of the COLIA1 Sp1 polymorphism on the effect of subcutaneously injected recombinant human growth hormone (hGH) in GH-deficient adults.

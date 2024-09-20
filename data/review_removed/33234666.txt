@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Dec'}
-Pharmacogenetics to Predict Adverse Events Associated With Antidepressants.
-To determine the association between cytochrome P450 2C19 (CYP2C19) metabolizer status and risk for escitalopram and citalopram, collectively termed (es)citalopram, and sertraline adverse events (AEs) in children.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Mar'}
-Pharmacogenomics applied to recombinant human growth hormone responses in children with short stature.
-We present current knowledge concerning the pharmacogenomics of growth hormone therapy in children with short stature. We consider the evidence now emerging for the polygenic nature of response to recombinant human growth hormone (r-hGH). These data are related predominantly to the use of transcriptomic data for prediction. The impact of the complex interactions of developmental phenotype over childhood on response to r-hGH are discussed. Finally, the issues that need to be addressed in order to develop a clinical test are described.

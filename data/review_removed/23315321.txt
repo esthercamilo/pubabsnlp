@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Apr'}
-Genetic determinants of idiopathic noncirrhotic portal hypertension in HIV-infected patients.
-Noncirrhotic portal hypertension (NCPH) is a rare but potentially life-threatening complication in patients with human immunodeficiency virus (HIV). Cases of NCPH have been reported in HIV-negative individuals as result of treatment with thiopurines for leukemia or inflammatory bowel disease. Exposure to didanosine, which is also a purine analogue, predisposes to NCPH in the HIV setting. However, it is unclear why NCPH only develops in a small subset of didanosine-treated patients.

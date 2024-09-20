@@ -1,3 +1,0 @@
-{'Year': '2017', 'Season': 'Mar/Apr'}
-Genome Sequencing Technologies and Nursing: What Are the Roles of Nurses and Nurse Scientists?
-Advances in DNA sequencing technology have resulted in an abundance of personalized data with challenging clinical utility and meaning for clinicians. This wealth of data has potential to dramatically impact the quality of healthcare. Nurses are at the focal point in educating patients regarding relevant healthcare needs; therefore, an understanding of sequencing technology and utilizing these data are critical.

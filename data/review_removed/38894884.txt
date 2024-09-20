@@ -1,3 +1,0 @@
-{'Year': '2024'}
-Association of CHAT Gene Polymorphism rs3793790 and rs2177370 with Donepezil Response and the Risk of Alzheimer's Disease Continuum.
-Genetic variation plays an important role in drug response, there are few relevant studies on patients with Alzheimer's disease continuum (ADC).

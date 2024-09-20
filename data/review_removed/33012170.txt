@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Dec'}
-Polygenic Score for β-Blocker Survival Benefit in European Ancestry Patients With Reduced Ejection Fraction Heart Failure.
-β-Blockers (BBs) are mainstay therapy for heart failure with reduced ejection fraction. However, individual patient responses to BB vary, which may be partially due to genetic variation. The goal of this study was to derive and validate the first polygenic response predictor (PRP) for BB survival benefit in heart failure with reduced ejection fraction patients.

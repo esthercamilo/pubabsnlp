@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'May'}
-Host pharmacogenetic factors that may affect liver neoplasm incidence upon using direct-acting antivirals for treating hepatitis C infection.
-Direct-acting antivirals (DAAs) represent a breakthrough in hepatitis C virus (HCV) treatment as they directly inhibit HCV nonstructural (NS) proteins (NS3/4A, NS5A, and NS5B). However, ongoing debates exist regarding their relationship with hepatocellular carcinoma (HCC) whose incidence is widely debated among investigators. This study was conducted to identify host pharmacogenetic factors that may influence HCC incidence upon using HCV DAAs.

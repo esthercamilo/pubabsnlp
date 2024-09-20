@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Mar', 'Day': '02'}
-[Pharmacogenetics and tailored drug therapy].
-Pharmacogenetics traditionally designates the study of genetically determined variation in metabolism of drugs and toxins from the environment. The concept of phamacogenetics has been widened to encompass how essential genetic alterations central to the development of diseases may by used to target medical treatment in a patient-tailored way. This paper highlights some of the novel developments in relation to oncology and haematology.

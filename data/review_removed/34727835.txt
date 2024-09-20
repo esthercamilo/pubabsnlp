@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan'}
-Pharmacogenetics-based population pharmacokinetic analysis for dose optimization of ritonavir-boosted atazanavir in Thai adult HIV-infected patients.
-This population pharmacokinetic-pharmacogenetic study aimed to investigate the optimal dose of RTV-boosted ATV (ATV/RTV) for Thai adult HIV-infected patients.

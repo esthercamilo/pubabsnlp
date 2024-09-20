@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'May'}
-Positive perception of pharmacogenetic testing for psychotropic medications.
-Pharmacogenetics attempts to identify inter-individual genetic differences that are predictive of variable drug response and propensity to side effects, with the prospect of assisting physicians to select the most appropriate drug and dosage for treatment. However, many concerns regarding genetic tests exist. We sought to test the opinions of undergraduate science and medical students in southern Ontario universities toward pharmacogenetic testing.

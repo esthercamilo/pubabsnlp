@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jun', 'Day': '11'}
-Implementation of clopidogrel pharmacogenetic clinical decision support for a preemptive return of results program.
-To describe our experiences implementing and iterating CYP2C19 genotype-guided clopidogrel pharmacogenetic clinical decision support (CDS) tools over time in the setting of a large health system-wide, preemptive pharmacogenomics program.

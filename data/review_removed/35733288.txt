@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'May'}
-Molecular monitoring of patient response to painkiller drugs.
-Non-steroidal anti-inflammatory drugs and opioids are widely prescribed for the treatment of mild to severe pain. Wide interindividual variability regarding the analgesic efficacy and adverse reactions to these drugs (ADRs) exist although the mechanisms responsible for these ADRs are not well understood.

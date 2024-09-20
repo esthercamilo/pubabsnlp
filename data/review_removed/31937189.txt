@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Sep'}
-Current state assessment survey of challenges of pharmacogenomics within oncology pharmacy practice.
-The goal of this survey was to identify opportunities for health systems to increase implementation and adoption of oncology-focused pharmacogenomics services.

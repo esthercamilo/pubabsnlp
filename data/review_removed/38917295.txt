@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Sep', 'Day': '01'}
-Healthcare provider and patient perspectives on the implementation of pharmacogenetic-guided treatment in routine clinical practice.
-This study aims to understand patient and healthcare provider perspectives on the integration and application of pharmacogenetics (PGx) testing in routine clinical practice.

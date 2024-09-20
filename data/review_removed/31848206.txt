@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Feb'}
-Predicting Lung Cancer Occurrence in Never-Smoking Females in Asia: TNSF-SQ, a Prediction Model.
-High disease burden suggests the desirability to identify high-risk Asian never-smoking females (NSF) who may benefit from low-dose CT (LDCT) screening. In North America, one is eligible for LDCT screening if one satisfies the U.S. Preventive Services Task Force (USPSTF) criteria or has model-estimated 6-year risk greater than 0.0151. According to two U.S. reports, only 36.6% female patients with lung cancer met the USPSTF criteria, while 38% of the ever-smokers ages 55 to 74 years met the USPSTF criteria.

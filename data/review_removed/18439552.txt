@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'May'}
-Polymorphisms of the HNF1A gene encoding hepatocyte nuclear factor-1 alpha are associated with C-reactive protein.
-Data from the Pharmacogenomics and Risk of Cardiovascular Disease (PARC) study and the Cardiovascular Health Study (CHS) provide independent and confirmatory evidence for association between common polymorphisms of the HNF1A gene encoding hepatocyte nuclear factor-1 alpha and plasma C-reactive protein (CRP) concentration. Analyses with the use of imputation-based methods to combine genotype data from both studies and to test untyped SNPs from the HapMap database identified several SNPs within a 5 kb region of HNF1A intron 1 with the strongest evidence of association with CRP phenotype.

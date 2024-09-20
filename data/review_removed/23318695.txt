@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'May'}
-Gene-microRNA interactions associated with antipsychotic mechanisms and the metabolic side effects of olanzapine.
-Changes in the cortical expression of small non-coding microRNA (miRNA) have been observed in postmortem analysis of psychotic disorders. Antipsychotic drugs (APDs) are the most effective treatment option for these disorders and have been associated with changes in gene expression. MicroRNA regulate numerous genes involved in brain development and function. It is therefore plausible to question whether miRNA expression is also altered and hence whether they take part in the neuroleptic mechanism of action.

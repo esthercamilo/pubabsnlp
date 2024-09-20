@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Feb', 'Day': '01'}
-Identification of high-impact gene-drug pairs for pharmacogenetic testing in Alberta, Canada.
-To facilitate decision-making and priority-setting related to Alberta's Pharmacogenomics (PGx) testing implementation strategy by identifying gene-drug pairs with the highest potential impact on prescribing practices in Alberta.

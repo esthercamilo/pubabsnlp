@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jun', 'Day': '19'}
-Pharmacogenetic testing through the direct-to-consumer genetic testing company 23andMe.
-Rapid advances in scientific research have led to an increase in public awareness of genetic testing and pharmacogenetics. Direct-to-consumer (DTC) genetic testing companies, such as 23andMe, allow consumers to access their genetic information directly through an online service without the involvement of healthcare professionals. Here, we evaluate the clinical relevance of pharmacogenetic tests reported by 23andMe in their UK tests.

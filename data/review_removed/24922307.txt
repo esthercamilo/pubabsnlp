@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Sep'}
-Pharmacogenomics of human uridine diphospho-glucuronosyltransferases and clinical implications.
-Glucuronidation by uridine diphospho-glucuronosyltransferase enzymes (UGTs) is a major phase II biotransformation pathway and, complementary to phase I metabolism and membrane transport, one of the most important cellular defense mechanisms responsible for the inactivation of therapeutic drugs, other xenobiotics, and endogenous molecules. Interindividual variability in UGT pathways is significant and may have profound pharmacological and toxicological implications. Several genetic and genomic processes underlie this variability and are discussed in relation to drug metabolism and diseases such as cancer.

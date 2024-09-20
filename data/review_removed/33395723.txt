@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jan'}
-[How to manage polypharmacia?].
-Pharmacogenomics (PGx) is a key component of personalized medicine to improve clinical outcome of drug therapy and/or to avoid adverse drug reactions. Major efforts are currently spent internationally to implement PGx diagnostics into clinical practice. Evidence-based recommendations for dose-adjusted treatment which are established by international expert groups covering clinical and pharmacological expertise are publicly available. Clinical relevant examples for PGx diagnostics such as genetic testing for dihydropyrimidin-dehydrogenase and thiopurin-S-methyltransferase, as well as for various cytochrome P450 enzymes are summarized to promote the clinical implementation process of PGx in Germany.

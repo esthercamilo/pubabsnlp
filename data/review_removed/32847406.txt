@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Oct'}
-Moving Genomics to Routine Care: An Initial Pilot in Acute Cardiovascular Disease.
-Whole-genome sequencing (WGS) costs are falling, yet, outside oncology, this information is seldom used in adult clinics. We piloted a rapid WGS (rWGS) workflow, focusing initially on estimating power for a feasibility study of introducing genome information into acute cardiovascular care.

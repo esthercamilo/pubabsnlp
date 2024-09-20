@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Mar'}
-Safety, pharmacokinetics, pharmacogenomics and QT concentration-effect modelling of the SirT1 inhibitor selisistat in healthy volunteers.
-Selisistat (SEN0014196), a first-in-class SirT1 inhibitor, is being developed as a disease-modifying therapy for Huntington's disease. This first-in-human study investigated the safety, pharmacokinetics and pharmacogenomics of single and multiple doses of selisistat in healthy male and female subjects.

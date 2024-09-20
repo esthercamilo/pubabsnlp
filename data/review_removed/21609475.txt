@@ -1,3 +1,0 @@
-{'Year': '2011'}
-Copy number polymorphisms and anticancer pharmacogenomics.
-Recent studies have investigated the contribution of copy number variants (CNVs) to disease susceptibility in a multitude of complex disorders, including systemic lupus erythematosus, Crohn's disease, and various neurodevelopmental disorders. Relatively few CNV studies, however, have been conducted on pharmacologic phenotypes even though these structural variants are likely to play an important role. We developed a genome-wide method to identify CNVs that contribute to heterogeneity in drug response, focusing on drugs that are widely used in anticancer treatment regimens.

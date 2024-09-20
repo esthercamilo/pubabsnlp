@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jun', 'Day': '01'}
-The impact of <i>ABCB1</i>, <i>CYP3A4</i> and <i>CYP3A5</i> gene polymorphisms on apixaban trough concentration and bleeding risk in patients with atrial fibrillation.
-Apixaban, a direct oral anticoagulant, is increasingly used worldwide for the treatment and prevention of venous thromboembolism and ischemic stroke in patients with nonvalvular atrial fibrillation (AF). Obviously, one of the ways to enhance effectiveness and safety of drug therapy is a personalized approach to therapy, which involves pharmacogenetic and pharmacokinetic tests. The study aims to investigate the effect of <i>CYP3A4*22</i>, <i>CYP3A5*3</i> and <i>ABCB1</i> polymorphisms on the pharmacokinetics of apixaban and the risk of bleeding.

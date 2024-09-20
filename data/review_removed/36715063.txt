@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Jun', 'Day': '22'}
-Implementation of CYP2D6-guided opioid therapy at Cincinnati Children's Hospital Medical Center.
-We describe the implementation of CYP2D6-focused pharmacogenetic testing to guide opioid prescribing in a quaternary care, nonprofit pediatric academic medical center.

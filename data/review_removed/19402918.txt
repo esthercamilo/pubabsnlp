@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Apr', 'Day': '30'}
-The apoptotic machinery as a biological complex system: analysis of its omics and evolution, identification of candidate genes for fourteen major types of cancer, and experimental validation in CML and neuroblastoma.
-Apoptosis is a critical biological phenomenon, executed under the guidance of the Apoptotic Machinery (AM), which allows the physiologic elimination of terminally differentiated, senescent or diseased cells. Because of its relevance to BioMedicine, we have sought to obtain a detailed characterization of AM Omics in Homo sapiens, namely its Genomics and Evolution, Transcriptomics, Proteomics, Interactomics, Oncogenomics, and Pharmacogenomics.

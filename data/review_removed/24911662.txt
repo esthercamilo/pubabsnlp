@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jul'}
-Cancer patients acceptance, understanding, and willingness-to-pay for pharmacogenomic testing.
-Pharmacogenomics is gaining increasing importance in the therapeutics of cancer; yet, there is little knowledge of cancer patients' attitudes toward the use of pharmacogenomic testing in clinical practice. We carried out this study to explore cancer patients' acceptance, understanding, and willingness-to-pay for pharmacogenomic testing.

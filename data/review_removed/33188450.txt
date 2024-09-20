@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Apr'}
-Incidence, preventability, and causality of adverse drug reactions at a university hospital emergency department.
-To investigate the characteristics of ADRs in patients admitting at the emergency room of a tertiary hospital.

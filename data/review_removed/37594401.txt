@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Feb', 'Day': '01'}
-Does Preoperative Pharmacogenomic Testing of Patients Undergoing TKA Improve Postoperative Pain? A Randomized Trial.
-Pharmacogenomics is an emerging and affordable tool that may improve postoperative pain control. One challenge to successful pain control is the large interindividual variability among analgesics in their efficacy and adverse drug events. Whether preoperative pharmacogenomic testing is worthwhile for patients undergoing TKA is unclear.

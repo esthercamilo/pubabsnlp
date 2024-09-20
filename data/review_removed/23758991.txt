@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jun', 'Day': '13'}
-A genome-wide integrative study of microRNAs in human liver.
-Recent studies have illuminated the diversity of roles for microRNAs in cellular, developmental, and pathophysiological processes. The study of microRNAs in human liver tissue promises to clarify the therapeutic and diagnostic value of this important regulatory mechanism of gene expression.

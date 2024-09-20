@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Jan'}
-Chemical Composition and antiproliferative activity of essential oil from the leaves of a medicinal herb, Levisticum officinale, against UMSCC1 head and neck squamous carcinoma cells.
-Oral squamous cell carcinoma (OSCC) is a challenging disease with a high mortality rate. Natural products represent a valuable source for the development of novel anticancer drugs. We investigated the cytotoxic potential of essential oil from the leaves of a medicinal plant, Levisticum officinale (lovage) on head and neck squamous carcinoma cells (HNSCC).

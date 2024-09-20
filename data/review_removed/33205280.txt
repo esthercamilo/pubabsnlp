@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'May'}
-CYP450 polymorphisms and clinical pharmacogenetics of ibuprofen after lower third molar extraction.
-This study hypothesized that drugs accumulate in the bloodstream of poor-metabolizing patients and may have more adverse effects and different pain perceptions and aimed to investigate the influence of CYP450 polymorphisms on acute postoperative pain, swelling, and trismus controlled by ibuprofen (600 mg) in 200 volunteers after dental extraction. In addition, surgical outcomes can determine pain, edema, and trismus and indicate inflammatory reactions after oral surgeries.

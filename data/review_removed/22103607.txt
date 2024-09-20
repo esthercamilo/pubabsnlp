@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Dec'}
-Biomarkers in drug development and regulation: a paradigm for clinical implementation of personalized medicine.
-The post-genomic era has been hallmarked by significant enthusiasm for therapeutic individualization through the use of pharmacogenomic and other biomarkers. This enthusiasm has been dampened by limited examples of widespread clinical adoption. The current clinical implementation paradigm may not be adequate to facilitate uptake of pharmacogenetics for a variety of reasons. This paper discusses certain limitations of the classical clinical implementation paradigm and describes the drug development paradigm as an additional, powerful mechanism to facilitate clinical implementation of individualized therapeutics.

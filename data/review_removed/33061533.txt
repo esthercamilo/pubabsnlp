@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Genetic Testing for <i>BCHE</i> Variants Identifies Patients at Risk of Prolonged Neuromuscular Blockade in Response to Succinylcholine.
-Genetic variants in the <i>BCHE</i> (butyrylcholinesterase) gene are associated with reduced BChE enzyme activity and prolonged post-succinylcholine neuromuscular blockade, which can lead to postanesthetic apnea and respiratory depression. Testing for BChE deficiency is usually performed by biochemical methods and is generally only offered to patients who have a personal or family history of prolonged post-succinylcholine neuromuscular blockade.

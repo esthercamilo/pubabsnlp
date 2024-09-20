@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Mar', 'Day': '05'}
-Genetic polymorphisms in warfarin and tacrolimus-related genes VKORC1, CYP2C9 and CYP3A5 in the Greek-Cypriot population.
-Two variants in the gene encoding the cytochrome P450 2C9 enzyme (CYP2C9) are considered the most significant genetic risk factors associated with bleeding after warfarin prescription. A variant in the vitamin K epoxide reductase (VKORC1) has been also associated by several studies with warfarin response. Another variant in the P450 3A5 enzyme (CYP3A5) gene is known to affect the metabolism of many drugs, including tacrolimus.

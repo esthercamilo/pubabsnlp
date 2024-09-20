@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'May'}
-Dose reduction of efavirenz: an observational study describing cost-effectiveness, pharmacokinetics and pharmacogenetics.
-Antiretroviral treatment implies a high cost to the healthcare system. The aim of this study was to evaluate the clinical and economic impact of efavirenz (EFV) dose adjustment by monitoring plasma concentrations and pharmacogenetic analysis of the 516G>T CYP2B6 polymorphism.

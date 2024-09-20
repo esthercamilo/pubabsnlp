@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-UGT1A6- and UGT2B7-related valproic acid pharmacogenomics according to age groups and total drug concentration levels.
-The role of UGT1A6 and UGT2B7 polymorphisms and the impact of total drug plasma concentration in valproic acid (VPA) pharmacogenomics.

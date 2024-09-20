@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jul'}
-Identifying key transcription factors for pharmacogenetic studies of antipsychotics induced extrapyramidal symptoms.
-We explore the transcription factors involved in the molecular mechanism of antipsychotic (AP)-induced acute extrapyramidalsymptoms (EPS) in order to identify new candidate genes for pharmacogenetic studies.

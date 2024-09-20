@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Mar'}
-Evaluation of an oral uracil loading test to identify DPD-deficient patients using a limited sampling strategy.
-Dihydropyrimidine dehydrogenase (DPD) deficiency can lead to severe toxicity following 5-fluorouracil (5FU) or capecitabine (CAP) treatment. Uracil (U) can be used as a probe to determine systemic DPD activity. The present study was performed to assess the sensitivity and specificity of a U loading dose for detecting DPD deficiency.

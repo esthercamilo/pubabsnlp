@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Prospective participant selection and ranking to maximize actionable pharmacogenetic variants and discovery in the eMERGE Network.
-In an effort to return actionable results from variant data to electronic health records (EHRs), participants in the Electronic Medical Records and Genomics (eMERGE) Network are being sequenced with the targeted Pharmacogenomics Research Network sequence platform (PGRNseq). This cost-effective, highly-scalable, and highly-accurate platform was created to explore rare variation in 84 key pharmacogenetic genes with strong drug phenotype associations.

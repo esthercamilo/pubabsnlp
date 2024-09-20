@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Aug'}
-Exploring NICU nurses' views of a novel genetic point-of-care test identifying neonates at risk of antibiotic-induced ototoxicity: A qualitative study.
-To explore the views of neonatal intensive care nursing staff on the deliverability of a novel genetic point-of-care test detecting a genetic variant associated with antibiotic-induced ototoxicity.

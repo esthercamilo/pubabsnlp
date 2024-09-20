@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jun', 'Day': '17'}
-[Evaluation of the association of polymorphisms of the CYP2C8 gene with the efficacy and safety of ketorolac in patients with postoperative pain syndrome].
-To evaluate the possible association of CYP2C8 gene polymorphisms with the clinical efficacy and safety of ketorolac in relation to postoperative pain.

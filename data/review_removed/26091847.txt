@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jun', 'Day': '20'}
-Genetic polymorphisms of pharmacogenomic VIP variants in the Uygur population from northwestern China.
-Drug response variability observed amongst patients is caused by the interaction of both genetic and non-genetic factors, and frequencies of functional genetic variants are known to vary amongst populations. Pharmacogenomic research has the potential to help with individualized treatments. We have not found any pharmacogenomics information regarding Uygur ethnic group in northwest China. In the present study, we genotyped 85 very important pharmacogenetic (VIP) variants (selected from the PharmGKB database) in the Uygur population and compared our data with other eleven populations from the HapMap data set.

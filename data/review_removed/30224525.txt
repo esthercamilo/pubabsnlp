@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Dec'}
-Comparison of the Drug-Drug Interaction Potential of Daptomycin in Combination with Rifampin in Healthy Adult Volunteers.
-We evaluated the effects of rifampin coadministration and <i>MDR1</i> single nucleotide polymorphisms on the disposition of daptomycin in twelve healthy adults. There were no significant changes from baseline in the clearance (0.53 versus 0.55 liters/h, <i>P = </i>1.00), volume of distribution (7.0 versus 7.2 liter, <i>P = </i>0.62), or half-life (9.7 versus 9.6 h, <i>P = </i>0.89) of daptomycin after exposure to rifampin. The tested <i>MDR1</i> polymorphisms were not associated with significant differences in daptomycin disposition.

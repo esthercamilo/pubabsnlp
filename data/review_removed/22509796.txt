@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jun'}
-Impact of drug transporter pharmacogenomics on pharmacokinetic and pharmacodynamic variability - considerations for drug development.
-Drug transporter proteins are expressed on the cell membrane, regulating substrate exposure in systemic circulation and/or peripheral tissues. Genetic polymorphism of drug transporter genes encoding these proteins could alter the functional activity and/or protein expression, having effects on absorption, distribution, metabolism and excretion (ADME), efficacy and adverse effects.

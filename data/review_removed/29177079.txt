@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Effect of Fcγ-receptor 3a (<i>FCGR3A</i>) gene polymorphisms on rituximab therapy in Hungarian patients with rheumatoid arthritis.
-Rheumatoid arthritis (RA) treatment includes the use of the anti-CD20 monoclonal antibody rituximab (RTX). RTX acts through Fcγ-receptors (FCGR) on effector natural killer cells and macrophages and it can be administered effectively in RA and in lymphomas. Based on the results of in vitro experiments, its efficacy may depend of <i>FCGR</i> gene polymorphisms in both diseases.

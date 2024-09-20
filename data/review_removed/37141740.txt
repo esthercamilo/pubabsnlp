@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Jun'}
-Effects of genetic polymorphisms of CYP2J2, CYP2C9, CYP2C19, CYP4F2, CYP4F3 and CYP4A11 enzymes in preeclampsia and gestational hypertension.
-The aim of this study was to investigate the effects of cytochrome P450 (CYP) 2J2, CYP2C9, CYP2C19 and CYP4F2, CYP4F3 and CYP4A11 genetic polymorphisms in preeclampsia and gestational hypertension (GHT) patients in a sample of Turkish population.

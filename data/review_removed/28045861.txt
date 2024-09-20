@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Apr'}
-Pharmacokinetics and Pharmacogenetics of Selective Serotonin Reuptake Inhibitors During Pregnancy: An Observational Study.
-An involvement of selective serotonin reuptake inhibitors (SSRIs) in increasing the risk of malformations, neonatal withdrawal syndrome, has been suggested recently. Here, we aimed to investigate the contribution of individual pharmacogenetics of SSRI on infants' outcome. We also estimated the umbilical/maternal plasma SSRI concentration ratio in the pregnant women still on SSRI therapy at the time of delivery.

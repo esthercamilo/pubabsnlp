@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Dec'}
-Thiopurine S-methyltransferase pharmacogenetics: autophagy as a mechanism for variant allozyme degradation.
-Thiopurine S-methyltransferase (TPMT)*3A is degraded much more rapidly than is the 'wild-type' enzyme through a ubiquitin-proteasome-dependent process. It also forms aggresomes, suggesting a possible dynamic balance between degradation and aggregation. We set out to identify genes encoding proteins participating in these processes.

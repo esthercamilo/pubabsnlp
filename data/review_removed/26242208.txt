@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Nov', 'Day': '01'}
-A phase 1 clinical trial of sequential pralatrexate followed by a 48-hour infusion of 5-fluorouracil given every other week in adult patients with solid tumors.
-Pralatrexate (PDX) is an inhibitor of dihydrofolate reductase that was rationally designed to improve cellular uptake and retention of the drug. Preclinical data have shown synergy with the sequential administration of a dihydrofolate reductase inhibitor followed 24 hours later by 5-fluorouracil (5-FU).

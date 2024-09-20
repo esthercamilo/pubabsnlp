@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Jul'}
-Drug-induced liver injury: a summary of recent advances.
-The knowledge base of drug-induced liver injury (DILI) continues to grow each year as additional drugs are identified as hepatotoxins. There is still a need to improve our ability to predict and diagnose DILI in the preclinical and post-approval settings.

@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul', 'Day': '31'}
-Drug-induced hepatotoxicity and association with slow acetylation variants NAT2*5 and NAT2*6 in Cameroonian patients with tuberculosis and HIV co-infection.
-Human immunodeficiency virus (HIV) and tuberculosis (TB) are major contributors to morbidity and mortality in sub-Saharan Africa including Cameroon. Pharmacogenetic variants could serve as predictors of drug-induced hepatotoxicity (DIH), in patients with TB co-infected with HIV. We evaluated the occurrence of DIH and pharmacogenetic variants in Cameroonian patients.

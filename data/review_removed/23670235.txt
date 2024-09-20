@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jul'}
-Preclinical discovery of candidate genes to guide pharmacogenetics during phase I development: the example of the novel anticancer agent ABT-751.
-ABT-751, a novel orally available antitubulin agent, is mainly eliminated as inactive glucuronide (ABT-751G) and sulfate (ABT-751S) conjugates. We performed a pharmacogenetic investigation of ABT-751 pharmacokinetics using in-vitro data to guide the selection of genes for genotyping in a phase I trial of ABT-751.

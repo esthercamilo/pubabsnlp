@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Apr'}
-Clinical pharmacogenetics: how do we ensure a favorable future for patients?
-Currently, there is sufficient evidence for the use of pharmacogenetic information to optimize medication prescribing, but why has this information not been integrated into the drug prescribing process to improve patient care? A discussion about the major contributing factors that have limited the use of pharmacogenetic information in the drug prescribing process, the solutions to ensure widespread uptake, and a vision for the future of the pharmacogenetic field will be explored.

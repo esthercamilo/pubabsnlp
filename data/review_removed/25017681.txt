@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-Hypersensitivity to antiepileptic drugs.
-Adverse reactions to antiepileptic drugs (AEDs) may lead to treatment failure, morbidity, and mortality. Drug hypersensitivity reactions (DHRs) are potentially fatal. AED DHRs present with a variety of clinical manifestations. The pathogenesis of AED DHRs has not been fully elucidated. Bioactivation, detoxification, covalent adduct formation, presentation to the immune system, and consequent formation of antibody and T-cell immune effectors have been suggested. This article summarizes the epidemiology, pathogenic mechanisms, risk factors, clinical features, and management of allergic reactions to the aromatic AEDs carbamazepine, phenytoin, and lamotrigine.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Aug'}
-Genetic associations of the response to inhaled corticosteroids in children during an asthma exacerbation.
-Genetic associations of the response to inhaled corticosteroids (ICSs) during an asthma exacerbation are unknown.

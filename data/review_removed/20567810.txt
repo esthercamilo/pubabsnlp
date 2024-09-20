@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Nov'}
-Effects of uridine diphosphate glucuronosyltransferase 2B7 and 1A7 pharmacogenomics and patient clinical parameters on steady-state mycophenolic acid pharmacokinetics in glomerulonephritis.
-The role of pharmacogenomics, clinical and demographic parameters in pharmacokinetic predictions was evaluated in patients receiving mycophenolic acid (MPA).

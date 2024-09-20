@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-Prolonged disease control with MEK inhibitor in neurofibromatosis type I-associated glioblastoma.
-Neurofibromatosis is associated with overactivation of the RAS-MAPK pathway. MEK inhibitors have been shown to be an effective treatment modality in other malignancies.

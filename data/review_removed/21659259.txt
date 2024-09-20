@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Jan'}
-Schizophrenia: women bear a disproportionate toll of antipsychotic side effects.
-Men and women with schizophrenia suffer not only from their illness but also from the side effects of their medications.

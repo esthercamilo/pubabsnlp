@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Oct', 'Day': '15'}
-Prospective evaluation of the pharmacogenetics of azathioprine in the treatment of inflammatory bowel disease.
-To investigate whether pharmacogenetic loci or metabolite concentrations explain clinical response or side effects to AZA.

@@ -1,3 +1,0 @@
-{'Year': '2009'}
-UGT1A1, UGT1A6 and UGT1A7 genetic analysis: repercussion for irinotecan pharmacogenetics in the São Miguel Island Population (Azores, Portugal).
-Glucuronidation reactions, catalyzed by uridine-diphosphate glucuronosyltransferase (UGT) enzymes, constitute a detoxification process that adds glucuronic acid to endogenous and exogenous compounds, aiding their excretion. UGT1A proteins have been implicated as risk factors for both the development of cancer and adverse drug effects.

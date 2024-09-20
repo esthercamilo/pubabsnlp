@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Jan'}
-Distribution of gemcitabine pathway genotypes in ethnic Asians and their association with outcome in non-small cell lung cancer patients.
-Pharmacogenetics suggests variants of genes involved in gemcitabine pharmacology could be useful markers for predicting inter-ethnic and inter-patient outcomes from treatment with the agent. Here, we have characterized the distribution of variants of genes involved in gemcitabine pharmacology in ethnic Asian populations and their association with non-small cell lung cancer (NSCLC) patient outcome.

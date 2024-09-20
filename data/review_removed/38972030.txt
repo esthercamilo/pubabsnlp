@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul', 'Day': '07'}
-Unveiling novel genetic variants in 370 challenging medically relevant genes using the long read sequencing data of 41 samples from 19 global populations.
-A large number of challenging medically relevant genes (CMRGs) are situated in complex or highly repetitive regions of the human genome, hindering comprehensive characterization of genetic variants using next-generation sequencing technologies. In this study, we employed long-read sequencing technology, extensively utilized in studying complex genomic regions, to characterize genetic alterations, including short variants (single nucleotide variants and short insertions and deletions) and copy number variations, in 370 CMRGs across 41 individuals from 19 global populations.

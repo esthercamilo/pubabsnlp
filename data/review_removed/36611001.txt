@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Mar', 'Day': '06'}
-Potential Impact of Pharmacogenomic Single Nucleotide Variants in a Rural Caucasian Population.
-In the US adverse drug reactions (ADRs) are estimated to cause 100 000 fatalities and cost over $136 billion annually. A patient's genes play a significant role in their response to a drug. Pharmacogenomics aims to optimize drug choice and dose for individual patients by characterizing patients' pharmacologically relevant genes to identify variants of known impact.

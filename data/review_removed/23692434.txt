@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jul'}
-HLA-B alleles associated with severe cutaneous reactions to antiepileptic drugs in Han Chinese.
-HLA-B*15:02 screening is recommended before starting carbamazepine in Han Chinese and Southeast Asians because the allele is strongly predictive of Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) induced by the drug. We examined whether other HLA-B alleles are also involved and whether the association extends to other antiepileptic drugs (AEDs).

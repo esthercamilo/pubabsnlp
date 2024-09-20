@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Nov'}
-Primary Care Providers' Interest in Using a Genetic Test to Guide Alcohol Use Disorder Treatment.
-Efforts to identify genetic moderators of pharmacotherapy response have generated interest in clinical applications of pharmacogenetic tests in alcohol use disorder (AUD) treatment. To date, no research on providers' interest in using pharmacogenetic tests in the context of AUD treatment has been reported. We conducted qualitative interviews with primary care providers from 5 clinics in the Veterans Health Administration (VA) to assess their interest in using a hypothetical genetic test to inform treatment of AUD with pharmacotherapy.

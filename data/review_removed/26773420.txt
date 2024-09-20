@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Mar'}
-Cyclophosphamide pharmacokinetics and pharmacogenetics in children with B-cell non-Hodgkin's lymphoma.
-Variation in cyclophosphamide pharmacokinetics and metabolism has been highlighted as a factor that may impact on clinical outcome in various tumour types. The current study in children with B-cell non-Hodgkin's lymphoma (NHL) was designed to corroborate previous findings in a large prospective study incorporating genotype for common polymorphisms known to influence cyclophosphamide pharmacology.

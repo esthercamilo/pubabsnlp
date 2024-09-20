@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Oct'}
-Psychiatric pharmacogenomics in pediatric psychopharmacology.
-This article provides an overview of where psychiatric pharmacogenomic testing stands as an emerging clinical tool in modern psychotropic prescribing practice, specifically in the pediatric population. This practical discussion is organized around the state of psychiatric pharmacogenomics research when choosing psychopharmacologic interventions in the most commonly encountered mental illnesses in youth. As with the rest of the topics on psychopharmacology for children and adolescents in this publication, a clinical vignette is presented, this one highlighting a clinical case of a 16 year old genotyped during hospitalization for recalcitrant depression.

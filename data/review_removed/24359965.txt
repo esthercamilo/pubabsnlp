@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Dec', 'Day': '23'}
-Performance of genomic medicine.
-A report on the Cold Spring Harbor Laboratory meeting on Precision Medicine: Personal Genomes and Pharmacogenomics, held in Cold Spring Harbor, New York, USA, November 13-16, 2013.

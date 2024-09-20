@@ -1,3 +1,0 @@
-{'Year': '2019', 'Season': 'Nov-Dec'}
-Influence of cytochrome P450 3A5 (CYP3A5) genetic polymorphism on dose-adjusted plasma levels of carbamazepine in epileptic patients in South Indian population.
-The aim of the study was to compare the dose-adjusted plasma levels of carbamazepine (CBZ) among expressers and nonexpressers of cytochrome P450 3A5 <i>(CYP3A5)* 3</i> genotypes.

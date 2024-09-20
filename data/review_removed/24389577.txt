@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Apr'}
-A common angiotensin-converting enzyme polymorphism and preoperative angiotensin-converting enzyme inhibition modify risk of tachyarrhythmias after congenital heart surgery.
-The angiotensin-converting enzyme insertion/deletion (ACE I/D) polymorphism is described in association with numerous phenotypes, including arrhythmias, and may provide predictive value among pediatric patients undergoing congenital heart surgery.

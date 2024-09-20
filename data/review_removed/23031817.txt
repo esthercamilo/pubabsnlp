@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Oct', 'Day': '02'}
-Systematically characterizing and prioritizing chemosensitivity related gene based on Gene Ontology and protein interaction network.
-The identification of genes that predict in vitro cellular chemosensitivity of cancer cells is of great importance. Chemosensitivity related genes (CRGs) have been widely utilized to guide clinical and cancer chemotherapy decisions. In addition, CRGs potentially share functional characteristics and network features in protein interaction networks (PPIN).

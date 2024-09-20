@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jan', 'Day': '06'}
-Towards pharmacogenomics-guided tuberculosis (TB) therapy: N-acetyltransferase-2 genotypes among TB-infected Kenyans of mixed ethnicity.
-Though persons of African descent have one of the widest genetic variability, genetic polymorphisms of drug-metabolising enzymes such as N-Acetyltransferase-2 (NAT2) are understudied. This study aimed to identify prevalent NAT2 single nucleotide polymorphisms (SNPs) and infer their potential effects on enzyme function among Kenyan volunteers with tuberculosis (TB) infection. Genotypic distribution at each SNP and non-random association of alleles were evaluated by testing for Hardy-Weinberg Equilibrium (HWE) and Linkage Disequilibrium (LD).

@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Aug'}
-Measuring the corticosteroid responsiveness endophenotype in asthmatic patients.
-Inhaled corticosteroids are the most commonly used controller therapies for asthma, producing treatment responses in 6 clinical phenotypes: lung function, bronchodilator response, airway responsiveness, symptoms, need for oral steroids and frequency of emergency department visits and hospitalizations. We hypothesize that treatment response in all of these phenotypes is modulated by a single quantitative corticosteroid responsiveness endophenotype.

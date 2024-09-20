@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Jul'}
-The perceptions of pharmacists in Victoria, Australia on pharmacogenetics and its implications.
-This study aimed to explore how well Victorian pharmacists perceived they understood pharmacogenetics, their perceived capacity to counsel a patient about such testing, how they believed pharmacogenetics would impact upon their profession, and to investigate the ways in which Victorian pharmacists would like to be educated about pharmacogenetics.

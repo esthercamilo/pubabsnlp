@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jan', 'Day': '15'}
-Rare Functional Variants Associated with Antidepressant Remission in Mexican-Americans: Short title: Antidepressant remission and pharmacogenetics in Mexican-Americans.
-Rare genetic functional variants can contribute to 30-40% of functional variability in genes relevant to drug action. Therefore, we investigated the role of rare functional variants in antidepressant response.

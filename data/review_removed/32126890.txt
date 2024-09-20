@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'May'}
-A new genetic locus for antipsychotic-induced weight gain: A genome-wide study of first-episode psychosis patients using amisulpride (from the OPTiMiSE cohort).
-Antipsychotic-induced weight gain is a common and debilitating side effect of antipsychotics. Although genome-wide association studies of antipsychotic-induced weight gain have been performed, few genome-wide loci have been discovered. Moreover, these genome-wide association studies have included a wide variety of antipsychotic compounds.

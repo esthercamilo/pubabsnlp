@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Nov'}
-Attitudes of oncology nurses concerning pharmacogenomics.
-The use of genome-guided drug therapy will certainly influence clinical practice within healthcare. However, in spite of the benefits of pharmacogenomic testing, little is known regarding what clinicians think about this promising technology.

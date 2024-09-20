@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Oct'}
-Potentially actionable pharmacogenetic variants and symptom control medications in oncology.
-We estimated the prevalence of potentially actionable pharmacogenetic (PGx) variants related to symptom control medications (SCMs) based on institutional prescribing patterns and correlated presenting symptoms with SCM prescribing.

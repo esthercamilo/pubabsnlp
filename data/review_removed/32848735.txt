@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Redox Imbalance and Oxidative DNA Damage During Isoniazid Treatment of HIV-Associated Tuberculosis: A Clinical and Translational Pharmacokinetic Study.
-The potential for hepatotoxicity during isoniazid-based tuberculosis (TB) treatment presents a major challenge for TB control programs worldwide. We sought to determine whether pharmacokinetic exposures of isoniazid and its metabolites were related to cellular oxidation/reduction status and downstream markers of oxidative DNA damage.

@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Feb', 'Day': '05'}
-The Personal Genome Project Canada: findings from whole genome sequences of the inaugural 56 participants.
-The Personal Genome Project Canada is a comprehensive public data resource that integrates whole genome sequencing data and health information. We describe genomic variation identified in the initial recruitment cohort of 56 volunteers.

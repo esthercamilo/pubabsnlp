@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Jun', 'Day': '23'}
-Personalizing Drug Selection Using Advanced Clinical Decision Support.
-This article describes the process of developing an advanced pharmacogenetics clinical decision support at one of the United States' leading pediatric academic medical centers. This system, called CHRISTINE, combines clinical and genetic data to identify the optimal drug therapy when treating patients with epilepsy or Attention Deficit Hyperactivity Disorder. In the discussion a description of clinical decision support systems is provided, along with an overview of neurocognitive computing and how it is applied in this setting.

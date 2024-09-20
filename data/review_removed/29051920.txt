@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Personalized management of asthma exacerbations: lessons from genetic studies.
-The genetics of severe asthma and asthma exacerbations are distinct from milder forms of asthma. Gene-environmental interactions contribute to the complexity and heterogeneity of severe asthma and asthma exacerbations, and pharmacogenomic studies have also identified genes that affect susceptibility to asthma exacerbations.

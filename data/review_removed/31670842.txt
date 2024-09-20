@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Feb'}
-CYP2C19 phenotype in South-East Asian Acute Coronary Syndrome patients and impact on major adverse cardiovascular events.
-Several Caucasian cohort studies have associated at least one loss-of-function CYP2C19 on Clopidogrel (LoF-Clopidogrel) with major adverse cardiovascular events (MACE), and only a couple have used Clinical Pharmacogenetics Implementation Consortium (CPIC<sup>®</sup> ) phenotype grouping to study the associations. We primarily aimed to study the impact of use of platelet reactivity testing to escalate antiplatelet therapy and secondarily to study the association of CPIC phenotype with MACE outcomes in South-East Asian Acute Coronary Syndrome (ACS) subjects.

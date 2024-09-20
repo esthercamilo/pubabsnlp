@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jan', 'Day': '03'}
-Potential responders to FOLFOX therapy for colorectal cancer by Random Forests analysis.
-Molecular characterisation using gene-expression profiling will undoubtedly improve the prediction of treatment responses, and ultimately, the clinical outcome of cancer patients.

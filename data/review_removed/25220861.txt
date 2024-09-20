@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Dec', 'Day': '01'}
-Clinical outcomes and genome-wide association for a brain methylation site in an antidepressant pharmacogenetics study in Mexican Americans.
-The authors compared the effectiveness of fluoxetine and desipramine treatment in a prospective double-blind pharmacogenetics study in first-generation Mexican Americans and examined the role of whole-exome functional gene variations in the patients' antidepressant response.

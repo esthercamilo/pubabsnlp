@@ -1,3 +1,0 @@
-{'Year': '2021', 'Season': 'Sep-Oct'}
-Current progress in pharmacogenomics of Type 2 diabetes: A systemic overview.
-Type 2 diabetes mellitus (T2DM) is a prevalent disease with incidences increasing globally at a rapid rate. The goal of T2DM treatment is to control glucose levels and prevent the aggravation of glycemic symptoms.

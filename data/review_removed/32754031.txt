@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Pharmacogenetic-Guided Algorithm to Improve Daily Dose of Warfarin in Elder Han-Chinese Population.
-To verify the accuracy of the International Warfarin Pharmacogenetics Consortium (IWPC) algorithm, identify the effects of genetic and clinical factors on warfarin stable dose, and to establish a new warfarin stable dose prediction algorithm for the elderly Han-Chinese population under the guidance of pharmacogenetics.

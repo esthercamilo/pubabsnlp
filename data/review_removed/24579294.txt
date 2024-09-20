@@ -1,3 +1,0 @@
-{'Year': '2013', 'Season': 'Nov-Dec'}
-Clinical utility of pharmacogenetic testing in compounding pharmacy.
-Pharmacists must consider all factors when dosing medication for a patient. Until recently, however, one key piece to this puzzle was missing--genetics. This invisible piece of the puzzle can now be utilized with pharmacogenetic testing. By using pharmacogenetic testing, the compounding pharmacist will be able to better predict disease risk as well as the pharmacodynamic and pharmacokinetic actions of the prescriptions their patients are taking. Pharmacogenetics is poised to become the standard of care that not only physicians are embracing, but pharmacists can utilize to better personalize their patient's needs.

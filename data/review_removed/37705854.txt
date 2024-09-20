@@ -1,3 +1,0 @@
-{'Year': '2023', 'Season': 'Jul-Sep'}
-Clinical Pharmacogenetics of Angiotensin II Receptor Blockers in Iraq.
-Clinical pharmacogenetics is a rapidly growing field that focuses on the study of genetic variations and their impact on drug metabolism, efficacy, and safety. Angiotensin II receptor blockers (ARBs) are commonly used to treat hypertension in Iraq but not all patients respond equally to these drugs.

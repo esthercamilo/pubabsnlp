@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-Pharmacogenetics of nevirapine excretion into breast milk and infants' exposure through breast milk versus postexposure prophylaxis.
-The influence of genetic factors on nevirapine (NVP) breast milk pharmacokinetics and breastfed infants' exposure were investigated.

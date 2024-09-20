@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Feb', 'Day': '03'}
-Evaluation of Targeted Next-Generation Sequencing for the Management of Patients Diagnosed with a Cancer of Unknown Primary.
-Cancer of unknown primary (CUP) comprises a heterogeneous collection of malignancies that are typically associated with a poor prognosis and a lack of effective treatment options. We retrospectively evaluated the clinical utility of targeted next-generation sequencing (NGS) among CUP patients to assist with diagnosis and identify opportunities for molecularly guided therapy.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec'}
-Current status and future perspectives on the use of therapeutic drug monitoring of thiopurine metabolites in patients with inflammatory bowel disease.
-Despite new treatment options for inflammatory bowel disease (IBD), conventional thiopurines remain a common treatment option for maintaining remission, particularly in non-Westernized countries. Therapeutic drug monitoring (TDM) is advised in standard care for optimizing therapy strategies to improve effectiveness, reveal nonadherence, and reduce toxicity. Still, the rationale of TDM is debated.

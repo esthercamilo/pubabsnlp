@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'May', 'Day': '27'}
-A genotyping exercise for pharmacogenetics in pharmacy practice.
-To develop a genotype exercise to improve pharmacy students' comprehension of pharmacogenetic principles that apply to patient care.

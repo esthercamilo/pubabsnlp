@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Mar', 'Day': '18'}
-Strategies to identify individuals with monogenic diabetes: results of an economic evaluation.
-To evaluate and compare the lifetime costs associated with strategies to identify individuals with monogenic diabetes and change their treatment to more appropriate therapy.

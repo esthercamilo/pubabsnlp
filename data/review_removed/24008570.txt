@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Nov'}
-Apolipoprotein E, statins, and risk of intracerebral hemorrhage.
-Apolipoprotein E (ApoE) genotypes have been associated with lobar intracerebral hemorrhage (ICH). Although statins have been associated with an increased risk of ICH, meta-analyses have not consistently shown a statin-induced risk of ICH. Here, we test whether hypercholesterolemia (HC) and ApoE polymorphisms affect the risk of ICH by statin use.

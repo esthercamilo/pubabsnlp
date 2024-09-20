@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'May'}
-Pharmacogenetics of CYP1A2 activity and inducibility in smokers and exsmokers.
-There is a high interindividual variability in cytochrome P4501A2 (CYP1A2) activity and in its inducibility by smoking, only poorly explained by known CYP1A2 polymorphisms. We aimed to study the contribution of other regulatory pathways, including transcription factors and nuclear receptors, toward this variability.

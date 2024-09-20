@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Apr'}
-DNATwist: a Web-based tool for teaching middle and high school students about pharmacogenomics.
-DNATwist is a Web-based learning tool (available at http://www.dnatwist.org) that explains pharmacogenomics concepts to middle- and high-school students. Its features include (i) a focus on drug responses of interest to teenagers (e.g., alcohol intolerance), (ii) reusable graphical interfaces that reduce extension costs, and (iii) explanations of molecular and cellular drug responses. In testing, students found the tool and topic understandable and engaging. The tool is being modified for use at the Tech Museum of Innovation in California.

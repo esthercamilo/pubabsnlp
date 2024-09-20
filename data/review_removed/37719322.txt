@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Apr'}
-Copy number variations of cytochrome <i>P450</i> genes in Kinh Vietnamese.
-The cytochrome P450 (<i>CYP450</i>) family is well known as a major group of drug metabolizing enzymes. The polymorphism of <i>CYP450</i> genes is the main factor having an impact on the interindividual difference in drug response, including drug efficacy and drug safety. The single nucleotide polymorphism (SNPs) of Vietnamese Kinh has been widely studied, but information about the copy number variations (CNVs) of other <i>CYP450</i> genes is still unknown.

@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jan'}
-Conference scene: UK pharmacogenetics and stratified medicine network.
-The second Annual Meeting of the UK Pharmacogenetics and Stratified Medicine Network was held on 28 September 2011 at The Wellcome Trust Conference Centre on the Wellcome Trust Genome Campus at Hinxton, Cambridge, UK. The meeting preceded the annual Pharmacogenomics and Personalized Medicine conference, which was held over the subsequent two days. Around 95 individuals from a wide range of backgrounds including research councils, academia and industry attended the meeting.

@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May', 'Day': '08'}
-Race and Beta-Blocker Survival Benefit in Patients With Heart Failure: An Investigation of Self-Reported Race and Proportion of African Genetic Ancestry.
-It remains unclear whether beta-blockade is similarly effective in black patients with heart failure and reduced ejection fraction as in white patients, but self-reported race is a complex social construct with both biological and environmental components. The objective of this study was to compare the reduction in mortality associated with beta-blocker exposure in heart failure and reduced ejection fraction patients by both self-reported race and by proportion African genetic ancestry.

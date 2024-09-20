@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Nov', 'Day': '29'}
-Expectations and educational needs of rheumatologists, rheumatology fellows and patients in the field of precision medicine in Canada, a quantitative cross-sectional and descriptive study.
-Precision medicine, as a personalized medicine approach based on biomarkers, is a booming field. In general, physicians and patients have a positive attitude toward precision medicine, but their knowledge and experience are limited. In this study, we aimed at assessing the expectations and educational needs for precision medicine among rheumatologists, rheumatology fellows and patients with rheumatic diseases in Canada.

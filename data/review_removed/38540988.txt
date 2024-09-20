@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Feb', 'Day': '25'}
-Machine Learning Prediction of Treatment Response to Inhaled Corticosteroids in Asthma.
-Although inhaled corticosteroids (ICS) are the first-line therapy for patients with persistent asthma, many patients continue to have exacerbations. We developed machine learning models to predict the ICS response in patients with asthma.

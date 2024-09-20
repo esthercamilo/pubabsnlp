@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Apr'}
-Pharmacogenetics of oral antidiabetic therapy.
-Type 2 diabetes prevalence is still on the rise worldwide. Antidiabetic drugs are widely prescribed to patients with Type 2 diabetes. Most patients start with metformin which is mostly well tolerated. However, a high percentage of patients fail to achieve glycemic control. The effectiveness of metformin as well as most other antidiabetic drugs depends among other factors on interindividual genetic differences that are up to now ignored in the treatment of Type 2 diabetes. Interestingly, many genes influencing the effectiveness of antidiabetic drugs are Type 2 diabetes risk genes making matters worse. Here, we shed light on these interindividual genetic differences.

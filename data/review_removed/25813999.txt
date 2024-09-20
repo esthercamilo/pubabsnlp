@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Apr'}
-Identification of a Novel Mucin Gene HCG22 Associated With Steroid-Induced Ocular Hypertension.
-The pathophysiology of ocular hypertension (OH) leading to primary open-angle glaucoma shares many features with a secondary form of OH caused by treatment with glucocorticoids, but also exhibits distinct differences. In this study, a pharmacogenomics approach was taken to discover candidate genes for this disorder.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Oct'}
-Prediction for Intravenous Immunoglobulin Resistance by Using Weighted Genetic Risk Score Identified From Genome-Wide Association Study in Kawasaki Disease.
-Intravenous immunoglobulin (IVIG) is the treatment of choice in Kawasaki disease (KD). IVIG is used to prevent cardiovascular complications related to KD. However, a proportion of KD patients have persistent fever after IVIG treatment and are defined as IVIG resistant.

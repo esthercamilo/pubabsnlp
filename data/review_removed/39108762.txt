@@ -1,3 +1,0 @@
-{'Year': '2024'}
-Pharmacogenetic educational needs and the role of pharmacogenetics in primary care: a focus group study with multiple perspectives.
-Pharmacogenomics (PGx) is a well-established concept of how genes impact medication response, with many studies demonstrating reductions in medication side effects, improved efficacy and cost effectiveness. Despite these benefits, implementation of PGx in daily practice remains limited. Studies on the implementation of PGx in clinical practice have previously found that inadequate knowledge is one of the main barriers. Details regarding specifically which educational needs exist among family medicine clinicians requires further study.

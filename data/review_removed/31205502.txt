@@ -1,3 +1,0 @@
-{'Year': '2019'}
-Intensive first-line FIr-C/FOx-C association of triplet chemotherapy plus cetuximab in <i>RAS</i> wild-type metastatic colorectal cancer patients: preliminary phase II data and prediction of individual limiting toxicity syndromes by pharmacogenomic biomarkers.
-Intensive triplet chemotherapy/bevacizumab significantly increased metastatic colorectal cancer (MCRC) outcome. This phase II study investigated the safety/activity of FIr-C/FOx-C triplet/cetuximab (CET) in first-line <i>RAS</i> wild-type and the prediction of individual limiting toxicity syndromes (LTS) by pharmacogenomic biomarkers.

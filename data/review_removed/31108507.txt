@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jun', 'Day': '04'}
-Cases in Precision Medicine: The Role of Pharmacogenetics in Precision Prescribing.
-Pharmacogenetics may help physicians deliver individualized treatments based on how a person's genes affect a drug's effects and metabolism. This information can help prevent adverse events or improve drug efficacy by enabling the physician to optimize dosage or to avoid a medication with adverse reactions and to prescribe an alternative therapy. This article discusses the current clinical utility of pharmacogenetic testing in the context of a patient who requires anticoagulation with warfarin.

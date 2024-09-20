@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Aug'}
-Comprehensive pharmacogenetic profiling of the epidermal growth factor receptor pathway for biomarkers of response to, and toxicity from, cetuximab.
-Somatic mutations in the epidermal growth factor receptor (EGFR) intracellular signalling pathways predict non-response to cetuximab in the treatment of advanced colorectal cancer (aCRC). We hypothesised that common germline variants within these pathways may also play similar roles.

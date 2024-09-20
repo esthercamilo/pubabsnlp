@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jan'}
-Germline variants and response to systemic therapy in advanced prostate cancer.
-Our current understanding of prostate cancer pharmacogenomics is growing at a rapid pace. Apart from evaluating relevant biomarkers and genomic alterations in tumor tissues, an increasing focus is being placed on decoding the impact of germline alterations on prostate cancer and its treatment. Herein we summarize various germline variants that have shown to associate with response to systemic therapy in men with advanced prostate cancer. Covered biomarkers include <i>HSD3B1</i>, <i>SLCO2B1, SULT1E1, TRMT11, CYP17A1, CYP1B1</i>, genes involved in homologous recombination and DNA mismatch repair.

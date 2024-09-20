@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Mar'}
-Progress in pharmacogenomics: bridging the gap from research to practice.
-Genetic information is increasingly used to optimize clinical treatment of patients, but obstacles remain to practical implementation as well as challenges to our understanding of genetic variation in drug response. These areas that particularly require research attention include gene-environment interactions, the consequences of genetic variation, and the impact of epigenetics on gene expression and function. In this issue of Clinical Pharmacology & Therapeutics focused on pharmacogenetics, we discuss some of the recent advances in understanding from a variety of viewpoints.

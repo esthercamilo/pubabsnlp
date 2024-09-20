@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jan'}
-Polymorphisms associated with adalimumab and infliximab response in moderate-to-severe plaque psoriasis.
-This study evaluated the influence of pharmacogenetics in psoriatic patients treated with adalimumab and/or infliximab.

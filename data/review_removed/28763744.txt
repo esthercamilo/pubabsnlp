@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Oct'}
-Genetic polymorphisms and valproic acid plasma concentration in children with epilepsy on valproic acid monotherapy.
-The aim of the study is to evaluate the association between genetic polymorphisms and valproic acid (VPA) concentration to dose ratio in children with epilepsy on VPA monotherapy.

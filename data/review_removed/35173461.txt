@@ -1,3 +1,0 @@
-{'Year': '2022'}
-<i>GABRA1</i> and <i>GABRB2</i> Polymorphisms are Associated with Propofol Susceptibility.
-To explore the effect of gene polymorphisms of propofol GABA<sub>A</sub> receptor and metabolic enzyme on drug susceptibility during the induction period of general anesthesia.

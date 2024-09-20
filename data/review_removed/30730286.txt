@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jan'}
-Integrated CYP2D6 interrogation for multiethnic copy number and tandem allele detection.
-To comprehensively interrogate CYP2D6 by integrating genotyping, copy number analysis and novel strategies to identify CYP2D6*36 and characterize CYP2D6 duplications.

@@ -1,3 +1,0 @@
-{'Year': '2014'}
-SNPs and taxane toxicity in breast cancer patients.
-In order to identify genetic variants associated with taxanes toxicity, a panel with 47 SNPs in 20 genes involved in taxane pathways was designed.

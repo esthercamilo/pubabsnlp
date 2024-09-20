@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-Ciliary neurotrophic factor upregulates follistatin and Pak1, causes overexpression of muscle differentiation related genes and downregulation of established atrophy mediators in skeletal muscle.
-The Ciliary Neurotrophic Factor (CNTF) is a pluripotent cytokine with anorexigenic actions in the hypothalamus that improves insulin sensitivity, increases energy expenditure and induces weight loss. Since CNTF also has an established myotrophic role, we sought to examine whether skeletal muscle contributes to the CNTF-induced metabolic improvement and identify the molecular mechanisms mediating these effects.

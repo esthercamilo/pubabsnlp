@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Aug'}
-A survey on the awareness and attitude of pharmacists and doctors towards the application of pharmacogenomics and its challenges in Qatar.
-Pharmacists are expected to play an important role in applying pharmacogenomics discoveries to patient care. Despite the increased attention to genetic research in Qatar, clinicians' attitudes towards the application of pharmacogenomics are not yet explored. The aim of this study was to assess the awareness and attitude of pharmacists compared with doctors towards pharmacogenomics and its implications by submitting an electronic-based survey to all pharmacists and doctors currently working in a large medical corporation in Qatar.

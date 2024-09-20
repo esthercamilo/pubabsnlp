@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Apr'}
-Physiogenomic analysis of the Puerto Rican population.
-Admixture in the population of the island of Puerto Rico is of general interest with regards to pharmacogenetics to develop comprehensive strategies for personalized healthcare in Latin Americans. This research was aimed at determining the frequencies of SNPs in key physiological, pharmacological and biochemical genes to infer population structure and ancestry in the Puerto Rican population.

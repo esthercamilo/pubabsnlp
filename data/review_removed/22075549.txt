@@ -1,3 +1,0 @@
-{'Year': '2011'}
-Population pharmacokinetics and pharmacogenetics of tacrolimus in healthy Chinese volunteers.
-The aim of this study was to establish population pharmacokinetic models of tacrolimus in healthy Chinese volunteers.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'May', 'Day': '17'}
-The effect of polymorphisms in FSHR and FSHB genes on ovarian response: a prospective multicenter multinational study in Europe and Asia.
-Does the presence of single nucleotide polymorphisms (SNPs) in the FSH receptor gene (FSHR) and/or FSH beta subunit-encoding gene (FSHB) influence ovarian response in predicted normal responders treated with rFSH?

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jun'}
-Incorporating pharmacokinetic data into personalised prescribing for older people: challenges and opportunities.
-We discuss the known age-associated changes in drug metabolism and elimination, the potential use of this information when selecting specific therapeutic strategies in older patients, and the steps required to fill the knowledge gap in this field.

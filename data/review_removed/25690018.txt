@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'May'}
-Pharmacogenetics and breast cancer management: current status and perspectives.
-Breast cancer has benefited from a number of innovative therapeutics over the last decade. Cytotoxics, hormone therapy, targeted therapies and biologics can now be given to ensure optimal management of patients. As life expectancy of breast cancer patients has been significantly stretched and that several lines of treatment are now made available, determining the best drug or drug combinations to be primarily given and the best dosing and scheduling for each patient is critical for ensuring an optimal toxicity/efficacy balance.

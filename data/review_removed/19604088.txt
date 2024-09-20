@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Jul'}
-Conference scene: initiatives on future biobanking in pharmacogenomics.
-The conference 'Biobanking in Pharmacogenetics' was held on the 23rd and 24th of April 2009 in London, UK. The conference was organized by the European Federation for Pharmaceutical Sciences European Research Network on Pharmacogenetics/Pharmacogenomics. The European Association for Clinical Pharmacology and Therapeutics, GlaxoSmithKline and the Dutch Top Institute Pharma provided financial sponsorship.

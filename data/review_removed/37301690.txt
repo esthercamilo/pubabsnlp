@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Jul'}
-Efficacy of Warfarin Therapy Guided by Pharmacogenetics: A Real-world Investigation Among Han Taiwanese.
-The anticoagulation activity of warfarin in populations with CYP2C9, VKORC1, and CYP4F2 variants differs between individuals and is correlated with poor international normalized ratio (INR) control. Pharmacogenetics-guided warfarin dosing has been successfully developed for patients with genetic variations in recent years. However, few real-world data have been used to investigate the INR and warfarin dosage and the time to target INR. This study examined the largest collection of genetic and clinical real-world data related to warfarin to provide further evidence supporting the benefits of pharmacogenetics in clinical outcomes.

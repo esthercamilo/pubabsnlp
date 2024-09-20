@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Jan'}
-Gene polymorphisms involved in triptans pharmacokinetics and pharmacodynamics in migraine therapy.
-Migraine is a debilitating and painful neurological disorder affecting millions of people worldwide and often worsened by chronification. Triptans represent a powerful pharmacological resource in migraine management; nevertheless, a significant portion of treated patients do not obtain consistent pain relief through triptans. Pharmacogenomics may offer a new way to rationalise triptans administration, based on characterisation of the individual genomic profile.

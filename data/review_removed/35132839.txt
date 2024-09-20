@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Feb', 'Day': '07'}
-Flat Pattern Peaks of Tacrolimus Absorption and Associated Pharmacogenomic Variants in Kidney Transplantation Recipients.
-Tacrolimus is the most commonly used immunosuppressive drug in solid organ transplantation. After administering a conventional twice-daily dose of tacrolimus, peak levels were achieved within the first 1.5 to 2 hours. A group of patients showed different early absorption phase of tacrolimus after kidney transplantation.

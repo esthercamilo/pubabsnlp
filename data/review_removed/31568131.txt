@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Nov'}
-A multiplex pharmacogenetics assay using the MinION nanopore sequencing device.
-The MinION nanopore sequencing device opens the opportunity to cost-effective and point-of-care DNA sequencing. As a proof of principle, we developed a multiplex assay targeting pharmacogenetic variants related to clopidogrel and warfarin, the two commonly used drugs that show response variability due to genetic polymorphisms.

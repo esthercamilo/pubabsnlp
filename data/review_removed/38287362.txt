@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jan', 'Day': '29'}
-Association of IL-10-592 C > A /-1082 A > G and the TNFα -308 G > A with susceptibility to COVID-19 and clinical outcomes.
-Variation in host immune responses to SARS-CoV-2 is regulated by multiple genes involved in innate viral response and cytokine storm emergence like IL-10 and TNFa gene polymorphisms. We hypothesize that IL-10; -592 C > A and - 1082 A > G and TNFa-308 G > A are associated with the risk of SARS-COV2 infections and clinical outcome.

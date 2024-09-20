@@ -1,3 +1,0 @@
-{'Year': '2018'}
-<i>CYP2D6</i> genotype can help to predict effectiveness and safety during opioid treatment for chronic low back pain: results from a retrospective study in an Italian cohort.
-Opioids are widely used for chronic low back pain (CLBP); however, it is still unclear how to predict their effectiveness and safety. Codeine, tramadol and oxycodone are metabolized by CYP/CYP450 2D6 (CYP2D6), a highly polymorphic enzyme linked to allele-specific related differences in metabolic activity.

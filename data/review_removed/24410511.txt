@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Jan'}
-Integrating pharmacogenomics into oncology clinical practice.
-Oncology pharmacogenomics has seen a great deal of progress in the past 10 years. The release of the Human Genome Project data and the availability of fast, affordable genotyping platforms has allowed the field to expand and has provided invaluable data for pharmacogenomics research. The introduction of US FDA-approved targeted therapy (trastuzumab), package insert changes (irinotecan and tamoxifen) and the initiation of a genotype-guided clinical trial for cancer therapy (TYMS TSER in rectal cancer), along with panels of DNA and expression markers (Roche AmpliChip(®) and Oncotype Dx™ panel) are paving the way towards the integration of pharmacogenomics into clinical practice.

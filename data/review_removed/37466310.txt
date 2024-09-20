@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Dec', 'Day': '01'}
-Predictive modeling of adverse drug reactions to tamoxifen therapy for breast cancer on base of pharmacogenomic testing.
-The present study investigated the analysis of adverse drug reactions (ADRs) to tamoxifen (TAM) in breast cancer patients in relation to the carriage of genetic polymorphisms of genes encoding enzymes of CYP system and transporters of P-glycoprotein (Pg) and predictive models based on it.

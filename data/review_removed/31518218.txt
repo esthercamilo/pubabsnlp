@@ -1,3 +1,0 @@
-{'Year': '2019'}
-A Novel PCR-RFLP Method for Detection of POR*28 Polymorphism and its Genotype/Allele Frequencies in a Turkish Population.
-The Cytochrome P450 (CYP) enzymes are involved in the metabolism of many endogenous and exogenous substances. They need electrons for their activity. CYP mediated oxidation reactions require cytochrome oxidoreductase (POR) as an electron donor. A common genetic variation identified in the coding region of POR gene (POR*28) leads to an alteration in POR activity by causing amino acid change. The current study aimed to determine the allele and genotype frequencies of POR*28 in a healthy Turkish population by using a novel genotyping assay.

@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Aug'}
-Use of Pharmacogenomics and Biomarkers in the Development of New Drugs for Alzheimer Disease in Japan.
-Pharmacogenomics (PGx) and biomarkers have been utilized for improving the benefit/risk ratios of drugs and the efficiency of drug development. In the development of drugs for Alzheimer disease (AD), a number of clinical trials have failed to demonstrate clinical efficacy. To overcome this circumstance, the importance of using PGx/biomarkers for enhancing recruitment into clinical trials and for evaluating the efficacy of treatments has been increasingly recognized. In this article, the current status and examples of the use of PGx/biomarkers in Japan for drug development are explained.

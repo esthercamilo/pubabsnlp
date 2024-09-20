@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Aug', 'Day': '31'}
-Population Pharmacogenomics in Croatia: Evaluating the PGx Allele Frequency and the Impact of Treatment Efficiency.
-Adverse drug reactions (ADRs) are a significant cause of mortality, and pharmacogenomics (PGx) offers the potential to optimize therapeutic efficacy while minimizing ADRs. However, there is a lack of data on the Croatian population, highlighting the need for investigating the most common alleles, genotypes, and phenotypes to establish national guidelines for drug use.

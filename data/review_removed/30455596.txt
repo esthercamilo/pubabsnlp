@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Rivaroxaban plasma levels in patients admitted for bleeding events: insights from a prospective study.
-Serious bleeding events have been frequently described in patients taking direct oral anticoagulants (DOAC). In secondary analyses of phase 3 trials, DOAC plasma concentrations were shown to correlate with bleeding outcomes. This study aimed to describe rivaroxaban plasma levels in patients admitted to the emergency department (ED) for bleeding events. For each patient, risk factors for experiencing bleeding events were also investigated.

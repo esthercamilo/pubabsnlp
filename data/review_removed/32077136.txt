@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Aug'}
-Precision therapy of 6-mercaptopurine in Chinese children with acute lymphoblastic leukaemia.
-Chinese children are more susceptible to the development of thiopurine-induced leukopenia compared with Caucasian populations. The aim of our study was to establish a 6-mercaptopurine (6-MP) dose-concentration-response relationship through exploration of pharmacogenetic factors involved in the thiopurine-induced toxicities in Chinese paediatric patients afflicted by acute lymphoblastic leukaemia (ALL).

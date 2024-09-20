@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Economic Impact of the Application of a Precision Medicine Model (5SPM) on Psychotic Patients.
-Schizophrenia is a severe mental disorder that often manifests within the first three decades of life. Its prognosis is uncertain and may result in a prolonged treatment that could extend throughout the entire lifespan of the patient. Antipsychotic drugs are characterized by a high interindividual variability when considering therapeutic effect and emergence of adverse effects. Such interindividual variability is thought to be associated primarily with pharmacokinetic matters.

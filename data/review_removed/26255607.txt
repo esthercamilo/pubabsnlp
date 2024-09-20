@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Validation of warfarin pharmacogenetic algorithms in 586 Han Chinese patients.
-To compare the accuracy of the nine selected algorithms for predicting warfarin dose with 586 Han Chinese patients.

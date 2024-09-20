@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Nov'}
-Methadone pharmacogenetics in vitro and in vivo: Metabolism by CYP2B6 polymorphic variants and genetic variability in paediatric disposition.
-Methadone metabolism and clearance are determined principally by polymorphic cytochrome P4502B6 (CYP2B6). Some CYP2B6 allelic variants affect methadone metabolism in vitro and disposition in vivo. We assessed methadone metabolism by CYP2B6 minor variants in vitro. We also assessed the influence of CYP2B6 variants, and P450 oxidoreductase (POR) and CYP2C19 variants, on methadone clearance in surgical patients in vivo.

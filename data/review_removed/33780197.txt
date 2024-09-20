@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Dec', 'Day': '22'}
-Pharmacogenetic algorithm for predicting daily dose of warfarin in Caucasian patients of Czech origin.
-Warfarin use is limited by a low therapeutic index and significant interindividual variability of the daily dose. The most important factor predicting daily warfarin dose is individual genotype, polymorphisms of genes <i>CYP2C9</i> (warfarin metabolism) and <i>VKORC1</i> (sensitivity for warfarin). Algorithms using clinical and genetic variables could predict the daily dose before the initiation of therapy. The aim of this study was to develop and validate an algorithm for the prediction of warfarin daily dose in Czech patients.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Aug'}
-The Pharmacogenomics Research Network Translational Pharmacogenetics Program: overcoming challenges of real-world implementation.
-The pace of discovery of potentially actionable pharmacogenetic variants has increased dramatically in recent years. However, the implementation of this new knowledge for individualized patient care has been slow. The Pharmacogenomics Research Network (PGRN) Translational Pharmacogenetics Program seeks to identify barriers and develop real-world solutions to implementation of evidence-based pharmacogenetic tests in diverse health-care settings. Dissemination of the resulting toolbox of “implementation best practices” will prove useful to a broad audience.

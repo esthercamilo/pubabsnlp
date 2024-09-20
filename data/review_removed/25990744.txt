@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jul'}
-Measuring pharmacogenetics in special groups: geriatrics.
-The cytochrome P450 (CYP) enzymes oxidize about 80% of the most commonly used drugs. Older patients form a very interesting clinical group in which an increased prevalence of adverse drug reactions (ADRs) and therapeutic failures (TFs) is observed. Might CYP drug metabolism change with age, and justify the differences in drug response observed in a geriatric setting?

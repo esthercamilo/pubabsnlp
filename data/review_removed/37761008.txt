@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Sep', 'Day': '19'}
-<i>ABCC1</i>, <i>ABCG2</i> and <i>FOXP3</i>: Predictive Biomarkers of Toxicity from Methotrexate Treatment in Patients Diagnosed with Moderate-to-Severe Psoriasis.
-Methotrexate (MTX) is one of the most extensively used drugs in the treatment of moderate-to-severe psoriasis (PS). However, it frequently must be suspended owing to the toxicity in certain patients.

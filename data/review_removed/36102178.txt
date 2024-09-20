@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Sep'}
-The importance of phenoconversion when using the <i>CYP2D6</i> genotype in clinical practice.
-Tweetable abstract Clinical phenoconversion needs to be incorporated when interpreting and applying <i>CYP2D6</i> results in clinical care. This article describes how this can be performed either manually or by utilizing online tools and resources. #Phenoconversion #Pharmacogenomics.

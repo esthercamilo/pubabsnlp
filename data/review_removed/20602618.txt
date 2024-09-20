@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Jul'}
-Irinotecan pharmacogenomics.
-Irinotecan is a camptothecin analog used as an anticancer drug. Severe, potentially life-threatening toxicities can occur from irinotecan treatment. Although multiple genes may play a role in irinotecan activity, the majority of evidence to date suggests that variation in expression of UGT1A1 caused by a common promoter polymorphism (UGT1A1*28) is strongly associated with toxicity; however, this link is dose dependent. Variations in other pharmacokinetic genes, particularly the transporter ABCC2, also contribute to irinotecan toxicity. In addition, recent studies have shown that pharmacodynamic genes such as TDP1 and XRCC1 can also play a role in both toxicity and response.

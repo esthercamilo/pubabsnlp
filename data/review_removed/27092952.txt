@@ -1,3 +1,0 @@
-{'Year': '2016'}
-PDE7B, NMBR and EPM2A Variants and Schizophrenia: A Case-Control and Pharmacogenetics Study.
-We investigated phosphodiesterase 7B (PDE7B), neuromedin B receptor (NMBR) and epilepsy progressive myoclonus type 2A (EPM2A) genes in schizophrenia (SCZ). To the best of our knowledge, these genes have been poorly investigated in studies of SCZ.

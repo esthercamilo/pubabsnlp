@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Nov'}
-Synergistic cytotoxicity, inhibition of signal transduction pathways and pharmacogenetics of sorafenib and gemcitabine in human NSCLC cell lines.
-Lung cancer is one of the most lethal tumors and, although standard chemotherapy produces clinical response, there has been little improvement in prognosis. Therefore, research effort has focused on target-specific agents, such as sorafenib, which blocks both the RAF/MEK/ERK signalling pathways and receptors involved in neovascularization and tumor progression, including VEGFR-2 and c-Kit. We investigated whether sorafenib would be synergistic with gemcitabine against NSCLC cell lines.

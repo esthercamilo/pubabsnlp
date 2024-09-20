@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Mar', 'Day': '22'}
-Co-designing a community pharmacy pharmacogenomics testing service in the UK.
-Pharmacogenomics (PGx) testing services have been delivered through community pharmacies across the globe, though not yet in the UK. This paper is reporting a focus group study, the first stage of a participatory co-design process to increase the chance of a successful implementation of a PGx service through community pharmacy in the UK.

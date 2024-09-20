@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Dec', 'Day': '01'}
-Ethnic and genetic factors in methadone pharmacokinetics: a population pharmacokinetic study.
-Treatment of opiate use disorders with methadone is complicated by wide interindividual variability in pharmacokinetics. To identify potentially contributing covariates in methadone pharmacokinetics, we used population pharmacokinetic modeling to estimate clearance (CL/F) and volume of distribution (V/F) for each methadone enantiomer in an ethnically diverse methadone maintained population.

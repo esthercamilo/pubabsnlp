@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jun'}
-Voriconazole plasma concentrations in immunocompromised pediatric patients vary by CYP2C19 diplotypes.
-Our objective was to describe the association between voriconazole concentrations and CYP2C19 diplotypes in pediatric cancer patients, including children homozygous for the CYP2C19*17 gain-of-function allele.

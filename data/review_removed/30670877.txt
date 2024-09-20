@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Aug'}
-CYP2D6-guided opioid therapy improves pain control in CYP2D6 intermediate and poor metabolizers: a pragmatic clinical trial.
-CYP2D6 bioactivates codeine and tramadol, with intermediate and poor metabolizers (IMs and PMs) expected to have impaired analgesia. This pragmatic proof-of-concept trial tested the effects of CYP2D6-guided opioid prescribing on pain control.

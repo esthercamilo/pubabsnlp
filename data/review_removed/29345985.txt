@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jan'}
-CYP3A Activity and Rivaroxaban Serum Concentrations in Russian Patients with Deep Vein Thrombosis.
-Rivaroxaban is metabolized in the liver via CYP3A4, the cytochrome involved in the metabolism of nearly 50% of all medications. Thus, its effective concentration depends on multiple pharmacologic parameters.

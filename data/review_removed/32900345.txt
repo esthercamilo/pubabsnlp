@@ -1,3 +1,0 @@
-{'Year': '2020'}
-CYP19A1 rs10046 Pharmacogenetics in Postmenopausal Breast Cancer Patients Treated with Aromatase Inhibitors: One-year Follow-up.
-Significant individual variation in bone loss associated with aromatase inhibitors (AIs) emphasizes the importance of identifying postmenopausal breast cancer patients at high risk for this adverse effect. The study explores the clinical relevance of genetic variation in the Cytochrome P450 19A1 (CYP19A1) gene in a subset of South African patients during the first year of taking AIs for estrogen receptor (ER)-positive breast cancer.

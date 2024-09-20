@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Genetic Variants of Cytochrome CYP2D6 in Two Mixed Chilean Populations.
-It is known that the interindividual and interethnic variability of the genetic polymorphisms of CYP2D6 plays an important role in the presentation of adverse drug reactions and concerning lack of therapeutic effects in humans. However, there are few data available from mixed populations of Latin America, including the Chilean. The aim of this study was therefore to estimate the frequencies of CYP2D6 variants in two samples of hospitals from the northern (Hospital San José, HSJ) and eastern (Clínica Las Condes, CLC) parts of Santiago, Chile, with different degrees of Amerindian admixture (HSJ: 34.5%; CLC: 15.9%).

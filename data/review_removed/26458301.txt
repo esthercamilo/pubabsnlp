@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Dec'}
-Influence of CYP3A5 genetic variation on everolimus maintenance dosing after cardiac transplantation.
-Everolimus (ERL) has become an alternative to calcineurin inhibitors (CNIs) due to its renal-sparing properties, especially in heart transplant (HTx) recipients with kidney dysfunction. However, ERL dosing is challenging due to its narrow therapeutic window combined with high interindividual pharmacokinetic variability. Our aim was to evaluate the effect of clinical and genetic factors on ERL dosing in a pilot cohort of 37 HTx recipients.

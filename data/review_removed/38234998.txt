@@ -1,3 +1,0 @@
-{'Year': '2023'}
-Moving towards the implementation of pharmacogenetic testing in Quebec.
-Clinical implementation of pharmacogenetics (PGx) into routine care will elevate the current paradigm of treatment decisions. However, while PGx tests are increasingly becoming reliable and affordable, several barriers have limited their widespread usage in Canada. Globally, over ninety successful PGx implementors can serve as models. The purpose of this paper is to outline the PGx implementation barriers documented in Quebec (Canada) to suggest efficient solutions based on existing PGx clinics and propose an adapted clinical implementation model. We conclude that the province of Quebec is ready to implement PGx.

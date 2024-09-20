@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct', 'Day': '03'}
-Genomics of drug sensitivity in bladder cancer: an integrated resource for pharmacogenomic analysis in bladder cancer.
-Bladder cancer has numerous genomic features that are potentially actionable by targeted agents. Nevertheless, both pre-clinical and clinical research using molecular targeted agents have been very limited in bladder cancer.

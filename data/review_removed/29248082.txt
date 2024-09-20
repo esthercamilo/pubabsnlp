@@ -1,3 +1,0 @@
-{'Year': '2018', 'Season': 'Jan-Feb'}
-Evaluation of pharmacy students' knowledge and perceptions of pharmacogenetics before and after a simulation activity.
-The purpose of this study was to evaluate students' knowledge and perceptions of the clinical application of pharmacogenetics through a simulation activity and to assess communication of pharmacogenetic-guided treatment recommendations utilizing standardized patients.

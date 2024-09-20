@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Sep'}
-RRM1 and RRM2 pharmacogenetics: association with phenotypes in HapMap cell lines and acute myeloid leukemia patients.
-Ribonucleotide reductase catalyzes an essential step in the cellular production of deoxyribonucleotide triphosphates and has been associated with clinical outcome in cancer patients receiving nucleoside analog-based chemotherapy.

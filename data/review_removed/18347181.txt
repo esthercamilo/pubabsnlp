@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Mar', 'Day': '15'}
-Irinotecan pharmacogenetics: influence of pharmacodynamic genes.
-Irinotecan is an important drug for the treatment of solid tumors. Although genes involved in irinotecan pharmacokinetics have been shown to influence toxicity, there are no data on pharmacodynamic genes. CDC45L, NFKB1, PARP1, TDP1, and XRCC1 have been shown to influence the cytotoxic action of camptothecins, including irinotecan. Polymorphisms in the drug target of camptothecins, topoisomerase I (TOP1), and downstream effectors may influence patient outcomes to irinotecan therapy. We undertook a retrospective candidate gene haplotype association study to investigate this hypothesis.

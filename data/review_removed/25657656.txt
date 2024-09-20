@@ -1,3 +1,0 @@
-{'Year': '2014'}
-HLA-B allele and haplotype diversity among Thai patients identified by PCR-SSOP: evidence for high risk of drug-induced hypersensitivity.
-There are 3 classes of HLA molecules; HLA class I, II and III, of which different classes have different functions. HLA-B gene which belongs to HLA class I play an important role predicting drug hypersensitivity.

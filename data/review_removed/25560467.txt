@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jan'}
-Investigation of TSPO variants in schizophrenia and antipsychotic treatment outcomes.
-TSPO is a neuroinflammatory biomarker and emerging therapeutic target in psychiatric disorders. We evaluated whether TSPO polymorphisms contribute to interindividual variability in schizophrenia, antipsychotic efficacy and antipsychotic-induced weight gain.

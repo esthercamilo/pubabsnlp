@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Dec'}
-The impact of 5-HTTLPR on acute serotonin transporter blockade by escitalopram on emotion processing: preliminary findings from a randomised, crossover fMRI study.
-Benefit from antidepressant treatment such as selective serotonin reuptake inhibitors (SSRIs) may depend on individual differences in acute effects on neural emotion processing. The short ('S') allele of the serotonin transporter (5-HTT)-linked polymorphic region (5-HTTLPR) is associated with both negative emotion processing biases and poorer treatment outcomes. Therefore, the aim of the present study was to explore the effects of 5-HTTLPR on the impact of the SSRI escitalopram during processing of positive and negative emotional images, as well as neutral stimuli.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jun'}
-Warfarin dose prediction in children using pharmacometric bridging--comparison with published pharmacogenetic dosing algorithms.
-Numerous studies have investigated causes of warfarin dose variability in adults, whereas studies in children are limited both in numbers and size. Mechanism-based population modelling provides an opportunity to condense and propagate prior knowledge from one population to another. The main objectives with this study were to evaluate the predictive performance of a theoretically bridged adult warfarin model in children, and to compare accuracy in dose prediction relative to published warfarin algorithms for children.

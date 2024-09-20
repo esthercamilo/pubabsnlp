@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Dec'}
-Genotyping genetic variants of <i>CYP2C19</i> for precision antiplatelet dosing: state of the art and future perspectives.
-Clopidogrel is the only antiplatelet agent whose activity is significantly affected by <i>CYP2C19</i> polymorphism.

@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Oct'}
-No impact of age on dose-adjusted pharmacokinetics of tacrolimus, mycophenolic acid and prednisolone 1 month after renal transplantation.
-The purpose of the study was to assess the impact of age on the pharmacokinetics of immunosuppressive drugs.

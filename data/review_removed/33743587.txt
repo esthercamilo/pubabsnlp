@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Mar', 'Day': '20'}
-Comparing low-pass sequencing and genotyping for trait mapping in pharmacogenetics.
-Low pass sequencing has been proposed as a cost-effective alternative to genotyping arrays to identify genetic variants that influence multifactorial traits in humans. For common diseases this typically has required both large sample sizes and comprehensive variant discovery. Genotyping arrays are also routinely used to perform pharmacogenetic (PGx) experiments where sample sizes are likely to be significantly smaller, but clinically relevant effect sizes likely to be larger.

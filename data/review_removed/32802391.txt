@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'May', 'Day': '27'}
-<i>Centrosomal protein72</i> rs924607 and vincristine-induced neuropathy in pediatric acute lymphocytic leukemia: meta-analysis.
-We examined the utility of the rs924607 TT genotype of the <i>centrosomal protein 72</i> (<i>CEP72</i>) as a potential biomarker for predilection toward vincristine-induced peripheral neuropathy in children treated for acute lymphoblastic leukemia.

@@ -1,3 +1,0 @@
-{'Year': '2023', 'Season': 'Sep-Oct'}
-Substantiation of a clopidogrel metabolism-associated gene (CYP2C19) variation among healthy individuals.
-It is essential to investigate the prevalence of CYP2C19 alleles that affect drug metabolism. This study measures the allelic and genotypic frequencies of CYP2C19 loss-of-function (LoF) alleles CYP2C19∗2, CYP2C19∗3, and gain-of-function (GoF) alleles CYP2C19∗17 in the general population.

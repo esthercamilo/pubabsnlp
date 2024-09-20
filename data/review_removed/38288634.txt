@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Feb'}
-Regulation of headache response and transcriptomic network by the trigeminal ganglion clock.
-To characterize the circadian features of the trigeminal ganglion in a mouse model of headache.

@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Dec', 'Day': '01'}
-Providers' Use of Pharmacogenetic Testing to Inform Antidepressant Prescribing: Results of Qualitative Interviews.
-Pharmacogenetic testing (PGx) for patients experiencing depression has been associated with modest improvements in symptoms. However, little is known about providers' use of PGx, including how and for whom providers use the test results in clinical decision making. In this article, results from qualitative interviews on the experience of providers participating in a pragmatic trial of PGx are described; implications of the providers' experiences are highlighted to inform future implementation of PGx.

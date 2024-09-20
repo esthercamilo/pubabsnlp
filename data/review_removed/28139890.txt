@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Feb'}
-Pharmacogenomics of 17-alpha hydroxyprogesterone caproate for recurrent preterm birth: a case-control study.
-To compare maternal genotypes between women with and without significant prolongation of pregnancy in the setting of 17-alpha hydroxyprogesterone caproate (17-P) administration for the prevention of recurrent preterm birth (PTB).

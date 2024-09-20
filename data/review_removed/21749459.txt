@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Dec'}
-Limited agreement between current and long-term asthma control in children: the PACMAN cohort study.
-Several studies have shown that predictors of asthma treatment outcomes differ depending on the definition of the outcome chosen. This provides evidence that different outcomes studied may reflect distinct aspects of asthma control. To assess predictors of asthma control, we need firm outcome phenotypes. The aim of this study was to investigate the association between measurements of current and long-term asthma control.

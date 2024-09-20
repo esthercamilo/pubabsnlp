@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jun'}
-Pharmacogenomic Study of Statin-Associated Muscle Symptoms in the ODYSSEY OUTCOMES Trial.
-Statin-associated muscle symptoms (SAMS) are the most frequently reported adverse events for statin therapies. Previous studies have reported an association between the p.Val174Ala missense variant in <i>SLCO1B1</i> and SAMS in simvastatin-treated subjects; however, evidence for genetic predictors of SAMS in atorvastatin- or rosuvastatin-treated subjects is currently lacking.

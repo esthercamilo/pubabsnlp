@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Pharmacogenetics and drug-induced nephrotoxicity in renal transplant recipients.
-The advent of calcineurin inhibitors (CNIs), as the leading immunosuppressive agents, not only has revolutionized the transplant medicine but also made it a better therapeutic intervention that guarantees the graft outcome and improves the survival rate of patients. However, genetic polymorphism(s) in the CNIs metabolic substrates genes (CYP3A4, CYP3A5) and their transporter such as P-glycoprotein (P-gp) can influence the CNIs metabolism and elicit some possible systemic and intra-renal exposures to drugs and/or metabolites with differential risk of nephrotoxicity, jeopardizing the transplantation.

@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Aug', 'Day': '23'}
-Communicating Precision Medicine Research: Multidisciplinary Teams and Diverse Communities.
-Precision medicine research investigates the differences in individuals' genetics, environment, and lifestyle to tailor health prevention and treatment options as part of an emerging model of health care delivery. Advancing precision medicine research will require effective communication across a wide range of scientific and health care disciplines and with research participants who represent diverse segments of the population.

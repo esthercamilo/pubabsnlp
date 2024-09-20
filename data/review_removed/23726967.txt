@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jul'}
-Resequencing of VKORC1, CYP2C9 and CYP4F2 genes in Italian patients requiring extreme low and high warfarin doses.
-The aim of the present study was to investigate the genetic variability of VKORC1, CYP2C9 and CYP4F2 genes in patients who required a very low and high warfarin dose, in order to identify novel variants that could help to explain the particular extreme dose requirements.

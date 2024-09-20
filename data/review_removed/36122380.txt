@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Oct'}
-The Management of Major Depressive Disorder: Synopsis of the 2022 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline.
-In February 2022, the U.S. Department of Veterans Affairs (VA) and U.S. Department of Defense (DoD) approved a joint clinical practice guideline (CPG) for the management of major depressive disorder (MDD). This synopsis summarizes key recommendations.

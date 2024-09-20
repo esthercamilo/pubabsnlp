@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec'}
-Genome-Wide association between EYA1 and Aspirin-induced peptic ulceration.
-Low-dose aspirin can cause gastric and duodenal ulceration, hereafter called peptic ulcer disease (PUD). Predisposition is thought to be related to clinical and genetic factors; our aim was to identify genetic risk factors associated with aspirin-induced PUD.

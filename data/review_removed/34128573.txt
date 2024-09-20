@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Sep'}
-ADRB2 haplotypes and asthma exacerbations in children and young adults: An individual participant data meta-analysis.
-The polymorphism Arg16 in β<sub>2</sub> -adrenergic receptor (ADRB2) gene has been associated with an increased risk of exacerbations in asthmatic children treated with long-acting β<sub>2</sub> -agonists (LABA). However, it remains unclear whether this increased risk is mainly attributed to this single variant or the combined effect of the haplotypes of polymorphisms at codons 16 and 27.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jan', 'Day': '01'}
-<i>CYP2C19*2</i> genetic polymorphism and incidence of in-stent restenosis in patients on clopidogrel: a matched case-control study.
-The cytochrome P450 2C19<i>*2</i> (<i>CYP2C19*2</i>) genetic polymorphism is associated with reduced clopidogrel bioactivation, increasing the risk of atherothrombotic complications after percutaneous coronary intervention (PCI). In-stent restenosis (ISR) is a complication that limits the long-term prognosis of PCI. The aim was to investigate the association between presence of the <i>CYP2C19*2</i> allele and ISR within one-year after PCI in patients prescribed dual antiplatelet therapy with aspirin and clopidogrel.

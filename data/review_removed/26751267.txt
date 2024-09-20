@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-Therapeutic Drug Monitoring of Clobazam and Its Metabolite-Impact of Age and Comedication on Pharmacokinetic Variability.
-Clobazam (CLB) has been used as an antiepileptic drug for several decades. There is still insufficient data regarding its pharmacokinetic variability in clinical practice. The purpose of this study was to investigate pharmacokinetic variability of CLB with emphasis on the impact of age and comedication in patients with epilepsy.

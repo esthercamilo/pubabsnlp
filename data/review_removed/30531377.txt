@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Feb'}
-Assessment of provider-perceived barriers to clinical use of pharmacogenomics during participation in an institutional implementation study.
-The objective of this study was to study provider attitudes of and perceived barriers to the clinical use of pharmacogenomics before and during participation in an implementation program.

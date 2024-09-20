@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Mar'}
-Genetic polymorphisms of SLC28A3, SLC29A1 and RRM1 predict clinical outcome in patients with metastatic breast cancer receiving gemcitabine plus paclitaxel chemotherapy.
-Paclitaxel and gemcitabine (PG) combination chemotherapy is effective as a maintenance chemotherapeutic regimen in metastatic breast cancer (MBC) patients because it increases progression-free survival (PFS), which increases overall survival (OS). The primary purpose of our study was to investigate the association between genetic polymorphisms in the genes involved in PG pathways and clinical outcomes in MBC patients treated with PG chemotherapy.

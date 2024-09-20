@@ -1,3 +1,0 @@
-{'Year': '2022'}
-COVID-19 Pharmacotherapy: Drug Development, Repurposing of Drugs, and the Role of Pharmacogenomics.
-The SARS-CoV-2 virus has been the subject of intense pharmacological research. Various pharmacotherapeutic approaches including antiviral and immunotherapy are being explored. A pandemic, however, cannot depend on the development of new drugs; the time required for conventional drug discovery and development is far too lengthy. As such, repurposing drugs is being used as a viable approach for identifying pharmacological agents for COVID-19 infections. Evaluation of repurposed drug candidates with pharmacogenomic analysis is being used to identify near-term pharmacological remedies for COVID-19.

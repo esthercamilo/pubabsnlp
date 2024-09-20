@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Oct'}
-Next-generation sequencing in neuromuscular diseases.
-Neuromuscular diseases are clinically and genetically heterogeneous and probably contain the greatest proportion of causative Mendelian defects than any other group of conditions. These disorders affect muscle and/or nerves with neonatal, childhood or adulthood onset, with significant disability and early mortality. Along with heterogeneity, unidentified and often very large genes require complementary and comprehensive methods in routine molecular diagnosis. Inevitably, this leads to increased diagnostic delays and challenges in the interpretation of genetic variants.

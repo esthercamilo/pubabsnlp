@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Mar'}
-Oral antidiabetic drug metabolism: pharmacogenomics and drug interactions.
-Type 2 diabetes is progressive in nature and so to control cardiovascular risk, most patients need combinations of oral antidiabetic drugs (OADs) plus or minus insulin. Thus, drug-drug interactions may substantially contribute to harmful effects of intensive glucose lowering therapy.

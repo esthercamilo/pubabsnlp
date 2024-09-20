@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jun'}
-Pharmacogenomics: assessing educational exposure, confidence in knowledge and training elements of pharmacists.
-This study assessed pharmacist's knowledge and confidence in pharmacogenomics (PGx)-related concepts, and determined their needs with regard to education and training in PGx.

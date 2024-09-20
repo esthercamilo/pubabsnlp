@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jun'}
-Characterization of a complex CYP2D6 genotype that caused an AmpliChip CYP450 Test no-call in the clinical setting.
-CYP2D6, a major drug-metabolizing enzyme, is encoded by a highly polymorphic and complex gene locus. We have identified a patient who failed to produce a CYP2D6 genotype with the AmpliChip P450 Test (AmpliChip), whereas his CYP2C19 genotype was readily determined. The aim of this investigation was to fully characterize the patient's CYP2D6 gene locus to resolve the AmpliChip no-call.

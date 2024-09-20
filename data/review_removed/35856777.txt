@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Oct', 'Day': '14'}
-Pharmacogenetics-guided dalcetrapib therapy after an acute coronary syndrome: the dal-GenE trial.
-In a retrospective analysis of dal-Outcomes, the effect of dalcetrapib on cardiovascular events was influenced by an adenylate cyclase type 9 (ADCY9) gene polymorphism. The dal-GenE study was conducted to test this pharmacogenetic hypothesis.

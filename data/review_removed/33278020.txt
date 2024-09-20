@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Feb'}
-Metabolic Effects of Aripiprazole and Olanzapine Multiple-Dose Treatment in a Randomised Crossover Clinical Trial in Healthy Volunteers: Association with Pharmacogenetics.
-Aripiprazole and olanzapine are atypical antipsychotics. Both drugs can induce metabolic changes; however, the metabolic side effects produced by aripiprazole are more benign. The aim of the study was to evaluate if aripiprazole and olanzapine alter prolactin levels, lipid and glucose metabolism and hepatic, haematological, thyroid and renal function.

@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Aug'}
-Genotype-Guided Dosing of Warfarin in Chinese Adults: A Multicenter Randomized Clinical Trial.
-Warfarin is an effective treatment for thromboembolic disease but has a narrow therapeutic index; optimal anticoagulation dosage can differ tremendously among individuals. We aimed to evaluate whether genotype-guided warfarin dosing is superior to routine clinical dosing for the outcomes of interest in Chinese patients.

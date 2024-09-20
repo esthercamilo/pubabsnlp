@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul', 'Day': '04'}
-Evaluation of early fluoropyrimidine toxicity in solid organ cancer patients: a retrospective observational study in Australia.
-Despite common global usage, fluoropyrimidine (FP; 5-flurouracil and capecitabine)-related chemotherapy toxicity is poorly reported in the literature, with serious toxicity ranging from 10% to 40% and early toxicity (within 60 days of exposure) quoted at 14%. Data reflecting the incidence of Grades 3-5 FP-related toxicity in Australian cancer patients is scant, despite the significant impact of toxicity on patients (hospitalisations, intensive care unit (ICU) admissions and even death).

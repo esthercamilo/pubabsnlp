@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Nov', 'Day': '01'}
-Association Between SLC16A5 Genetic Variation and Cisplatin-Induced Ototoxic Effects in Adult Patients With Testicular Cancer.
-Cisplatin-induced ototoxic effects are an important complication that affects testicular cancer survivors as a consequence of treatment. The identification of genetic variants associated with this adverse drug reaction will further our mechanistic understanding of its development and potentially lead to strategies to prevent ototoxic effects.

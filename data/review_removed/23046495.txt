@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Oct', 'Day': '05'}
-Ranking relations between diseases, drugs and genes for a curation task.
-One of the key pieces of information which biomedical text mining systems are expected to extract from the literature are interactions among different types of biomedical entities (proteins, genes, diseases, drugs, etc.). Several large resources of curated relations between biomedical entities are currently available, such as the Pharmacogenomics Knowledge Base (PharmGKB) or the Comparative Toxicogenomics Database (CTD).Biomedical text mining systems, and in particular those which deal with the extraction of relationships among entities, could make better use of the wealth of already curated material.

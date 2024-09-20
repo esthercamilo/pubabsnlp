@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Apr'}
-Merging pharmacometabolomics with pharmacogenomics using '1000 Genomes' single-nucleotide polymorphism imputation: selective serotonin reuptake inhibitor response pharmacogenomics.
-We set out to test the hypothesis that pharmacometabolomic data could be efficiently merged with pharmacogenomic data by single-nucleotide polymorphism (SNP) imputation of metabolomic-derived pathway data on a 'scaffolding' of genome-wide association (GWAS) SNP data to broaden and accelerate 'pharmacometabolomics-informed pharmacogenomic' studies by eliminating the need for initial genotyping and by making broader SNP association testing possible.

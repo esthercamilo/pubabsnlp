@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jun'}
-Paclitaxel-induced sensory peripheral neuropathy is associated with an ABCB1 single nucleotide polymorphism and older age in Japanese.
-Whether age and inter-individual variability of pharmacogenetics are risk factors for paclitaxel-induced peripheral neuropathy (PIPN) is inconclusive. This study was conducted to evaluate the influence of previously investigated single nucleotide polymorphisms (SNPs) and age, using genotype data from a prospective study of paclitaxel-related toxicity in Japanese patients with breast cancer.

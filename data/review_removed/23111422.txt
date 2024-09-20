@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jan'}
-Pharmacogenetics-based population pharmacokinetic analysis of etravirine in HIV-1 infected individuals.
-Etravirine (ETV) is metabolized by cytochrome P450 (CYP) 3A, 2C9, and 2C19. Metabolites are glucuronidated by uridine diphosphate glucuronosyltransferases (UGT). To identify the potential impact of genetic and non-genetic factors involved in ETV metabolism, we carried out a two-step pharmacogenetics-based population pharmacokinetic study in HIV-1 infected individuals.

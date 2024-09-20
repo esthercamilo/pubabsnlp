@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'May'}
-Hematopoietic progenitor cell mobilization is more robust in healthy African American compared to Caucasian donors and is not affected by the presence of sickle cell trait.
-Granulocyte-colony-stimulating factor (G-CSF)-stimulated hematopoietic progenitor cells (HPCs) collected by apheresis have become the predominant graft source for HPC transplantation in adults. Among healthy allogeneic donors, demographic characteristics (age, sex, body mass index [BMI]) and baseline hematologic counts affect HPC mobilization, leading to variability in CD34+ apheresis yields. Racial differences in HPC mobilization are less well characterized.

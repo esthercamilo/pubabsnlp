@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Dec'}
-Clinical Evaluation of Cisplatin Sensitivity of Germline Polymorphisms in Neoadjuvant Chemotherapy for Urothelial Cancer.
-Level 1 evidence has demonstrated increased overall survival with cisplatin-based neoadjuvant chemotherapy for patients with muscle-invasive urothelial cancer. Usage remains low, however, in part because neoadjuvant chemotherapy will not be effective for every patient. To identify the patients most likely to benefit, we evaluated germline pharmacogenomic markers for association with neoadjuvant chemotherapy sensitivity in 2 large cohorts of patients with urothelial cancer.

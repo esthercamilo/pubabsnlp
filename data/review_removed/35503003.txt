@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jul', 'Day': '01'}
-Proposals for a standardized procedure of validation of DNA extraction and allelic discrimination assays in pharmacogenomics according to ISO15189 requirements.
-In the era of quality management in clinical laboratories, method validation can be a challenge without appropriate guidelines, such as in the field of pharmacogenetics. The present work describes a method validation for DNA extraction and CYP3A5*3 genotyping, which would meet ISO15189:2012 requirements.

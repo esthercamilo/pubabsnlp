@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Feb', 'Day': '02'}
-Implementation outcomes of Humanwide: integrated precision health in team-based family practice primary care.
-Humanwide was precision health embedded in primary care aiming to leverage high-tech and high-touch medicine to promote wellness, predict and prevent illness, and tailor treatment to individual medical and psychosocial needs.

@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Apr'}
-Clinical pharmacists' knowledge, attitude, perception, and beliefs about the role of pharmacogenetic testing for genes polymorphisms when prescribing mercaptopurine.
-Single nucleotide polymorphisms in the gene encoding proteins involved in mercaptopurine metabolism can influence drug efficacy and safety. This study aims to assess clinical pharmacists' knowledge about mercaptopurine-related genes and their polymorphisms and investigate their attitudes, perceptions, and beliefs about the need for and importance of pharmacogenetic testing for mercaptopurine.

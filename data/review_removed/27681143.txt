@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Feb'}
-Genetic Determinants of Clozapine-Induced Metabolic Side Effects.
-Atypical antipychotics are linked to a higher incidence of metabolic side effects, including weight gain, dyslipidemia, and diabetes. In this study, we examined the prevalence and potential genetic predictors of metabolic side effects in 60 adult patients on clozapine.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Mar'}
-The pharmacogenetics of antipsychotic-induced adverse events.
-Antipsychotic drugs are effective in alleviating a variety of symptoms and are medication of first choice in schizophrenia. However, a substantial interindividual variability in side effects often requires a lengthy 'trial-and-error' approach until the right medication is found for the right patient. Genetic factors have long been hypothesized to be involved and identification of related gene variants could be used to predict and tailor drug treatment.

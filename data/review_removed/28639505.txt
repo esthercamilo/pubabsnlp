@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jul'}
-Rationale and design of the multiethnic Pharmacogenomics in Childhood Asthma consortium.
-International collaboration is needed to enable large-scale pharmacogenomics studies in childhood asthma. Here, we describe the design of the Pharmacogenomics in Childhood Asthma (PiCA) consortium.

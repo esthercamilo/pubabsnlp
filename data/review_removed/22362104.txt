@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Feb', 'Day': '24'}
-Mapping out hippocampal inhibition.
-A synthesis of opto- and pharmacogenetics is beginning to reveal how various interneuron types direct incoming traffic in the hippocampus to help create a map of the environment.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Feb'}
-The value of routine pharmacogenomic screening-Are we there yet? A perspective on the costs and benefits of routine screening-shouldn't everyone have this done?
-Although there are several examples in which pharmacogenomic testing seems to provide clinical and economic value, use of pharmacogenomics as a tool to improve drug therapy through routine screening of unselected patients is currently tentative. An informal evaluation of the clinical benefits and economic costs of pharmacogenomic screening suggests that improving the evidence base, addressing uncertainty, and facilitating implementation can lead to practical and cost-effective pharmacogenomic screening programs.

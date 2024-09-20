@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Apr', 'Day': '01'}
-Attitudes of health care professionals toward pharmacogenetic testing.
-Pharmacogenetics has emerged as a new tool for the optimization of drug therapy. Although the pharmacogenetics concept was first recognized at least 50 years ago, clinical testing to determine pharmacogenetic traits is still relatively rare, and many hurdles are markedly slowing its development. There is a lot of literature and speculation about potential ethical challenges in genetic and pharmacogenetic testing, yet few researchers have actually examined the attitudes of health care professionals regarding the clinical application of these tests.

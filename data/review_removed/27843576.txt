@@ -1,3 +1,0 @@
-{'Year': '2016'}
-MicroRNAs interfere with DNA methylation in rheumatoid arthritis synovial fibroblasts.
-The DNA of rheumatoid arthritis synovial fibroblasts (RASF) is globally hypomethylated; this contributes to an aggressive behaviour. In an attempt to remethylate these cells, we supplemented with methyl donors. We investigated the possible interference of microRNAs (miRs).

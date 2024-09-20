@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jun'}
-Rs495828 polymorphism of the ABO gene is a predictor of enalapril-induced cough in Chinese patients with essential hypertension.
-ABO genetic polymorphisms have recently been associated with angiotensin-converting enzyme (ACE) activity and inflammation, which play a critical role in the pathogenic mechanism of ACE inhibitor-induced cough. Therefore, the current study determined the association of ABO genetic polymorphisms with enalapril-induced cough in Chinese patients with essential hypertension.

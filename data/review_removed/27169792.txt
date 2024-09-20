@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jul'}
-Everolimus pharmacokinetics and its exposure-toxicity relationship in patients with thyroid cancer.
-Everolimus is a mTOR inhibitor used for the treatment of different solid malignancies. Many patients treated with the registered fixed 10 mg dose once daily are in need of dose interruptions, reductions or treatment discontinuation due to severe adverse events. This study determined the correlation between systemic everolimus exposure and toxicity. Additionally, the effect of different covariates on everolimus pharmacokinetics (PK) was explored.

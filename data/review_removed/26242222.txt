@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Nov'}
-Pharmacokinetics and pharmacogenetics of capecitabine and its metabolites following replicate administration of two 500 mg tablet formulations.
-To describe concentration versus time profiles of capecitabine and its metabolites 5'-DFUR, 5'-DFCR and 5-FU, depending on tablet formulation and on frequent and/or relevant genetic polymorphisms of cytidine deaminase, dihydropyrimidine dehydrogenase, thymidylate synthase and methylenetetrahydrofolate reductase (MTHFR).

@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Apr'}
-Genetic association of the rs17782313 polymorphism with antipsychotic-induced weight gain.
-Weight gain is a frequent side effect of treatment with SGAs (second-generation antipsychotics) and a leading cause for nonadherence. Several candidate genes have been identified that could influence the amount of AIWG (antipsychotic-induced weight gain). The polymorphism rs17782313 near the MC4R (human melanocortin 4 receptor gene) was strongly associated with obesity in a large scale GWAS (genome wide association study), yet previous studies investigating its impact on AIWG did not lead to a definite conclusion regarding its effect. In particular, they were all relatively short and had a naturalistic design.

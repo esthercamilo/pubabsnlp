@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'May'}
-Assessment of a pharmacogenomic marker panel in a polypharmacy population identified from electronic medical records.
-The ADME Core Panel assays 184 variants across 34 pharmacogenes, many of which are difficult to accurately genotype with standard multiplexing methods.

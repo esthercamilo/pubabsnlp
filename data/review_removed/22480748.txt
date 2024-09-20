@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Dec'}
-Effects of polymorphisms in TRAILR1 and TNFR1A on the response to anti-TNF therapies in patients with rheumatoid and psoriatic arthritis.
-As the role of polymorphisms in death receptors (DRs) such as Tumor Necrosis Factor-related Apoptosis-inducing Ligand Receptor 1 (TRAIL-R1) and Tumor Necrosis Factor Receptor 1A (TNF-R1A) on the response to anti-TNF therapy remains unknown, we evaluated the association between TRAILR1 and TNFR1A gene polymorphisms (rs20575/C626G and rs767455/G36A) and the pharmacogenetics of patients with rheumatoid arthritis (RA) and psoriatic arthritis (PsA) treated with TNFα blockers.

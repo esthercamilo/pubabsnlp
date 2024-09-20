@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Nov'}
-Report of Confirmation of the rs7853758 and rs885004 Haplotype in SLC28A3.
-To validate a laboratory-developed test for the nucleoside transporter, SLC28A3, which has been associated with an increased risk of anthracycline-induced cardiomyopathy.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'May'}
-[Pharmacogenomics study of 620 whole-exome sequencing: focusing on aspirin application].
-To investigate the allele frequencies of aspirin-response-related variants in different population.

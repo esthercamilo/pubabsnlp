@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Oct'}
-Participation in Cancer Pharmacogenomic Studies: A Study of 8456 Patients Registered to Clinical Trials in the Cancer and Leukemia Group B (Alliance).
-Clinically annotated specimens from cancer clinical trial participants offer an opportunity for discovery and validation of pharmacogenomic findings. The purpose of this observational study is to better understand patient/institution factors that may contribute to participation in the pharmacogenomic component of prospective cancer clinical trials.

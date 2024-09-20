@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Sep', 'Day': '02'}
-The Future of Pharmacogenomics Requires New Discoveries and Innovative Education.
-Since the beginning of pharmacology, several variations in responses to drugs have been recorded [...].

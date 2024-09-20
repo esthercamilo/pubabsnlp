@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Dec'}
-Outcome definitions and clinical predictors influence pharmacogenetic associations between HTR3A gene polymorphisms and response to clozapine in patients with schizophrenia.
-Pharmacogenetics of schizophrenia has not yet delivered anticipated clinical dividends. Clinical heterogeneity of schizophrenia contributes to the poor replication of the findings of pharmacogenetic association studies. Functionally important HTR3A gene single-nucleotide polymorphisms (SNPs) were reported to be associated with response to clozapine.

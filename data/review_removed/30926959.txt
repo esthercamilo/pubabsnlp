@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Oct'}
-Challenges and lessons learned from clinical pharmacogenetic implementation of multiple gene-drug pairs across ambulatory care settings.
-Incorporating a patient's genotype into the clinical decision-making process is one approach to precision medicine. The University of Florida (UF) Health Precision Medicine Program is a pharmacist-led multidisciplinary effort that has led the clinical implementation of six gene-drug(s) pairs to date. This study focuses on the challenges encountered and lessons learned with implementing pharmacogenetic testing for three of these: CYP2D6-opioids, CYP2D6/CYP2C19-selective serotonin reuptake inhibitors, and CYP2C19-proton pump inhibitors within six pragmatic clinical trials at UF Health and partners.

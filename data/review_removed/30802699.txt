@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Apr', 'Day': '15'}
-Moving pharmacoepigenetics tools for depression toward clinical use.
-Major depressive disorder (MDD) is a leading cause of disability worldwide, and over half of patients do not achieve symptom remission following an initial antidepressant course. Despite evidence implicating a strong genetic basis for the pathophysiology of MDD, there are no adequately validated biomarkers of treatment response routinely used in clinical practice. Pharmacoepigenetics is an emerging field that has the potential to combine both genetic and environmental information into treatment selection and further the goal of precision psychiatry. However, this field is in its infancy compared to the more established pharmacogenetics approaches.

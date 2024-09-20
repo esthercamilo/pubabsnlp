@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jul'}
-Genetics-based pediatric warfarin dosage regimen derived using pharmacometric bridging.
-Warfarin dosage regimens using CYP2C9 and VKORC1 polymorphisms have been extensively studied in adults and is included in US Food and Drug Administration-approved warfarin labeling. However, no dosage algorithm is available for pediatric patients.

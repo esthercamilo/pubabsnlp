@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Feb', 'Day': '07'}
-Role of pharmacogenetics in rifampicin pharmacokinetics and the potential effect on TB-rifampicin sensitivity among Ugandan patients.
-Suboptimal anti-TB drugs exposure may cause multidrug-resistant TB. The role of African predominant SLCO1B1 variant alleles on rifampicin pharmacokinetics and the subsequent effect on the occurrence of Mycobacterium tuberculosis-rifampicin sensitivity needs to be defined. We describe the rifampicin population pharmacokinetics profile and investigate the relevance of SLCO1B1 genotypes to rifampicin pharmacokinetics and rifampicin-TB sensitivity status.

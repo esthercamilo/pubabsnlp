@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Oct'}
-The rheumatoid arthritis susceptibility polymorphism PTPN22 C1858T is not associated with leflunomide response or toxicity.
-A common polymorphism (C1858T) in the gene that encodes the protein tyrosine phosphatase non-receptor type 22 (PTPN22) is associated with altered T-cell responses and increased susceptibility to rheumatoid arthritis (RA) and other autoimmune diseases. Teriflunomide, the active metabolite of leflunomide, reduces T-cell responses through inhibition of tyrosine kinase p56LCK. We examined a potential association between PTPN22 genotype and response or toxicity to leflunomide in Caucasian RA patients taking leflunomide in combination with other disease-modifying antirheumatic drugs (DMARDs).

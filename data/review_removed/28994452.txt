@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Apr'}
-Comparison of the Guidelines of the Clinical Pharmacogenetics Implementation Consortium and the Dutch Pharmacogenetics Working Group.
-Both the Clinical Pharmacogenetics Implementation Consortium (CPIC) and Dutch Pharmacogenetics Working Group provide therapeutic recommendations for well-known gene-drug pairs. Published recommendations show a high rate of concordance. However, as a result of different guideline development methods used by these two consortia, differences between the published guidelines exist. The aim of this paper is to compare both initiatives and explore these differences, with the objective to achieve harmonization.

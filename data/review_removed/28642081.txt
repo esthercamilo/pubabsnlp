@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Oct', 'Day': '03'}
-Tetrahydrocannabinol (THC) impairs encoding but not retrieval of verbal information.
-Cannabis and agonists of the brain cannabinoid receptor (CB<sub>1</sub>R) produce acute memory impairments in humans. However, the extent to which cannabinoids impair the component processes of encoding and retrieval has not been established in humans. The objective of this analysis was to determine whether the administration of Δ<sup>9</sup>-Tetrahydrocannabinol (THC), the principal psychoactive constituent of cannabis, impairs encoding and/or retrieval of verbal information.

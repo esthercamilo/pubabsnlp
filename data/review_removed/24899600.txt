@@ -1,3 +1,0 @@
-{'Year': '2014'}
-Pharmacokinetic of four probe drugs in adriamycin-induced nephropathy rat.
-Probe drugs have been widely used to assess the activities of various CYP450 (cytochromes P450) isoenzymes in many fields of drug metabolism and pharmacogenetics. The nephrotic syndrome characterized by massive proteinuria and hypoproteinemia, whether that would influence the pharmacokinetics of probe drugs or not is still unclear. The purpose of the study was to investigate the pharmacokinetic of four probe drugs in adriamycin (ADR)-induced nephropathy rat.

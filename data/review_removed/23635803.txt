@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jul'}
-ANKK1 and DRD2 pharmacogenetics of disulfiram treatment for cocaine abuse.
-Disulfiram is a potential cocaine addiction pharmacotherapy. Since dopamine deficiency has been found with cocaine addiction, our objective was to examine whether functional variants in the ankyrin repeat and kinase domain-containing 1 (ANKK1) and/or the dopamine receptor D2 (DRD2) genes interact with response to treatment with disulfiram.

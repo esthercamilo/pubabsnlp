@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Association of SCN1A, SCN2A, and UGT2B7 Polymorphisms with Responsiveness to Valproic Acid in the Treatment of Epilepsy.
-The efficacy of valproic acid (VPA) varies widely in clinical treatment of epileptic patients. Our study is aimed at exploring a potential association between polymorphisms of SCN1A, SCN2A, and UGT2B7 genetic factors and VPA responses.

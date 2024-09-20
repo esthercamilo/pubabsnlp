@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Pharmacogenetic Warfarin Dosing Algorithms: Validity in Egyptian Patients.
-Data from previous reports, addressing the significance of genotype-guided dosing of warfarin in Egyptian patients, are infrequent and controversial. This study is aimed at demonstrating the validity of genetic dosing algorithms in Egyptian patients on warfarin therapy.

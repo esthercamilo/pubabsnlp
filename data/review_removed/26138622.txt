@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Nov'}
-Pharmacogenetic testing prior to carbamazepine treatment of epilepsy: patients' and physicians' preferences for testing and service delivery.
-Pharmacogenetic studies have identified the presence of the HLA-A*31:01 allele as a predictor of cutaneous adverse drugs reactions (ADRs) to carbamazepine. This study aimed to ascertain the preferences of patients and clinicians to inform carbamazepine pharmacogenetic testing services.

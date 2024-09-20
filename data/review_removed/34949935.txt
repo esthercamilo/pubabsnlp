@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Genetic Polymorphisms of Very Important Pharmacogene Variants in the Blang Population from Yunnan Province in China.
-We aimed to enrich the pharmacogenomic information of a Blang population (BP) from Yunnan Province in China.

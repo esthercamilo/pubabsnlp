@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'May'}
-Clinical Pharmacogenetics Implementation Consortium Guideline for Thiopurine Dosing Based on TPMT and NUDT15 Genotypes: 2018 Update.
-Thiopurine methyltransferase (TPMT) activity exhibits a monogenic codominant inheritance and catabolizes thiopurines. TPMT variant alleles are associated with low enzyme activity and pronounced pharmacologic effects of thiopurines. Loss-of-function alleles in the NUDT15 gene are common in Asians and Hispanics and reduce the degradation of active thiopurine nucleotide metabolites, also predisposing to myelosuppression. We provide recommendations for adjusting starting doses of azathioprine, mercaptopurine, and thioguanine based on TPMT and NUDT15 genotypes (updates on www.cpicpgx.org).

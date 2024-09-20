@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Aug', 'Day': '30'}
-CYP3A4∗18B and CYP3A5∗3 polymorphisms contribute to pharmacokinetic variability of cyclosporine among healthy Chinese subjects.
-Cyclosporine is an immunosuppressant drug used to prevent allograft rejection. It is metabolized by CYP3A4 and CYP3A5, has a narrow therapeutic index, and variable pharmacokinetics. Here, we investigated whether CYP3A5∗3 and CYP3A4∗18B polymorphisms contribute to inter-individual pharmacokinetic variability in healthy subjects.

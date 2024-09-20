@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Nov', 'Day': '22'}
-Using the PharmCAT tool for Pharmacogenetic clinical decision support.
-Here, we will provide our insights into the usage of PharmCAT as part of a pharmacogenetic clinical decision support pipeline, which addresses the challenges in mapping clinical dosing guidelines to variants to be extracted from genetic datasets. After a general outline of pharmacogenetics, we describe some features of PharmCAT and how we integrated it into a pharmacogenetic clinical decision support system within a clinical information system. We conclude with promising developments regarding future PharmCAT releases.

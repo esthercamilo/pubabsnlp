@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Mar', 'Day': '28'}
-Thiopurine metabolites variations during co-treatment with aminosalicylates for inflammatory bowel disease: effect of N-acetyl transferase polymorphisms.
-To evaluate variation of the concentration of thiopurine metabolites after 5-aminosalicylate (5-ASA) interruption and the role of genetic polymorphisms of N-acetyl transferase (NAT) 1 and 2.

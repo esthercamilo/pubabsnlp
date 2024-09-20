@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Apr'}
-Clinical effects and tolerability of high-dose, high-frequency recombinant interferon beta-1a in patients with multiple sclerosis: maximizing therapy through long-term adherence.
-High-dose, high-frequency IFN beta-1a in multiple sclerosis (MS) can prevent lesion formation, decrease the frequency/severity of relapses and delay progression of disability, with a proven safety profile. Rates of non-adherence are high. There are drugs under investigation that may have greater efficacy and different safety profiles from existing therapies.

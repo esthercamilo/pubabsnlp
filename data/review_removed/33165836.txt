@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Nov', 'Day': '09'}
-Correction to: Abstracts of 48th ESCP symposium on clinical pharmacy 23-25 October 2019, Ljubljana (Slovenia) : The digital revolution supporting clinical pharmacy through e-health, digital support systems, big data, and more.
-In the original publication of this article, the Abstract "CP-CE002 An online approach to enhance awareness on pharmacogenetics among pharmacists and physicians" has been missing. The missing abstract is given below.

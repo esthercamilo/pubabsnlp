@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Sep'}
-Drug-gene interactions: inherent variability in drug maintenance dose requirements.
-The influence of genetics on pharmacokinetics can introduce variability among individual patients that may cause treatment failure, toxicity, or both. Such variability, specifically in clearance rates, can influence drug maintenance dosing regimens.

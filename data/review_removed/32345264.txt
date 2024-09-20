@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Apr', 'Day': '28'}
-Variants in clopidogrel-relevant genes and early neurological deterioration in ischemic stroke patients receiving clopidogrel.
-Early neurological deterioration (END) is common in acute ischemic stroke (IS). However, the underlying mechanisms for END are unclear. The aim of this study was to evaluate the associations of 16 variants in clopidogrel-relevant genes and interactions among these variants with END in acute IS patients receiving clopidogrel treatment.

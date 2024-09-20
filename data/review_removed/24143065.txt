@@ -1,3 +1,0 @@
-{'Year': '2013'}
-A pharmacogenetics study to predict outcome in patients receiving anti-VEGF therapy in age related macular degeneration.
-To ascertain whether single nucleotide polymorphisms (SNPs) in the Vascular Endothelial Growth factor (VEGFA), Complement Factor H (CFH), and LOC387715 genes could predict outcome to anti-VEGF therapy for patients with age related macular degeneration (AMD).

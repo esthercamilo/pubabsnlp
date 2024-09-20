@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jun', 'Day': '15'}
-Inflammatory phenotypes underlying uncontrolled childhood asthma despite inhaled corticosteroid treatment: rationale and design of the PACMAN2 study.
-The diagnosis of childhood asthma covers a broad spectrum of pathological mechanisms that can lead to similarly presenting clinical symptoms, but may nonetheless require different treatment approaches. Distinct underlying inflammatory patterns are thought to influence responsiveness to standard asthma medication.

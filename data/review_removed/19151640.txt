@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Feb'}
-The increasing complexity of mercaptopurine pharmacogenomics.
-Thiopurine methyltransferase (TPMT) activity shows significant interindividual variation, with approximately 90% of individuals having high (wild-type) activity, 10% with intermediate activity, and 0.3% with low activity. Low and intermediate TPMT activity leads to toxicity from mercaptopurine and the need for dose reduction. Common variants in the TPMT gene have a strong association with mercaptopurine toxicity. However, recent research has shown that genetic contribution to mercaptopurine toxicity is more complex, possibly involving other genes, in particular ITPA, which encodes inosine triphosphate pyrophosphatase.

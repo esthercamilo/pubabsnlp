@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Nov', 'Day': '01'}
-Flavopiridol pharmacogenetics: clinical and functional evidence for the role of SLCO1B1/OATP1B1 in flavopiridol disposition.
-Flavopiridol is a cyclin-dependent kinase inhibitor in phase II clinical development for treatment of various forms of cancer. When administered with a pharmacokinetically (PK)-directed dosing schedule, flavopiridol exhibited striking activity in patients with refractory chronic lymphocytic leukemia. This study aimed to evaluate pharmacogenetic factors associated with inter-individual variability in pharmacokinetics and outcomes associated with flavopiridol therapy.

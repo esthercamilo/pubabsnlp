@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun', 'Day': '27'}
-Effect of the African-specific promoter polymorphisms on the SLC22A2 gene expression levels.
-Single nucleotide polymorphisms in promoter regions have been shown to alter the transcription of genes. Thus, SNPs in SLC22A2 can result in inter-individual variable response to medication.

@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Jul', 'Day': '07'}
-Pilot Study: Personalized Medicine in Endoscopy, Can Pharmacogenomics Predict Response to Conscious Sedation?
-Adequate response to moderate (conscious) sedation varies significantly between individuals. Polymorphisms in genes encoding drug metabolizing enzymes can lead to inter-individual variability in drug efficacy, potentially influencing sedation requirements during endoscopic procedures.

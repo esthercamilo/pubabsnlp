@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Intracellular and Plasma Trough Concentration and Pharmacogenetics of Telaprevir.
-Triple therapy for HCV-1 infection consists in boceprevir or telaprevir, ribavirin and PEG-interferon. Telaprevir is a P-glycoprotein substrate and it is metabolized by CYP3A4/5. No data have been published on intracellular penetration of telaprevir. We determined peripheral blood mononuclear cells (PBMCs) and trough plasma S and R telaprevir isomers concentrations; moreover, we evaluated the influence of some single nucleotide polymorphisms (SNPs) on these pharmacokinetic data after 1 month of triple therapy in humans.

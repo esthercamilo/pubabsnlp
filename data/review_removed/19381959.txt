@@ -1,3 +1,0 @@
-{'Year': '2009'}
-Pharmacogenomics.
-Pharmacogenomics encompasses several major areas including the identification and analysis of variations of DNA and RNA that affect the efficacy and toxicity of drug therapy. It represents an integration of analytical approaches including DNA and RNA detection and quantitation which may be applied to either candidate genes or a global genome analysis.

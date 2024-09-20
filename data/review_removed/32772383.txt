@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Oct'}
-Opioid and Dopamine Genes Interact to Predict Naltrexone Response in a Randomized Alcohol Use Disorder Clinical Trial.
-While the opiate antagonist, naltrexone, is approved for treating alcohol use disorder (AUD), not everyone who receives the medication benefits from it. This study evaluated whether the OPRM1 SNP rs1799971 interacts with the dopamine transporter gene DAT1/SLC6A3 VNTR rs28363170 or the catechol-O-methyltransferase (COMT) gene SNP rs4680 in predicting naltrexone response.

@@ -1,6 +1,6 @@
 biopython==1.83
-spacy==3.7.5
 example==0.1.0
 scikit-learn==1.5
 transformers==4.44.2
 bioc
+scispacy

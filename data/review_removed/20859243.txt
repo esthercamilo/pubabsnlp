@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Nov'}
-Role of organic cation transporter 3 (SLC22A3) and its missense variants in the pharmacologic action of metformin.
-The goals of this study were to determine the role of organic cation transporter 3 (OCT3) in the pharmacological action of metformin and to identify and functionally characterize genetic variants of OCT3 with respect to the uptake of metformin and monoamines.

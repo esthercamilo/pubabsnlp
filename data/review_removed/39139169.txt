@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jun', 'Day': '15'}
-Can pharmacogenetics impact the therapeutic effect of cytarabine and anthracyclines in adult acute myeloid leukaemia patients?: A Serbian experience.
-Cytarabine-anthracycline-based induction chemotherapy remains the standard of care for remission induction among patients with newly diagnosed acute myeloid leukaemia (AML). There are remarkable differences in therapy response among AML patients. This fact could be partly explained by the patients' genetic variability related to the metabolic paths of cytarabine and anthracyclines. This study aims to evaluate the effect of variants in pharmacogenes SLC29A1, DCK, ABCB1, GSTM1, and GSTT1, as well as laboratory and AML-related parameters on clinical outcomes in adult AML patients.

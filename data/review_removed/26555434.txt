@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Nov'}
-Prevalence of pain-related single nucleotide polymorphisms in patients of African origin with sickle cell disease.
-Prospective pain genetics research is hindered by a lack of data on the prevalence of polymorphisms in pain-relevant genes for patients with sickle cell disease (SCD). For African-Americans in general, limited information is available in public databases.

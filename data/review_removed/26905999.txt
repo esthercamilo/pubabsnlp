@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-Significant effect of age on docetaxel pharmacokinetics in Japanese female breast cancer patients by using the population modeling approach.
-Docetaxel is frequently used in the treatment of a wide variety of solid tumors, including breast cancer. The aim of this study is to obtain the population pharmacokinetic parameters of docetaxel in Japanese female patients with breast cancer.

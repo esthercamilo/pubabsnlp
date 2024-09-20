@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Oct'}
-Genetics of obsessive-compulsive disorder.
-Obsessive-compulsive disorder (OCD) is a psychiatric disorder with multiple symptom dimensions (e.g. contamination, symmetry). OCD clusters in families and decades of twin studies clearly demonstrate an important role for genetics in the etiology of the disorder.

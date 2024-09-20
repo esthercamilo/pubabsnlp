@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jul', 'Day': '01'}
-The Impact of Mass Spectrometry on Patients' Medical and Nonmedical Lives.
-The various forms of mass spectrometry (MS) instrumentation have had a major impact on testing for analytes performed with clinical and forensic laboratories over the past decade. Improvements in MS instrumentation have led to the use of MS in many areas.

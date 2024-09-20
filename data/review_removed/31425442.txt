@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Apr'}
-Therapeutic Drug Monitoring of Olanzapine and Cytochrome P450 Genotyping in Nonsmoking Subjects.
-The relationship between a daily dose of olanzapine, its serum concentration, and the genotype of young nonsmoking men treated for schizophrenia or schizophreniform disorder was investigated in day-to-day clinical practice. Pharmacogenetics was also examined for the selected patients.

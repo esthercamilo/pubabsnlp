@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'May'}
-Correlation between pharmacokinetics and pharmacogenetics of Selective Serotonin Reuptake Inhibitors and Selective Serotonin and Noradrenaline Reuptake Inhibitors and maternal and neonatal outcomes: Results from a naturalistic study in patients with affective disorders.
-Some studies have linked the use of selective serotonin reuptake inhibitors and selective serotonin and noradrenaline reuptake inhibitors (SSRIs/SNRIs) to the risk of perinatal complications. This study explored the relationship between pharmacokinetics and pharmacogenetics, SSRIs/SNRIs tolerability and effectiveness and maternal and newborn outcomes.

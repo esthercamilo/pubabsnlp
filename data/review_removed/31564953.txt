@@ -1,3 +1,0 @@
-{'Year': '2019'}
-Genetic polymorphisms of CYP3A5, CHRM2, and ZNF498 and their association with epilepsy susceptibility: a pharmacogenetic and case-control study.
-A total of 50 million persons were diagnosed worldwide with epilepsy. One-third of them are experiencing debilitating seizures despite optimum anti-epileptic drugs (AEDs) treatment. Several studies have suggested that CYP3A5, CHRM2, and ZNF498 influence the pharmacokinetics of AEDs. Therefore, the severity of the disease as well as the degree of response to the AEDs could be affected by the genetic polymorphisms within these genes.

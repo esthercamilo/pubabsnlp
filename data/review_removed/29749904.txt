@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Mar'}
-Physicians' attitudes toward pharmacogenetic testing before and after pharmacogenetic education.
-Our aim was to evaluate physicians' attitudes toward pharmacogenetic testing before and after pharmacogenetic education.

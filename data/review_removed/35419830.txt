@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Sep'}
-Impact of pre-emptive rapid testing for glucose-6-phosphate dehydrogenase deficiency prior to rasburicase administration at a tertiary care centre: A retrospective study.
-Glucose-6-phosphate dehydrogenase (G6PD) deficiency, the most common enzymopathy in humans, can cause acute haemolysis resulting from exposure to certain medications, chemicals, infections and fava beans. Rasburicase, used to manage elevated uric acid levels in the oncologic emergency of tumour lysis syndrome, is one such drug. The US Food and Drug Administration (FDA) recommends testing of G6PD status prior to rasburicase administration for patients at higher risk for G6PD deficiency.

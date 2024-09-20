@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jun'}
-Exemestane may be less detrimental than letrozole to bone health in women homozygous for the UGT2B17*2 gene deletion.
-UGT2B17 gene deletion (UGT2B17*2) has been reported to affect bone health as well as the pharmacokinetics of aromatase inhibitor (AI) drugs such as exemestane. The goal of this study was to assess associations between UGT2B17 gene deletion and bone health prior to and after 24 months of AI treatment in postmenopausal women with hormone receptor positive (HR+) breast cancer.

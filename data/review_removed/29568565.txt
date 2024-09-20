@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Mar'}
-Evaluation of <i>CYP2C9</i>- and <i>VKORC1</i>-based pharmacogenetic algorithm for warfarin dose in Gaza-Palestine.
-To evaluate applicability of <i>CYP2C9*2</i>, <i>*3</i> and <i>VKORC1-1639G > A</i> based algorithm to predict warfarin stable dose (WSD) in a group of Palestinian patients.

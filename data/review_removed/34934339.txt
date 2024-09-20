@@ -1,3 +1,0 @@
-{'Year': '2021'}
-The Landscape of Clinical Implementation of Pharmacogenetic Testing in Central China: A Single-Center Study.
-Pharmacogenetic testing is recognized as the major method for the individualized pharmacotherapy in clinical pharmacy practice, but information about the clinical implementation of pharmacogenetic testing in China is limited. The present study aimed to determine the situation of clinical implementation for pharmacogenetic testing in central China.

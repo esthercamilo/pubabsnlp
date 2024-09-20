@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Nov'}
-Genomewide Association Studies in Pharmacogenomics: Meeting Report of the NIH Pharmacogenomics Research Network-RIKEN (PGRN-RIKEN) Collaboration.
-Genomewide association studies (GWAS) have resulted in the identification of many heritable genetic factors that underlie risk for human disease or variation in physiologic traits. In contrast, there are fewer GWAS of drug response phenotypes, despite extensive unexplained interindividual variability. To address this urgent need, the NIH Pharmacogenomics Research Network (PGRN) and the Center for Integrative Medical Sciences (IMS) at RIKEN support a collaboration, PGRN-RIKEN, with the goal of accelerating GWAS of drug response phenotypes.

@@ -1,3 +1,0 @@
-{'Year': '2024', 'Season': 'Mar-Apr'}
-Tools for a personalized tacrolimus dose adjustment in the follow-up of renal transplant recipients. Metabolizing phenotype according to CYP3A genetic polymorphisms versus concentration-dose ratio.
-The strategy of the concentration-dose (C/D) approach and the different profiles of tacrolimus (Tac) according to the cytochrome P450 polymorphisms (CYPs) focus on the metabolism of Tac and are proposed as tools for the follow-up of transplant patients. The objective of this study is to analyse both strategies to confirm whether the stratification of patients according to the pharmacokinetic behaviour of C/D corresponds to the classification according to their CYP3A4/5 cluster metabolizer profile.

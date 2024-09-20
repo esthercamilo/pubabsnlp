@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Dec'}
-Public perceptions of pharmacogenomic services in Ireland - Are people with chronic disease more likely to want service availability than those without? A questionnaire study.
-As pharmacogenomic services begin to emerge in primary care, the insight of the public is crucial for its integration into clinical practice.

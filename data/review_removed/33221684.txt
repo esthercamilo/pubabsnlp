@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jan'}
-Establishment and application of a predictive model for gefitinib-induced severe rash based on pharmacometabolomic profiling and polymorphisms of transporters in non-small cell lung cancer.
-Rash is a well-known predictor of survival for patients with gefitinib therapy with non-small cell lung cancer (NSCLC). However, whether patients with more severe rash obtain the more survival benefits from gefitinib is still unknown, and predicted model for severe rash is needed.

@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Jul', 'Day': '25'}
-An alternative consideration in drug testing in elite athletes.
-As vigilance increases for drug abuse in sport there is an increasing awareness of new technologies creating new possibilities of performance enhancement. One such example is the recent consideration of 'gene doping', which may enhance athletic performance. In this article we consider an alternative strategy not yet considered; the potential for a pharmacogenomics approach and the utility of information at the level of the protein rather than the gene.

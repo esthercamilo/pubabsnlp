@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Feb'}
-Response to sertraline is influenced by GNβ3 gene G-350A variant in patients with major depressive disorder.
-Heterotrimeric guanine nucleotide-binding proteins (G proteins) are a major group of human genome membrane protein receptors. Genetic variation in the β3 subunit (GNβ3) associated with gene splicing and increased activity is associated with major depressive disorder (MDD). However, the effect of G-350A GNβ3 genetic polymorphism and therapeutic outcome of selective serotonin reuptake inhibitors (SSRIs) in MDD has not yet been studied.

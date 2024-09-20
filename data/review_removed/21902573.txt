@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Sep', 'Day': '09'}
-Simultaneous determination of cyclophosphamide and 4-hydroxycyclophosphamide in human plasma by high-performance liquid chromatography coupled with electrospray ionization tandem mass spectrometry - application to Chinese systemic lupus erythematosus patients.
-A pharmacogenomics study of cyclophosphamide in systemic lupus erythematosus patients is being conducted in our laboratory in which the plasma concentrations of cyclophosphamide and its active metabolite 4-hydroxycyclophosphamide should be assayed rapidly and sensitively.

@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Feb'}
-Association between gene polymorphism and adverse effects in cancer patients receiving docetaxel treatment: a meta-analysis.
-Large interindividual variability in the pharmacokinetic properties of docetaxel has been reported, with the clearance of docetaxel varying nearly six fold, in which pharmacogenetics of docetaxel may play an essential role in addition to physiological factors. The association between the gene polymorphism and risk of adverse clinical effects in docetaxel treated patients has been examined in several studies, but their conclusions are, to some extent, controversial. To clarify the role of gene polymorphism in the clinical outcomes of docetaxel treatment, a meta-analysis was performed in the present study.

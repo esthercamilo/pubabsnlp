@@ -1,3 +1,0 @@
-{'Year': '2015', 'Season': 'Apr-Jun'}
-Pharmacogenetics aspects of oral anticoagulants therapy.
-Vitamin K antagonists (VKA), such as warfarin and acenocoumarol, are widely used for the prevention and treatment of thromboembolic diseases and they are some of the most commonly prescribed types of medications. They are characterized by narrow therapeutic indices and inter-individual or intra-individual variability in response to the treatment.

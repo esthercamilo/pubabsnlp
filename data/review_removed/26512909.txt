@@ -1,3 +1,0 @@
-{'Year': '2015'}
-An update on chemotherapy for osteosarcoma.
-In the early seventies chemotherapy significantly improved survival in osteosarcoma. Since then minor innovations have occurred although recent years have offered insights of clinical and scientific relevance.

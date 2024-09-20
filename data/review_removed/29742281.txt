@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jul', 'Day': '15'}
-Analyzing the clinical actionability of germline pharmacogenomic findings in oncology.
-Germline and tumor pharmacogenomics impact drug responses, but germline markers less commonly guide oncology prescribing. The authors hypothesized that a critical number of clinically actionable germline pharmacogenomic associations exist, representing clinical implementation opportunities.

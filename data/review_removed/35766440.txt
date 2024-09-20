@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Aug'}
-Rapid detection of the irinotecan-related UGT1A1*28 polymorphism by asymmetric PCR melting curve analysis using one fluorescent probe.
-Determination of UGT1A1 (TA)<sub>n</sub> polymorphism prior to irinotecan therapy is necessary to avoid severe adverse drug effects. Thus, accurate and reliable genotyping methods for (TA)<sub>n</sub> polymorphism are highly desired. Here, we present a new method for polymerase chain reaction (PCR) melting curve analysis using one fluorescent probe to discriminate the UGT1A1*1 [(TA)<sub>6</sub> ] and *28 [(TA)<sub>7</sub> ] genotypes.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jul'}
-The pharmacogenetics of body odor: as easy as ABCC?
-ABCC11 genotype affects apocrine secretory cell function and determines individual body odor phenotype. Rodriguez et al. have applied genetic epidemiology using predetermined phenotype data to demonstrate an association between a single-nucleotide polymorphism (rs17822931) and the human behavior of deodorant application. Individuals with the ABCC11 genotype predicting a nonodorous phenotype report a significantly lower frequency of deodorant use.

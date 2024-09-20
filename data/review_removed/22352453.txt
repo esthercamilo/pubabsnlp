@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Feb', 'Day': '01'}
-Pharmacogenomics of codeine, morphine, and morphine-6-glucuronide: model-based analysis of the influence of CYP2D6 activity, UGT2B7 activity, renal impairment, and CYP3A4 inhibition.
-The analgesic effect of codeine depends on the formation of the opioid metabolites morphine and morphine-6-glucuronide. Different factors have been shown or suspected to affect the safety and efficacy of codeine treatment. The objective of the current study is to assess and quantify the impact of important pharmacokinetic factors, using a mechanistic modeling approach.

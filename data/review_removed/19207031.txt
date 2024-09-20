@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Feb'}
-Growth hormone dose in growth hormone-deficient adults is not associated with IGF-1 gene polymorphisms.
-Several SNPs and a microsatellite cytosine-adenine repeat promoter polymorphism of the IGF-1 gene have been reported to be associated with circulating IGF-1 serum concentrations. Variance in IGF-1 concentrations due to genetic variations may affect different response to growth hormone (GH) treatment, resulting in different individually required GH-doses in GH-deficient patients. The aim of this study was to test if the IGF-1 gene polymorphisms are associated with the GH-dose of GH-deficient adults.

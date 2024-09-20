@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Apr'}
-Is diabetes mellitus-linked amino acid signature associated with β-blocker-induced impaired fasting glucose?
-The 5-amino acid (AA) signature, including isoleucine, leucine, valine, tyrosine, and phenylalanine, has been associated with incident diabetes mellitus and insulin resistance. We investigated whether this same AA signature, single-nucleotide polymorphisms in genes in their catabolic pathway, was associated with development of impaired fasting glucose (IFG) after atenolol treatment.

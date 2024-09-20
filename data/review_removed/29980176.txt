@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jul', 'Day': '06'}
-The effect of ERCC1 and ERCC2 gene polymorphysims on response to cisplatin based therapy in osteosarcoma patients.
-Cisplatin is one of the major drugs that used in the treatment of osteosarcoma. Cisplatin exerts its function by making cisplatin-DNA adducts culminating in cellular death. These adducts found to be repaired by nucleotide excision repair (NER) pathway. This study aimed to evaluate if polymorphisms in two main genes in the NER pathway, excision repair cross-complementing group 1 and 2 (ERCC1 and ERCC2) could affect the histological response to cisplatin based chemotherapy or clinical outcomes, particularly, event free survival (EFS) and overall survival (OS) rates.

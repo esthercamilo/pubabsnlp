@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Jul', 'Day': '01'}
-Personalized pharmacotherapy for Type 2 diabetes mellitus.
-Genome-wide linkage and association studies have been applied to Type 2 diabetes in order to discover common genetic variation that contributes to disease risk. While there has been progress in understanding how genetic variation predisposes to diabetes, there is less of an understanding of how genetics can alter drug response. The hope is that in the future, pharmacogenetics can help guide the treatment of diabetes, thereby improving control while minimizing side effects in a large group of patients.

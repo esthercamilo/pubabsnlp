@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Dec'}
-The influence of genetic factors on brain plasticity and recovery after neural injury.
-The fields of clinical genetics and pharmacogenetics are rapidly expanding. Genetic factors have numerous associations with injury and with treatment effects in the setting of neural plasticity and recovery.

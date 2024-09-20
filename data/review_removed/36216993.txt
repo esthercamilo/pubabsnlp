@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Dec'}
-Designing an evidence based community pharmacy service specification for a pharmacogenomic testing service.
-Pharmacogenomics is a novel arena of medicine that uses patients' Deoxyribonucleic Acid to support pharmacists and prescribers selecting the most appropriate medicine for patients.

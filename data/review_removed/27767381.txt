@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Nov'}
-The effect of SNPs in CYP450 in chloroquine/primaquine Plasmodium vivax malaria treatment.
-Chloroquine/primaquine is the current therapy to eliminate Plasmodium vivax infection in the Amazon region.

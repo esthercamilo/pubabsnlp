@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jul'}
-Association of polymorphisms in the beta-2 adrenergic receptor gene with fracture risk and bone mineral density.
-Signaling through the beta-2 adrenergic receptor (B2AR) on the osteoblast influences bone remodeling in rodents. In the B2AR gene, three polymorphisms influence receptor function. We show that these polymorphisms are not associated with fracture risk or bone mineral density in the UCP, Rotterdam Study, and GEFOS cohorts.

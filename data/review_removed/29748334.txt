@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jul'}
-Genetic Variant in Human PAR (Protease-Activated Receptor) 4 Enhances Thrombus Formation Resulting in Resistance to Antiplatelet Therapeutics.
-Platelet activation after stimulation of PAR (protease-activated receptor) 4 is heightened in platelets from blacks compared with those from whites. The difference in PAR4 signaling by race is partially explained by a single-nucleotide variant in PAR4 encoding for either an alanine or threonine at amino acid 120 in the second transmembrane domain. The current study sought to determine whether the difference in PAR4 signaling by this PAR4 variant is because of biased G<sub>q</sub> signaling and whether the difference in PAR4 activity results in resistance to traditional antiplatelet intervention.

@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'May'}
-Genetic and clinical risk factors associated with phenytoin-induced cutaneous adverse drug reactions in Thai population.
-This study aimed to describe the genetic and clinical risk factors associated with phenytoin-induced cutaneous adverse drug reactions (PHT-induced cADRs) in Thai patients.

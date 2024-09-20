@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Oct'}
-The effects of aripiprazole and olanzapine on pupillary light reflex and its relationship with pharmacogenetics in a randomized multiple-dose trial.
-Pupillography is a noninvasive and cost-effective method to determine autonomic nerve activity. Genetic variants in cytochrome P450 (CYP), dopamine receptor (DRD2, DRD3), serotonin receptor (HTR2A, HTR2C) and ATP-binding cassette subfamily B (ABCB1) genes, among others, were previously associated with the pharmacokinetics and pharmacodynamics of antipsychotic drugs. Our aim was to evaluate the effects of aripiprazole and olanzapine on pupillary light reflex related to pharmacogenetics.

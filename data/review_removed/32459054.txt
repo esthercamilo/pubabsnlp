@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jul'}
-The association of COMT genotype with buproprion treatment response in the treatment of major depressive disorder.
-Pharmacodynamics and pharmacogenetics are being explored in pharmacological treatment response for major depressive disorder (MDD). Interactions between genotype and treatment response may be dose dependent. In this study, we examined whether MDD patients with Met/Met, Met/Val, and Val/Val COMT genotypes differed in their response to bupropion in terms of depression scores.

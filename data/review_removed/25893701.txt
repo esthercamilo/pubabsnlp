@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Apr'}
-Pharmacogenetic considerations in the elderly patient.
-To outline how the inclusion of pharmacogenetic data lends additional information in the overall decision making relative to drug therapy in the elderly patient.

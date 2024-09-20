@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Mar'}
-Developmental pharmacology of tramadol during infancy: ontogeny, pharmacogenetics and elimination clearance.
-To illustrate the complex interaction between ontogeny, i.e., age-dependent maturation, genetic polymorphisms and renal elimination clearance during infancy, based on developmental disposition of intravenous tramadol during infancy.

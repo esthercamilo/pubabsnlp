@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Apr'}
-Navigating pleiotropy in precision medicine: pharmacogenes from trauma to behavioral health.
-A strong emerging principle in the field of precision medicine is that variation in any one pharmacogene may impact clinical outcome for more than one drug. Variants tested in the acute care setting often have downstream implications for other drugs impacting chronic disease management. A flexible framework is needed as clinicians and scientists move toward deploying automated decision support for gene-based drug dosing in electronic medical records.

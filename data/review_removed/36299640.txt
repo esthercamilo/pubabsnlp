@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Dec'}
-Mapping Australian pharmacy school curricula for content related to pharmacogenomics.
-Pharmacogenomics (PGx) is a rapidly growing field which promises to deliver personalized, more effective medications tailored to genetic information. Although the pharmacy profession is expected to lead the translation of pharmacogenomics into widespread clinical implementation, there is a reported lack of preparedness among its members. Assessing pharmacogenomic-related training in Australian pharmacy program curricula may highlight educational gaps and provide guidance for curricula revision.

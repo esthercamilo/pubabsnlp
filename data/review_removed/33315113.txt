@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Dec', 'Day': '01'}
-Prescribing Prevalence of Medications With Potential Genotype-Guided Dosing in Pediatric Patients.
-Genotype-guided prescribing in pediatrics could prevent adverse drug reactions and improve therapeutic response. Clinical pharmacogenetic implementation guidelines are available for many medications commonly prescribed to children. Frequencies of medication prescription and actionable genotypes (genotypes where a prescribing change may be indicated) inform the potential value of pharmacogenetic implementation.

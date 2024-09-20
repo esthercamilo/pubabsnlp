@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Mar', 'Day': '18'}
-Association of rs4516035 Polymorphism with Osteoporosis in the Southeastern Iranian Population: A Case-Control Study.
-Genetic polymorphisms are known to play a crucial role in the development of osteoporosis. Vitamin D<sub>3</sub> regulates bone homeostasis through the vitamin D receptor (VDR). Reduced VDR activity increases osteoporosis risk. <b>Study Design:</b> A case-control study.

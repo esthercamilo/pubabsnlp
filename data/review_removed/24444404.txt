@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Feb'}
-Genome-wide association and pharmacological profiling of 29 anticancer agents using lymphoblastoid cell lines.
-Association mapping with lymphoblastoid cell lines (LCLs) is a promising approach in pharmacogenomics research, and in the current study we utilized LCLs to perform association mapping for 29 chemotherapy drugs.

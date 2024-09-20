@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May'}
-A prospective study of the impact of AGTR1 A1166C on the effects of candesartan in patients with heart failure.
-To evaluate the impact of AGTR1 A1166C (rs5186) on the response to candesartan in patients with heart failure.

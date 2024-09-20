@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Dec'}
-A pharmacogenetics study of the human glucuronosyltransferase UGT1A4.
-UGT1A4 is primarily expressed in the liver and exhibits catalytic activities for various drugs. Amongst the few UGT1A4 polymorphisms evaluated, studies support the alteration of UGT1A4-mediated glucuronidation by a few variations including the Pro²⁴Thr and Leu⁴⁸Val variants (referred to as UGT1A4*2 and *3).

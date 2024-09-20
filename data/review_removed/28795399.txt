@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Dec'}
-New Pharmacogenomics Research Network: An Open Community Catalyzing Research and Translation in Precision Medicine.
-The goal of pharmacogenomics research is to discover genetic polymorphisms that underlie variation in drug response. Increasingly, pharmacogenomics research involves large numbers of patients and the application of new technologies and methodologies to enable discovery. The Pharmacogenomics Research Network (PGRN) has become a community-driven network of investigators spanning scientific and clinical disciplines. Here, we highlight the activities and types of resources that enable PGRN members to enhance and drive basic and translational research in pharmacogenomics.

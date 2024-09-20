@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Feb', 'Day': '01'}
-An integrated pharmacokinetics ontology and corpus for text mining.
-Drug pharmacokinetics parameters, drug interaction parameters, and pharmacogenetics data have been unevenly collected in different databases and published extensively in the literature. Without appropriate pharmacokinetics ontology and a well annotated pharmacokinetics corpus, it will be difficult to develop text mining tools for pharmacokinetics data collection from the literature and pharmacokinetics data integration from multiple databases.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Season': 'Jul-Aug'}
-Cost-effectiveness of the 21-gene assay for guiding adjuvant chemotherapy decisions in early breast cancer.
-Adjuvant chemotherapy decisions in early breast cancer are complex. The 21-gene assay can potentially aid such decisions, but costs US $4175 per patient. Adjuvant! Online is a freely available decision aid. We evaluate the cost-effectiveness of using the 21-gene assay in conjunction with Adjuvant! Online, and of providing adjuvant chemotherapy conditional upon risk classification.

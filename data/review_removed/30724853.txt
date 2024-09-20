@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jun'}
-International survey of patients undergoing percutaneous coronary intervention and their attitudes toward pharmacogenetic testing.
-To evaluate perceptions toward pharmacogenetic testing of patients undergoing percutaneous coronary intervention (PCI) who are prescribed dual antiplatelet therapy (DAPT) and whether geographical differences in these perceptions exist.

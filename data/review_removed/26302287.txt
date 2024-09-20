@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Sep'}
-Pharmacogenomic Testing and Warfarin Management.
-Warfarin has been used for the prevention of thrombosis for more than 50 years and is the most frequently prescribed vitamin K antagonist in North America (Gage & Eby, 2003). Its mode of action is to prevent vitamin K from converting to vitamin KH2, thereby inhibiting clotting factors (Johnson & Cavallari, 2015). Warfarin metabolism is affected by variations in the cytochrome P450 2C9 (CYP2C9) and the vitamin K epoxide reductase complex 1 (VKORC1) genotypes. CYP2C9 affects the drug's pharmacokinetics, or metabolism, whereas VKORC1, the target protein of warfarin, affects the drug's pharmacodynamics, or its impact on cell proteins .

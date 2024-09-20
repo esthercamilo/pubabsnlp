@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Sep', 'Day': '01'}
-Pharmacological response of human cardiomyocytes derived from virus-free induced pluripotent stem cells.
-Generation of human induced pluripotent stem cell (hiPSC) lines by reprogramming of fibroblast cells with virus-free methods offers unique opportunities for translational cardiovascular medicine. The aim of the study was to reprogramme fibroblast cells to hiPSCs and to study cardiomyogenic properties and ion channel characteristics of the virus-free hiPSC-derived cardiomyocytes.

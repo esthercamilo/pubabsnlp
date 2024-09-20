@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jul'}
-ADME gene polymorphisms do not influence the pharmacokinetics of docetaxel: Results from a population pharmacokinetic study in Indian cancer patients.
-Pharmacokinetics (PK) of docetaxel is characterized by high inter-individual variability (IIV). While covariate models that explain the PK variability of docetaxel exist, not much is known about the effects of genetic variations on docetaxel disposition.

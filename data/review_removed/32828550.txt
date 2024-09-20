@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Nov'}
-Host Polymorphisms May Impact SARS-CoV-2 Infectivity.
-Based on a broad public database compilation, we support the hypothesis that germinal polymorphisms may regulate the expression of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) cellular target itself and proteases controlling the process of its shedding or, conversely, its internalization. Consequently, a genetic influence on individual susceptibility to coronavirus disease 2019 (COVID-19) infection is strongly suspected.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Dec'}
-Genetic Polymorphisms of Cytochrome P450 Enzymes and Transport Proteins in a Russian Population and Three Ethnic Groups of Dagestan.
-The objective of this study was to investigate the prevalence of polymorphic markers of the CYP2C19, CYP2C9, CYP2D6, SLCO1B1, and ABCB1 genes among the three ethnic groups in Dagestan and compare it with the carrier frequency of these markers among the Russian population living in Moscow.

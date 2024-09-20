@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Oct'}
-The pharmacogenetics of antimalaria artemisinin combination therapy.
-Plasmodium falciparum malaria is one of the world's most lethal infectious diseases, commanding millions of drug administrations per year. The pharmacogenetics of these drugs is poorly known, although its application can be pivotal for the optimized management of this disease.

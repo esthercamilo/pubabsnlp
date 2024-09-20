@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jan'}
-Comparison of the Effects of OPRM1 A118G Polymorphism Using Different Opioids: A Prospective Study.
-μ-opioid receptor gene (OPRM1) A118G polymorphism (rs1799971) causes loss of N-glycosylation sites at the extracellular domain of μ-opioid receptors. G-allele carriers show a limited response to morphine; however, studies investigating the impact of A118G polymorphism on the efficacy of opioids other than morphine are limited.

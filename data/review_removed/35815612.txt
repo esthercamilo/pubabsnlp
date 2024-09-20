@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jun'}
-Genetic diversity of <i>CYP3A5</i> and <i>ABCB1</i> variants in East-Central and South European populations.
-CYP3A5 enzyme encoded by <i>CYP3A5</i> is important for drug metabolism in gut and liver, whereas P-glycoprotein by <i>ABCB1</i>, is an ATP-dependent drug efflux pump which exports endo- and exogenous substances outside the cell.

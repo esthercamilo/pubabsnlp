@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Sep'}
-Pharmacogenetics of calcineurin inhibitors in Brazilian renal transplant patients.
-Polymorphisms in the CYP3A5 and ABCB1 genes have been investigated as modulators of the pharmacokinetics and clinical effects of cyclosporine (CSA) and tacrolimus (TAC) in European, North American and Asian populations, with controversial results. The extensive variation in worldwide frequency distribution of CYP3A5 and ABCB1 polymorphisms is a caveat against the extrapolation of these data to the heterogeneous and admixed Brazilian population. We investigated the effect of CYP3A5 and ABCB1 polymorphisms on CSA and TAC dose-adjusted trough concentration (C₀/dose) in Brazilian renal transplant recipients, during the first 3 months post-transplantation.

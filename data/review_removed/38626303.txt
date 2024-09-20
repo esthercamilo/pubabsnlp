@@ -1,3 +1,0 @@
-{'Year': '2024', 'Season': 'May-Jun'}
-Opioid use disorder in pediatric populations: considerations for perioperative pain management and precision opioid analgesia.
-Opioids are commonly used for perioperative analgesia, yet children still suffer high rates of severe post-surgical pain and opioid-related adverse effects. Persistent and severe acute surgical pain greatly increases the child's chances of chronic surgical pain, long-term opioid use, and opioid use disorder.

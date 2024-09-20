@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Apr'}
-Incorporation of emergent symptoms and genetic covariates improves prediction of aromatase inhibitor therapy discontinuation.
-Early discontinuation is common among breast cancer patients taking aromatase inhibitors (AIs). Although several predictors have been identified, it is unclear how to simultaneously consider multiple risk factors for an individual. We sought to develop a tool for prediction of AI discontinuation and to explore how predictive value of risk factors changes with time.

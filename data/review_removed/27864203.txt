@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Dec', 'Day': '01'}
-Implementation of a multidisciplinary pharmacogenomics clinic in a community health system.
-The development and implementation of a multidisciplinary pharmacogenomics clinic within the framework of an established community-based medical genetics program are described.

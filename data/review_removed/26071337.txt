@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jul'}
-Role of ITPA and SLC28A2 genes in the prediction of anaemia associated with protease inhibitor plus ribavirin and peginterferon in hepatitis C treatment.
-Anaemia is a common side-effect of ribavirin (RBV) use that overwhelms management of hepatitis C when protease inhibitors are added.

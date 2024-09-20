@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Sep'}
-The Pharmacist's Perspective on Pharmacogenetics Implementation.
-The future for pharmacogenetics will continue to expand. Pharmacists can apply and incorporate drug knowledge in collaboration with other health providers using pharmacogenetics. Patients benefit with enhanced therapeutic outcomes that could lead to more streamlined drug approaches, fewer follow-up visits, cost savings, and shorter times to achieve therapeutic outcomes. As more drug-gene pathways are discovered and use of this knowledge increases, the potential for algorithm development for medication use will occur, resulting in better patient outcomes, higher standard of care, and reflect evidence-based medicine.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jul'}
-Automated identification of molecular effects of drugs (AIMED).
-Genomic profiling information is frequently available to oncologists, enabling targeted cancer therapy. Because clinically relevant information is rapidly emerging in the literature and elsewhere, there is a need for informatics technologies to support targeted therapies. To this end, we have developed a system for Automated Identification of Molecular Effects of Drugs, to help biomedical scientists curate this literature to facilitate decision support.

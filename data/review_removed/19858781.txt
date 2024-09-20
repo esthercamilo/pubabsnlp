@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Dec'}
-Human UDP-glucuronosyltransferase UGT2A2: cDNA construction, expression, and functional characterization in comparison with UGT2A1 and UGT2A3.
-Characterize the expression and glucuronidation activities of the human uridine 5'-diphospho (UDP)-glucuronosyltransferase (UGT) 2A2.

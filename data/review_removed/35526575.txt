@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Sep'}
-Physiologically-Based Pharmacokinetic Modeling to Predict Methylphenidate Exposure Affected by Interplay Among Carboxylesterase 1 Pharmacogenetics, Drug-Drug Interactions, and Sex.
-The pharmacokinetics (PK) of methylphenidate (MPH) differ significantly among individuals. Carboxylesterase 1 (CES1) is the primary enzyme metabolizing MPH, and its function is affected by genetic variants, drug-drug interaction (DDI), and sex. The object of this study is to evaluate CES1 pharmacogenetics as related to MPH metabolism using human liver samples and develop a physiologically-based pharmacokinetic (PBPK) modeling approach to investigate the influence of CES1 genotypes and other factors on MPH PK.

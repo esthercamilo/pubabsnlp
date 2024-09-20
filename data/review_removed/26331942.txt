@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Dec', 'Day': '15'}
-TOLLIP, MUC5B, and the Response to N-Acetylcysteine among Individuals with Idiopathic Pulmonary Fibrosis.
-Idiopathic pulmonary fibrosis (IPF) is a devastating lung disease of unknown etiology. The genes TOLLIP and MUC5B play important roles in lung host defense, which is an immune process influenced by oxidative signaling. Whether polymorphisms in TOLLIP and MUC5B modify the effect of immunosuppressive and antioxidant therapy in individuals with IPF is unknown.

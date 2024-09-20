@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jul'}
-Implementation of a pharmacogenomics consult service to support the INGENIOUS trial.
-Hospital systems increasingly utilize pharmacogenomic testing to inform clinical prescribing. Successful implementation efforts have been modeled at many academic centers. In contrast, this report provides insights into the formation of a pharmacogenomics consultation service at a safety-net hospital, which predominantly serves low-income, uninsured, and vulnerable populations. The report describes the INdiana GENomics Implementation: an Opportunity for the UnderServed (INGENIOUS) trial and addresses concerns of adjudication, credentialing, and funding.

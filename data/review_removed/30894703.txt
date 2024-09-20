@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Oct'}
-Multi-site investigation of strategies for the clinical implementation of CYP2D6 genotyping to guide drug prescribing.
-A number of institutions have clinically implemented CYP2D6 genotyping to guide drug prescribing. We compared implementation strategies of early adopters of CYP2D6 testing, barriers faced by both early adopters and institutions in the process of implementing CYP2D6 testing, and approaches taken to overcome these barriers.

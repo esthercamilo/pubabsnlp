@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Nov'}
-Role of pharmacogenomics in dialysis and transplantation.
-Pharmacogenomics is the study of differences in drug response on the basis of individual genetic background. With rapidly advancing genomic technologies and decreased costs of genotyping, the field of pharmacogenomics continues to develop. Application to patients with kidney disease provides growing opportunities for improving drug therapy.

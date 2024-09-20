@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Oct', 'Day': '20'}
-Pharmacogenetics May Prevent Psychotropic Adverse Events in Autism Spectrum Disorder: An Observational Pilot Study.
-Up to 73% of individuals with autism spectrum disorder (ASD) and intellectual disability (ID) currently have prescriptions for psychotropic drugs. This is explained by a higher prevalence of medical and psychiatric chronic comorbidities, which favors polypharmacy, increasing the probability of the appearance of adverse events (AEs). These could be a preventable cause of harm to patients with ASD and an unnecessary waste of healthcare resources.

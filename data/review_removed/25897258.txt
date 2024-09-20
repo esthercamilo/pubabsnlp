@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Immune cell-based screening assay for response to anticancer agents: applications in pharmacogenomics.
-Interpatient variability in immune and chemotherapeutic cytotoxic responses is likely due to complex genetic differences and is difficult to ascertain in humans. Through the use of a panel of genetically diverse mouse inbred strains, we developed a drug screening platform aimed at examining interstrain differences in viability on normal, noncancerous immune cells following chemotherapeutic cytotoxic insult. Drug effects were investigated by comparing selective chemotherapeutic agents, such as BEZ-235 and selumetinib, against conventional cytotoxic agents targeting multiple pathways, including doxorubicin and idarubicin.

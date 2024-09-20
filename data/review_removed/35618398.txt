@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan'}
-Immunosuppression in the Age of Precision Medicine.
-The article focuses on immunosuppression pharmacology, adverse-event profile, clinical efficacy, and, when available, pharmacogenomic data.

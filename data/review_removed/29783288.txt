@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jan'}
-Translating pharmacogenomics into personalized medicine and drug development.
-Pharmacogenomics aims to promote early realization of personalized medicine. How to translate pharmacogenetic and pharmacogenomic research findings into applications is an important and imperative task. This article summarizes the international status of translational research in pharmacogenetics and pharmacogenomics towards personalized medicine and new drug development. Pharmacogenomics holds the promise that drugs might one day be tailor made for individuals and adapted to each person's own genetic make-up.

@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Mar'}
-Genetic variations and gene expression of transporters in drug disposition and response.
-The importance of transporters in drug disposition and response has led to increasing interest in genetic variations and expression differences of their genes.

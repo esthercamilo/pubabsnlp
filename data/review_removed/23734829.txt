@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jun', 'Day': '04'}
-Influence of efavirenz pharmacokinetics and pharmacogenetics on neuropsychological disorders in Ugandan HIV-positive patients with or without tuberculosis: a prospective cohort study.
-HIV infection, anti-tuberculosis and efavirenz therapy are associated with neuropsychological effects. We evaluated the influence of rifampicin cotreatment, efavirenz pharmacokinetics and pharmacogenetics on neuropsychiatric disorders in Ugandan HIV patients with or without tuberculosis coinfection.

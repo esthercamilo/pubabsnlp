@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Aug', 'Day': '05'}
-Impact of Age on Pharmacogenomics and Treatment Outcomes of B-Cell Acute Lymphoblastic Leukemia.
-Acute lymphoblastic leukemia (ALL) can occur across all age groups, with a strikingly higher cure rate in children compared with adults. However, the pharmacological basis of age-related differences in ALL treatment response remains unclear.

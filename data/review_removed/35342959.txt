@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Sep'}
-Rapid clearance of tacrolimus blood concentration triggered by variant pharmacogenes.
-Tacrolimus (TAC) is an immunosuppressant with large interpatient pharmacokinetic variability and a narrow therapeutic index. We report a case of acute cellular rejection (ACR) type IB with insufficient TAC blood concentrations (TAC C<sub>0</sub> ).

@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Sep'}
-Role of CYP1A1, ABCG2, CYP24A1 and VDR gene polymorphisms on the evaluation of cardiac iron overload in thalassaemia patients.
-Iron-burden-induced arrhythmia and heart failure are among the leading causes of morbidity and mortality in β-thalassaemia major patients. T2* cardiac magnetic resonance remains the only reliable noninvasive method for the heart iron excess assessment. We explored the role of single nucleotide polymorphisms involved in vitamin D metabolism, transport and activity and in deferasirox (DFX) metabolism on cardiac iron burden.

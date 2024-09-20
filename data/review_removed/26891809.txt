@@ -1,3 +1,0 @@
-{'Year': '2016'}
-Genetic and acquired factors influencing the effectiveness and toxicity of drug therapy in osteoporosis.
-Osteoporosis is a highly prevalent skeletal disorder characterized by compromised bone strength, usually related to decreased bone mass and microstructural alterations of bone tissue, predisposing a person to an increased risk of fracture. As other prevalent disorders, osteoporosis is the result of a complex interplay of genetic and acquired factors.

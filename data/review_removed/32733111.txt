@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jul', 'Day': '23'}
-Impact of Polymorphism of CYP2D6 on Equilibrium Concentration of Duloxetine in Patients Suffering from Major Depressive Disorder.
-Duloxetine is commonly prescribed to patients with recurrent depressive disorder. Some part of patients in this group do not respond adequately to treatment regimen containing duloxetine, while many of them experience dose-dependent adverse drug reactions. Previous research investigated that CYP2D6 is involved in the biotransformation of duloxetine, the activity of which is highly dependent on the polymorphism of the gene encoding it.

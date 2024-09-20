@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Emerging role of long non-coding RNAs in cancer precision medicine.
-A vast majority of the human genome encodes long non-coding RNAs (lncRNAs) as compared to protein-coding genes (PCGs). But most efforts to determine biomarkers of anticancer drug response have focused entirely on PCGs. Comprehensive investigation of lncRNAs and drug response demonstrates that lncRNAs are indeed crucial biomarkers of drug response.

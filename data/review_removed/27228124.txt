@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Sep'}
-Genetic polymorphisms and the adequacy of brain stimulation: state of the art.
-Heterogeneity of therapeutic response to brain stimulation techniques has inspired scientists to uncover the secrets to success or failure of these projects. Genetic polymorphisms are one of the major causes of this heterogeneity.

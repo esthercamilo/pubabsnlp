@@ -1,3 +1,0 @@
-{'Year': '2016'}
-CYP2B6rs2279343 Is Associated with Improved Survival of Pediatric Rhabdomyosarcoma Treated with Cyclophosphamide.
-Rhabdomyosarcoma (RMS) is a small round blue cell malignant tumor, representing 7% of childhood malignancies, and over 50% of all soft tissue sarcomas. Cyclophosphamide (CPA) is a prodrug and is the mainstay of RMS treatment. CYP2B6 is a highly polymorphic drug metabolizing enzyme involved in CPA bioactivation. The influence of CYP2B6 single nucleotide polymorphisms (SNPs) on the survival of RMS is still unknown.

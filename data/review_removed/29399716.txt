@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun'}
-Pharmacogenetics of post-transplant diabetes mellitus in children with renal transplantation treated with tacrolimus.
-Post-transplant diabetes mellitus (PTDM) is a major complication of immunosuppressive therapy, with many risk factors reported in adults with renal transplantation. The objective of this study was to investigate potential non-genetic and genetic risk factors of PTDM in children with renal transplantation treated with tacrolimus.

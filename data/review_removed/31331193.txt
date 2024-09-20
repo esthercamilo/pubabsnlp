@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Sep', 'Day': '10'}
-Impact of <i>ADCY9</i> Genotype on Response to Anacetrapib.
-Exploratory analyses of previous randomized trials generated a hypothesis that the clinical response to cholesteryl ester transfer protein (CETP) inhibitor therapy differs by <i>ADCY9</i> genotype, prompting the ongoing dal-GenE trial in individuals with a particular genetic profile. The randomized placebo-controlled REVEAL trial (Randomized Evaluation of the Effects of Anacetrapib through Lipid-Modification) demonstrated the clinical efficacy of the CETP inhibitor anacetrapib among patients with preexisting atherosclerotic vascular disease. In the present study, we examined the impact of <i>ADCY9</i> genotype on response to anacetrapib in the REVEAL trial.

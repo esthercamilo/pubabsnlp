@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Genetic Diversity of Drug-Related Genes in Native Americans of the Brazilian Amazon.
-The genetic admixture of the Brazilian population has considerable relevance to the implementation of the principles of pharmacogenomics (PGx), as it may compromise the extrapolation of data obtained in more homogeneous world populations.

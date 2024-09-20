@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Sep'}
-Epigenetic drug discovery for Alzheimer's disease.
-It is assumed that epigenetic modifications are reversible and could potentially be targeted by pharmacological and dietary interventions. Epigenetic drugs are gaining particular interest as potential candidates for the treatment of Alzheimer's disease (AD).

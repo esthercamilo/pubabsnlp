@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jun', 'Day': '22'}
-Genes of the Glutamatergic System and Tardive Dyskinesia in Patients with Schizophrenia.
-Tardive dyskinesia (TD) is an extrapyramidal side effect of the long-term use of antipsychotics. In the present study, the role of glutamatergic system genes in the pathogenesis of total TD, as well as two phenotypic forms, orofacial TD and limb-truncal TD, was studied.

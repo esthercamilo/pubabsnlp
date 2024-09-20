@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Dec'}
-CYP2D6-guided opioid therapy for adults with cancer pain: A randomized implementation clinical trial.
-The CYP2D6 enzyme metabolizes opioids commonly prescribed for cancer-related pain, and CYP2D6 polymorphisms may contribute to variability in opioid response. We evaluated the feasibility of implementing CYP2D6-guided opioid prescribing for patients with cancer and reported pilot outcome data.

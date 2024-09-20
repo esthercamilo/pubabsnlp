@@ -1,3 +1,0 @@
-{'Year': '2019'}
-<i>CYP2C19*2</i> Polymorphism Is Associated with Impaired Oral Clearance of Gliclazide in Healthy Chinese.
-Previous studies suggest gliclazide is metabolised primarily by CYP2C19 rather than CYP2C9, unlike other sulphonylureas. <i>CYP2C19 *2</i> and <i>*3</i> polymorphisms are more common in Asians.

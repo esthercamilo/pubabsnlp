@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Oct', 'Day': '05'}
-Efavirenz Pharmacogenetics and Weight Gain Following Switch to Integrase Inhibitor-Containing Regimens.
-Unwanted weight gain affects some people living with human immunodeficiency virus (HIV) who are prescribed integrase strand transfer inhibitors (INSTIs). Mechanisms and risk factors are incompletely understood.

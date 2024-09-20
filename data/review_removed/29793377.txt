@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun', 'Day': '01'}
-Projected impact of a multigene pharmacogenetic test to optimize medication prescribing in cardiovascular patients.
-To determine the projected impact of a multigene pharmacogenetic (PGx) test on medication prescribing.

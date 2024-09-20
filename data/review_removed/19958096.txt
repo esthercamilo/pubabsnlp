@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Dec'}
-Development of an undergraduate pharmacogenomics curriculum.
-Pharmacogenomic biomarkers are becoming increasingly common in medicine and drug development. However, there is a genuine concern that the healthcare workforce will be ill-equipped to translate this information to clinical practice. As a result, a major effort is underway to educate future healthcare professionals on pharmacogenomics. This paper describes the development of a year-long course that aims to instill the fundamental concepts of this rapidly growing field into the minds of undergraduate students. This course offers the advantage of exposing students to the concepts of pharmacogenomics prior to their enrollment in PhD, PharmD or MD/DO graduate programs.

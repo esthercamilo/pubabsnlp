@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Feb'}
-Genetic markers in CYP2C19 and CYP2B6 for prediction of cyclophosphamide's 4-hydroxylation, efficacy and side effects in Chinese patients with systemic lupus erythematosus.
-The aim of the study was to investigate the combined impact of genetic polymorphisms in key pharmacokinetic genes on plasma concentrations and clinical outcomes of cyclophosphamide (CPA) in Chinese patients with systemic lupus erythematosus (SLE).

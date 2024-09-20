@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Fast Screening Technology for Drug Emergency Management: Predicting Suspicious SNPs for ADR with Information Theory-based Models.
-The genetic polymorphism of Cytochrome P450 (CYP 450) is considered as one of the main causes for adverse drug reactions (ADRs). In order to explore the latent correlations between ADRs and potentially corresponding single-nucleotide polymorphism (SNPs) in CYP450, three algorithms based on information theory are used as the main method to predict the possible relation.

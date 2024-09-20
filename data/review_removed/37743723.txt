@@ -1,3 +1,0 @@
-{'Year': '2023', 'Season': 'Nov-Dec'}
-No impact of polymorphism in the phosphodiesterase 5A gene in Cavalier King Charles Spaniels on pimobendan-induced inhibition of platelet aggregation response.
-A variant in the canine phosphodiesterase (PDE) 5A gene (PDE5A:E90K) is associated with decreased concentrations of circulating cyclic guanosine monophosphate (cGMP) and response to PDE5 inhibitor treatment. Pimobendan is a PDE inhibitor recommended for medical treatment of certain stages of myxomatous mitral valve disease (MMVD) in dogs.

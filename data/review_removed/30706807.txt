@@ -1,3 +1,0 @@
-{'Year': '2019'}
-Clinical Implications of Methotrexate Pharmacogenetics in Childhood Acute Lymphoblastic Leukaemia.
-In the past two decades, a great body of research has been published regarding the effects of genetic polymorphisms on methotrexate (MTX)-induced toxicity and efficacy. Of particular interest is the role of this compound in childhood acute lymphoblastic leukaemia (ALL), where it is a pivotal drug in the different treatment protocols, both at low and high doses. MTX acts on a variety of target enzymes in the folates cycle, as well as being transported out and into of the cell by several transmembrane proteins.

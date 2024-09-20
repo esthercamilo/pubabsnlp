@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jan', 'Day': '29'}
-Adenylate kinase 4 modulates oxidative stress and stabilizes HIF-1α to drive lung adenocarcinoma metastasis.
-Adenylate kinase 4 (AK4) has been identified as a biomarker of metastasis in lung cancer. However, the impacts of AK4 on metabolic genes and its translational value for drug repositioning remain unclear.

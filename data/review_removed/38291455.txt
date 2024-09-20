@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jan', 'Day': '30'}
-Investigation of community pharmacists' knowledge and attitudes of pharmacogenomics testing: implication for improved pharmacogenomic testing practice.
-Community pharmacists must be well-equipped to advance pharmacogenomics services. Nevertheless, limited data is available regarding pharmacists' knowledge and attitudes toward pharmacogenomics testing. The present study aimed to evaluate community pharmacists' knowledge and attitudes toward pharmacogenomics testing in the UAE.

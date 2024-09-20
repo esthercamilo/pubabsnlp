@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jul'}
-Pharmacogenetics in Psychiatry.
-This Special Issue on Pharmacogenetics in Psychiatry consists of five selected articles which encompass the first concepts of pharmacogenetics, to implementation strategies applyng pharmacogenetic testing into psychiatric clinical practice.

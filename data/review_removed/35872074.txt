@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Nov'}
-Rectal INdomethacin, oral TacROlimus, or their combination for the prevention of post-ERCP pancreatitis (INTRO Trial): Protocol for a randomized, controlled, double-blinded trial.
-Acute pancreatitis remains the most common and morbid complication of endoscopic retrograde cholangiopancreatography (ERCP). The use of rectal indomethacin and pancreatic duct stenting has been shown to reduce the incidence and severity of post-ERCP pancreatitis (PEP), but these interventions have limitations. Recent clinical and translational evidence suggests a role for calcineurin inhibitors in the prevention of pancreatitis, with multiple retrospective case series showing a reduction in PEP rates in tacrolimus users.

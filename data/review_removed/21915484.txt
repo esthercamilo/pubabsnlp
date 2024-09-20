@@ -1,3 +1,0 @@
-{'Year': '2011'}
-Pharmacogenetics of glucocorticoid replacement could optimize the treatment of congenital adrenal hyperplasia due to 21-hydroxylase deficiency.
-21-hydroxylase deficiency is an autosomal recessive disorder that causes glucocorticoid deficiency and increased androgen production. Treatment is based on glucocorticoid replacement; however, interindividual variability in the glucocorticoid dose required to achieve adequate hormonal control has been observed.

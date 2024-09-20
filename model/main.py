@@ -5,7 +5,6 @@ ANATOMICAL_SYSTEM
 CANCER
 CELL
 CELLULAR_COMPONENT
-DEVELOPING_ANATOMICAL_STRUCTURE
 GENE_OR_GENE_PRODUCT
 IMMATERIAL_ANATOMICAL_ENTITY
 MULTI_TISSUE_STRUCTURE
@@ -15,6 +14,7 @@ ORGANISM_SUBDIVISION
 ORGANISM_SUBSTANCE
 PATHOLOGICAL_FORMATION
 SIMPLE_CHEMICAL
+TECHNIQUE
 TISSUE
 
 New entities specific for this study
@@ -22,7 +22,6 @@ TECHNIQUE
 ANALYTICAL_METHOD
 DATABASE
 CHALLENGE
-
 
 """
 import random
@@ -121,8 +120,14 @@ def shuffle(fd):
 
 
 if __name__ == '__main__':
-    with open('./raw_input_v4.csv', 'r') as f:
+    # Read data from this article
+    with open('./fullsamples.tsv', 'r') as f:
         fulldata = [x.rstrip('\n').split('\t') for x in f.readlines()]
+    # Read pre-model
+    with open('./training_bionlp13cg_sub.tsv', 'r') as f:
+        premodel = [x.rstrip('\n').split('\t') for x in f.readlines()]
+
+    fulldata = [x for x in fulldata + premodel if x]
 
     with open('quality_metrics', 'w') as f:
 

@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jul'}
-Toxic epidermal necrolysis after first dose of Pfizer-BioNTech (BNT162b2) vaccination with pharmacogenomic testing.
-Toxic epidermal necrolysis (TEN) is a rare and acute life-threatening condition and one of the severe cutaneous adverse drug reactions. There are limited data on TEN from the COVID-19 vaccine regarding its pathogenesis, treatment, and prognosis, particularly in children. We report a case of COVID-19 vaccine-induced TEN and the patient's human leukocyte antigen pharmacogenomic profile.

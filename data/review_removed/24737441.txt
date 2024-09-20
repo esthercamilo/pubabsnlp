@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jul'}
-Protein kinase cAMP-dependent regulatory type II beta (PRKAR2B) gene variants in antipsychotic-induced weight gain.
-Antipsychotics are effective in treating schizophrenia symptoms. However, the use of clozapine and olanzapine in particular are associated with significant weight gain. Mouse and human studies suggest that the protein kinase cAMP-dependent regulatory type II beta (PRKAR2B) gene may be involved in energy metabolism, and there is evidence that it is associated with clozapine's effects on triglyceride levels. We aimed at assessing PRKAR2B's role in antipsychotic-induced weight gain in schizophrenia patients.

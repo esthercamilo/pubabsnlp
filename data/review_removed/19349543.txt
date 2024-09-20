@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'May', 'Day': '20'}
-Phase III trial of irinotecan/cisplatin compared with etoposide/cisplatin in extensive-stage small-cell lung cancer: clinical and pharmacogenomic results from SWOG S0124.
-Irinotecan plus cisplatin (IP) improved survival over etoposide plus cisplatin (EP) in Japanese patients with extensive-stage small-cell lung cancer (E-SCLC). To confirm those results and discern the potential role of population-related pharmacogenomics (PG) in outcomes, we conducted a large randomized trial of identical design to the Japanese trial in North American patients with E-SCLC.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Season': 'Nov-Dec'}
-Impact and applicability of pharmacogenomics in rheumatology: an integrated analysis.
-Rheumatology medications are often associated with adverse drug reactions (ADRs) or inadequate response (IR). Pharmacogenomics may be a solution, but there is limited knowledge of its potential utility within rheumatology.

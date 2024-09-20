@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Dec'}
-CYP2C19 genotype has a greater effect on adverse cardiovascular outcomes following percutaneous coronary intervention and in Asian populations treated with clopidogrel: a meta-analysis.
-The degree to which cytochrome P450 (CYP) 2C19 genotype influences the effectiveness of clopidogrel remains uncertain because of considerable heterogeneity in results between studies and potential publication bias. Clopidogrel indication and ethnic population have been proposed to influence the effect of CYP2C19 genotype.

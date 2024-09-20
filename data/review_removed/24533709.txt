@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Feb'}
-Pharmacogenomic biomarkers in drug labels: what do they tell us?
-This article investigates the number of drugs on the market with pharmacogenomics (PGx) biomarker data in their labels using two public sources - the US FDA and the PharmGKB.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Mar'}
-Differences in Predicted Warfarin Dosing Requirements Between Hmong and East Asians Using Genotype-Based Dosing Algorithms.
-Warfarin's narrow therapeutic index and high variability in dosage requirements make dosage selection critical. Genetic factors are known to impact warfarin dosage selection. The Hmong are a unique Asian subpopulation numbering over 278,000 in the United States whose participation in genetics-based research is virtually nonexistent. The translational significance of early reports of warfarin pharmacogene differences in Hmong has not been evaluated.

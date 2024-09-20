@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Nov'}
-Projected Cost-Effectiveness for 2 Gene-Drug Pairs Using a Multigene Panel for Patients Undergoing Percutaneous Coronary Intervention.
-For patients undergoing percutaneous coronary intervention, gene-drug associations exist relevant to first-line treatment options-antiplatelet agent, clopidogrel, and pain medication, tramadol. Knowledge of genotype information may allow for avoidance of adverse drug events during critical clinical windows.

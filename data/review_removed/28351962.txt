@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'May'}
-Pharmacogenetic Associations of β1-Adrenergic Receptor Polymorphisms With Cardiovascular Outcomes in the SPS3 Trial (Secondary Prevention of Small Subcortical Strokes).
-Functional polymorphisms (Ser49Gly and Arg389Gly) in <i>ADRB1</i> have been associated with cardiovascular and β-blocker response outcomes. Herein we examined associations of these polymorphisms with major adverse cardiovascular events (MACE), with and without stratification by β-blocker treatment in patients with a history of stroke.

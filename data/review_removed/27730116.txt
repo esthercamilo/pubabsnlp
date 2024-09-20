@@ -1,3 +1,0 @@
-{'Year': '2016', 'Season': 'Jul-Sep'}
-Introducing pharmacogenetic testing with clinical decision support into primary care: a feasibility study.
-Inappropriate prescribing increases patient illness and death owing to adverse drug events. The inclusion of genetic information into primary care medication practices is one solution. Our aim was to assess the ability to obtain and genotype saliva samples and to determine the levels of use of a decision support tool that creates medication options adjusted for patient characteristics, drug-drug interactions and pharmacogenetics.

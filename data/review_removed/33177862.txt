@@ -1,3 +1,0 @@
-{'Year': '2020'}
-CYP2D6 Predicts Plasma Donepezil Concentrations in a Cohort of Thai Patients with Mild to Moderate Dementia.
-Donepezil, a drug frequently used to treat dementia, is mainly metabolized by cytochrome P450 2D6 (CYP2D6). This study investigated the relationships between CYP2D6 genotype and activity scores as well as predicted phenotype of plasma donepezil concentrations in 86 Thai dementia participants.

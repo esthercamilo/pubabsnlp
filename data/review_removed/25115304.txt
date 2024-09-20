@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jan'}
-Extended RAS mutations and anti-EGFR monoclonal antibody survival benefit in metastatic colorectal cancer: a meta-analysis of randomized, controlled trials.
-Monoclonal antibodies (mAbs) targeting the epidermal growth factor receptor (EGFR) prolong survival in metastatic colorectal cancer (mCRC) Kirsten rat sarcoma viral oncogene (KRAS) exon 2 wild-type tumors. Recent evidence has suggested that other RAS mutations (in exons 3 and 4 of KRAS and exons 2, 3 and 4 of a related gene, NRAS) may also be predictive of resistance.

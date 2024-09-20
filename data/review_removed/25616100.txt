@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jan'}
-Economic evaluation of pharmacogenomic-guided warfarin treatment for elderly Croatian atrial fibrillation patients with ischemic stroke.
-Economic evaluation in genomic medicine is an emerging discipline to assess the cost-effectiveness of genome-guided treatment. Here, we developed a pharmaco-economic model to assess whether pharmacogenomic (PGx)-guided warfarin treatment of elderly ischemic stroke patients with atrial fibrillation in Croatia is cost effective compared with non-PGx therapy. The time horizon of the model was set at 1 year.

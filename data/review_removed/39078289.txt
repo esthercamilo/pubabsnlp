@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jul', 'Day': '30'}
-Pharmacogenomic Score Effectively Personalizes Treatment of Acute Myeloid Leukemia.
-Cytarabine (also known as ara-C) has been the backbone of acute myeloid leukemia (AML) chemotherapy for over five decades. Recent pharmacogenomics-based 10-SNP ara-C score (ACS10) showed low ACS10 (£0) to be associated with poor outcome in AML patients treated with standard chemotherapy. Here, we evaluated ACS10 score in the context of three different induction 1 regimens in pediatric AML patients.

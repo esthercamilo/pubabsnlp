@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Nov'}
-Evaluating the extent of reusability of CYP2C19 genotype data among patients genotyped for antiplatelet therapy selection.
-Genotype-guided antiplatelet therapy is increasingly being incorporated into clinical care. The purpose of this study is to determine the extent to which patients initially genotyped for CYP2C19 to guide antiplatelet therapy were prescribed additional medications affected by CYP2C19.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Season': 'Sep-Nov'}
-Pharmacogenetics of the treatment response of age-related macular degeneration with ranibizumab and bevacizumab.
-Age-related macular degeneration is a major cause of blindness among people aged 50 and older in industrialized countries. Anti-VEGF therapy has been tremendously successful in the treatment of neovascular macular degeneration. Examining the pharmacogenetics of patients' response to the anti-VEGF molecules could allow for a tailored treatment strategy based on patients' underlying genetics rather than the "one-size fits all" approach currently used.

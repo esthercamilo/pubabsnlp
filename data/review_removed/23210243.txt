@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Nov'}
-Development and comparison of a new personalized warfarin stable dose prediction algorithm in Chinese patients undergoing heart valve replacement.
-Pharmacogenetics-based algorithms would be especially desirable for patients undergoing heart valve replacement (HVR), who are particularly sensitive to warfarin during the initial treatment phase following surgery. We aimed to derive a warfarin dosing algorithm from data of Chinese patients undergoing HVR, and to compare it with previously published dosing algorithms as applied to our HVR patients.

@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Aug'}
-Lack of tacrolimus circadian pharmacokinetics and CYP3A5 pharmacogenetics in the early and maintenance stages in Japanese renal transplant recipients.
-We investigated whether tacrolimus pharmacokinetics shows circadian variation and the influence of the CYP3A5 A6986G polymorphism on the pharmacokinetics in both the early and maintenance stages after renal transplantation.

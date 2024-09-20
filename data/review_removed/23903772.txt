@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Oct'}
-Robust association of the LPA locus with low-density lipoprotein cholesterol lowering response to statin treatment in a meta-analysis of 30 467 individuals from both randomized control trials and observational studies and association with coronary artery disease outcome during statin treatment.
-The LPA single-nucleotide polymorphism rs10455872 has been associated with low-density lipoprotein cholesterol (LDLc) lowering response to statins in several randomized control trials (RCTs) and is a known coronary artery disease (CAD) marker. However, it is unclear what residual risk of CAD this marker may have during statin treatment.

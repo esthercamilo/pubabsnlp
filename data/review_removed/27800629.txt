@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Feb'}
-The combination of pharmacogenetic and pharmacokinetic analyses to optimize clomipramine dosing in major depression: a case report.
-Polymorphisms in cytochrome P450 2D6 and 2C19 can lead to interindividual differences in drug plasma concentrations, affecting clomipramine efficacy. Pharmacokinetic and pharmacogenetic analyses may improve drug therapy.

@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jan'}
-Predictive role of NUDT15 variants on thiopurine-induced myelotoxicity in Asian inflammatory bowel disease patients.
-Genetic variants of TPMT and NUDT15 have been reported to predict the inter-patient variability in response and toxicity profiles of patients receiving thiopurine therapy. However, the clinical utility of TPMT genotyping in guiding thiopurine doses has been questionable, in part due to underlying differences in the prevalence of TPMT variants in both Caucasian and Asian populations. Several NUDT15 variants have been associated with thiopurine-induced leukopenia, particularly in Asian cohorts. So far, none have been reported in a multiethnic Asian population.

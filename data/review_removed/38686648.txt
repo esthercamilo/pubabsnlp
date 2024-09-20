@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jun'}
-Genetic polymorphisms and major bleeding risk during vitamin K antagonists treatment: The BLEEDS case-cohort.
-Major bleeding occurs annually in 1%-3% of patients on vitamin K antagonists (VKAs), despite close monitoring. Genetic variants in proteins involved in VKA response may affect this risk.

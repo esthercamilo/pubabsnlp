@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Mar'}
-Allelic and genotype frequencies of major CYP2B6 polymorphisms in the Pakistani population.
-Cytochrome P450 (CYP2B6) is an important enzyme that metabolizes about 3.0% of therapeutic drugs. Drugs metabolized mainly by CYP2B6 include artemisinin, bupropion, cyclophosphamide, efavirenz, ketamine, and methadone. The genetic polymorphisms in the CYP2B6 gene have earlier been studied in many populations, but the data are lacking for the Pakistani population. This research study aimed to determine the frequencies of the three of the most important variant alleles and genotypes of the CYP2B6 gene in the Pakistani population.

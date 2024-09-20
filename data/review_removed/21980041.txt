@@ -1,3 +1,0 @@
-{'Year': '2011', 'Season': 'Sep-Oct'}
-Gemcitabine and platinum pathway pharmacogenetics in Asian breast cancer patients.
-Gemcitabine/carboplatin is efficacious in breast cancer but results in significant hematologic toxicities. We employed a multi-gene approach to identify variants to predict its toxicities.

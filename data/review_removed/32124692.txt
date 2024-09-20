@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Clinical Application of Thiopurine Pharmacogenomics in Pediatrics.
-Thiopurine drugs are used for the treatment of pediatric diseases. Inter-individual differences in the metabolism of these drugs greatly influence the risk of thiopurine induced toxicity and therapy failure. These differences are the consequence of genomic, epigenomic and transcriptomic variability among patients. Pharmacogenomics aims to individualize therapy according to the specific genetic signature of a patient. Treatment protocols based on thiopurine drugs have already been improved by applying pharmacogenomics in pediatric clinical practice.

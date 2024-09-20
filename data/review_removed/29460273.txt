@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May'}
-Pharmacogenetic Information in Clinical Guidelines: The European Perspective.
-Surveys among pharmacists and physicians show that these healthcare professionals have successfully adopted the concept of pharmacogenomics (PGx).<sup>1-3</sup> In addition, patients are willing to consent to participate in PGx implementation studies.<sup>4</sup> However, the surveys also show that healthcare professionals do not frequently order or recommend a PGx test.<sup>1,2</sup> Among others, a frequently perceived hurdle for clinical uptake of PGx is the availability of guidelines translating PGx test results into clinical actions for individual patients.<sup>5,6</sup>.

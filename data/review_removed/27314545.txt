@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Sep'}
-CYP3A pharmacogenetics and tacrolimus disposition in adult heart transplant recipients.
-Cytochrome P450 (CYP) 3A polymorphisms are associated with variable CYP3A metabolizing enzyme activity and tacrolimus pharmacokinetics. We sought to determine the singular and combined impact of CYP3A4*22 and CYP3A5*3 variants on tacrolimus drug disposition in adult heart transplant recipients.

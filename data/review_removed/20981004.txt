@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Dec'}
-Developing pharmacogenetic evidence throughout clinical development.
-Genetics as a discipline is fundamental for the pharmaceutical industry; it contributes to all therapeutic areas and has an impact throughout the research and development continuum, right up to and including clinical practice. Pharmacogenetics is seen as a significant contributor to increasing the efficiency and effectiveness of pharmaceutical R&D, and it enhances the growing interest in personalized medicine. This article discusses some contemporary issues that influence drug development and examines the potential of pharmacogenetics to reduce the risk and uncertainty that are inherent in the drug development process.

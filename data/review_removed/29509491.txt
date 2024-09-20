@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun', 'Day': '15'}
-Whole-Genome Sequencing of Pharmacogenetic Drug Response in Racially Diverse Children with Asthma.
-Albuterol, a bronchodilator medication, is the first-line therapy for asthma worldwide. There are significant racial/ethnic differences in albuterol drug response.

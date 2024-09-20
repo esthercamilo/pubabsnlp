@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'Oct'}
-Effect of cytokine and pharmacogenomic genetic polymorphisms in transplantation.
-Consolidating the information that we have on pharmacogenetics and on cytokine genetics to produce patient-oriented individualized drug regimens is an important challenge in transplantation medicine. Using a multi-variant approach based on genetic profile and other relevant clinical factors a score system may be developed to predict the severity of rejection, infection, or other complications associated with transplantation. The ultimate goal of these studies is to improve patient outcome through individualized drug regimens.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Oct'}
-Rooted in risk: genetic predisposition for low-density lipoprotein cholesterol level associates with diminished low-density lipoprotein cholesterol response to statin treatment.
-To utilize previously reported lead SNPs for low-density lipoprotein cholesterol (LDL-c) levels to find additional loci of importance to statin response, and examine whether genetic predisposition to LDL-c levels associates with differential statin response.

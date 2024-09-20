@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan', 'Day': '27'}
-Idéfix: identifying accidental sample mix-ups in biobanks using polygenic scores.
-Identifying sample mix-ups in biobanks is essential to allow the repurposing of genetic data for clinical pharmacogenetics. Pharmacogenetic advice based on the genetic information of another individual is potentially harmful. Existing methods for identifying mix-ups are limited to datasets in which additional omics data (e.g. gene expression) is available. Cohorts lacking such data can only use sex, which can reveal only half of the mix-ups. Here, we describe Idéfix, a method for the identification of accidental sample mix-ups in biobanks using polygenic scores.

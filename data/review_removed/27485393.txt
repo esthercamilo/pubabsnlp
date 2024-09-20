@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Sep'}
-Montelukast, current indications and prospective future applications.
-Montelukast is recommended for the treatment of asthma, exercise -induced bronchospasm and allergic rhinitis. Several trials demonstrated potential therapeutic effects in other respiratory conditions, and different animal-model-based studies explored potential pharmacological actions in non-respiratory conditions.

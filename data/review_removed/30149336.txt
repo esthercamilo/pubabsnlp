@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Dec', 'Day': '01'}
-The effect of pharmacogenomic testing on response and remission rates in the acute treatment of major depressive disorder: A meta-analysis.
-Pharmacogenomic testing has recently become scalable and available to guide the treatment of major depressive disorder (MDD). The objective of the current meta-analysis was to determine if guidance from pharmacogenomic testing results in relatively higher rates of remission and response compared to treatment as usual (i.e., 'unguided' trial-and-error method) in adults with MDD.

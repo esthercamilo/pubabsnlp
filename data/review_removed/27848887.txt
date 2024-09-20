@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Nov', 'Day': '16'}
-Metabolism and toxicological implications of commonly used chemopreventive drugs against breast cancer/carcinogenesis.
-Breast cancer has been reported to be among the frequently diagnosed cancer in women worldwide despite advances in early detection and treatment. Several drugs are currently used for chemoprevention as a result of a number of drawbacks associated with breast cancer therapy.

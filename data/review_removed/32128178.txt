@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Feb'}
-Precision medication: An illustrative case series guiding the clinical application of multi-drug interactions and pharmacogenomics.
-Precision medication entails selecting the precise medication, dose, and timing of administration. Multi-drug interactions and genetics significantly affect precision medication. In this article, we present two simulated cases for real-world applications of precision medication. Clinicians may need to acquire additional skills to apply the principles illustrated by these cases.

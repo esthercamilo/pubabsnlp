@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Sep', 'Day': '01'}
-Clinical and pharmacogenetics associated with recovery time from general anesthesia.
-Delayed recovery from general anesthesia is a well-known complication that requires predictive tools and approaches. This study aimed to determine significant factors associated with postanesthesia recovery and to develop an algorithm for estimating recovery time from general anesthesia.

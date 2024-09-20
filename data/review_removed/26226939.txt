@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Pharmacogenetics of cutaneous flushing response to niacin/laropiprant combination in Hong Kong Chinese patients with dyslipidemia.
-Cutaneous flushing with niacin varies between individuals and is substantially reduced by concomitant laropiprant. We investigated associations between baseline phenotypes and selected genotypes and flushing symptoms with niacin/laropiprant combination.

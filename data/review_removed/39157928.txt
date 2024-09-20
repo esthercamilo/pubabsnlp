@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Aug'}
-UGT1A1*28 polymorphism and the risk of toxicity and disease progression in patients with breast cancer receiving sacituzumab govitecan.
-Sacituzumab govitecan (sacituzumab) emerged as an important agent in metastatic and locally recurrent HER2-negative breast cancer treatment. UGT1A1 polymorphisms have also been shown to predict sacituzumab toxicity.

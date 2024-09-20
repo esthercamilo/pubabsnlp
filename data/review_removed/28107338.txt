@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Feb', 'Day': '01'}
-Apply Resources to Practice: Use Current Genetics and Genomics Content in Oncology.
-Genetic and genomic science directly affects oncology nursing care. Many resources are available to enable oncology nurses to better understand and deliver competent genomic care to patients and families. This article relays resources for germline genetic testing, tumor profiling, pharmacogenomics, and nursing education.

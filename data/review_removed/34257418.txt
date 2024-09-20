@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Oct'}
-Neptune: an environment for the delivery of genomic medicine.
-Genomic medicine holds great promise for improving health care, but integrating searchable and actionable genetic data into electronic health records (EHRs) remains a challenge. Here we describe Neptune, a system for managing the interaction between a clinical laboratory and an EHR system during the clinical reporting process.

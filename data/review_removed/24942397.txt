@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jul'}
-New oral anticoagulants vs. warfarin treatment: no need for pharmacogenomics?
-For patients requiring long-term anticoagulation, oral vitamin K antagonists (VKAs) such as warfarin have overwhelming efficacy data and present significant challenges. In addition to the potential exposure to numerous drug-drug and drug-food interactions, patients receiving warfarin require frequent monitoring. It had been hoped that the integration of pharmacogenomic with clinical information would improve anticoagulation control with warfarin, but trials have not supported this aim. Novel oral anticoagulants (NOACs) offer both advantages and disadvantages and deserve consideration in appropriate patients.

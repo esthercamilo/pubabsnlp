@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Apr'}
-Pharmacogenetics in the cancer clinic: from candidate gene studies to next-generation sequencing.
-Genetics has significantly added to our understanding of variability in drug response, especially in cancer treatment. Pharmacogenetics, aimed at predicting a patient's chance for effective and safe drug treatment by interrogating germ line genetic variants, has moved from investigating a monogenetic candidate gene to examining complex phenotype-based genome-wide approaches. With the rapid advances in sequencing technologies, decline in costs, and swift turnaround times, large-scale genomic information will become available in the clinical setting, facilitating implementation of pharmacogenetics.

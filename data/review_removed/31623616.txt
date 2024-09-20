@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Oct', 'Day': '17'}
-Utilizing a user-centered approach to develop and assess pharmacogenomic clinical decision support for thiopurine methyltransferase.
-A pharmacogenomic clinical decision support tool (PGx-CDS) for thiopurine medications can help physicians incorporate pharmacogenomic results into prescribing decisions by providing up-to-date, real-time decision support. However, the PGx-CDS user interface may introduce errors and promote alert fatigue. The objective of this study was to develop and evaluate a prototype of a PGx-CDS user interface for thiopurine medications with user-centered design methods.

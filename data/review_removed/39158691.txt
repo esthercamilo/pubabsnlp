@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Aug', 'Day': '19'}
-Serious gaming as potential training tool for recognition of adverse drug reactions: side-effect exposure-medical education (SeeMe).
-The recognition of adverse drug reactions (ADRs) is an important part of daily clinical work. However, medical education in this field is mostly drug-based and does not address adequately the complexity of this field regarding individual risk factors and polypharmacy. This study investigates the potential of the web-based serious game SeeMe (side-effect exposure-medical education) in pharmacological education of medical students to improve the recognition of relevant ADRs.

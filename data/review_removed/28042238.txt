@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Drug metabolism and pancreatic cancer.
-Pancreatic cancer remains a fatal disease in the majority of patients. The era of personalized medicine is upon us: customizing therapy according to each patient's individual cancer. Potentially, therapy can be targeted at individuals who would most likely have a favorable response, making it more efficacious and cost effective. This is particularly relevant for pancreatic cancer, which currently portends a very poor prognosis. However, there is much to be done in this field, and more studies are needed to bring this concept to reality.

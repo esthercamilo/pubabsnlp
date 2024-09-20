@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Mar'}
-Knowledge of Pharmacogenetics among Healthcare Professionals and Faculty Members of Health Training Institutions in Ghana.
-Pharmacogenetics has a potential for optimizing drug response and identifying risk of toxicity for patients. Pharmacogenetics knowledge of healthcare professionals and the unmet need for pharmacogenetics education in health training institutions are some of the challenges of integrating pharmacogenetics into routine medical practice.

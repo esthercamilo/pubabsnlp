@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Nov'}
-BDNF Val66Met polymorphism and lithium response: a meta-analysis.
-To characterize the impact of the Val66Met polymorphism on lithium response in patients with bipolar disorder.

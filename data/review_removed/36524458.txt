@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Apr'}
-Poor association between dihydropyrimidine dehydrogenase (DPYD) genotype and fluoropyrimidine-induced toxicity in an Asian population.
-Dihydropyrimidine dehydrogenase (DPYD) genotype is closely associated with fluoropyrimidine (FP)-induced toxicities in Caucasian population and European Medicines Agency now recommends DPYD genotype-based FP dosing strategy.

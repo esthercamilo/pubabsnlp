@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Dec'}
-Individualized Hydrocodone Therapy Based on Phenotype, Pharmacogenetics, and Pharmacokinetic Dosing.
-(1) To quantify hydrocodone (HC) and hydromorphone (HM) metabolite pharmacokinetics with pharmacogenetics in CYP2D6 ultra-rapid metabolizer (UM), extensive metabolizer (EM), and poor metabolizer (PM) metabolizer phenotypes. (2) To develop an HC phenotype-specific dosing strategy for HC that accounts for HM production using clinical pharmacokinetics integrated with pharmacogenetics for patient safety.

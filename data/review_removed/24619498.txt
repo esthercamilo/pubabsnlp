@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'May'}
-Clinical pharmacology of an atrasentan and docetaxel regimen in men with hormone-refractory prostate cancer.
-This study was conducted to evaluate potential pharmacokinetic interactions between docetaxel and atrasentan as part of a phase I/II clinical trial.

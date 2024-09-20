@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Nov'}
-Pharmacogenetics and stroke.
-Genetic variations have been shown to influence drug metabolism, risk of adverse drug events, and pharmacodynamic responses for many drugs routinely used to treat patients with stroke or at risk for stroke. Examples include clopidogrel, statins, antihypertensive medications, and coumadin. Further validation studies are needed to assess the clinical utility of selecting drugs and doses based on genetic tests. Physicians, pharmaceutical companies, regulatory agencies, and health insurers continue to grapple with how best to translate this burgeoning field into effective individualized medicine.

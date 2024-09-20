@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Sep'}
-Toxicogenomics in drug discovery and development -- making an impact.
-As a branch of pharmacogenomics aimed at predicting drug safety concerns, toxicogenomics drew much excitement with the emergence of technologies such as gene expression microarrays. A few years down the line, the evidence is scant that current approaches to toxicogenomics are really making an impact in areas such as preclinical toxicology. It has been argued that there needs to be a re-focus of application toward high-throughput approaches which combine the best of tissue and genomic modelling. This commentary gives a brief introduction to in vitro toxicogenomics, drawn from the perspectives of the specialist toxicogenomics company, SimuGen.

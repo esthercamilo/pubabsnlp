@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Mar'}
-No major role of norepinephrine transporter gene variations in the cardiostimulant effects of MDMA.
-Methylenedioxymethamphetamine (MDMA, ecstasy) is used recreationally and frequently leads to sympathomimetic toxicity. MDMA produces cardiovascular and subjective stimulant effects that were shown to partially depend on the norepinephrine transporter (NET)-mediated release of norepinephrine and stimulation of α<sub>1</sub>-adrenergic receptors. Genetic variants, such as single-nucleotide polymorphisms (SNPs), of the NET gene (SLC6A2) may explain interindividual differences in the acute stimulant-type responses to MDMA in humans.

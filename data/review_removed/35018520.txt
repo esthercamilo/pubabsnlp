@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Apr'}
-Pharmacogenetic and clinical predictors of ondansetron failure in a diverse pediatric oncology population.
-Chemotherapy-induced nausea and vomiting (CINV) is a frequently seen burdensome adverse event of cancer therapy. The 5-HT3 receptor antagonist ondansetron has improved the rates of CINV but, unfortunately, up to 30% of patients do not obtain satisfactory control. This study examined whether genetic variations in a relevant drug-metabolizing enzyme (CYP2D6), transporter (ABCB1), or receptor (5-HT3) were associated with ondansetron failure.

@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Repurposing Drugs for COVID-19: Pharmacokinetics and Pharmacogenomics of Chloroquine and Hydroxychloroquine.
-A new coronavirus SARS-CoV-2 has been identified as the etiological agent of the severe acute respiratory syndrome, COVID-19, the source and cause of the 2019-20 coronavirus pandemic. Hydroxychloroquine and chloroquine have gathered extraordinary attention as therapeutic candidates against SARS-CoV-2 infections. While there is growing scientific data on the therapeutic effect, there is also concern for toxicity of the medications. The therapy of COVID-19 by hydroxychloroquine and chloroquine is off-label. Studies to analyze the personalized effect and safety are lacking.

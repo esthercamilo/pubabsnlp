@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Apr'}
-Brain-derived neurotrophic factor Val66Met and CYP2B6 polymorphisms as predictors for ketamine effectiveness in patients with treatment-resistant depression.
-Converging lines of evidence indicate that ketamine is a rapid antidepressant for individuals with treatment-resistant depression. Hitherto, no reliable a priori predictors of ketamine response have been reported. Pharmacogenetic biomarkers have yielded mixed results regarding potential candidate genes associated with ketamine's biochemistry as reliable predictors of response.

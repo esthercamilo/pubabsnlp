@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Mar', 'Day': '03'}
-Prediction of sensitivity to warfarin based on VKORC1 and CYP2C9 polymorphisms in patients from different places in Colombia.
-In the search to prevent hemorrhages associated with anticoagulant therapy, a major goal is to validate predictors of sensitivity to warfarin. However, previous studies in Colombia that included polymorphisms in the VKORC1 and CYP2C9 genes as predictors reported different algorithm performances to explain dose variations, and did not evaluate the prediction of sensitivity to warfarin. 

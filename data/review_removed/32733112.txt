@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jul', 'Day': '23'}
-The Influence of Concentration of Micro-RNA hsa-miR-370-3p and CYP2D6*4 on Equilibrium Concentration of Mirtazapine in Patients With Major Depressive Disorder.
-Mirtazapine is commonly prescribed to patients diagnosed with major depressive disorder.Some proportion of these patients do not show adequate response to treatment regimen containing mirtazapine, whereas many of them experience dose-dependent adverse drug reactions. Results of the previous studies showed that CYP2D6 is involved in the biotransformation of mirtazapine, the activity of which is highly dependent on the polymorphism of the gene encoding it.

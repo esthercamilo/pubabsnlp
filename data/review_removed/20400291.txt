@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Jul'}
-Mechanisms of dexamethasone-induced disturbed sleep and fatigue in paediatric patients receiving treatment for ALL.
-Dexamethasone contributes to high cure rates in paediatric acute lymphoblastic leukaemia (ALL) but significantly and adversely alters sleep and fatigue. Herein we explored three mechanisms (pharmacokinetics, serum albumin and pharmacogenetics) through which dexamethasone may cause debilitating fatigue and disrupted sleep.

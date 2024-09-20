@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jan'}
-Cost-Effectiveness of Multigene Pharmacogenetic Testing in Patients With Acute Coronary Syndrome After Percutaneous Coronary Intervention.
-To evaluate the cost-effectiveness of multigene testing (CYP2C19, SLCO1B1, CYP2C9, VKORC1) compared with single-gene testing (CYP2C19) and standard of care (no genotyping) in acute coronary syndrome (ACS) patients undergoing percutaneous coronary intervention (PCI) from Medicare's perspective.

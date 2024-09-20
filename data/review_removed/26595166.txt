@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Dec'}
-The influence of ABCB1 polymorphism C3435T on the pharmacokinetics of silibinin.
-Silibinin (Silybin), a major constituent of the milk thistle, is commonly used to treat chronic liver disease in some countries. It has been reported to inhibit the transport activity of ABCB1. This study was carried out to determine whether ABCB1 C3435T polymorphism influenced the pharmacokinetics of silibinin contained in silymarin capsules.

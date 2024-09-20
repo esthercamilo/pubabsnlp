@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jan'}
-Epidemiology and characteristics of adverse drug reactions caused by drug-drug interactions.
-Drug-drug interactions (DDIs) arise in numerous different ways, involving pharmacokinetic or pharmacodynamic mechanisms. Adverse drug reactions are a possible consequence of DDIs and health operators are often unaware of the clinical risks of certain drug combinations. Many papers on drug interactions have been published in recent years, but most of them focused on potential DDIs while few studies have been conducted on actual interactions.

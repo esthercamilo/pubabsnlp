@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Sep', 'Day': '01'}
-ABCB1 (MDR-1) pharmacogenetics of tacrolimus in renal transplanted patients: a Next Generation Sequencing approach.
-A CYP3A5 gene polymorphism is the main determinant of Tacrolimus (Tac) dose requirements among renal transplanted patients. In spite of the utility of CYP3A5 genotyping to predict the Tac-dose, many patients exhibit an out of range blood Tac level and it is thus likely that other genes/polymorphisms contribute to define Tac bioavailability. To address this issue we searched for coding sequence variants in the ABCB1/MDR1 gene in renal transplanted patients treated with Tac and who had out of the range blood levels.

@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Sep'}
-Teaching students in clinical programs about pharmacogenomics: do they understand drug-drug interactions?
-Teaching the clinical implementation of pharmacogenomics to students in clinical programs first requires careful consideration of their aptitude in basic clinical pharmacologic concepts. Prior to developing training exercises on drug-gene interactions, educators must first assess student competency in identifying and managing drug-drug interactions given the similarities in identifying and managing these sources of medication error.

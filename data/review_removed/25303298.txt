@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-No association between CYP3A4*22 and statin effectiveness in reducing the risk for myocardial infarction.
-Genetic variation has been shown to influence statin response in terms of lowering LDL cholesterol. The recently discovered CYP3A4*22 allele (defined as rs35599367) has been shown to affect statin-induced LDL cholesterol lowering. Our objective was to investigate whether this polymorphism modifies the risk reduction for myocardial infarction (MI) by statins.

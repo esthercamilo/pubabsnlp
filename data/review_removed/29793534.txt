@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May', 'Day': '25'}
-Integrating rare genetic variants into pharmacogenetic drug response predictions.
-Variability in genes implicated in drug pharmacokinetics or drug response can modulate treatment efficacy or predispose to adverse drug reactions. Besides common genetic polymorphisms, recent sequencing projects revealed a plethora of rare genetic variants in genes encoding proteins involved in drug metabolism, transport, and response.

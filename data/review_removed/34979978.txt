@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan', 'Day': '03'}
-Fatigue in breast cancer patients on chemotherapy: a cross-sectional study exploring clinical, biological, and genetic factors.
-Cancer-related fatigue (CRF) is one of the most common and distressing complaints reported by cancer patients during chemotherapy considerably impacting all aspects of a patient's life (physical, psychosocial, professional, and socioeconomic). The aim of this study was to assess the severity of cancer-related fatigue in a group of breast cancer patients undergoing chemotherapy and explore the association between fatigue scores and sociodemographic, clinical, biological, psychiatric, and genetic factors.

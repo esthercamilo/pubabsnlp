@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Feb', 'Day': '01'}
-Discovery of genetic biomarkers contributing to variation in drug response of cytidine analogues using human lymphoblastoid cell lines.
-Two cytidine analogues, gemcitabine and cytosine arabinoside (AraC), are widely used in the treatment of a variety of cancers with a large individual variation in response. To identify potential genetic biomarkers associated with response to these two drugs, we used a human lymphoblastoid cell line (LCL) model system with extensive genomic data, including 1.3 million SNPs and 54,000 basal expression probesets to perform genome-wide association studies (GWAS) with gemcitabine and AraC IC50 values.

@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Nov'}
-The role of CYP2D6 and ABCB1 pharmacogenetics in drug-naïve patients with first-episode schizophrenia treated with risperidone.
-To evaluate the role of cytochrome 450 2D6 (CYP2D6) and ABCB1 variants on plasma risperidone concentrations and treatment response in 83 drug-naive patients experiencing a first episode of psychosis.

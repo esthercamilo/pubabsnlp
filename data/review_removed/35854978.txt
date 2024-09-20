@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Aug', 'Day': '01'}
-Variants of <i>SLC2A10</i> may be Linked to Poor Response to Metformin.
-A study among Filipinos revealed that only 15% of patients with diabetes achieved glycemic control, and poor response to metformin could be one of the possible reasons. Recent studies demonstrate how genetic variations influence response to metformin. Hence, the present study aimed to determine genetic variants associated with poor response to metformin.

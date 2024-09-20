@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Nov'}
-Impact of genetic variants of GLCCI1 on operational therapy in Chinese chronic rhinosinusitis patients.
-Endoscopic surgery and postoperative glucocorticoids may effectively control inflammation in patients with chronic rhinosinusitis (CRS). However, some patients who are insensitive to glucocorticoids have a poor prognosis. Studies have shown that the GLCCI1 polymorphism is related to sensitivity to glucocorticoids, but no study has been conducted in China to investigate the relationship between GLCCI1 polymorphisms and postoperative prognosis of CRS.

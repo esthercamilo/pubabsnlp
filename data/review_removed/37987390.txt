@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Nov', 'Day': '19'}
-The Potential Roles of Pharmacists in the Clinical Implementation of Pharmacogenomics.
-The field of pharmacogenomics is at the forefront of a healthcare revolution, promising to usher in a new era of precision medicine [...].

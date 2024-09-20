@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jun'}
-Florida Best Practice Psychotherapeutic Medication Guidelines for Adults With Major Depressive Disorder.
-Herein we provide the 2015 update for the Florida Best Practice Psychotherapeutic Medication Guidelines (FPG) for major depressive disorder (MDD). The FPG represent evidence-based decision support for practitioners providing care to adults with MDD.

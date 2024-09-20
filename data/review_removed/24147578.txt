@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Dec'}
-Glutamate drugs and pharmacogenetics of OCD: a pathway-based exploratory approach.
-Neuropharmacology research in glutamate-modulating drugs supports their development and use in the management of neuropsychiatric disorders, including major depression, Alzheimer's disorder and schizophrenia. Concomitantly, there is a growing use of these agents used in the treatment of obsessive-compulsive disorder (OCD).

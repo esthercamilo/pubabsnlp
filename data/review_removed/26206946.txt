@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jul', 'Day': '23'}
-Warfarin pharmacogenomics and African ancestry.
-In this issue of Blood, Limdi and coauthors demonstrate that racially informed warfarin pharmacogenetic algorithms perform better than traditional algorithms, which previously excluded genetic variants that are unique to patients with African ancestry.

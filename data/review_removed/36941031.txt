@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Jul'}
-Genome-wide association study identifies genetic variants which predict the response of bone mineral density to teriparatide therapy.
-Teriparatide (TPTD) is an effective treatment for osteoporosis but the individual response to therapy is variable for reasons that are unclear. This study aimed to determine whether the response to TPTD might be influenced by genetic factors.

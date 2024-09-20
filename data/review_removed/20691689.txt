@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Nov'}
-Chenodeoxycholate in females with irritable bowel syndrome-constipation: a pharmacodynamic and pharmacogenetic analysis.
-Sodium chenodeoxycholate (CDC) accelerates colonic transit in health. Our aim was to examine pharmacodynamics (colonic transit, bowel function) and pharmacogenetics of CDC in constipation-predominant irritable bowel syndrome (IBS-C).

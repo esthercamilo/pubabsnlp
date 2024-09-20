@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct'}
-CYP2D6 genotype and endoxifen plasma concentration do not predict hot flash severity during tamoxifen therapy.
-Tamoxifen is frequently prescribed to prevent breast cancer recurrence. Tamoxifen is a prodrug and requires bioactivation by CYP2D6. Tamoxifen use is often limited by adverse effects including severe hot flashes. There is paucity of prospectively collected data in terms of CYP2D6 genotype and measured tamoxifen, 4-hydroxytamoxifen and endoxifen concentrations in relation to hot flash severity during tamoxifen therapy.

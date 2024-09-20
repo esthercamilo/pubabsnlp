@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Dec'}
-Genetic studies of age-related macular degeneration: lessons, challenges, and opportunities for disease management.
-Age-related macular degeneration (AMD) is a common cause of visual impairment in individuals >55 years of age worldwide. The varying clinical phenotypes of AMD result from contributions of genetic, epigenetic, and nongenetic (environmental) factors. Genetic studies of AMD have come of age as a direct result of tremendous gains from the human genome project, genome-wide association studies, and identification of numerous susceptibility loci. These findings have implicated immune response, high-density lipoprotein cholesterol metabolism, extracellular matrix, and angiogenesis signaling pathways in disease pathophysiology.

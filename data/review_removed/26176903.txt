@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Jul'}
-Interethnic variability of CYP4F2 (V433M) in admixed population of Roma and Hungarians.
-Pharmacogenetic based dosing recommendations are provided in FDA-approved warfarin label for Caucasians. Evidence of notable difference in dosing algorithms of under-represented populations forced us to explore the genetic variability of CYP4F2 gene in Roma and Hungarian populations.

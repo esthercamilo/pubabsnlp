@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Apr'}
-Pharmacometrics-Based Considerations for the Design of a Pharmacogenomic Clinical Trial Assessing Irinotecan Safety.
-Pharmacometric models provide useful tools to aid the rational design of clinical trials. This study evaluates study design-, drug-, and patient-related features as well as analysis methods for their influence on the power to demonstrate a benefit of pharmacogenomics (PGx)-based dosing regarding myelotoxicity.

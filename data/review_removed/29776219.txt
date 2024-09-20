@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'May'}
-A simulation of warfarin maintenance dose requirement using a pharmacogenetic algorithm in an ethnically diverse cohort.
-Patient demographics and variant alleles in the CYP2C9 and VKORC1 genes account for 50% of the population variability in warfarin maintenance doses. These variant alleles occur in varying frequencies between racial groups and contribute to differences in mean dose requirements between these groups. We used a pharmacogenetic simulation to estimate warfarin maintenance doses in an ethnically diverse cohort.

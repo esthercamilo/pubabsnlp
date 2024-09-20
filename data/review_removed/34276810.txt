@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Alternative chemoradiotherapy in anal carcinoma patients with mutations in thymidylate synthase and dihydropyrimidine dehydrogenase genes.
-5-fluorouracil (5-FU) and mitomycin-C (MMC) with radiotherapy (RT) remain an established treatment for patients with anal cancer (AC). Genetic mutations in two major metabolizing enzymes for 5-FU; dihydropyrimidine dehydrogenase (<i>DPYD</i> and thymidylate synthetase (<i>TYMS</i>), have been associated with clinical response and toxicity. However, their place in the treatment of AC remains undetermined.

@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Apr', 'Day': '01'}
-Pharmacogenetics: from discovery to patient care.
-The basic concepts of pharmacogenetics, pharmacogenetic study approaches, factors to consider when applying pharmacogenetic discoveries to patient care, and potential roles for pharmacists in pharmacogenetics are discussed.

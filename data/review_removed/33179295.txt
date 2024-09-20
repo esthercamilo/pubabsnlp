@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'May'}
-The impact of ABCB1 and CES1 polymorphisms on dabigatran pharmacokinetics and pharmacodynamics in patients with atrial fibrillation.
-Our study aimed to determine the impact of genetic polymorphisms of ABCB1 and CES1 on the pharmacokinetics (PK) and pharmacodynamics (PD) of dabigatran in patients with nonvalvular atrial fibrillation (NVAF).

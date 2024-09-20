@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Role of pharmacogenetics of drug-metabolizing enzymes in treating osteosarcoma.
-Drug-metabolizing enzymes (DMEs) biotransform several toxins and xenobiotics in both tumor and normal cells, resulting in either their detoxification or their activation. Since DMEs also metabolize several chemotherapeutic drugs, they can significantly influence tumor response to chemotherapy and susceptibility of normal tissues to collateral toxicity of anticancer treatments.

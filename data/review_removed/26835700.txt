@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jul'}
-Hyperuricaemia: contributions of urate transporter ABCG2 and the fractional renal clearance of urate.
-To investigate the contributions towards hyperuricaemia of known risk factors, focusing on fractional (renal) clearance of urate (FCU) and variation in the ATP-binding cassette transporter, sub-family G 2 (ABCG2) gene.

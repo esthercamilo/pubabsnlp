@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'May'}
-Glutathione S-transferase theta genotypes and environmental exposures in the risk of canine transitional cell carcinoma.
-Transitional cell carcinoma (TCC) in humans is associated with environmental exposures and variants in glutathione S-transferase (GST) genes. Scottish Terriers have a high breed risk for TCC, but the relationship between genetic and environmental risk in dogs is not fully understood.

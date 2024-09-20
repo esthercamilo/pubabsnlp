@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jan'}
-Combinatorial Pharmacogenomic Testing Improves Outcomes for Older Adults With Depression.
-(Reprinted with permission from <i>Am J Geriatr Psychiatry</i> 2020; 28:933-945).

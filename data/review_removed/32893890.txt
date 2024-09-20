@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Feb'}
-Extremely low dose of 6-mercaptopurine in a Chinese child with acute lymphoblastic leukaemia and multiple pharmacogenetic mutations.
-Thiopurines are cornerstone drugs in the treatment of acute lymphoblastic leukaemia (ALL), but their use can be complicated by the incidence of life-threatening leucopenia.

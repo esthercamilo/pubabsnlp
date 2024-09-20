@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Dec'}
-A core promoter variant of angiotensinogen gene and interindividual variation in response to angiotensin-converting enzyme inhibitors.
-The polymorphic angiotensinogen (AGT) gene is one of the most promising candidates for essential hypertension. The aim of this study was to examine the association between the A-6G variant of the AGT gene and the blood pressure response to angiotensin-converting enzyme (ACE) inhibitors in hypertensive subjects.

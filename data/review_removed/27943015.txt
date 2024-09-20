@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Aug'}
-Personalized Drug Dosage - Closing the Loop.
-A brief account is given of various approaches to the individualization of drug dosage, including the use of pharmacodynamic markers, therapeutic monitoring of plasma drug concentrations, genotyping, computer-guided dosage using 'dashboards', and automatic closed-loop control of pharmacological action. The potential for linking the real patient to his or her 'virtual twin' through the application of physiologically-based pharmacokinetic modeling is also discussed.

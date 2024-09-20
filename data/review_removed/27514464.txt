@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Sep'}
-Pharmacogenetics and Personalized Medicine in Pain Management.
-Genetic research heralds a new therapeutic approach to pain management. Increasing literature demonstrates individual genetic vulnerabilities to specific pain types and mechanisms, partially explaining differing responses to similar pain stimuli. Furthermore, analgesics demonstrate great variability among carriers of different genotypes. Family history and genotyping promise to play an important role in the future approach to pain therapies. As advances continue in the genetics of pain and analgesia, pharmacotherapy will depend more on an individualized, targeted approach and less on empiricism.

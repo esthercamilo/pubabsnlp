@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct'}
-Association of Allelic Interaction of Single Nucleotide Polymorphisms of Influx and Efflux Transporters Genes With Nonhematologic Adverse Events of Docetaxel in Breast Cancer Patients.
-Nonhematologic adverse events (AEs) of docetaxel constitute an extra burden in the treatment of cancer patients and necessitate either a dose reduction or an outright switch of docetaxel for other regimens. These AEs are frequently associated with genetic polymorphisms of genes encoding for proteins involved docetaxel disposition. Therefore, we investigated that association in Malaysian breast cancer patients.

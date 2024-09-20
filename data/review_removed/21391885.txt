@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'May'}
-Resequencing, haplotype construction and identification of novel variants of CYP2D6 in Mexican Mestizos.
-The CYP2D6 enzyme participates in the metabolism of commonly prescribed drugs: antidepressants, antipsychotics and antihypertensives. The CYP2D6 gene shows a high degree of interindividual and interethnic variability that influences its expression and function. Mexican Mestizos are a recently admixed population resulting from the combination of Amerindian, European and, to a lesser extent, African populations. This study aimed to comprehensively characterize the CYP2D6 gene in Mexican Mestizos.

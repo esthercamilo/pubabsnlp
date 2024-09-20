@@ -1,3 +1,0 @@
-{'Year': '2022'}
-Integrative pharmacogenomics revealed three subtypes with different immune landscapes and specific therapeutic responses in lung adenocarcinoma.
-Pharmacogenomics is crucial for individualized drug therapy and plays an increasingly vital role in precision medicine decision-making. However, pharmacogenomics-based molecular subtypes and their potential clinical significance remain primarily unexplored in lung adenocarcinoma (LUAD).

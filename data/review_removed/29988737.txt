@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Effects of CYP2D6 genetic polymorphisms on the efficacy and safety of fluvoxamine in patients with depressive disorder and comorbid alcohol use disorder.
-Fluvoxamine therapy is used for treatment of patients with depressive disorder, but it is often ineffective, and some patients suffer from dose-dependent undesirable side effects such as vertigo, headache, indigestion, xerostomia, increased anxiety, etc. CYP2D6 is involved in the biotransformation of fluvoxamine. Meanwhile, the genes encoding these isoenzymes have a high level of polymorphism, which may affect the protein synthesis.

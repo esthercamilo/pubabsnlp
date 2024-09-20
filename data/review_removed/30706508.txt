@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'May'}
-Evaluating metronidazole as a novel, safe CYP2A6 phenotyping probe in healthy adults.
-CYP2A6 is a genetically polymorphic enzyme resulting in differential substrate metabolism and health behaviours. Current phenotyping probes for CYP2A6 exhibit limitations related to procurement (deuterated cotinine), toxicity (coumarin), specificity (caffeine) and age-appropriate administration (nicotine, NIC). In vitro, CYP2A6 selectively forms 2-hydroxymetronidazole (2HM) from metronidazole (MTZ). The purpose of this study was to evaluate MTZ as a CYP2A6 phenotyping probe drug in healthy adults against the well-established method of measuring trans-3-hydroxycotinine (3HC)/cotinine (COT).

@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Feb', 'Day': '23'}
-Personalized Medicine in Infant Population with Cancer: Pharmacogenetic Pilot Study of Polymorphisms Related to Toxicity and Response to Chemotherapy.
-Pharmacogenetics is a personalized medicine tool that aims to optimize treatments by adapting them to each individual's genetics, maximizing their efficacy while minimizing their toxicity. Infants with cancer are especially vulnerable, and their co-morbidities have vital repercussions. The study of their pharmacogenetics is new in this clinical field.

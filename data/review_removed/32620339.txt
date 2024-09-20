@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jul'}
-Hepatic Adaptation to Therapeutic Doses of Acetaminophen: An Exploratory Study in Healthy Individuals.
-Acetaminophen (APAP) has hepatotoxic potential when overdosed. Recent studies have reported serum alanine aminotransferase (ALT) elevations that resolve spontaneously with continued use of the drug, referred to as adaptation, in several individuals receiving therapeutic doses of APAP. However, the clinical significance of these ALT elevations remains unclear. This study was performed to investigate the incidence and characteristics of hepatic adaptation to therapeutic doses of APAP in healthy individuals.

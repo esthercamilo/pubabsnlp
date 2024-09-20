@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'May'}
-Towards personalized treatment in atopic dermatitis.
-For many years, oral immunosuppressive drugs such as cyclosporine A, azathioprine, mycophenolic acid, and methotrexate were the only treatment options, in addition to topical treatment, in patients with severe atopic dermatitis (AD). Dupilumab, a monoclonal antibody targeting the IL-4 receptor alpha, is the first antibody-based treatment commercially available for the treatment of AD. In the near future, more antibody-based treatments and small molecules will become available in the treatment of severe AD.

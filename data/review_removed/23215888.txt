@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Dec'}
-Pharmacogenetics and beyond: variability of voriconazole plasma levels in a patient with primary immunodeficiency.
-We report the case of a patient highly susceptible to invasive aspergillosis who received treatment with voriconazole (VRC). As part of therapeutic drug monitoring, VRC plasma trough concentrations were measured, showing undetectable levels (<0.16 µg/ml). Genotyping showed a heterozygous profile CYP2C19*1/*17, known to be associated with an ultrarapid-metabolism phenotype, contributing to the very low systemic exposure observed. Therefore, in this situation, the use of VRC treatment could be associated with therapeutic failure.

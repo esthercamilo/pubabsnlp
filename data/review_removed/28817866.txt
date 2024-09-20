@@ -1,3 +1,0 @@
-{'MedlineDate': '2017 Spec'}
-Genomic Medicine in Primary Care.
-Genomic medicine is a powerful tool with great potential to improve outcomes in the primary care setting. From a broad perspective, genomic medicine can be applied to rare disease, common disease and pharmacogenetics. There are applications in which it can be used to better identify rare disease, improve screening for common disease, reduce adverse drug effects and help to identify the right medication more quickly. This article provides specific examples of clinical applications for genomic medicine in the realm of cardiovascular disease to provide a better understanding of its potential use in primary care.

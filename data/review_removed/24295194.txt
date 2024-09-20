@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Dec'}
-Cytochrome p450, part 1: what nurses really need to know.
-Although knowledge about the impact of cytochrome p450 on individual variations in drug response has been known for decades, the transition to clinical practice has not evolved. Nurses who administer and prescribe medications have a responsibility to their patients to understand the responses to medications that are mediated by this family of enzymes. An overview of the variations seen in drug responses based on genetics is presented with discussion focusing on the current prescriptive practices and limitations in clinical drug trials.

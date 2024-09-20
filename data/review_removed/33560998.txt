@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Mar', 'Day': '12'}
-Artificial Intelligence-Aided Precision Medicine for COVID-19: Strategic Areas of Research and Development.
-Artificial intelligence (AI) technologies can play a key role in preventing, detecting, and monitoring epidemics. In this paper, we provide an overview of the recently published literature on the COVID-19 pandemic in four strategic areas: (1) triage, diagnosis, and risk prediction; (2) drug repurposing and development; (3) pharmacogenomics and vaccines; and (4) mining of the medical literature. We highlight how AI-powered health care can enable public health systems to efficiently handle future outbreaks and improve patient outcomes.

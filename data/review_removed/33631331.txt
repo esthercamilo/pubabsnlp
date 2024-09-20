@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Sep'}
-Clinical and Genetic Factors Associated With the Breast Cancer-Related Sleep Disorders: The "CAGE-Sleep" Study-A Cross-Sectional Study.
-Despite being among the most reported concerns in breast cancer patients, sleep disturbances are still poorly assessed and managed in routine clinical practice. Correctly evaluating these symptoms and understanding the underlying clinical and genetic factors would help medical teams develop an adequate treatment strategy for each patient.

@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jul'}
-Pharmacogenomic testing: perception of clinical utility, enablers and barriers to adoption in Australian hospitals.
-Despite healthcare professionals (HCP) endorsing the clinical utility of pharmacogenomics testing, use in clinical practice is limited.

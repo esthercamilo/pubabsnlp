@@ -1,3 +1,0 @@
-{'Year': '2008'}
-Harnessing pharmacogenomics to tackle resistance to the "nucleoside reverse trancripatse inhibitor" backbone of highly active antiretroviral therapy in resource limited settings.
-The sustainable use of HAART within the sub-Saharan and other developing world settings faces the emerging challenge of drug resistance. Nucleoside reverse transcriptase inhibitors (NRTI) form the backbone of HAART and preserving their "antiviral efficacy" is thus critical to sustainable HAART use.

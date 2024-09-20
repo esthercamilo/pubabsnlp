@@ -1,3 +1,0 @@
-{'Year': '2009'}
-Health-related direct-to-consumer genetic tests: a public health assessment and analysis of practices related to Internet-based tests for risk of thrombosis.
-Recent years have seen increased concern about direct-to-consumer (DTC) genetic testing (i.e., the sale and use of genetic tests without involving a health care provider). Numerous professional organizations have developed policies in this area. However, little systematic evidence exists to inform public policy about these tests.

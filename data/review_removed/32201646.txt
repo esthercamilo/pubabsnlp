@@ -1,3 +1,0 @@
-{'Year': '2020'}
-Association of sleep among 30 antidepressants: a population-wide adverse drug reaction study, 2004-2019.
-Sleep is one of the most essential processes required to maintain a healthy human life, and patients experiencing psychiatric illness often experience an inability to sleep. The aim of this study is to test the hypothesis that antidepressant compounds with strong binding affinities for the serotonin 5-HT2C receptor, histamine H1 receptors, or norepinephrine transporter (NET) will be associated with the highest odds of somnolence.

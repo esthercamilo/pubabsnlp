@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Sep'}
-Minimum information required for a DMET experiment reporting.
-To provide pharmacogenomics reporting guidelines, the information and tools required for reporting to public omic databases.

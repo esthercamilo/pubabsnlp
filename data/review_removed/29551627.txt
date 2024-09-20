@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun'}
-Susceptibility to corticosteroid-induced adrenal suppression: a genome-wide association study.
-A serious adverse effect of corticosteroid therapy is adrenal suppression. Our aim was to identify genetic variants affecting susceptibility to corticosteroid-induced adrenal suppression.

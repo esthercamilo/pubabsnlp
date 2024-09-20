@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Feb'}
-Genetic predictors of antidepressant side effects: a grouped candidate gene approach in the Genome-Based Therapeutic Drugs for Depression (GENDEP) study.
-The unwanted side effects associated with antidepressants are key determinants of treatment adherence in depression; propensity to experience these adverse drug reactions (ADRs) may be influenced by genetic variation. However, previous work attempting to ascertain the genetic variants involved has had limited success, in part due to the range of ADRs reported with antidepressants.

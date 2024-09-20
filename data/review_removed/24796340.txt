@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Sep', 'Day': '01'}
-Association of cyclooxygenase-2 genetic variant with cardiovascular disease.
-A genetic variant (rs20417) of the PTGS2 gene, encoding for COX-2, has been associated with decreased COX-2 activity and a decreased risk of cardiovascular disease (CVD). However, this genetic association and the role of COX-2 in CVD remain controversial.

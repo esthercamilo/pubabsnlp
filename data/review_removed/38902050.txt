@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jun', 'Day': '20'}
-Pharmacogenomics in primary care: a quality improvement project at Alconbury and Brampton surgeries 2019-2023.
-Treatment of depression is common in primary care but not every antidepressant is effective in every patient. Adverse drug reactions are common, imposing a substantial burden on the patient and the NHS. Pharmacogenomics (PGx) utilises an individual's genetic makeup to predict their response to medications. By tailoring prescriptions to a person's genetic profile, PGx can significantly reduce adverse drug reactions, identify non-responders to medications, and enhance overall patient outcomes.

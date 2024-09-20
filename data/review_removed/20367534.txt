@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'May'}
-Efflux and uptake transporters as determinants of statin response.
-The important role of drug transporters in drug absorption and disposition has been well documented. Statins are subjected to active transport of membrane proteins of the superfamilies ATP-binding cassette and solute carrier, and there is limited understanding of the mechanisms by which differences in transporter expression and activity contributes to variability of pharmacokinetics (PKs)/pharmacodynamics (PDs) of statins.

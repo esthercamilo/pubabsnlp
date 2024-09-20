@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Pharmacogenomic assessment of Mexican and Peruvian populations.
-Clinically relevant polymorphisms often demonstrate population-specific allele frequencies. Central and South America remain largely uncategorized in the context of pharmacogenomics.

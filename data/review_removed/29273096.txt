@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Dec', 'Day': '22'}
-Genetic variation in human drug-related genes.
-Variability in drug efficacy and adverse effects are observed in clinical practice. While the extent of genetic variability in classic pharmacokinetic genes is rather well understood, the role of genetic variation in drug targets is typically less studied.

@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Aug', 'Day': '01'}
-A First Step toward Personalized Medicine in Osteosarcoma: Pharmacogenetics as Predictive Marker of Outcome after Chemotherapy-Based Treatment.
-Overall survival in patients with osteosarcoma is only 60%. Poor response to chemotherapy is the dominant risk factor for poor survival. Pharmacogenetic research can offer possibilities to optimize treatment and improve outcome. We applied a pathway-based approach to evaluate the cumulative effect of genes involved in the metabolism of cisplatin and doxorubicin in relationship to clinical outcome.

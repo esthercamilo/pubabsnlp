@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Dec'}
-Modulation of the pharmacokinetics, therapeutic and adverse effects of NSAIDs by Chinese herbal medicines.
-Concomitant use of NSAIDs and Chinese herbal medicines (CHMs) is frequent, yet summarized information on their interactions is lacking.

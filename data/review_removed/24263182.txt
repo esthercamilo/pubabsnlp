@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jan'}
-The SLCO1B1 c.521T>C polymorphism is associated with dose decrease or switching during statin therapy in the Rotterdam Study.
-The SLCO1B1 c.521T>C polymorphism is associated with statin plasma levels and simvastatin-induced adverse drug reactions. We studied whether the c.521T>C polymorphism is associated with dose decreases or switches to other cholesterol-lowering drugs during simvastatin and atorvastatin therapy, because these events are indicators of adverse drug reactions.

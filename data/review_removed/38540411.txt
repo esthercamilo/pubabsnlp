@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Mar', 'Day': '11'}
-A New Cloud-Native Tool for Pharmacogenetic Analysis.
-The advancement of next-generation sequencing (NGS) technologies provides opportunities for large-scale Pharmacogenetic (PGx) studies and pre-emptive PGx testing to cover a wide range of genotypes present in diverse populations. However, NGS-based PGx testing is limited by the lack of comprehensive computational tools to support genetic data analysis and clinical decisions.

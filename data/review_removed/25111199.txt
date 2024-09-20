@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Dec', 'Day': '15'}
-Docetaxel plus oral metronomic cyclophosphamide: a phase II study with pharmacodynamic and pharmacogenetic analyses in castration-resistant prostate cancer patients.
-Docetaxel plus prednisone is currently the standard first-line treatment in metastatic castration-resistant prostate cancer (mCRPC). The aim of this study was to assess the clinical activity and pharmacodynamic/pharmacogenetic profile of docetaxel plus prednisone in combination with metronomic cyclophosphamide in mCRPC patients.

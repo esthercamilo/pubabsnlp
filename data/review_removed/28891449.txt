@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Role of Pharmacogenomics in Antiepileptic Drug Therapy: Current Status and Future Perspectives.
-Growing evidence indicates that pharmacogenomics will positively impact treatment for patients with epilepsy in the near future, leading to the implementation of a precision-based use of antiepileptic drug (AED) therapy, thereby providing a cornerstone for precision medicine.

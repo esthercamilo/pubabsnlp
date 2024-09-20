@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-Pharmacogenetics of unboosted atazanavir in HIV-infected individuals in resource-limited settings: a sub-study of the AIDS Clinical Trials Group (ACTG) PEARLS study (NWCS 342).
-The multinational PEARLS (ACTG A5175) study, conducted mainly in resource-limited settings, identified an increased treatment failure rate among HIV-infected individuals randomized to once-daily unboosted atazanavir, didanosine-EC, and emtricitabine compared with efavirenz-based regimens. We evaluated associations between selected human genetic polymorphisms and atazanavir pharmacokinetics in PEARLS.

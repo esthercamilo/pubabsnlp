@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Aug', 'Day': '24'}
-Pharmacogenetics of antipsychotics in adolescents with acute psychotic episode during first 14 days after admission: effectiveness and safety evaluation.
-Prediction of the antipsychotic's effectiveness is a relevant topic in the field of personalized medicine.

@@ -1,3 +1,0 @@
-{'Year': '2008'}
-Cancer pharmacogenetics.
-Cancer pharmacogenetics is a burgeoning field. There are now many published associations between genotype and outcome or toxicity from chemotherapy treatment. Performing pharmacogenetics studies in cancer requires careful consideration of the sample type to be used (germline vs tumor); the genotyping platform to be used (medium, low, or high throughput); and the analysis and reporting of associations and observations.

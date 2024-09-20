@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Nov'}
-Pharmacogenomic test that predicts response to β<sub>2</sub>-agonists in adults with asthma is cost effective.
-Pharmacogenomic tests that predict which asthma patients are likely to respond to β<sub>2</sub>-agonists hold promise to improve care for asthma.

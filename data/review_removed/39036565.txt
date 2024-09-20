@@ -1,3 +1,0 @@
-{'Year': '2024'}
-Turmeric-induced Liver Injury.
-The use of herbal and dietary supplements has gained an increasing foothold in the United States. While often touted as safer alternatives to more traditional "western" therapeutics, the pharmacology and pharmacokinetics of these substances, their interactions with other medications, their purity, and individual pharmacogenomics, remain unknown. Turmeric is a popular supplement that has been demonstrated to be safe, and even hepatoprotective. Recently, however, there have been several reports of turmeric-induced liver injury. We report a case of drug-induced liver injury due to turmeric that was complicated by acute liver failure and hepatorenal syndrome.

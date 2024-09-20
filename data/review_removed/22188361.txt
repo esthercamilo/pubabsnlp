@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jan'}
-Pharmacogenomics of cisplatin-based chemotherapy in ovarian cancer patients of different ethnic origins.
-There is a substantial difference between Asians and Caucasians in their reaction to platinum drugs. To determine whether population-related genomics contribute to differences in patient outcomes, pharmacogenomic relevance of polymorphisms in some genes, the protein activities of which may affect aspects of cisplatin metabolism, were evaluated.

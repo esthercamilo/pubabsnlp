@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'May'}
-Influence of kidney function on risk of supratherapeutic international normalized ratio-related hemorrhage in warfarin users: a prospective cohort study.
-Anticoagulation management is difficult in chronic kidney disease, with frequent supratherapeutic international normalized ratios (INRs ≥ 4) increasing hemorrhagic risk. We evaluated whether the interaction of INR and lower estimated glomerular filtration rate (eGFR) increases hemorrhage risk and whether patients with lower eGFRs experience slower anticoagulation reversal.

@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Sep'}
-Effect of CYP2C19 status on platelet reactivity in Taiwanese acute coronary syndrome patients switching to prasugrel from clopidogrel: Switch Study.
-Pharmacogenetics is a potential driver of the "East Asian paradox," in which East Asian acute coronary syndrome (ACS) patients receiving dual antiplatelet therapy (DAPT) with clopidogrel following percutaneous coronary intervention (PCI) demonstrate higher levels of platelet reactivity on treatment than Western patients, yet have lower ischemic risk and higher bleeding risk at comparable doses. However, the impact of pharmacogenetics, particularly regarding CYP2C19 genotype, on the pharmacodynamics of P2Y12 inhibitors has not been extensively studied in Taiwanese ACS patients as yet.

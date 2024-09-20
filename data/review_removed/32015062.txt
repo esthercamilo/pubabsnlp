@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Feb'}
-Pharmacogenomics: An evolving clinical tool for precision medicine.
-Pharmacogenomics, ie, the study of how an individual's genomic profile influences his or her response to drugs, has emerged as a clinical tool to optimize drug therapy. Certain variants in some genes increase the risk of severe, life-threatening adverse effects from certain drugs. Integrating pharmacogenomics into clinical practice to assist in drug selection and dosing has the potential to improve the outcomes of treatment, reduce the risk of drug-induced morbidity and death, and be cost-effective.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jun'}
-Next-Generation Sequencing of CYP2C19 in Stent Thrombosis: Implications for Clopidogrel Pharmacogenomics.
-Describe CYP2C19 sequencing results in the largest series of clopidogrel-treated cases with stent thrombosis (ST), the closest clinical phenotype to clopidogrel resistance. Evaluate the impact of CYP2C19 genetic variation detected by next-generation sequencing (NGS) with comprehensive annotation and functional studies.

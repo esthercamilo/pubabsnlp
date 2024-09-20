@@ -1,3 +1,0 @@
-{'Year': '2024'}
-Association of the Complement Factor H Y402H Polymorphism and Response to Anti-Vascular Endothelial Growth Factor Treatment in Age-Related Macular Degeneration: An Updated Meta-Analysis.
-Anti-vascular endothelial growth factor (anti-VEGF) agents have a variable effect on patients with age-related macular degeneration (AMD) that has been attributed to several causes, including genetic factors. We evaluated the effects of Complement Factor H (CFH) rs1061170/Y402H polymorphism on the response to anti-VEGF therapy among AMD patients.

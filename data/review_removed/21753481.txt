@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Oct'}
-Pharmacogenomics: personalizing drug therapy.
-Pharmacogenomics is a rapidly growing field of research into the ways in which genetic variation affects drug response. Its objective is to develop precisely targeted, optimal drug therapy. One area of pharmacogenomics focuses on identifying genetic markers for differences in the way people metabolize drugs; another concentrates on developing genetic tests that predict how specific patients will respond to agents such as statins or cancer therapies. Nurses are now called upon to interpret such information or services in order to provide appropriate patient teaching regarding drug selection.

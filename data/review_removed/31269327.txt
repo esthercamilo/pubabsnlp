@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Nov'}
-Genetic Contribution in Low Back Pain: A Prospective Genetic Association Study.
-Chronic pain is one of the most common reasons individuals seek medical attention. It is a major issue because of the wide interindividual variability in the analgesic response. This might be partly explained by the presence of variants in genes encoding molecules involved in pharmacodynamics and pharmacokinetics. The aim was to analyze opioid effectiveness in chronic low back pain (CLBP) relief after opioid titration, unveiling the impact of pharmacogenetics.

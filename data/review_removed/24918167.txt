@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Oct'}
-The clinical pharmacogenetics implementation consortium guideline for SLCO1B1 and simvastatin-induced myopathy: 2014 update.
-Simvastatin is among the most commonly used prescription medications for cholesterol reduction. A single coding single-nucleotide polymorphism, rs4149056T>C, in SLCO1B1 increases systemic exposure to simvastatin and the risk of muscle toxicity. We summarize evidence from the literature supporting this association and provide therapeutic recommendations for simvastatin based on SLCO1B1 genotype. This article is an update to the 2012 Clinical Pharmacogenetics Implementation Consortium guideline for SLCO1B1 and simvastatin-induced myopathy.

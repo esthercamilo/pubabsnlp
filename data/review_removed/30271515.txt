@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Sep'}
-Microfluidic approaches for cell-based molecular diagnosis.
-The search for next-generation biomarkers has enabled cell-based diagnostics in a number of disciplines ranging from oncology to pharmacogenetics. However, cell-based diagnostics are still far from clinical reality due to the complex assays and associated protocols which typically require cell isolation, lysis, DNA extraction, amplification, and detection steps. Leveraging recent advances in microfluidics, many biochemical assays have been translated onto microfluidic platforms. We have compared and summarized recent advances in modular approaches toward the realization of fully-integrated, cell-based molecular diagnostics for clinical and point-of-care applications.

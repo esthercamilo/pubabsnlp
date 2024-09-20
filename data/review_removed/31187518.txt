@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Sep'}
-DNA methylation is associated with inhaled corticosteroid response in persistent childhood asthmatics.
-Response to inhaled corticosteroids is highly variable, and the association between DNA methylation and treatment response is not known.

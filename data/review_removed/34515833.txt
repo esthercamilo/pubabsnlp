@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Dec'}
-Pretherapeutic screening for Dihydropyrimidine deshydrogenase deficiency in measuring uracilemia in dialysis patients leads to a high rate of falsely positive results.
-Pretherapeutic screening for dihydropyrimidine dehydrogenase (DPD) deficiency is recommended prior to the administration of fluoropyrimidine-based chemotherapy. However, the best strategy to identify DPD deficiency in End Stage Renal Disease (ESRD) patients is unknown.

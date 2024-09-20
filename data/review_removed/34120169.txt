@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Aug', 'Day': '05'}
-Determining Cost-Optimal Next-Generation Sequencing Panels for Rare Disease and Pharmacogenomics Testing.
-Multi-gene panel sequencing using next-generation sequencing (NGS) methods is a key tool for genomic medicine. However, with an estimated 140 000 genomic tests available, current system inefficiencies result in high genetic-testing costs. Reduced testing costs are needed to expand the availability of genomic medicine. One solution to improve efficiency and lower costs is to calculate the most cost-effective set of panels for a typical pattern of test requests.

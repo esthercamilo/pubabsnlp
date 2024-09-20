@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Apr'}
-Non-response to (statin) therapy: the importance of distinguishing non-responders from non-adherers in pharmacogenetic studies.
-In pharmacogenetic research, genetic variation in non-responders and high responders is compared with the aim to identify the genetic loci responsible for this variation in response. However, an important question is whether the non-responders are truly biologically non-responsive or actually non-adherent? Therefore, the aim of this study was to describe, within the PROspective Study of Pravastatin in the Elderly at Risk (PROSPER), characteristics of both non-responders and high responders of statin treatment in order to possibly discriminate non-responders from non-adherers.

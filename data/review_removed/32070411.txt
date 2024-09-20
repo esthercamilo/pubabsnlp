@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Feb', 'Day': '18'}
-Comprehensive pharmacogenomic characterization of gastric cancer.
-Gastric cancer is among the most lethal human malignancies. Previous studies have identified molecular aberrations that constitute dynamic biological networks and genomic complexities of gastric tumors. However, the clinical translation of molecular-guided targeted therapy is hampered by challenges. Notably, solid tumors often harbor multiple genetic alterations, complicating the development of effective treatments.

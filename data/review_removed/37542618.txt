@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Aug', 'Day': '05'}
-Mutant CYP3A4/5 Correlated with Clinical Outcomes by Affecting Rivaroxaban Pharmacokinetics and Pharmacodynamics in Patients with Atrial Fibrillation.
-This study was designed to investigate the impact of single-nucleotide polymorphism-encoded cytochrome P450 enzymes (CYP3A4/5) on clinical outcomes of rivaroxaban in patients with non-valvular atrial fibrillation (NVAF) based on pharmacokinetics and pharmacodynamics (PK/PD) aspects.

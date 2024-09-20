@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Mar'}
-Impairment of endoxifen formation in tamoxifen-treated premenopausal breast cancer patients carrying reduced-function CYP2D6 alleles.
-Tamoxifen is bioactivated to endoxifen by polymorphic CYP2D6-dependent metabolism. Here, endoxifen levels were compared to CYP2D6 diplotypes, tentative target concentrations and side effects.

@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Pharmacogenomic test that predicts response to inhaled corticosteroids in adults with asthma likely to be cost-saving.
-To identify the clinical and economic circumstances under which a pharmacogenomic test that predicts response to inhaled corticosteroids might be a cost-effective option for individuals with asthma.

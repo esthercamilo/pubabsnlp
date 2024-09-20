@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'May'}
-Genetic biomarkers of methotrexate response and safety in Crohn's disease: Data from the Spanish ENEIDA registry.
-Methotrexate (MTX) is used to induce and maintain remission in patients with steroid-dependent Crohn's disease (CD). Despite its proven efficacy, its use is limited due to associated adverse events. Polymorphisms involving folate pathway genes might influence MTX efficacy and toxicity. We aimed to assess the impact of certain polymorphisms on the therapeutic outcomes of MTX in CD.

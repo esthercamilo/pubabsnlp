@@ -1,3 +1,0 @@
-{'Year': '2010'}
-Using team-based learning to teach pharmacology to second year medical students improves student performance.
-Team-based learning (TBL) is an innovative instructional method that fosters active learning. It has been shown to improve student performance in some health care education courses.

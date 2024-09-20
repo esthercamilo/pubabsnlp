@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Analysis of Very Important Pharmacogenomics Variants in the Chinese Lahu Population.
-Genetic polymorphism, obviously, has a potential clinical role in determining differences in drug efficacy; however, there are no reports about the pharmacogenomic information of the Lahu population. Therefore, our research aimed to screen the genotypic frequencies of the very important pharmacogenomics (VIP) mutations and determined the differences between Lahu and the other 11 populations.

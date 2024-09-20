@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Jan', 'Day': '29'}
-Introduction of the AmpliChip CYP450 Test to a South African cohort: a platform comparative prospective cohort study.
-Adverse drug reactions and lack of therapeutic efficacy associated with currently prescribed pharmacotherapeutics may be attributed, in part, to inter-individual variability in drug metabolism. Studies on the pharmacogenetics of Cytochrome P450 (CYP) enzymes offer insight into this variability. The objective of this study was to compare the AmpliChip CYP450 Test® (AmpliChip) to alternative genotyping platforms for phenotype prediction of CYP2C19 and CYP2D6 in a representative cohort of the South African population.

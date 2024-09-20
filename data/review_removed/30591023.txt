@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Dec', 'Day': '28'}
-Application of transfer learning for cancer drug sensitivity prediction.
-In precision medicine, scarcity of suitable biological data often hinders the design of an appropriate predictive model. In this regard, large scale pharmacogenomics studies, like CCLE and GDSC hold the promise to mitigate the issue. However, one cannot directly employ data from multiple sources together due to the existing distribution shift in data. One way to solve this problem is to utilize the transfer learning methodologies tailored to fit in this specific context.

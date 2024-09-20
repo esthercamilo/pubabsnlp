@@ -1,3 +1,0 @@
-{'Year': '2015'}
-The pharmacogenetic control of antiplatelet response: candidate genes and CYP2C19.
-Aspirin, clopidogrel, prasugrel and ticagrelor are antiplatelet agents for the prevention of ischemic events in patients with acute coronary syndromes (ACS), percutaneous coronary intervention (PCI) and other indications. Variability in response is observed to different degrees with these agents, which can translate to increased risks for adverse cardiovascular events. As such, potential pharmacogenetic determinants of antiplatelet pharmacokinetics, pharmacodynamics and clinical outcomes have been actively studied.

@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May'}
-Education and Knowledge in Pharmacogenomics: Still a Challenge?
-A number of barriers exist for adoption of pharmacogenomics into practice. Physicians, pharmacists, and nurses report limited knowledge about pharmacogenomics and its use in patient care. Lack of pharmacogenomics education curricula as part of professional schools or postgraduate training programs has been reported as a potential cause. Understanding pharmacogenomics is further complicated by a complex and nonstandard lexicon, limited medication guidelines, rapidly changing evidence, and insufficient awareness of test availability and utility.

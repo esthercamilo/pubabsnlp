@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Aug'}
-Nucleoside analogs: ready to enter the era of precision medicine?
-The term 'precision medicine' has garnered significant attention in the oncological setting in relation to attempts to optimize anticancer treatment. Precision medicine is mostly associated with oral targeted therapies and biotherapies, however, to date classic cytotoxics still remain the backbone of most regimens for treating solid tumors or in hematology, both in children and in adults. Among the existing cytotoxic therapies, nucleosides are widely used for treating a variety of cancerous diseases, alone or as part of combination therapies.

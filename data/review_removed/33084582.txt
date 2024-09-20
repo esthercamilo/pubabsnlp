@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Oct', 'Day': '21'}
-Building a Pharmacogenomics Knowledge Model Toward Precision Medicine: Case Study in Melanoma.
-Many drugs do not work the same way for everyone owing to distinctions in their genes. Pharmacogenomics (PGx) aims to understand how genetic variants influence drug efficacy and toxicity. It is often considered one of the most actionable areas of the personalized medicine paradigm. However, little prior work has included in-depth explorations and descriptions of drug usage, dosage adjustment, and so on.

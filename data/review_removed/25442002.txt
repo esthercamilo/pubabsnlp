@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'May', 'Day': '15'}
-A pharmacogenetic determinant of mu-opioid receptor antagonist effects on alcohol reward and consumption: evidence from humanized mice.
-It has been proposed that therapeutic responses to naltrexone in alcoholism are moderated by variation at the mu-opioid receptor gene locus (OPRM1). This remains controversial because human results vary and no prospectively genotyped studies have been reported. We generated humanized mice carrying the respective human OPRM1 A118G alleles. Here, we used this model system to examine the role of OPRM1 A118G variation for opioid antagonist effects on alcohol responses.

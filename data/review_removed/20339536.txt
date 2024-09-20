@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Mar', 'Day': '22'}
-Genome-wide association of lipid-lowering response to statins in combined study populations.
-Statins effectively lower total and plasma LDL-cholesterol, but the magnitude of decrease varies among individuals. To identify single nucleotide polymorphisms (SNPs) contributing to this variation, we performed a combined analysis of genome-wide association (GWA) results from three trials of statin efficacy.

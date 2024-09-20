@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Mar', 'Day': '15'}
-The effects of transcription factor 7-like 2 rs7903146 and paired box 4 rs2233580 variants associated with type 2 diabetes on the therapeutic efficacy of hypoglycemic agents.
-This study aims to investigate the effects of the <i>TCF7L2</i> rs7903146 and <i>PAX4</i> rs2233580 (R192H) variants associated with T2D on the therapeutic efficacies of various HAs in patients with T2D after follow-up for 3 years.

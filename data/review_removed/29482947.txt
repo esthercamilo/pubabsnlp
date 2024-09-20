@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct'}
-Pharmacogenetics as Personalized Medicine: Association Investigation of SOD2 rs4880, CYP2C19 rs4244285, and FCGR2A rs1801274 Polymorphisms in a Breast Cancer Population in Iraqi Women.
-Breast cancer is the most common cancer in women characterized by a high variable clinical outcome among individuals treated with targeted therapies.

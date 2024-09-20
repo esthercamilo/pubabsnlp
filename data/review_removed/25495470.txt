@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'May'}
-Role of cytidine deaminase in toxicity and efficacy of nucleosidic analogs.
-Nucleosidic analogs such as pyrimidine and purine derivatives are mainstay in the field of treating cancers, both in adults and in children. All these drugs act as antimetabolite compounds, that is, they interfere with the ability of cancer cells to synthesize the nucleosides or the nucleotides necessary for proliferation and progression. As with most cytotoxics, maintaining patients in their therapeutic window is challenging, and predicting changes in drug exposure is critical to ensure an optimal efficacy/toxicity balance.

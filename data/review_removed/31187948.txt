@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jun', 'Day': '13'}
-Population study of thrombophilic markers and pharmacogenetic markers of warfarin prevalence in Bosnia and Herzegovina.
-To investigate the prevalence of common genetic variants that can serve as markers of thrombophilia and warfarin pharmacogenetics in Bosnia and Herzegovina.

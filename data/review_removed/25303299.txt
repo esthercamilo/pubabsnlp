@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-Effect of polymorphisms within methotrexate pathway genes on methotrexate toxicity and plasma levels in adults with hematological malignancies.
-Pharmacogenetics of methotrexate (MTX) contributes to interindividual differences in toxicity. We aimed to evaluate the impact of SNPs within the MTX pathway genes on MTX-induced toxicity and MTX plasma levels at 48 h following treatment in Asian adults with acute lymphoblastic leukemia or non-Hodgkin lymphoma.

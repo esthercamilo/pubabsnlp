@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Oct', 'Day': '01'}
-Pharmacogenetics: Knowledge assessment amongst Syrian pharmacists and physicians.
-Pharmacogenetics targets genetic variations that influence drug response. It is relatively a new science that has not been vastly employed in most developing countries including Syria. Therefore we aimed at evaluating the depth of knowledge in pharmacogenetics and the attitude towards it amongst Syrian pharmacists and physicians.

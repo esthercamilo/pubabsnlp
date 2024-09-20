@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Mar'}
-Effects of genetic variability on rifampicin and isoniazid pharmacokinetics in South African patients with recurrent tuberculosis.
-We report the prevalence and effect of genetic variability on pharmacokinetic parameters of isoniazid and rifampicin.

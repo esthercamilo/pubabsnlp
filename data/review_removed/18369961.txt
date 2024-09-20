@@ -1,3 +1,0 @@
-{'Year': '2008'}
-Drug delivery systems - an overview.
-This is an overview of drug delivery systems (DDS), starting with various routes of drug administration. Various drug formulations, as well as devices used for drug delivery and targeted drug delivery, are then described. Delivery of proteins and peptides presents special challenges. Nanoparticles are considered to be important in refining drug delivery; they can be pharmaceuticals as well as diagnostics. Refinements in drug delivery will facilitate the development of personalized medicine, which includes pharmacogenomics, pharmacogenetics, and pharmacoproteomics. The ideal DDS, commercial aspects, current achievements, challenges, and future prospects are also discussed.

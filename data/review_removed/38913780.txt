@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jun', 'Day': '24'}
-Optimisation of pharmacotherapy in psychiatry through therapeutic drug monitoring, molecular brain imaging and pharmacogenetic tests: focus on antipsychotics.
-For psychotic disorders (i.e. schizophrenia), pharmacotherapy plays a key role in controlling acute and long-term symptoms. To find the optimal individual dose and dosage strategy, specialized tools are used. Three tools have been proven useful to personalize drug treatments: therapeutic drug monitoring (TDM) of drug levels, pharmacogenetic testing (PG), and molecular neuroimaging.

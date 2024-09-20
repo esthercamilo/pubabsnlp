@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Apr'}
-Suspected opioid overdose case resolved by CYP2D6 genotyping.
-A 14-year-old female with suspected narcotic overdose had CYP2D6 genotyping performed to verify opiate intoxication. The role of pharmacogenetics in pain management and individualization of opiate pharmacotherapy is discussed.

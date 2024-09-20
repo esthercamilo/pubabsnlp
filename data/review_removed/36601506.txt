@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Dec'}
-An objective evaluation of fundamental pharmacogenomics knowledge among pharmacists and pharmacy students.
-Possessing a correct and comprehensive foundation on the science of pharmacogenomics (PGx) is an important prerequisite for pharmacists to successfully apply pharmacogenomic testing to patient care. While some work has addressed general PGx knowledge among pharmacists, little research has specifically focused on PGx foundational knowledge. This study examines the level of foundational knowledge of PGx and interest in learning about PGx among community pharmacists and first-year pharmacy students at Beirut Arab University (BAU), Beirut, Lebanon.

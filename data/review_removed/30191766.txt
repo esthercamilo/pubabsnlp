@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Oct'}
-Genetic risk factors for VIPN in childhood acute lymphoblastic leukemia patients identified using whole-exome sequencing.
-To identify genetic markers associated with vincristine-induced peripheral neuropathy (VIPN) in childhood acute lymphoblastic leukemia.

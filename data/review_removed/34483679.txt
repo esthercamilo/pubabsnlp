@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Genetic and Non-Genetic Factors Impact on INR Normalization in Preprocedural Warfarin Management.
-Annually, 10% of warfarin patients will likely need to stop warfarin prior to elective surgery to achieve a baseline international normalization ratio (INR) level (INR ≤ 1.2) at the time of the procedure. This study explores the influence of genetic and non-genetic factors on INR normalization in the Arab (major part of Near Eastern) population in preprocedural warfarin management.

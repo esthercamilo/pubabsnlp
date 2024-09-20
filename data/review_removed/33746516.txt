@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Evaluating the Impact of CYP3A5 Genotype on Post-Transplant Healthcare Resource Utilization in Pediatric Renal and Heart Transplant Recipients Receiving Tacrolimus.
-<i>CYP3A5</i> genotype is a significant contributor to inter-individual tacrolimus exposure and may impact the time required to achieve therapeutic concentrations and number of tacrolimus dose adjustments in transplant patients. Increased modifications to tacrolimus therapy may indicate a higher burden on healthcare resources. The purpose of this study was to evaluate whether <i>CYP3A5</i> genotype was predictive of healthcare resource utilization in pediatric renal and heart transplant recipients.

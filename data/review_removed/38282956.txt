@@ -1,3 +1,0 @@
-{'Year': '2024'}
-New genetic biomarkers predicting 5-aminosalicylate-induced adverse events in patients with inflammatory bowel diseases.
-Notably, 5-aminosalicylates (5-ASA) are vital in treating inflammatory bowel diseases (IBD). The adverse events of 5-ASA rarely occur but they could be fatal.

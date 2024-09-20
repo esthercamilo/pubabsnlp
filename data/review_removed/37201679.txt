@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Aug'}
-The Potential Impact of Preemptive Pharmacogenetic Genotyping in the Neonatal Intensive Care Unit.
-To evaluate the use of drugs with pharmacogenomic (PGx) guidelines from the Clinical Pharmacogenetics Implementation Consortium in early childhood.

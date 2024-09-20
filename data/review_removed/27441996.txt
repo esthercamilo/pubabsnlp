@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Feb'}
-Standardizing terms for clinical pharmacogenetic test results: consensus terms from the Clinical Pharmacogenetics Implementation Consortium (CPIC).
-Reporting and sharing pharmacogenetic test results across clinical laboratories and electronic health records is a crucial step toward the implementation of clinical pharmacogenetics, but allele function and phenotype terms are not standardized. Our goal was to develop terms that can be broadly applied to characterize pharmacogenetic allele function and inferred phenotypes.

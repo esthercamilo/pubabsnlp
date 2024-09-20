@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Mar'}
-Factor VIII pharmacokinetics associates with genetic modifiers of VWF and FVIII clearance in an adult hemophilia A population.
-Factor VIII (FVIII) pharmacokinetics (PK) in adult hemophilia A populations are highly variable and have been previously determined to be influenced by von Willebrand factor:antigen (VWF:Ag), ABO blood group, and age. However, additional genetic determinants of FVIII PK are largely unknown.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jan'}
-ENVIRONMENTAL SCAN ON PHARMACEUTICALS REQUIRING COMPANION DIAGNOSTICS.
-Companion diagnostic tests (CDx) are used to measure an individual's protein or gene expression (biomarkers) to inform choice of therapy. The increasing number of drugs requiring CDx poses challenges for regulatory and reimbursement policies. To better understand this issue, an environmental scan was conducted by the Canadian Agency for Drugs and Technologies in Health (CADTH).

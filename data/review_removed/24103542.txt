@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Nov'}
-High-throughput genotyping system as a robust and useful tool in oncology: experience from a single institution.
-Single nucleotide polymorphisms (SNPs) are substitutions of one base for another in the gene sequence and conforms the basis for pharmacogenetics and the development of personalized medicine. Many methods have been developed for SNP genotyping. The aim of the present study was to validate the use of a novel high-throughput genotyping system.

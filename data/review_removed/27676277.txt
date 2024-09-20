@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Oct'}
-Moving toward personalized medicine in rheumatoid arthritis: SNPs in methotrexate intracellular pathways are associated with methotrexate therapeutic outcome.
-Evaluate the potential of selected SNPs as predictors of methotrexate (MTX) therapeutic outcome.

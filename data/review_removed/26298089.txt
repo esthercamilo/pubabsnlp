@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Nov'}
-Personalizing chemotherapy dosing using pharmacological methods.
-Given the toxic nature and narrow therapeutic index of traditional chemotherapeutics, better methods of dose and therapy selection are critical. Pharmacological methods, including pharmacogenomics and pharmacokinetics, offer a practical method to enrich drug exposure, reduce toxicity, and improve quality of life for patients.

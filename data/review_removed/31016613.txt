@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jul'}
-Safety, Pharmacokinetics, and Pharmacogenetics of Single-Dose Teriflunomide Sodium and Leflunomide in Healthy Chinese Subjects.
-Teriflunomide sodium, a novel derivative of leflunomide, was developed to treat systemic lupus erythematosus.

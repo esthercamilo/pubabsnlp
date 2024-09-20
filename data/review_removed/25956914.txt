@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'May', 'Day': '09'}
-Pharmacogenetics and the print media: what is the public told?
-Pharmacogenetics is a rapidly growing field that aims to identify the genes that influence drug response. This science can be used as a powerful tool to tailor drug treatment to the genetic makeup of individuals. The present study explores the coverage of the topic of pharmacogenetics and its potential benefit in personalised medicine by the UK newsprint media.

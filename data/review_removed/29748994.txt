@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Sep'}
-Hypothalamic arcuate nucleus glucokinase regulates insulin secretion and glucose homeostasis.
-To investigate the role of arcuate glucokinase (GK) in the regulation of glucose homeostasis.

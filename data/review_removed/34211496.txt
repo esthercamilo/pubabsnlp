@@ -1,3 +1,0 @@
-{'Year': '2021'}
-Further Evidence That OPG rs2073618 Is Associated With Increased Risk of Musculoskeletal Symptoms in Patients Receiving Aromatase Inhibitors for Early Breast Cancer.
-Aromatase inhibitors (AI) reduce recurrence and death in patients with early-stage hormone receptor-positive (HR +) breast cancer. Treatment-related toxicities, including AI-induced musculoskeletal symptoms (AIMSS), are common and may lead to early AI discontinuation. The objective of this study was to replicate previously reported associations for candidate germline genetic polymorphisms with AIMSS.

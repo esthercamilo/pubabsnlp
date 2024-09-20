@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Aug'}
-A health-care system perspective on implementing genomic medicine: pediatric acute lymphoblastic leukemia as a paradigm.
-The promise of genomic medicine has received great attention over the past decade, projecting how genomics will soon guide the prevention, diagnosis, and treatment of human diseases. However, this evolution has been slower than forecast, even where evidence is often strong (e.g., pharmacogenomics). Reasons include the requirement for institutional resources and the need for the will to push beyond barriers impeding health-care changes. Here, we illustrate how genomics has been deployed to advance the treatment of childhood leukemia.

@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'May'}
-Pharmacogenomics and personalized medicine in clinical practice.
-The Santorini Conference on prospective biology, genomics and pharmacogenomics occurs every 2 years. On 30 September to 2nd October 2010, the fifth meeting in this series took place in Santorini, Greece. This conference has established a tradition of organizing a workshop each time to address the most recent developments and key issues in pharmacogenomics. This year, the workshop was chaired by Bryan Dechairo and Alain Huriez, and was titled 'Pharmacogenomics and personalized medicine in clinical practice'.

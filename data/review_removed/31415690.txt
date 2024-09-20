@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'May', 'Day': '17'}
-Pharmacy students' attitudes and perceptions toward pharmacogenomics education.
-To evaluate final-year pharmacy students' perceptions toward pharmacogenomics education, their attitudes on its clinical relevance, and their readiness to use such knowledge in practice.

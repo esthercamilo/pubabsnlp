@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Implementing Pharmacogenomic Clinical Decision Support into German Hospitals.
-Pharmacogenomic Clinical Decision Support Systems (CDSS) are considered to be the most feasible tool for adopting pharmacogenomic testing into clinical routine.

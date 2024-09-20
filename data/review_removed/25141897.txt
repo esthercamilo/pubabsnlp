@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jun'}
-Personalized pharmacogenomics profiling using whole-genome sequencing.
-Pharmacogenomics holds promise to rationalize drug use by minimizing drug toxicity and at the same time increase drug efficacy. There are currently several assays to screen for known pharmacogenomic biomarkers for the most commonly prescribed drugs. However, these genetic screening assays cannot account for other known or novel pharmacogenomic markers.

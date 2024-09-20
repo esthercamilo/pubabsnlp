@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Sep', 'Day': '11'}
-Taking part in a pharmacogenetic clinical trial: assessment of trial participants understanding of information disclosed during the informed consent process.
-This study is the first to examine the understandings that participants have of the consent process in a pharmacogenetic trial of anti-depressant medication.

@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jul'}
-Evaluation of the Association of Polymorphisms With Palbociclib-Induced Neutropenia: Pharmacogenetic Analysis of PALOMA-2/-3.
-The most frequently reported treatment-related adverse event in clinical trials with the cyclin-dependent kinase 4/6 (CDK4/6) inhibitor palbociclib is neutropenia. Allelic variants in ABCB1 and ERCC1 might be associated with early occurrence (i.e., end of week 2 treatment) of grade 3/4 neutropenia. Pharmacogenetic analyses were performed to uncover associations between single nucleotide polymorphisms (SNPs) in these genes, patient baseline characteristics, and early occurrence of grade 3/4 neutropenia.

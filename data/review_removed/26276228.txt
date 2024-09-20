@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Nov'}
-Genotyping concordance in DNA extracted from formalin-fixed paraffin embedded (FFPE) breast tumor and whole blood for pharmacogenetic analyses.
-Cancer pharmacogenetic studies use archival tumor samples as a DNA source when germline DNA is unavailable. Genotyping DNA from formalin-fixed paraffin embedded tumors (FFPE-T) may be inaccurate due to FFPE storage, genetic aberrations, and/or insufficient DNA extraction. Our objective was to assess the extent and source of genotyping inaccuracy from FFPE-T DNA and demonstrate analytical validity of FFPE-T genotyping of candidate single nucleotide polymorphisms (SNPs) for pharmacogenetic analyses.

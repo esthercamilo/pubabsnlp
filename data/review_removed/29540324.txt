@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May', 'Day': '01'}
-Pharmacogenomic Approach to Selecting Antiplatelet Therapy in Patients With Acute Coronary Syndromes: The PHARMCLO Trial.
-Although clopidogrel is still frequently used in patients with acute coronary syndromes (ACS), its efficacy is hampered by interpatient response variability caused by genetic polymorphisms associated with clopidogrel's metabolism.

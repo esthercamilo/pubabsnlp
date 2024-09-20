@@ -1,3 +1,0 @@
-{'Year': '2017'}
-Increased risk of hospitalization for ultrarapid metabolizers of cytochrome P450 2D6.
-Cytochrome P450 2D6 (<i>CYP2D6</i>) is responsible for the metabolism of clinically used drugs and other environmental exposures, but it is unclear whether the <i>CYP2D6</i> phenotype is associated with adverse health outcomes. The aim was to determine the association of <i>CYP2D6</i> phenotype with the risk of hospitalization or an emergency department (ED) visit among a group of primary care patients.

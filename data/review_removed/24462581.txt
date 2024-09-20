@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Mar', 'Day': '01'}
-Randomized clinical trial of disulfiram for cocaine dependence or abuse during buprenorphine treatment.
-Disulfiram may be efficacious for treating cocaine dependence or abuse, possibly through inhibiting dopamine β-hydroxylase (DβH). Consequently, this randomized, placebo-controlled clinical trial of disulfiram during buprenorphine maintenance treatment evaluated the study hypothesis that disulfiram is superior to placebo and explored whether disulfiram response is greatest for participants with a single nucleotide polymorphism coding for genetically low DβH (T-allele carriers).

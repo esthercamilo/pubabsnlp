@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'May', 'Day': '24'}
-Putting Out the Fire: The Relationship of Pharmacogenetics and Proton Pump Inhibitors for the Treatment of Gastroesophageal Reflux Disease.
-Proton pump inhibitors (PPIs) are a mainstay treatment for gastroesophageal reflux disease (GERD) and are mainly metabolized by CYP2C19 in the liver. However, several polymorphisms of CYP2C19 exist that affect the metabolism of PPIs. Due to the large variability of PPI pharmacokinetics among the polymorphisms, this has implications in the management of patients with refractory GERD who may be potentially undertreated. Herein, we discuss the role of CYP2C19 and its relation to PPI therapy, particularly in those with GERD.

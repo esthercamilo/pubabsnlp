@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Apr'}
-Influence of CYP2B6 and CYP2C19 polymorphisms on sertraline metabolism in major depression patients.
-Genetic polymorphisms in CYP2B6 and CYP2C19 may cause variability in the metabolism of sertraline, a widely used antidepressant in major depressive disorder treatment.

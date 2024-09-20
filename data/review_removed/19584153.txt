@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Jul', 'Day': '15'}
-Clinical relevance of a pharmacogenetic approach using multiple candidate genes to predict response and resistance to imatinib therapy in chronic myeloid leukemia.
-Imatinib resistance is major cause of imatinib mesylate (IM) treatment failure in chronic myeloid leukemia (CML) patients. Several cellular and genetic mechanisms of imatinib resistance have been proposed, including amplification and overexpression of the BCR/ABL gene, the tyrosine kinase domain point mutations, and MDR1 gene overexpression.

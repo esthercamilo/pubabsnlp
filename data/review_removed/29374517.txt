@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jun', 'Day': '08'}
-Association analysis of norepinephrine transporter polymorphisms and methylphenidate response in ADHD patients.
-Methylphenidate (MPH) is the most frequently prescribed drug in Attention Deficit Hyperactivity Disorder (ADHD). Hitherto mostly the dopamine transporter gene has been studied in MPH-response and only a few studies analyzed the norepinephrine transporter (NET, SLC6A2) gene, although MPH is a potent inhibitor of both dopamine and norepinephrine transporters. We aimed to analyze this monoamine transporter gene in relation to ADHD per se and MPH-response in particular to gain further knowledge in ADHD pharmacogenetics using a Caucasian sample.

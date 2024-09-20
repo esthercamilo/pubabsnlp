@@ -1,3 +1,0 @@
-{'Year': '2013'}
-Effects of CYP2D6 and UGT2B7 polymorphisms on pharmacokinetics of tamoxifen in Thai breast cancer patients.
-The objective of this study was to evaluate the impact of CYP2D6 and UGT2B7 polymorphisms on tamoxifen (TAM) pharmacokinetics in Thai breast cancer patients.

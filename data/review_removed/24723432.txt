@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jul'}
-Lack of influence of DAT1 and DRD2 gene variants on antidepressant response in generalized anxiety disorder.
-Although antidepressant drugs are used as first-line intervention to treat patients with generalized anxiety disorder (GAD), only one-third of patients respond positively to treatment. In our study, we investigated whether functional genetic polymorphisms in the dopamine active transporter 1 (DAT1) and dopamine receptor D2 (DRD2) may play a role in antidepressant treatment response in GAD.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Aug'}
-Advanced cancer pain: the search for genetic factors correlated with interindividual variability in opioid requirement.
-To assess association between genetic variants and opioid requirement in cancer patients.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jul'}
-The impact of genetic polymorphisms on the pharmacokinetics of efavirenz in African children.
-Using a model-based approach, the efavirenz steady-state pharmacokinetics in African children is characterized, quantifying demographic and genotypic effects on the drug's disposition. Simulations are also conducted allowing prediction of optimized doses of efavirenz in this population.

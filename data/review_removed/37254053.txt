@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'May', 'Day': '31'}
-Integrated analysis of clinical and genetic factors on the interindividual variation of warfarin anticoagulation efficacy in clinical practice.
-The anticoagulation effect of warfarin is usually evaluated by percentage of time in therapeutic range (PTTR), which is negatively correlated with the risk of warfarin adverse reactions. This study aimed to explore the effects of genetic and nongenetic factors on anticoagulation efficacy of warfarin during different therapeutic range.

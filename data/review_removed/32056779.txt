@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Mar', 'Day': '01'}
-Acylcarnitine metabolomic profiles inform clinically-defined major depressive phenotypes.
-Acylcarnitines have important functions in mitochondrial energetics and β-oxidation, and have been implicated to play a significant role in metabolic functions of the brain. This retrospective study examined whether plasma acylcarnitine profiles can help biochemically distinguish the three phenotypic subtypes of major depressive disorder (MDD): core depression (CD+), anxious depression (ANX+), and neurovegetative symptoms of melancholia (NVSM+).

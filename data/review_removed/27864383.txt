@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jan'}
-Use of Pharmacogenetic Information in the Treatment of Cardiovascular Disease.
-In 1964, Robert A. O'Reilly's research group identified members of a family who required remarkably high warfarin doses (up to 145 mg/day, 20 times the average dose) to achieve appropriate anticoagulation. Since this time, pharmacogenetics has become a mainstay of cardiovascular science, and genetic variants have been implicated in several fundamental classes of medications used in cardiovascular medicine.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jan'}
-Lessons Learned When Introducing Pharmacogenomic Panel Testing into Clinical Practice.
-Implementing new programs to support precision medicine in clinical settings is a complex endeavor. We describe challenges and potential solutions based on the Indiana GENomics Implementation: an Opportunity for the Underserved (INGenious) program at Eskenazi Health-one of six sites supported by the Implementing GeNomics In pracTicE network grant of the National Institutes of Health/National Human Genome Research Institute. INGenious is an implementation of a panel of genomic tests.

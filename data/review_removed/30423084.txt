@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Sep', 'Day': '01'}
-iTOP: inferring the topology of omics data.
-In biology, we are often faced with multiple datasets recorded on the same set of objects, such as multi-omics and phenotypic data of the same tumors. These datasets are typically not independent from each other. For example, methylation may influence gene expression, which may, in turn, influence drug response. Such relationships can strongly affect analyses performed on the data, as we have previously shown for the identification of biomarkers of drug response. Therefore, it is important to be able to chart the relationships between datasets.

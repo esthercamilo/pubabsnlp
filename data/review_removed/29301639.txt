@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Jan'}
-Genetic testing as a supporting tool in prescribing psychiatric medication: Design and protocol of the IMPACT study.
-Pharmacotherapy is one of the primary treatments for psychiatric disorders. Given the variation in individual response, a more personalized approach is needed. This paper will discuss methods for user-friendly referrals, recruitment criteria, data storage and dissemination, biological sample and clinical questionnaire collection, and advertising.

@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Jun'}
-Response to Intravenous Cyclophosphamide Treatment for Lupus Nephritis Associated with Polymorphisms in the FCGR2B-FCRLA Locus.
-Cyclophosphamide (CYC) is an immunosuppressant drug widely used to treat various diseases including lupus nephritis, but its efficacy highly varies from individual to individual. This pharmacogenomics association study searched for genetic variations associated with CYC efficacy.

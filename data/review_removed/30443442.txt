@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Aug', 'Day': '13'}
-The Relationship of UGT2B15 Pharmacogenetics and Lorazepam for Anxiety.
-Anxiety affects over 260 million people worldwide. Benzodiazepines are a class of agents used in combination with other therapies for the management of anxiety. Lorazepam is a commonly prescribed benzodiazepine metabolized by uridine 5'-diphosphate-glucuronosyltransferases. Herein, we discuss recent findings regarding the pharmacogenetics of uridine 5'-diphosphate-glucuronosyltransferase 2B15 (UGT2B15), lorazepam, and its role in the treatment of anxiety.

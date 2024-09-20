@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Nov'}
-Rationale and Design of the Genetic Contribution to Drug Induced Renal Injury (DIRECT) Study.
-Nephrotoxicity from drugs accounts for 18% to 27% of cases of acute kidney injury. Determining a genetic predisposition may potentially be important in minimizing risk. The aims of this study are as follows: to determine whether a genetic predisposition exists for the development of drug-induced kidney disease (DIKD), using genome-wide association and whole-genome sequencing studies; to describe the frequency, course, risk factors, resolution and outcomes of DIKD cases; to investigate the role of ethnic/racial variability in the genetics of DIKD; and to explore the use of different tools establishing causality of DIKD.

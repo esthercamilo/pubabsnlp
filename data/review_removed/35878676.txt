@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Dec', 'Day': '20'}
-The ERICH3 rs11580409 polymorphism is associated with 6-month antidepressant response in depressed patients.
-Major Depressive Disorder (MDD) is the current leading cause of disability worldwide. The effect of its main treatment option, antidepressant drugs (AD), is influenced by genetic and metabolic factors. The ERICH3 rs11580409(A > C) genetic polymorphism was identified as a factor influencing serotonin (5HT) levels in a pharmacometabolomics-informed genome-wide association study. It was also associated with response following AD treatment in several cohorts of depressed patients.

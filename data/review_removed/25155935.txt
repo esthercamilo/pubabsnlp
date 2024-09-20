@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jul'}
-Genetic epidemiology of pharmacogenetic variations in CYP2C9, CYP4F2 and VKORC1 genes associated with warfarin dosage in the Indian population.
-Warfarin, a widely used anticoagulant, exhibits large interindividual variability in dose requirements. CYP2C9 and VKORC1 polymorphisms in various ethnic groups have been extensively studied as genetic markers associated with variable drug response. However, allele frequencies of these variants have not been assessed in major ethnic groups in the Indian population.

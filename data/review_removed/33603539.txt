@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jan'}
-Knowledge, perception, and confidence of hospital pharmacists toward pharmacogenetics in Jeddah, Kingdom of Saudi Arabia.
-Integrating pharmacogenetics (PGx) testing into clinical practice leads to personalized medicine, which improves treatments' efficacy and safety. Successful implementation of such a service requires sufficient knowledge, perception, and self-confidence among healthcare providers, especially pharmacists.

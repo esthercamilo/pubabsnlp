@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Feb', 'Day': '03'}
-Effect of CYP2D6 polymorphisms on plasma concentration and therapeutic effect of risperidone.
-This study aimed to investigate the influence of CYP2D6 polymorphisms on risperidone plasma concentrations in patients with schizophrenia. Based on pharmacogenomics, we examined whether plasma concentration of risperidone is associated with clinical response and adverse side-effects.

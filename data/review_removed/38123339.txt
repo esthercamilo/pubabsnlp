@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Mar', 'Day': '12'}
-Randomised trial of genetic testing and targeted intervention to prevent the development and progression of Paget's disease of bone.
-Paget's disease of bone (PDB) frequently presents at an advanced stage with irreversible skeletal damage. Clinical outcomes might be improved by earlier diagnosis and prophylactic treatment.

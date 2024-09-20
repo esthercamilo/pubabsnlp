@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jun', 'Day': '21'}
-The CLOSED trial; CLOnidine compared with midazolam for SEDation of paediatric patients in the intensive care unit: study protocol for a multicentre randomised controlled trial.
-Sedation is an essential part of paediatric critical care. Midazolam, often in combination with opioids, is the current gold standard drug. However, as it is a far-from-ideal agent, clonidine is increasingly being used in children. This drug is prescribed off-label for this indication, as many drugs in paediatrics are. Therefore, the CLOSED trial aims to provide data on the pharmacokinetics, safety and efficacy of clonidine for the sedation of mechanically ventilated patients in order to obtain a paediatric-use marketing authorisation.

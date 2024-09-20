@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Feb'}
-Donors FMO3 polymorphisms affect tacrolimus elimination in Chinese liver transplant patients.
-Flavin-containing monooxygenase (FMO) variants were potentially involved in tacrolimus metabolism in kidney transplantion. The influences of FMO3 genotypes on tacrolimus elimination in Chinese liver transplant patients remained unclear.

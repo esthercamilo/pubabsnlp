@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Nov'}
-Impact of CYP2C19 genetic testing on provider prescribing patterns for antiplatelet therapy after acute coronary syndromes and percutaneous coronary intervention.
-Patients treated with clopidogrel who have ≥1 loss of function alleles for CYP2C19 have an increased risk for adverse cardiovascular events. In 2010, the US Food and Drug Administration issued a boxed warning cautioning against the use of clopidogrel in such patients. We sought to assess the impact of CYP2C19 genetic testing on prescribing patterns for antiplatelet therapy among patients with acute coronary syndrome or percutaneous coronary intervention.

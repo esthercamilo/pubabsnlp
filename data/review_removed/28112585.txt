@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Feb'}
-Pharmacogenomics testing in a community pharmacy: patient perceptions and willingness-to-pay.
-To determine patient knowledge, interest and willingness-to-pay for pharmacogenomics testing in a community pharmacy.

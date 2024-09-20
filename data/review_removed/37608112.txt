@@ -1,3 +1,0 @@
-{'Year': '2023'}
-Long-Range Polymerase Chain Reaction.
-Polymerase chain reaction (PCR) is a laboratory technique used to amplify a targeted region of DNA, demarcated by a set of oligonucleotide primers. Long-range PCR is a form of PCR optimized to facilitate the amplification of large fragments. Using the adapted long-range PCR protocol described in this chapter, we were able to generate PCR products of 6.6, 7.2, 13, and 20 kb from human genomic DNA samples. For some of the long PCRs, successful amplification was not possible without the use of PCR enhancers. Thus, we also evaluated the impact of some enhancers on long-range PCR and included the findings as part of this updated chapter.

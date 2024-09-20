@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Nov'}
-Effect of UGT1A1, UGT1A3, DIO1 and DIO2 polymorphisms on L-thyroxine doses required for TSH suppression in patients with differentiated thyroid cancer.
-To evaluate the impact of genetic polymorphisms in uridine 5'-glucuronosylytansferases UGT1A1 and UGT1A3 and iodothyronine-deiodinases types 1 and 2 on levothyroxine (T4 ; 3,5,3',5'-triiodo-L-thyronine) dose requirement for suppression of thyrotropin (TSH) secretion in patients with differentiated thyroid cancer (DTC).

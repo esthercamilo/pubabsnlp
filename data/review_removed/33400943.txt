@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jul', 'Day': '13'}
-Effects of CYP2D6, CYP3A5, and ABCB1 gene polymorphisms on the pharmacokinetics of two risperidone long-acting injection microsphere formulations.
-LY03004, a novel investigational risperidone long-acting injection (LAI) microsphere formulation, can release risperidone more quickly after injection than Risperdal Consta®. This study aimed to investigate the effects of genetic polymorphisms on the pharmacokinetics of LY03004 compared with those on Risperdal Consta®.

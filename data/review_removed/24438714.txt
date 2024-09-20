@@ -1,3 +1,0 @@
-{'Year': '2014', 'Season': 'Jan-Feb'}
-The cost-effectiveness of a pharmacogenetic test: a trial-based evaluation of TPMT genotyping for azathioprine.
-Thiopurine-methyl transferase (TPMT) testing prior to the prescription of azathioprine in autoimmune diseases is one of the few examples of a pharmacogenetic test that has made the transition from research into clinical practice. TPMT testing could lead to improved prescribing of azathioprine resulting in a reduction in adverse drug reactions as well as an improvement in effectiveness. When allocating scarce resources robust evidence on cost-effectiveness is required.

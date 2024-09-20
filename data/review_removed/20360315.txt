@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'May'}
-Genome-wide pharmacogenetics of antidepressant response in the GENDEP project.
-The purpose of this study was to identify genetic variants underlying the considerable individual differences in response to antidepressant treatment. The authors performed a genome-wide association analysis of improvement of depression severity with two antidepressant drugs.

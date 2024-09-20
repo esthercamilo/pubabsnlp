@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Aug'}
-Antiviral drug allergy.
-Antiviral drugs used to treat HIV and hepatitis C are common causes of delayed drug hypersensitivities for which many of the more severe reactions have been recently shown to be immunogenetically mediated such as abacavir hypersensitivity where HLA-B(∗)57:01 is now used routinely as a screening test to exclude patients carrying this allele from abacavir prescription. Most antiviral drug allergies consist of mild to moderate delayed rash without other serious features (eg, fever, mucosal involvement, blistering rash, organ impairment. In these cases treatment can be continued with careful observation and symptomatic management and the discontinuation rate is low.

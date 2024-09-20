@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Apr'}
-Association of the hOCT1/ABCB1 genotype with efficacy and tolerability of imatinib in patients affected by chronic myeloid leukemia.
-The present study was aimed at investigating whether imatinib pharmacogenetics is related to its pharmacodynamics in patients affected by chronic myeloid leukemia.

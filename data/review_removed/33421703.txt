@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Feb'}
-Contribution of rare genetic variants to drug response in absence epilepsy.
-We investigated the possible significance of rare genetic variants to response to valproic acid (VPA) and ethosuximide (ETX) in patients with absence epilepsy. Our primary hypothesis was that rare CACNA1H variants are more frequent in ETX-non-responsive patients compared to ETX-responsive. Our secondary hypothesis was that rare variants in GABA-receptor genes are more frequent in VPA-non-responsive patients compared to VPA-responsive.

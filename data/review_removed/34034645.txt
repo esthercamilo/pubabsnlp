@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'May', 'Day': '25'}
-Super.FELT: supervised feature extraction learning using triplet loss for drug response prediction with multi-omics data.
-Predicting the drug response of a patient is important for precision oncology. In recent studies, multi-omics data have been used to improve the prediction accuracy of drug response. Although multi-omics data are good resources for drug response prediction, the large dimension of data tends to hinder performance improvement. In this study, we aimed to develop a new method, which can effectively reduce the large dimension of data, based on the supervised deep learning model for predicting drug response.

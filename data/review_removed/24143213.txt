@@ -1,3 +1,0 @@
-{'Year': '2013'}
-SLCO1B1 and SLC19A1 gene variants and irinotecan-induced rapid response and survival: a prospective multicenter pharmacogenetics study of metastatic colorectal cancer.
-Rapid response to chemotherapy in metastatic colorectal cancer (mCRC) patients (response within 12 weeks of chemotherapy) may increase the chance of complete resection and improved survival. Few molecular markers predict irinotecan-induced rapid response and survival. Single-nucleotide polymorphisms (SNPs) in solute carrier genes are reported to correlate with the variable pharmacokinetics of irinotecan and folate in cancer patients. This study aims to evaluate the predictive role of 3 SNPs in mCRC patients treated with irinotecan and fluoropyrimidine-containing regimens.

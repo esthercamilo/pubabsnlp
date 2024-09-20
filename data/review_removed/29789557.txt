@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Dec'}
-Measuring coverage and accuracy of whole-exome sequencing in clinical context.
-To evaluate the coverage and accuracy of whole-exome sequencing (WES) across vendors.

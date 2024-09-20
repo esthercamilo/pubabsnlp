@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'May', 'Day': '18'}
-Evaluation of statistical approaches for association testing in noisy drug screening data.
-Identifying associations among biological variables is a major challenge in modern quantitative biological research, particularly given the systemic and statistical noise endemic to biological systems. Drug sensitivity data has proven to be a particularly challenging field for identifying associations to inform patient treatment.

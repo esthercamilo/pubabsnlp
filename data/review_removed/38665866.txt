@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jun', 'Day': '15'}
-Common P-glycoprotein (<i>ABCB1</i>) polymorphisms do not seem to be associated with the risk of rivaroxaban-related bleeding events: Preliminary data.
-Considering conflicting previous reports, we aimed to evaluate whether the common <i>ABCB1</i> polymorphisms (rs1128503, rs2032582, rs1045642, rs4148738) affected the risk of bleeding in rivaroxaban-treated patients.

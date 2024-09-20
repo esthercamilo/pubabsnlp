@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Dec', 'Day': '01'}
-Pharmacogenomics: Principles and Relevance to Oncology Nursing .
-Pharmacogenomics is the fastest growing field in precision medicine. Based on current use, oncology encompasses the largest share of the precision medicine market, necessitating that oncology nurses understand the principles of pharmacogenomics and how it affects clinical practice. .

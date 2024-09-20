@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Sep'}
-Clinical outcomes of chemotherapy in cancer patients with different ethnicities.
-Choosing the most effective chemotherapeutic agent with safest side effect profile is a common challenge in cancer treatment. Although there are standardized chemotherapy protocols in place, protocol changes made after extensive clinical trials demonstrate significant improvement in the efficacy and tolerability of certain drugs. The pharmacokinetics, pharmacodynamics, and tolerance of anti-cancer medications are all highly individualized. A driving force behind these differences lies within a person's genetic makeup.

@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jun'}
-Pharmacokinetic and pharmacogenetic analysis of immunosuppressive agents after laparoscopic sleeve gastrectomy.
-Severe obesity has been shown to limit access to renal transplantation in patients with end-stage renal disease (ESRD). Laparoscopic sleeve gastrectomy (LSG) has been performed in the ESRD population to assist in achieving waitlist and transplant eligibility. Little is known about how LSG impacts the bioequivalence of tacrolimus products and immunosuppression pharmacokinetics.

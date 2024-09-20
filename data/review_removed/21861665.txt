@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Aug'}
-Novel drug metabolism indices for pharmacogenetic functional status based on combinatory genotyping of CYP2C9, CYP2C19 and CYP2D6 genes.
-We aim to demonstrate clinical relevance and utility of four novel drug-metabolism indices derived from a combinatory (multigene) approach to CYP2C9, CYP2C19 and CYP2D6 allele scoring. Each index considers all three genes as complementary components of a liver enzyme drug metabolism system and uniquely benchmarks innate hepatic drug metabolism reserve or alteration through CYP450 combinatory genotype scores.

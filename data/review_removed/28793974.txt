@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Dec', 'Day': '15'}
-Corticotropin-Releasing Factor Receptor 1 Antagonism Is Ineffective for Women With Posttraumatic Stress Disorder.
-Medication and psychotherapy treatments for posttraumatic stress disorder (PTSD) provide insufficient benefit for many patients. Substantial preclinical and clinical data indicate abnormalities in the hypothalamic-pituitary-adrenal axis, including signaling by corticotropin-releasing factor, in the pathophysiology of PTSD.

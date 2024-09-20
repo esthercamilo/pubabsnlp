@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Nov'}
-eNose breath prints as a surrogate biomarker for classifying patients with asthma by atopy.
-Electronic noses (eNoses) are emerging point-of-care tools that may help in the subphenotyping of chronic respiratory diseases such as asthma.

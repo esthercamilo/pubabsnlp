@@ -1,3 +1,0 @@
-{'Year': '2014'}
-Genotype, allele and haplotype frequencies of four TCL1A gene polymorphisms associated with musculoskeletal toxicity in the South Indian descent.
-Decline in circulating estrogen levels causes lessening of bone mass accompanied with musculoskeletal pain, which is the primary cause of treatment discontinuation in patients taking aromatase inhibitors. Evidence from recent genome-wide association studies (GWAS) suggests that the genetic variability underlying TCL1A gene increases the risk of aromatase inhibitors (AIs) - induced musculoskeletal toxicity. Currently, no data is available on the frequency distribution of TCL1A gene polymorphisms in Indians.

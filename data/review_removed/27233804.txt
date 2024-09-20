@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'May', 'Day': '28'}
-Genetic polymorphisms of pharmacogenomic VIP variants in the Mongol of Northwestern China.
-Within a population, the differences of pharmacogenomic variant frequencies may produce diversities in drug efficacy, safety, and the risk associated with adverse drug reactions. With the development of pharmacogenomics, widespread genetic research on drug metabolism has been conducted on major populations, but less is known about minorities.

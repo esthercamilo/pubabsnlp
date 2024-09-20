@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Jun'}
-Using drug probes to monitor hepatic drug metabolism in critically ill patients: midazolam, a flawed but useful tool for clinical investigation of CYP3A activity?
-In the UK, acute kidney injury (AKI) occurs in 25% of patients admitted to intensive care. Outcome is worsened in the presence of AKI for reasons not easily explained. AKI unpredictably affects the pharmacokinetics and pharmacodynamics of drugs and dosing in patients with AKI is largely based on data from chronic kidney disease patients, but how appropriately is unknown.

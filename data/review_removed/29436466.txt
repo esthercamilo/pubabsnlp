@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Feb', 'Day': '15'}
-Evaluation of prescriber responses to pharmacogenomics clinical decision support for thiopurine <i>S</i>-methyltransferase testing.
-Results of a study of prescribers' responses to a pharmacogenomics-based clinical decision support (CDS) alert designed to prompt thiopurine <i>S</i>-methyltransferase (TPMT) status testing are reported.

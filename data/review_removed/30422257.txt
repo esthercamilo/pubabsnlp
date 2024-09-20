@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Dec', 'Day': '01'}
-Effect of Damaging Rare Mutations in Synapse-Related Gene Sets on Response to Short-term Antipsychotic Medication in Chinese Patients With Schizophrenia: A Randomized Clinical Trial.
-The underlying mechanism for individual differences in patient response to antipsychotic medication remains unknown.

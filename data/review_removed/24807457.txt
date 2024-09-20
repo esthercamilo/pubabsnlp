@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Sep'}
-Prerequisites to implementing a pharmacogenomics program in a large health-care system.
-Pharmacogenomics (PGx) technology is advancing rapidly; however, clinical adoption is lagging. The Indiana Institute of Personalized Medicine (IIPM) places a strong focus on translating PGx research into clinical practice. We describe what have been found to be the key requirements that must be delivered in order to ensure a successful and enduring PGx implementation within a large health-care system.

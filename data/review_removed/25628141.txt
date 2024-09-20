@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Apr'}
-Clinical benefits of pharmacogenetic algorithm-based warfarin dosing: meta-analysis of randomized controlled trials.
-Pharmacogenetic (PG) algorithms were proposed to predict warfarin therapeutic dose more accurately. However, the clinical efficacy of the strategy over the standard treatment was not consistently proven.

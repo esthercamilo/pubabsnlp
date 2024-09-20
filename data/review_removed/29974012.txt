@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Apr', 'Day': '30'}
-An Unnecessary Pain: Using Pharmacogenetics for Statin-related Skeletal Muscle Toxicity.
-Statins are an important class of medications in reducing the risk of cardiovascular events as well as overall mortality. However, a well-known adverse effect of statins is skeletal muscle toxicity, which may lead to abrupt discontinuation of the statin. In turn, patients may miss out on the benefits of statin therapy. An important factor to consider is a patient's solute carrier organic anion transporter 1B1 (SLCO1B1) gene T521C polymorphism status. Herein, an overview of the pharmacogenetics of SLCO1B1 is provided as well as recommendations for use in practice.

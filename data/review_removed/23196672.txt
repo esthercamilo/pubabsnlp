@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'May'}
-Mapping the incidentalome: estimating incidental findings generated through clinical pharmacogenomics testing.
-Greater clinical validity and economic feasibility are driving the more widespread use of multiplex genetic technologies in routine clinical care, especially for applications in pharmacogenomics. Empirical data on the numbers and types of incidental findings generated through such testing are needed to develop policies and practices related to their clinical use. Of particular importance are disparities in findings relevant to different ancestry groups.

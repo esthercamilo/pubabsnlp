@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Apr'}
-Changes and determination of dosing recommendations for medicinal products recently authorised in the European Union.
-The quantity and quality of data for determining the dose and treatment schedule of medicinal products is directly related to how safe and efficacious these medicines are and how successful they can be used to treat patients.

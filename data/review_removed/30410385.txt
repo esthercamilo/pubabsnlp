@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Creating and validating a warfarin pharmacogenetic dosing algorithm for Colombian patients.
-Warfarin is an oral anticoagulant associated with adverse reaction to drugs due to wide inter- and intra-individual dosage variability. Warfarin dosage has been related to non-genetic and genetic factors. <i>CYP2C9</i> and <i>VKORC1</i> gene polymorphisms affect warfarin metabolism and dosage. Due to the central role of populations' ethnical and genetic origin on warfarin dosage variability, novel algorithms for Latin American subgroups are necessary to establish safe anticoagulation therapy.

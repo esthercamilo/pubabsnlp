@@ -1,3 +1,0 @@
-{'Year': '2008', 'Month': 'May'}
-[General concepts and study methods in pharmacogenetics].
-Pharmacogenetics, the study of how individual genetic profiles influence the response to drugs, is an important topic. Results from pharmacogenetics studies in various clinical settings may lead to personalized medicine. Herein, we present the most important concepts of this discipline, as well as currently-used study methods.

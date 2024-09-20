@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jan'}
-Knowledge, attitude, future expectations and perceived barriers of medical students and physicians regarding pharmacogenomics in Jordan.
-Pharmacogenomics (PG) is a modern tool of personalising treatment protocols to improve the efficacy and safety of drug prescriptions. These benefits are offset by a slow uptake in clinical application due to a host of physician factors, patient factors and/or health system factors. Our study, thus, aimed to determine the knowledge, attitude, future expectations and perceived barriers of medical students and physicians in Jordan regarding PG testing.

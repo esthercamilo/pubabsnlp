@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Aug', 'Day': '30'}
-Pharmacogenetics of glutamate system genes and SSRI-associated sexual dysfunction.
-We examined whether polymorphisms in the GRIK2, GRIA3 and GRIA1 genes were associated with selective serotonin reuptake inhibitor (SSRI)-associated sexual dysfunction in 114 participants treated for depression. One polymorphism in GRIA1 (rs1994862) was associated with arousal dysfunction, providing further evidence for the role of GRIA1 in mechanisms underlying SSRI-associated sexual side effects.

@@ -1,3 +1,0 @@
-{'Year': '2009', 'Month': 'Jun'}
-Applicability of a genetic signature for enhanced iloperidone efficacy in the treatment of schizophrenia.
-To demonstrate how several polymorphisms previously associated with the efficacy of the novel antipsychotic iloperidone could be used together to predict clinical response and provide practical information for individualized treatment.

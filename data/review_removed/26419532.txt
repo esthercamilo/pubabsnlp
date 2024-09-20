@@ -1,3 +1,0 @@
-{'Year': '2015'}
-Evaluation of the use of clinical decision support and online resources for pharmacogenomics education.
-To assess impact and value of using clinical decision support (CDS) to drive providers toward online pharmacogenomics education.

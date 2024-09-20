@@ -1,3 +1,0 @@
-{'Year': '2015', 'Month': 'Dec', 'Day': '08'}
-Systems Genomics Identifies a Key Role for Hypocretin/Orexin Receptor-2 in Human Heart Failure.
-The genetic determinants of heart failure (HF) and response to medical therapy remain unknown. We hypothesized that identifying genetic variants of HF that associate with response to medical therapy would elucidate the genetic basis of cardiac function.

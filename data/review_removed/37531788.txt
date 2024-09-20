@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Oct'}
-Patient understanding of pharmacogenomic test results in clinical care.
-Previous research has not objectively assessed patients' comprehension of their pharmacogenomic test results. In this study we assessed understanding of patients who had undergone cytochrome P450 2C19 (CYP2C19) pharmacogenomic testing.

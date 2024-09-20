@@ -1,3 +1,0 @@
-{'Year': '2012', 'Month': 'Jul'}
-Influence of CYP2B6 and ABCB1 SNPs on nevirapine plasma concentrations in Burundese HIV-positive patients using dried sample spot devices.
-• Nevirapine pharmacokinetics are affected by several factors including CYP2B6 single nucleotide polymorphisms (SNPs). These genetic profiles are more common in African patients and they affect the drug clearance being associated with higher trough concentrations. Pharmacokinetic/pharmacogenetic (PK/PG) studies are difficult to perform in remote areas where refrigeration is not available, although dried plasma and dried blood methods have been validated.

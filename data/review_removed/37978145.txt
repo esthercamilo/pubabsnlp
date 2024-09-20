@@ -1,3 +1,0 @@
-{'Year': '2024', 'Month': 'Jan'}
-Identification of gene expression biomarkers to predict clinical response to methotrexate in patients with rheumatoid arthritis.
-To identify biomarkers at the gene expression level to predict response to methotrexate (MTX) in patients with rheumatoid arthritis (RA).

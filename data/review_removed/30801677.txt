@@ -1,3 +1,0 @@
-{'Year': '2019', 'Month': 'Jul'}
-Clinical Pharmacogenetics Implementation Consortium Guideline for Cytochrome P450 (CYP)2D6 Genotype and Atomoxetine Therapy.
-Atomoxetine is a nonstimulant medication used to treat attention-deficit/hyperactivity disorder (ADHD). Cytochrome P450 (CYP)2D6 polymorphisms influence the metabolism of atomoxetine thereby affecting drug efficacy and safety. We summarize evidence from the published literature supporting these associations and provide therapeutic recommendations for atomoxetine based on CYP2D6 genotype (updates at www.cpicpgx.org).

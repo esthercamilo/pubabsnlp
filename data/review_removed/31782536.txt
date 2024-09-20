@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jan'}
-Impact of CYP2C19 Genotype and Drug Interactions on Voriconazole Plasma Concentrations: A Spain Pharmacogenetic-Pharmacokinetic Prospective Multicenter Study.
-Voriconazole, a first-line agent for the treatment of invasive fungal infections, is mainly metabolized by cytochrome P450 (CYP) 2C19. A significant portion of patients fail to achieve therapeutic voriconazole trough concentrations, with a consequently increased risk of therapeutic failure.

@@ -1,3 +1,0 @@
-{'Year': '2014', 'Month': 'Jun'}
-Influence of donor-recipient CYP3A4/5 genotypes, age and fluconazole on tacrolimus pharmacokinetics in pediatric liver transplantation: a population approach.
-To characterize the effect of donor and recipient CYP3A4, CYP3A5 and ABCB1 genotypes as well as relevant patient characteristics on tacrolimus pharmacokinetics in pediatric liver transplantation.

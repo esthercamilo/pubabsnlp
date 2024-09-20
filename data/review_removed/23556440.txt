@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'Apr'}
-Lymphoblastoid cell lines in pharmacogenomics: how applicable are they to clinical outcomes?
-LCLs are widely used in pharmacogenomic studies and the applicability of LCLs for various clinical phenotypes is emerging. Early studies have yielded promising results for LCLs as a proxy for genetic variants for treatment outcome for a number of cancers as well as toxicity in varying tissue types including taxane-induced neuropathy. Although LCLs have demonstrated utility in the elucidation of functional mechanisms for results of clinical genotype-drug phenotype studies, there are more relevant cell-based models developing.

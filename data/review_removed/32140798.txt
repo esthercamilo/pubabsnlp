@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Apr'}
-Ticagrelor Versus Clopidogrel in Patients with Two CYP2C19 Loss-of-Function Alleles Undergoing Percutaneous Coronary Intervention.
-To compare the risk of cardiovascular events between patients with two CYP2C19 loss-of-function alleles who were prescribed ticagrelor or clopidogrel after percutaneous coronary intervention (PCI).

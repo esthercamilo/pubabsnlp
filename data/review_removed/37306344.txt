@@ -1,3 +1,0 @@
-{'Year': '2023', 'Month': 'Aug', 'Day': '01'}
-Pharmacogenetic interactions of efavirenz or rifampin and isoniazid with levonorgestrel emergency contraception during treatment of HIV or tuberculosis.
-In AIDS Clinical Trials Group study A5375, a pharmacokinetic trial of levonorgestrel emergency contraception, double-dose levonorgestrel (3 mg, versus standard dose 1.5 mg) offset the induction effects of efavirenz or rifampin on plasma levonorgestrel exposure over 8 h post-dose (AUC 0-8h ). We characterized the pharmacogenetics of these interactions.

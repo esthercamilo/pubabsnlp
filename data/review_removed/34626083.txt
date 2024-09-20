@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Jan'}
-F9 missense mutations impairing factor IX activation are associated with pleiotropic plasma phenotypes.
-Circulating dysfunctional factor IX (FIX) might modulate distribution of infused FIX in hemophilia B (HB) patients. Recurrent substitutions at FIX activation sites (R191-R226, >300 patients) are associated with variable FIX activity and antigen (FIXag) levels.

@@ -1,3 +1,0 @@
-{'Year': '2013', 'Month': 'May'}
-Expression of mRNA transcripts encoding membrane transporters detected with whole transcriptome sequencing of human brain and liver.
-Membrane transporters control the influx and efflux of endogenous and xenobiotic substrates, including nutrients and drugs, across cellular membranes.

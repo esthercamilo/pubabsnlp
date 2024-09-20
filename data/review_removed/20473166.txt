@@ -1,3 +1,0 @@
-{'Year': '2010', 'Month': 'Sep'}
-Predicting warfarin dose.
-Recent evidence has shown that genetic polymorphisms in genes affecting warfarin metabolism and mechanism of action influence its dose. It has been suggested that dosing algorithms incorporating genetics might outperform usual care but it is still unclear whether such an approach has a definitive clinical advantage.

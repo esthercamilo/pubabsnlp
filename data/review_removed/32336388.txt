@@ -1,3 +1,0 @@
-{'Year': '2020', 'Month': 'Jun'}
-Genetics and Gender in Acute Pain and Perioperative Opioid Analgesia.
-Experimental and clinical acute pain research in relation to biological sex and genetics started in the 1980s. Research methods became more powerful and sensitive with the advancement in affordable gene sequencing methods and high-throughput genetic assays. Decades of research has identified several potential pharmaceutical targets, providing insights into future research direction, and understanding of acute pain and opioid analgesic effects in the clinical setting. However, there is insufficient evidence to make generalized recommendations for using genetic tests for clinical practice of acute pain management.

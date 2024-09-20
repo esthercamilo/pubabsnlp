@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Dec'}
-The role of solute carrier (SLC) transporters in actinomycin D pharmacokinetics in paediatric cancer patients.
-Actinomycin D is used for treatment of paediatric cancers; however, a large inter-patient pharmacokinetic (PK) variability and hepatotoxicity are significant limitations to its use and warrant further investigation. Elimination of actinomycin D may be mediated by transporters, as the drug does not seem to undergo significant metabolism. We investigated the role of solute carrier (SLC) transporters in actinomycin D PK.

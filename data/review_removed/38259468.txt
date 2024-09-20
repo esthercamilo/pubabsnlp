@@ -1,3 +1,0 @@
-{'Year': '2023'}
-Pharmacogenomics of intravenous immunoglobulin response in Kawasaki disease.
-Kawasaki disease (KD) is a diffuse vasculitis in children. Response to high dose intravenous gamma globulin (IVIG), the primary treatment, varies according to genetic background. We sought to identify genetic loci, which associate with treatment response using whole genome sequencing (WGS).

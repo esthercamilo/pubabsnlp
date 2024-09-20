@@ -1,3 +1,0 @@
-{'Year': '2023'}
-How Pharmacogenomics Informs and Influences the Medication Experience.
-Both pharmacogenomics (PGx) and the medication experience (MedXp) share a common purpose for their use, which is to optimally tailor medications to each unique individual. The former pursues this aim by using an individual's genetic makeup, while the latter considers the subjective experience of medication-taking in one's life. The different ways by which these fields of study pursue their shared aim have resulted in relatively little understanding of their relationship when utilized in care processes to produce health outcomes. This commentary explores this gap and identifies implications for future research that can help close it to improve person-centered care.

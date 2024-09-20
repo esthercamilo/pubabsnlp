@@ -1,3 +1,0 @@
-{'Year': '2021', 'Month': 'Jul'}
-Polypharmacy, potentially inappropriate medication and pharmacogenomics drug exposure in the Rhineland Study.
-High medication use may contribute to the efficiency of drug therapy in general, but it could also increase the burden of adverse drug reactions. We aimed to assess medication use and the prevalence of three risk factors for adverse drug reactions: the use of polypharmacy, potentially inappropriate medication in the elderly and pharmacogenomic polymorphisms affecting the metabolism of drugs.

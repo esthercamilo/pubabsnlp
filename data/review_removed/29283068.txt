@@ -1,3 +1,0 @@
-{'Year': '2018'}
-Influence of Genetic Polymorphisms on Mycophenolic Acid Pharmacokinetics and Patient Outcomes in Renal Transplantation.
-Mycophenolic Acid (MPA) is an immunosuppressive drug widely used in the treatment of organ transplantation and autoimmune diseases. Pharmacokinetics and pharmacodynamics of MPA varies between individuals, the potential reasons being the genetic polymorphisms in key enzymes, drug transporters and target proteins of MPA.

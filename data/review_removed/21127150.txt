@@ -1,3 +1,0 @@
-{'Year': '2011', 'Month': 'Feb'}
-Personalized medicine in diabetes.
-Multiple genes that are associated with the risk of developing diabetes or the risk of diabetes complications have been identified by candidate gene analysis and genomewide scanning. These molecular markers, together with clinical data and findings from proteomics, metabolomics, pharmacogenetics, and other methods, lead to a consideration of the extent to which personalized approaches can be applied to the treatment of diabetes mellitus.

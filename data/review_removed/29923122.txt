@@ -1,3 +1,0 @@
-{'Year': '2018', 'Month': 'Sep'}
-NUDT15 codon 139 is the best pharmacogenetic marker for predicting thiopurine-induced severe adverse events in Japanese patients with inflammatory bowel disease: a multicenter study.
-Despite NUDT15 variants showing significant association with thiopurine-induced adverse events (AEs) in Asians, it remains unclear which variants of NUDT15 or whether additional genetic variants should be tested to predict AEs. To clarify the best pharmacogenetic test to be used clinically, we performed association studies of NUDT15 variants and haplotypes with AEs, genome-wide association study (GWAS) to discover additional variants, and ROC analysis to select the model to predict severe AEs.

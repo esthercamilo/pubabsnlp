@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Apr'}
-Association of orexin receptor polymorphisms with antipsychotic-induced weight gain.
-Antipsychotic-induced weight gain (AIWG) is a common side effect of treatment with antipsychotics such as clozapine and olanzapine. The orexin gene and its receptors are expressed in the hypothalamus and have been associated with maintenance of energy homeostasis. In this study, we have analysed tagging single nucleotide polymorphisms (SNPs) in orexin receptors 1 and 2 (HCRTR1 and HCRTR2) for association with AIWG.

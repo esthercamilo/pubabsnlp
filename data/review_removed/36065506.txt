@@ -1,3 +1,0 @@
-{'Year': '2022', 'Month': 'Sep'}
-Effects of single-nucleotide polymorphism on the pharmacokinetics and pharmacodynamics of metformin.
-Metformin has been recognized as the first-choice drug for type 2 diabetes mellitus (T2DM). The potency of metformin in the treatment of type 2 diabetes has always been in the spotlight and shown significant individual differences. Based on previous studies, the efficacy of metformin is related to the single-nucleotide polymorphisms of transporter genes carried by patients, amongst which a variety of gene polymorphisms of transporter and target protein genes affect the effectiveness and adverse repercussion of metformin.

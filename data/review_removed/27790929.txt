@@ -1,3 +1,0 @@
-{'Year': '2016', 'Month': 'Nov'}
-Allele and genotype frequencies of genes relevant to anti-epileptic drug therapy in Mexican-Mestizo healthy volunteers.
-To determine allele and genotype frequencies of genes influencing anti-epileptic drug therapy in Mexican-Mestizo (MM) healthy volunteers, and to evaluate whether these are different from those reported for other populations.

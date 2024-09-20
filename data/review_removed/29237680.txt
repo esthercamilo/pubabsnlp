@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Dec'}
-Personalized Anticoagulation: Optimizing Warfarin Management Using Genetics and Simulated Clinical Trials.
-Clinical trials testing pharmacogenomic-guided warfarin dosing for patients with atrial fibrillation have demonstrated conflicting results. Non-vitamin K antagonist oral anticoagulants are expensive and contraindicated for several conditions. A strategy optimizing anticoagulant selection remains an unmet clinical need.

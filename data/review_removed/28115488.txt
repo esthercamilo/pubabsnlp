@@ -1,3 +1,0 @@
-{'Year': '2017', 'Month': 'Jan'}
-Genome-Wide Prioritization and Transcriptomics Reveal Novel Signatures Associated With Thiazide Diuretics Blood Pressure Response.
-Thiazide diuretics are among the most commonly prescribed antihypertensives. However, <50% of thiazide-treated patients achieve blood pressure (BP) control. Herein, we used different omics (genomics and transcriptomics) to identify novel biomarkers of thiazide diuretics BP response.
