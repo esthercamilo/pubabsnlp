@@ -135,7 +135,7 @@ if __name__ == '__main__':
             # while shuffling take care if the instances are balanced
             test_data, train_data = shuffle(fulldata)
 
-            run_training(train_data, iterations=30)
+            run_training(train_data, iterations=50)
             select = ['TECHNIQUE', 'ANALYTICAL_METHOD', 'DATABASE', 'CHALLENGE']
             filter_seleted = [x for x in test_data if x[3] in select]
 
