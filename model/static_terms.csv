@@ -1,0 +1,141 @@
+term,entity,must_have,case
+Allele Frequency Net,DATABASE,,0
+BioGrid,DATABASE,,1
+Clinical Pharmacogenetics Implementation Consortium,DATABASE,,0
+ClinVar,DATABASE,,0
+CPNDS,DATABASE,data,1
+DME Pharmacogenomics,DATABASE,,0
+Dutch Pharmacogenetics Working Group,DATABASE,,0
+Gene Ontology,DATABASE,,0
+Genetic Testing Registry,DATABASE,,0
+GenoDB,DATABASE,,0
+GenomAD,DATABASE,,0
+GEO,DATABASE,data,1
+GO,DATABASE,data,1
+HapMap,DATABASE,,0
+Hugo Gene,DATABASE,,0
+KEGG,DATABASE,,0
+LOKI,DATABASE,,1
+Medgen,DATABASE,,0
+MINT,DATABASE,data,1
+NCBI,DATABASE,,0
+Pfam,DATABASE,,0
+PFS,DATABASE,data,0
+PharmGKB,DATABASE,,0
+UCSC Genome Browser,DATABASE,,0
+Uniprot,DATABASE,,0
+artificial intelligence,ANALYTICAL_METHOD,,0
+Bayesian network,ANALYTICAL_METHOD,,0
+boosted regression tree,ANALYTICAL_METHOD,,0
+Canonical correlation,ANALYTICAL_METHOD,,0
+cart classification,ANALYTICAL_METHOD,,0
+Causal inference methods,ANALYTICAL_METHOD,,0
+conformational analysis,ANALYTICAL_METHOD,,0
+Cox,ANALYTICAL_METHOD,model,0
+CTDN,ANALYTICAL_METHOD,network,1
+data mining,ANALYTICAL_METHOD,,0
+decision tree,ANALYTICAL_METHOD,,0
+dynamic residue,ANALYTICAL_METHOD,network,0
+Elastic Net,ANALYTICAL_METHOD,,0
+feature selection,ANALYTICAL_METHOD,,0
+Firefly,ANALYTICAL_METHOD,techniques,0
+generalized linear,ANALYTICAL_METHOD,model,0
+Genetic association,ANALYTICAL_METHOD,,0
+Grey Wolf,ANALYTICAL_METHOD,model,0
+Hidden Markov,ANALYTICAL_METHOD,,0
+hierarchical cluster,ANALYTICAL_METHOD,,0
+Kaplan-Meier survival,ANALYTICAL_METHOD,,0
+LASSO,ANALYTICAL_METHOD,,0
+lasso regression,ANALYTICAL_METHOD,,0
+Linear discriminant,ANALYTICAL_METHOD,,0
+logistic regression,ANALYTICAL_METHOD,,0
+machine learning,ANALYTICAL_METHOD,,0
+molecular docking,ANALYTICAL_METHOD,,0
+Monte Carlo,ANALYTICAL_METHOD,simulation,0
+multi-layer feedforward neural,ANALYTICAL_METHOD,,0
+multinomial logistic regression,ANALYTICAL_METHOD,,0
+multivariate adaptive regression splines,ANALYTICAL_METHOD,,0
+naive Bayes,ANALYTICAL_METHOD,,0
+natural language processing,ANALYTICAL_METHOD,,0
+Negative binomial regression,ANALYTICAL_METHOD,,0
+neural Network,ANALYTICAL_METHOD,,0
+non-negative matrix factorization,ANALYTICAL_METHOD,,0
+PANCDR,ANALYTICAL_METHOD,model,0
+Partial correlation,ANALYTICAL_METHOD,,0
+partial least squares,ANALYTICAL_METHOD,,0
+Permutation-based significance,ANALYTICAL_METHOD,,0
+Principal component,ANALYTICAL_METHOD,,0
+Quantitative trait locus,ANALYTICAL_METHOD,,0
+random forest,ANALYTICAL_METHOD,,0
+regression trees,ANALYTICAL_METHOD,,0
+Ridge,ANALYTICAL_METHOD,,0
+Stacking,ANALYTICAL_METHOD,Algorithm,0
+support vector machine,ANALYTICAL_METHOD,,0
+Univariate logistic regression,ANALYTICAL_METHOD,,0
+unsupervised hierarchical clustering,ANALYTICAL_METHOD,,0
+aCGH,TECHNIQUE,dna;genom;sequenc;mutation;transcript,0
+Array Comparative Genomic Hybridization ,TECHNIQUE,,0
+cDNA microarray,TECHNIQUE,assay,0
+ddPCR,TECHNIQUE,,0
+Digital Droplet PCR,TECHNIQUE,,0
+DMET Plus microarray,TECHNIQUE,microarray,0
+eQTL,TECHNIQUE,,1
+Genome-Wide Association Studies,TECHNIQUE,,0
+High-Resolution Melt Analysis,TECHNIQUE,,0
+HRM,TECHNIQUE,assay;analysis,1
+Immunoassays,TECHNIQUE,,0
+LC-MS,TECHNIQUE,assay;analysis,1
+Liquid Chromatography-Mass Spectrometry,TECHNIQUE,,0
+mass spectrometry-based,TECHNIQUE,,0
+microarray,TECHNIQUE,dna;genome;sequenc;mutation;transcript,0
+MinION nanopore sequencing,TECHNIQUE,,0
+next generation sequencing,TECHNIQUE,dna;genom;sequenc;mutation;transcript,0
+NGS,TECHNIQUE,,0
+PCR,TECHNIQUE,dna;genom;sequenc;mutation;transcript,1
+polymerase chain reaction,TECHNIQUE,,0
+qPCR,TECHNIQUE,dna;genom;sequenc;mutation;transcript,1
+real-time reverse transcriptase,TECHNIQUE,,0
+RNA-Seq,TECHNIQUE,,0
+RT-PCR,TECHNIQUE,,0
+Sanger Sequencing,TECHNIQUE,,0
+short-read sequencing,TECHNIQUE,,0
+Single-cell RNA sequencing,TECHNIQUE,,0
+tandem mass spectrometry,TECHNIQUE,,0
+TaqMan assay,TECHNIQUE,,0
+Targeted Panel Sequencing,TECHNIQUE,,0
+Western blot,TECHNIQUE,,0
+wgs,TECHNIQUE,dna;genom;sequenc;mutation;transcript,0
+Whole Genome Sequencing,TECHNIQUE,,0
+whole-exome sequencing,TECHNIQUE,,0
+Whole exome sequencing,TECHNIQUE,,0
+limited resources,CHALLENGE,,0
+high costs,CHALLENGE,,0
+long duration,CHALLENGE,,0
+Technical limitations,CHALLENGE,,0
+generalizability,CHALLENGE,cost;limit,0
+kowledge gaps,CHALLENGE,,0
+experimental variability,CHALLENGE,challenge;limit;difficult,0
+regulatory oversight,CHALLENGE,,0
+inconsistent findings,CHALLENGE,,0
+economic constraint,CHALLENGE,challenge;limit;difficult,0
+Regulatory framework,CHALLENGE,challenge;limit;difficult,0
+Patient consent,CHALLENGE,challenge;limit;difficult,0
+Healthcare disparities,CHALLENGE,challenge;limit;difficult,0
+Ethnic diversity,CHALLENGE,challenge;limit;difficult,0
+Rare diseases,CHALLENGE,challenge;limit;difficult,0
+Data sharing,CHALLENGE,challenge;limit;difficult,0
+Missing data,CHALLENGE,challenge;limit;difficult,0
+Limited resources,CHALLENGE,challenge;limit;difficult,0
+Discordance,CHALLENGE,challenge;limit;difficult,0
+Incompatibility,CHALLENGE,challenge;limit;difficult,0
+alternative,CHALLENGE,lack of,0
+clear,CHALLENGE,lack of,0
+efficacy,CHALLENGE,lack of,0
+human,CHALLENGE,lack of,0
+established,CHALLENGE,lack of,0
+robust,CHALLENGE,lack of,0
+clinical,CHALLENGE,lack of,0
+effective,CHALLENGE,lack of,0
+diversity,CHALLENGE,lack of,0
+conclusive,CHALLENGE,lack of,0
+large-scale,CHALLENGE,lack of,0
