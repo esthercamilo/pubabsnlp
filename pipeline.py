@@ -34,21 +34,21 @@ def clearall():
 
 
 # 0. If not debug, clean up
-# if not debug:
-#     clearall()
+if not debug:
+    clearall()
 
 # 1. Create samples for training. In this phase two files are created: fullsamples.tsv and training_bionlp13cg.tsv
-# run_create_samples(debug, root)
+run_create_samples(debug, root)
 
 # 2. Sub-sampling. Result file: fulltrainging.tsv
-# run_subsampling(root)
+run_subsampling(root)
 
 # 3. Modellging and validation
-# run_model(root)
-# run_quality_summary(root)
+run_model(root)
+run_quality_summary(root)
 
 # 4. Apply model to all abstracts
-# run_analysis(root)
+run_analysis(root)
 
 # 5. Plot analysis
 run_graphics(root)
